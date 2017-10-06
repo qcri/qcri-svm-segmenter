@@ -1,0 +1,8364 @@
+ليه	لَيه	INTERROG_ADV
+لما	لِ+ما	PREP+REL_PRON
+تحب	تِ+حِبّ	IV3FS+IV
+حد	حَدّ	NOUN
+من	مِن	PREP
+قلبك	قَلْب+َك	NOUN+POSS_PRON_2MS
+يطلع	يِ+طْلَع	IV3MS+IV
+واطى	واطِي	ADJ
+ليه	لَيه	INTERROG_ADV
+لما	لَمّا	SUB_CONJ
+تلعب	تِ+لْعَب	IV3FS+IV
+على	عَلَى	PREP
+واحد	واحِد	NOUN
+يطلع	يِ+طْلَع	IV3MS+IV
+بيحبك	بِ+يِ+حِبّ+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+ليه	لَيه	INTERROG_ADV
+اللى	اللِّي	REL_PRON
+هيموت	حَ+يِ+مُوت	FUT_PART+IV3MS+IV
+عليك	عَلَى+َك	PREP+PRON_2MS
+انت	اِنْتَ	PRON_2MS
+مش	مِش	NEG_PART
+طايقه	طايْق+َة	ADJ+NSUFF_FEM_SG
+واللى	وِ+اللِّي	CONJ+REL_PRON
+هتموت	حَ+تِ+مُوت	FUT_PART+IV3FS+IV
+عليه	عَلَى+ُه	PREP+PRON_3MS
+مش	مِش	NEG_PART
+طايقك	طايِق+ِك	ADJ+PRON_2FS
+عجبت	عَجَب+ت	PV+PVSUFF_SUBJ:1S
+لك	لِ+َك	PREP+PRON_2MS
+يا	يا	VOC_PART
+زمن	زَمَن	NOUN
+SENTENCE-BREAK
+	
+عارف	عارِف	ADJ
+بيقولك	بِ+يِ+قُول+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+ايه	إِيه	NOUN
+"	"	PUNC
+إذا	إِذا	CONJ
+أخطأت	أَخْطَأ+ِت	PV+PVSUFF_SUBJ:3FS
+فأحسن	فَ+أَحْسَن	CONJ+ADJ_COMP
+"	"	PUNC
+.	.	PUNC
+.	.	PUNC
+يعني	يَ+عْنِي	IV3MS+IV
+متعندش	***adj_comp
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+متسألش	مَ+تِ+سْأَل+ش	NEG_PART+IV3FS+IV+NEG_PART
+مين	مِين	REL_PRON
+اللي	اللِّي	REL_PRON
+بيقولك	بِ+يِ+قُول+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+.	.	PUNC
+SENTENCE-BREAK
+	
+الحمد	ال+حَمْد	DET+NOUN
+لله	لِ+اللَّه	PREP+NOUN_PROP
+يا	يا	VOC_PART
+جدعان	جِدْعان	NOUN
+الفرسان	ال+فُرْسان	DET+NOUN
+اللي	اللِّي	REL_PRON
+اتمسكوا	اِتْمَسَك+ُوا	PV_PASS+PVSUFF_SUBJ:3P
+عند	عِنْد	NOUN
+ستاد	ستاد	NOUN
+القاهرة	ال+قاهِر+َة	DET+NOUN_PROP+NSUFF_FEM_SG
+خدوا	خَد+ُوا	PV+PVSUFF_SUBJ:3P
+اخلاء	أَخِلّاء	NOUN
+سبيل	سَبِيل	NOUN
+#	#	PUNC
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+ـ	ـ	PUNC
+كبير	كَبِير	ADJ
+.	.	PUNC
+.	.	PUNC
+بقالنا	بَقا+(نُلل)+لِ+نا	PV+PVSUFF_SUBJ:3MS+PREP+PRON_1P
+7	7	NOUN_NUM
+سنين	سِن+ِين	NOUN+NSUFF_MASC_PL
+ظلم	ظُلْم	NOUN
+و	وَ	CONJ
+قهر	قَهْر	NOUN
+ده	دَه	DEM_PRON_MS
+يرضي	يَ+رْضِي	IV3MS+IV
+مين	مِين	INTERROG_PRON
+?	?	PUNC
+?	?	PUNC
+?	?	PUNC
+?	?	PUNC
+#	#	PUNC
+الحمد	ال+حَمْد	DET+NOUN
+ـ	ـ	PUNC
+لله	لِ+اللَّه	PREP+NOUN_PROP
+SENTENCE-BREAK
+	
+بحس	بِ+اَ+حِسّ	PROG_PART+IV1S+IV
+بشخصيتي	بِ+شَخْصِيّ+َة+ِي	PREP+NOUN+NSUFF_FEM_SG+POSS_PRON_1S
+القوية	ال+قَوِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+لما	لَمّا	SUB_CONJ
+اقول	اَ+قُول	IV1S+IV
+لاخويا	لِ+اَخُو+ِي	PREP+NOUN+POSS_PRON_1S
+اعمل	اَ+عْمِل	IV1S+IV
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+يعملها	يِ+عْمِل+ها	IV3MS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+.	.	PUNC
+حتي	حَتَّى	PART
+لو	لَو	SUB_CONJ
+رخم	رَخَّم+(نُلل)	PV+PVSUFF_SUBJ:3MS
+و	وَ	CONJ
+قال	قال+(نُلل)	PV+PVSUFF_SUBJ:3MS
+لأ	لا	INTERJ
+.	.	PUNC
+.	.	PUNC
+بحس	بِ+اَ+حِثّ	PROG_PART+IV1S+IV
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+شخصية	شَخْصِيّ+َة	ADJ+NSUFF_FEM_SG
+كدا	كِد+َة	NOUN+NSUFF_FEM_SG
+و	وِ	CONJ
+بتسمع	بِ+تِ+سَمَّع	PROG_PART+IV3FS+IV
+كلامي	كَلام+ِي	NOUN+POSS_PRON_1S
+^	^	PUNC
+ـ	ـ	PUNC
+^	^	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@ahmedabodsheesh	***adj_comp
+يا	يا	VOC_PART
+باشا	باشا	NOUN
+دي	دِي	DEM_PRON_FS
+مش	مِش	NEG_PART
+محتاجه	مِحْتاج+َة	ADJ+NSUFF_FEM_SG
+دراسه	دِراس+َة	NOUN+NSUFF_FEM_SG
+دي	دِي	DEM_PRON_FS
+بتبقي	بِ+تِ+بْقَى	PROG_PART+IV3FS+IV
+موهبه	مَوْهِب+َة	NOUN+NSUFF_FEM_SG
+عندك	عَنْد+َك	NOUN+POSS_PRON_2MS
+مثلا	مَثَل+اً	NOUN+CASE_INDEF_ACC
+عيلاء	عِيلاء	NOUN_PROP
+صادق	صادِق	NOUN_PROP
+و	وَ	CONJ
+صفوت	صَفْوَت	NOUN_PROP
+حجازي	حِجازِي	NOUN_PROP
+دول	دُوَل	NOUN
+تفوقوا	تِ+فُوق+ُوا	IV2P+IV+IVSUFF_SUBJ:P
+علي	عَلَى	PREP
+استاذهم	اُسْتاذ+هُم	NOUN+POSS_PRON_3P
+صفوت	صَفْوَت	NOUN_PROP
+الشريف	ال+شِرِيف	DET+NOUN_PROP
+كبيرهم	كِبِير+هُم	ADJ+POSS_PRON_3P
+SENTENCE-BREAK
+	
+و	وَ	CONJ
+هو	هُوَّ	PRON_3MS
+في	فِي	PREP
+محامين	مُحام+ِيْنَ	NOUN+NSUFF_MASC_PL_ACC
+هيعبرونا	حَ+يُ+عَبِّر+ُو+نا	FUT_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:1P
+بعد	بَعْد	NOUN
+اعتقال	اِعْتِقال	NOUN
+وتهديد	وِ+تَهْدِيد	PREP+NOUN
+المحامين	ال+مُحام+ِين	DET+NOUN+NSUFF_MASC_PL
+اللي	اللِّي	REL_PRON
+بيدافعوا	بِ+يِ+دافِع+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+عن	عَن	PREP
+المظلومين	ال+مَظْلُوم+ِين	DET+NOUN+NSUFF_MASC_PL
+?	?	PUNC
+?	?	PUNC
+?	?	PUNC
+ده	دَه	DEM_PRON_MS
+غير	غَيْر	NOUN
+المحامي	ال+مُحامِي	DET+NOUN
+اللي	اللِّي	REL_PRON
+قتلوا	قَتَل+ُوا	PV+PVSUFF_SUBJ:3P
+والدته	والْد+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+!	!	PUNC
+@@LAT@@@mohamedwaked@ANohan	***adj_comp
+SENTENCE-BREAK
+	
+معظم	مُعْظَم	NOUN_QUANT
+الحاجات	ال+حاج+ات	DET+NOUN+NSUFF_FEM_PL
+اللى	اللِّي	REL_PRON
+مبنقدرش	ما+بِ+نِ+قْدَر+ش	NEG_PART+PROG_PART+IV1P+IV+NEG_PART
+نحكيها	نِ+حْكِي+ها	IV1P+IV+IVSUFF_DO:3FS
+بنيجى	بِ+نِ+يْجِي	PROG_PART+IV1P+IV
+نكتبها	نِ+كْتِب+ها	IV1P+IV+IVSUFF_DO:3FS
+هنا	هُنا	ADV
+على	عَلَى	PREP
+الأقل	ال+أَقَلّ	DET+ADJ_COMP
+بتخفف	بِ+تِ+خَفِّف	PROG_PART+IV2MS+IV
+عنا	عَن+نا	PREP+PRON_1P
+شوية	شِوَيّ+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+احنا	اِحْنا	PRON_1P
+بنزعل	بِ+نِ+زَعِّل	PROG_PART+IV1P+IV
+لما	لَمّا	SUB_CONJ
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يبتلينا	يَ+بْتَلِي+نا	IV3MS+IV+IVSUFF_DO:1P
+أو	أَو	CONJ
+تحصلنا	تِ+حَصَل+نا	IV3FS+IV+IVSUFF_DO:1P
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+وحشه	وِحْش+َة	ADJ+NSUFF_FEM_SG
+!	!	PUNC
+مع	مَعَ	NOUN
+ان	إِنّ	SUB_CONJ
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+إذا	إِذا	CONJ
+حب	حَبّ+(نُلل)	PV+PVSUFF_SUBJ:3MS
+عبد	عَبْد	NOUN_PROP
+ابتلاه	اِبْتَلا+(نُلل)+ُه	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS
+لتكفير	لِ+تَكْفِير	PREP+NOUN
+عن	عَن	PREP
+ذنوبه	ذُنُوب+ُه	NOUN+POSS_PRON_3MS
+-	-	PUNC
+يعني	يَ+عْنِي	IV3MS+IV
+خاف	خاف	NOUN
+لو	لَو	SUB_CONJ
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+مش	مِش	NEG_PART
+ابتلاك	ٱِبْتَلا+(نُلل)+كَ	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+.	.	PUNC
+SENTENCE-BREAK
+	
+(	(	PUNC
+6	6	NOUN_NUM
+)	)	PUNC
+مش	مِش	NEG_PART
+عارف	عارِف	ADJ
+ليه	لَيه	INTERROG_ADV
+بس	بَسّ	CONJ
+الكلمة	ال+كِلْم+َة	DET+NOUN+NSUFF_FEM_SG
+اللى	اللِّي	REL_PRON
+عمرك	عُمْر+ِك	NOUN+POSS_PRON_2FS
+ما	ما	SUB_CONJ
+هتندم	حَ+تِ+نْدَم	FUT_PART+IV2MS+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+الكلمة	ال+كِلْم+َة	DET+NOUN+NSUFF_FEM_SG
+اللى	اللِّي	REL_PRON
+أنت	اِنْتَ	PRON_2MS
+لسة	لِسَّه	ADV
+مقولتهاش	مَ+قُول+ت+ها+ش	NEG_PART+PV+PVSUFF_SUBJ:2MS+PVSUFF_DO:3FS+NEG_PART
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+بس	بَسّ	CONJ
+للأسف	لِ+ال+أَسَف	PREP+DET+NOUN
+لازم	لازِم	ADJ
+يجى	يِ+جِي	IV3MS+IV
+عليك	عَلَى+َك	PREP+PRON_2MS
+وقت	وَقْت	NOUN
+و	وَ	CONJ
+تقولها	تِ+قُول+ها	IV3FS+IV+IVSUFF_DO:3FS
+SENTENCE-BREAK
+	
+اضحك	اَ+ضْحَك	IV1S+IV
+وبلاش	وِ+بَلاش	PREP+NOUN
+التكشيرة	ال+تَكْشِير+َة	DET+NOUN+NSUFF_FEM_SG
+تنسيك	تُ+نْسِي+كَ	IV3FS+IV+IVSUFF_DO:2MS
+شكل	شَكْل	NOUN
+الضحكة	ال+ضَحْك+َة	DET+NOUN+NSUFF_FEM_SG
+وشك	وِشّ+َك	NOUN+POSS_PRON_2MS
+هيكرمش	حَ+يُ+كَرْمِش	FUT_PART+IV3MS+IV
+عالفاضى	عَ+ال+فاضِي	PREP+DET+ADJ
+وهتعجز	وَ+حَ+تُ+عْجِز	CONJ+FUT_PART+IV3FS+IV
+بدرى	بَدْرِي	ADJ
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+ناصح	ناصِح	NOUN
+وارمى	وِ+اَ+رْمِي	CONJ+IV1S+IV
+همومك	هُمُوم+كَ	NOUN+POSS_PRON_2MS
+ورا	وَرا	NOUN
+ضهرك	ظَهْر+كَ	NOUN+POSS_PRON_2MS
+وافرح	وِ+اَ+فْرَح	CONJ+IV1S+IV
+دى	دِي	DEM_PRON_FS
+الايام	ال+اِيّام	DET+NOUN
+بتفوت	بِ+تِفُوّ+َة	PREP+NOUN+NSUFF_FEM_SG
+وتعدى	وِ+تِ+عَدِّي	CONJ+IV3FS+IV
+والعمر	وِ+ال+عُمْر	CONJ+DET+NOUN
+بيجرى	بِ+يِ+جْرِي	PROG_PART+IV3MS+IV
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+معنى	مَعْنَى	NOUN
+ان	إِنّ	SUB_CONJ
+حد	حَدّ	NOUN
+بيضحك	بِ+يِ+ضْحَك	PROG_PART+IV3MS+IV
+كتير	كِتِير	NOUN
+يبقى	يِ+بْقَى	IV3MS+IV
+سعيد	سَعِيد	NOUN_PROP
+يمكن	يِ+مْكِن	IV3MS+IV
+بيضحك	بِ+يِ+ضْحَك	PROG_PART+IV3MS+IV
+كتير	كِثِير	ADJ
+من	مِن	PREP
+همه	هَمّ+َ+هُ	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS
+الكبير	ال+كِبِير	DET+ADJ
+بيضحك	بِ+يِ+ضْحَك	PROG_PART+IV3MS+IV
+عشان	عَ+شَأْن	PREP+NOUN
+يبعد	يِ+بْعِد	IV3MS+IV
+عن	عَن	PREP
+حزنه	حَزَن+َة	ADJ+NSUFF_FEM_SG
+ويعمل	وِ+يِ+عْمِل	CONJ+IV3MS+IV
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+ناسيه	ناسْي+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+الاول	ال+أَوَّل	DET+ADJ
+كنا	كُن+ّا	PV+PVSUFF_SUBJ:1P
+بعد	بَعْد	NOUN
+ماحد	ما+حَدّ	NEG_PART+NOUN
+ياخد	يَ+أْخُذ	IV3MS+IV
+اخلاء	أَخِلّاء	NOUN
+سبيل	سَبِيل	NOUN
+او	أَو	CONJ
+براءة	بَراء+َة	ADJ+NSUFF_FEM_SG
+ندعي	نِ+دْعِي	IV1P+IV
+ان	إِنّ	SUB_CONJ
+النيابة	ال+نِياب+َة	DET+NOUN+NSUFF_FEM_SG
+ماتستأنفش	***adj_comp
+دلوقتي	دِلْوَقْتِي	ADV
+بندعي	بِ+نُ+دْعَى	PROG_PART+IV1P+IV
+كمان	كَمان	ADV
+ان	إِنّ	SUB_CONJ
+امن	أَمْن	NOUN
+الدولة	ال+دَول+َة	DET+NOUN+NSUFF_FEM_SG
+ما	ما	NEG_PART
+ياخدوهوش	ي+أْخُذ+ُوا+ُه+ش	IV3P+IV+IVSUFF_SUBJ:P+IVSUFF_DO:3MS+NEG_PART
+#	#	PUNC
+سيسي	سِيسِي	NOUN
+ـ	ـ	PUNC
+لاند	لِ+أَ+نِدّ	PREP+IV1S+IV
+#	#	PUNC
+بلالا	***adj_comp
+SENTENCE-BREAK
+	
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+اوحش	أَوحَش	ADJ_COMP
+من	مِن	PREP
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تكون	تِ+كُون	IV3FS+IV
+شخص	شَخْص	NOUN
+مزاجي	مِزاجِيّ	ADJ
+تفاصيل	تَفاصِيل	NOUN
+صغيرة	صُغَيَّر+َة	ADJ+NSUFF_FEM_SG
+ممكن	مُمْكِن	ADJ
+تخليك	تُ+خَلِّي+كَ	IV3FS+IV+IVSUFF_DO:2MS
+طاير	طايِر	ADJ
+من	مِن	PREP
+الفرحة	ال+فَرْح+َة	DET+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+وكلمة	وِ+كَلِم+َة	PREP+NOUN+NSUFF_FEM_SG
+صغيرة	صُغَيَّر+َة	ADJ+NSUFF_FEM_SG
+بردو	بَرْضُه	ADV
+تنزلك	تِ+نْزِل+كَ	IV3FS+IV+IVSUFF_DO:2MS
+لسابع	لَ+سابِع	EMPHATIC_PART+ADJ
+ارض	أَرْض	NOUN
+وتكئبك	وَ+تِ+كْئِب+كَ	CONJ+IV3FS+IV+IVSUFF_DO:2MS
+.	.	PUNC
+.	.	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+عارف	عارِف	ADJ
+انت	اِنْتَ	PRON_2MS
+الصحاب	ال+صُحاب	DET+NOUN
+الجدعة	ال+جَدَع+َة	DET+ADJ+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+اللى	اللِّي	REL_PRON
+بتحبلك	بِ+تَ+حْبُل+كَ	PROG_PART+IV3FS+IV+IVSUFF_DO:2MS
+الخير	ال+خَيْر	DET+NOUN
+و	وَ	CONJ
+دايسة	***adj_comp
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+ف	فَ	CONJ
+كل	كُلّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+!	!	PUNC
+!	!	PUNC
+?	?	PUNC
+عارفهم	عارِف+هُم	ADJ+PRON_3P
+?	?	PUNC
+طب	طَب	INTERJ
+و	وِ	CONJ
+النبى	ال+نَبِي	DET+NOUN
+معندكش	مَ+عَنْد+َك+ش	NEG_PART+NOUN+POSS_PRON_2MS+NEG_PART
+اتنيين	إِتْنِيّ+َيْنِ	ADJ+NSUFF_MASC_DU_ACC
+سلف	سَلَف	NOUN
+أكمل	اَ+كَمِّل	IV1S+IV
+معاهم	مَعَ+هُم	NOUN+POSS_PRON_3P
+بقية	بَقِيّ+َة	NOUN+NSUFF_FEM_SG
+عمرى	عُمْر+ِي	NOUN+POSS_PRON_1S
+=	=	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@MahaMaamoun	***adj_comp
+فى	فِي	PREP
+ناس	ناس	NOUN
+بسيطة	بَسِيط+َة	ADJ+NSUFF_FEM_SG
+كانوا	كان+ُوا	PV+PVSUFF_SUBJ:3P
+بيستلفوا	بِ+يَ+سْتَلِف+ُوا	PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+علشان	***noun
+يجيبوا	يِ+جِيب+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+اكل	أَكْل	NOUN
+لعيالهم	لِ+عِيال+هُم	PREP+NOUN+POSS_PRON_3P
+والى	والِي	NOUN
+محبوسين	مَحْبُوس+ِين	ADJ+NSUFF_MASC_PL
+معاهم	مَعَ+هُم	NOUN+POSS_PRON_3P
+من	مِن	PREP
+الشباب	ال+شَباب	DET+NOUN
+علشان	***noun
+فى	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+مبيجلهاش	مَ+بِ+يِ+جِ+لِ+ها+ش	NEG_PART+PROG_PART+IV3MS+IV+PREP+PRON_3FS+NEG_PART
+حد	حَدّ	NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+مؤلمة	مُؤْلِم+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+بيقولوا	بِ+يِ+قُول+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+اللي	اللِّي	REL_PRON
+بيحبك	بِ+يِ+حِبّ+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+هيبقى	حَ+يِ+بْقَى	FUT_PART+IV3MS+IV
+على	عَلَى	PREP
+طبيعته	طَبِيع+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+!	!	PUNC
+بس	بَسّ	CONJ
+اللي	اللِّي	REL_PRON
+بيعشقك	بِ+يِ+عَشِّق+كِ	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+بقا	بَقا+(نُلل)	PV+PVSUFF_SUBJ:3MS
+هيعمل	حَ+يِ+عْمِل	FUT_PART+IV3MS+IV
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+مش	مِش	NEG_PART
+من	مِن	PREP
+طبيعته	طَبِيع+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+يعملها	يِ+عْمِل+ها	IV3MS+IV+IVSUFF_DO:3FS
+عشان	عَ+شان	PREP+NOUN
+بس	بَسّ	CONJ
+يرضيك	يِ+رْضِي+َك	IV3MS+IV+IVSUFF_DO:2MS
+و	وَ	CONJ
+يعجبك	يِ+عْجِب+َك	IV3MS+IV+IVSUFF_DO:2MS
+!	!	PUNC
+SENTENCE-BREAK
+	
+بتحب	بِ+تِ+حِبّ	PROG_PART+IV3FS+IV
+حد	حَدّ	NOUN
+روح	رُوح	NOUN
+قوله	قَول+ُه	NOUN+POSS_PRON_3MS
+,	,	PUNC
+مش	مِش	NEG_PART
+تقول	تِ+قُول	IV3FS+IV
+لأمه	لَأْم+َة	NOUN+NSUFF_FEM_SG
+لا	لا	NEG_PART
+إله	إِلَه	NOUN
+إلا	إِلّا	RESTRIC_PART
+الله	اللَّه	NOUN_PROP
+وهو	وِ+هُوَّ	CONJ+PRON_3MS
+لأ	لا	INTERJ
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+ولو	وَ+لَو	CONJ+SUB_CONJ
+بتكره	بِ+تِ+كْرَه	PROG_PART+IV3FS+IV
+حد	حَدّ	NOUN
+ابعد	أَبْعَد	ADJ_COMP
+عنه	عَنّ+ُه	PREP+PRON_3MS
+وكش	وِ+كِشّ	CONJ+INTERJ
+مضطر	مُضْطَرّ	NOUN
+تعيش	تِ+عِيش	IV2FS+IV
+حياتك	حَيا+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+في	فِي	PREP
+تمثيل	تَمْثِيل	NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+زعلان	زَعْلان	ADJ
+من	مِن	PREP
+حد	حَدّ	NOUN
+روح	رُوح	NOUN
+صفي	صَفّ+ِي	NOUN+POSS_PRON_1S
+أمورك	أُمُور+َك	NOUN+POSS_PRON_2MS
+معاه	مَعَ+ُه	NOUN+POSS_PRON_3MS
+SENTENCE-BREAK
+	
+عايزة	عايْز+َة	ADJ+NSUFF_FEM_SG
+أفضفض	أُ+فَضْفِض	IV1S+IV
+من	مِن	PREP
+غير	غَيْر	NOUN
+ماحد	ما+حَدّ	NEG_PART+NOUN
+يقول	يِ+قُول	IV3MS+IV
+لي	لِ+ِي	PREP+PRON_1S
+معلش	مَعْلِش	INTERJ
+أو	أَو	CONJ
+فكك	فَكِّك+(نُلل)	CV+CVSUFF_SUBJ:2MS
+أو	أَو	CONJ
+نفضي	نِ+فَضِّي	IV1P+IV
+.	.	PUNC
+.	.	PUNC
+وده	وِ+دَه	CONJ+DEM_PRON_MS
+مستحيل	مُسْتَحِيل	ADJ
+.	.	PUNC
+.	.	PUNC
+فبما	فَ+بِ+ما	CONJ+PREP+FOCUS_PART
+إنك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+سبب	سَبَب	NOUN
+قرفي	قَرِف+ِي	NOUN+POSS_PRON_1S
+فتعالى	فَ+تَعالِي	CONJ+NOUN
+أفضفضلك	***adj_comp
+إنت	اِنْتَ	PRON_2MS
+وحللي	وَ+حَلِّل+(نُلل)+نِي	CONJ+CV+CVSUFF_SUBJ:2MS+CVSUFF_DO:1S
+مشاكلنا	مَشاكِل+نا	NOUN+POSS_PRON_1P
+!	!	PUNC
+SENTENCE-BREAK
+	
+الواحد	ال+واحِد	DET+NOUN
+لما	لَمّا	SUB_CONJ
+بينام	بِ+يِ+نام	PROG_PART+IV3MS+IV
+كتير	كِثِير	ADJ
+,	,	PUNC
+بيحلم	بِ+يِ+حْلُم	PROG_PART+IV3MS+IV
+بأحلام	بِ+أَحْلام	PREP+NOUN
+-	-	PUNC
+هيا	هِيَّ	PRON_3FS
+في	فِي	PREP
+الأغلب	ال+أَغْلَب	DET+NOUN
+هلاوس	***adj_comp
+او	أَو	CONJ
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+تانية	تانْي+َة	ADJ_COMP+NSUFF_FEM_SG
+,	,	PUNC
+بس	بَسّ	CONJ
+المهم	ال+مُهِمّ	DET+ADJ
+مش	مِش	NEG_PART
+أحلام	أَحْلام	NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+-	-	PUNC
+مالهمش	ما+أَلْهَم+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+اي	أَيّ	NOUN_QUANT
+علاقة	عِلاق+َة	NOUN+NSUFF_FEM_SG
+ببعض	بِ+بَعْض	PREP+NOUN_QUANT
+,	,	PUNC
+متتالية	مُتَتالْي+َة	ADJ+NSUFF_FEM_SG
+,	,	PUNC
+وغير	وَ+غَيْر	CONJ+NOUN
+منطقية	مَنْطِقِيّ+َة	ADJ+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+ف	فَ	CONJ
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+ظريفه	ظَرِيف+هُ	NOUN+POSS_PRON_3MS
+انا	أَنا	PRON_1S
+شيرت	شِير+َة	NOUN+NSUFF_FEM_SG
+اغنيه	اُغْنِيّ+َة	NOUN+NSUFF_FEM_SG
+رنوش	***adj_comp
+ع	عَ	PREP
+صفحات	صَفَح+ات	NOUN+NSUFF_FEM_PL
+الموضه	ال+مَوض+َة	DET+NOUN+NSUFF_FEM_SG
+والاكل	وِ+ال+أَكْل	CONJ+DET+NOUN
+وجابت	وِ+جاب+ِت	CONJ+PV+PVSUFF_SUBJ:3FS
+رودو	رَوْد+هُ	NOUN+POSS_PRON_3MS
+فعل	فِعْل	NOUN
+حلوة	حِلْو+َة	ADJ+NSUFF_FEM_SG
+خصوصا	خُصُوص+اً	NOUN+CASE_INDEF_ACC
+بتاعت	بِتاع+َة	NOUN+NSUFF_FEM_SG
+الاكل	ال+أَكْل	DET+NOUN
+اللى	اللِّي	REL_PRON
+عنده	عَنْد+ُه	NOUN+POSS_PRON_3MS
+بقى	بَقَى	ADV
+بيج	بَيج	ADJ
+تانى	تانِي	ADJ
+يقولى	يَ+قُول+نِي	IV3MS+IV+IVSUFF_DO:1S
+#	#	PUNC
+@@LAT@@RanaSamahaTeam	***adj_comp
+SENTENCE-BREAK
+	
+الدنيا	ال+دِنْيا	DET+NOUN
+دى	دِي	DEM_PRON_FS
+عبارة	عِبار+َة	NOUN+NSUFF_FEM_SG
+عن	عَن	PREP
+امتحان	اِمْتِحان	NOUN
+و	وَ	CONJ
+احنا	اِحْنا	PRON_1P
+فيه	فِي+ُه	PREP+PRON_3MS
+يوم	يَوم	NOUN
+ما	ما	SUB_CONJ
+الامتحان	ال+اِمْتِحان	DET+NOUN
+دة	دَه	DEM_PRON_MS
+بيخلص	بِ+ي+خَلَّص	PROG_PART+IV3MS+IV
+حياه	حَيا+َة	NOUN+NSUFF_FEM_SG
+الانسان	ال+إِنْسان	DET+NOUN
+كمان	كَمان	ADV
+بتخلص	بِ+تِ+خَلَّص	PROG_PART+IV3FS+IV
+ساعتها	ساع+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+بقى	بَقَى	ADV
+بيروح	بِ+يِ+رُوح	PROG_PART+IV3MS+IV
+يجيب	يِ+جِيب	IV3MS+IV
+نتيجتة	نَتِيج+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+لمآ	لَمّا	SUB_CONJ
+تيجي	تِ+يْجِي	IV3FS+IV
+علي	عَلَى	PREP
+نفسك	نَفْس+ِك	NOUN+POSS_PRON_2FS
+كتير	كِتِير	NOUN
+آعرف	اَ+عْرَف	IV1S+IV
+أنك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+مآشي	ماشِي	ADJ
+غلط	غَلَط	ADJ
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@HanyAEllatif	***adj_comp
+لو	لَو	SUB_CONJ
+ما	ما	VERB
+فيش	فِيش	NOUN
+افورة	أُ+فَوِّر+هُ	IV1S+IV+IVSUFF_DO:3MS
+ما	ما	NEG_PART
+فيش	فِيش	NOUN
+مصريين	مَصْرِيّ+ِين	ADJ+NSUFF_MASC_PL
+.	.	PUNC
+.	.	PUNC
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يخلينا	يِ+خَلِّي+نا	IV3MS+IV+IVSUFF_DO:1P
+ونأفور	***adj_comp
+كمان	كَمان	ADV
+وكمان	وِ+كَمان	CONJ+ADV
+@@LAT@@..p:	***adj_comp
+SENTENCE-BREAK
+	
+وبعدين	وِ+بَعْدَين	CONJ+ADV
+انتوا	اِنْتُو	PRON_2P
+ازاي	اِزّاي	INTERROG_ADV
+تبدأوا	تِ+بْدَأ+ُوا	IV2P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+دروس	دِرُوس	NOUN
+من	مِن	PREP
+قبل	قِبَل	NOUN
+الدراسة	ال+دِراس+َة	DET+NOUN+NSUFF_FEM_SG
+?	?	PUNC
+ها	ها	INTERJ
+?	?	PUNC
+يعني	يَ+عْنِي	IV3MS+IV
+ازاي	اِزّاي	INTERROG_ADV
+يكون	يِ+كُون	IV3MS+IV
+عندي	عَنْد+ِي	NOUN+POSS_PRON_1S
+درس	دَرْس	NOUN
+النهاردة	ال+نَهارْدَه	DET+NOUN
+.	.	PUNC
+ـ	ـ	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+خايف	خايِف	ADJ
+السيسي	***adj_comp
+يطلع	يِ+طْلَع	IV3MS+IV
+ذكي	ذَكِي	ADJ
+وميترشحش	وِ+ما+يِ+تْرَشَّح+ش	CONJ+NEG_PART+IV3MS+IV+NEG_PART
+,	,	PUNC
+,	,	PUNC
+الحمد	ال+حَمْد	DET+NOUN
+لله	لِ+اللَّه	PREP+NOUN_PROP
+الحمار	ال+حُمار	DET+NOUN
+هيلبس	حَ+يُ+لْبِس	FUT_PART+IV3MS+IV
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+@@LAT@@@hananalyaly@ahmedadel755	***adj_comp
+هو	هُوَّ	PRON_3MS
+وزير	وَزِير	NOUN
+دفاع	دِفاع	NOUN
+فاهم	فاهِم	ADJ
+كويس	كُوَيِّس	ADJ
+حدود	حُدُود	NOUN
+منصبه	مَنْصِب+ُه	NOUN+POSS_PRON_3MS
+واحترامه	وَ+اِحْتِرام+ُه	CONJ+NOUN+POSS_PRON_3MS
+ميصحش	ما+يِ+صَحّ+ش	NEG_PART+IV3MS+IV+NEG_PART
+يتكلم	يِ+تْكَلِّم	IV3MS+IV
+في	فِي	PREP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+لسة	لِسَّه	ADV
+مش	مِش	NEG_PART
+موجودة	مَوجُود+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+شكلنا	شَكْل+نا	NOUN+POSS_PRON_1P
+بلبس	بِ+لُبْث	PREP+NOUN
+المدرسة	ال+مَدْرَس+َة	DET+NOUN+NSUFF_FEM_SG
+ده	دَه	DEM_PRON_MS
+هيفضل	حَ+يِ+فْضَل	FUT_PART+IV3MS+IV_PASS
+نقطة	نُقْط+َة	NOUN+NSUFF_FEM_SG
+سودة	سُود+َة	ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+حياتنا	حَيا+َة+نا	NOUN+NSUFF_FEM_SG+POSS_PRON_1P
+طول	طُول	NOUN
+ماحنا	مَ+اِحْنا	SUB_CONJ+PRON_1P
+عايشين	عايْش+ِين	ADJ+NSUFF_MASC_PL
+,	,	PUNC
+مأساه	مَأْسا+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+من	مِن	PREP
+النهارده	ال+نَهارْدَه	DET+NOUN
+هيبدأ	حَ+يِ+بْدَأ	FUT_PART+IV3MS+IV
+الإعلام	ال+إِعْلام	DET+NOUN
+يتكلم	يِ+تْكَلِّم	IV3MS+IV
+على	عَلَى	PREP
+ان	إِنّ	SUB_CONJ
+اد	اَدّ	NOUN
+ايه	أَيَّة	INTERROG_PRON
+مشاكل	مَشاكِل	NOUN
+مصر	مَصْر	NOUN_PROP
+كتيره	كَثِير+َة	NOUN+NSUFF_FEM_SG
+وتحقيقها	وَ+تَحْقِيق+ها	CONJ+NOUN+POSS_PRON_3FS
+صعب	صَعْب	ADJ
+فى	فِي	PREP
+سنه	سُنّ+َة	NOUN+NSUFF_FEM_SG
+او	أَو	CONJ
+اتنين	اِثْنَين	NOUN_NUM
+,	,	PUNC
+ومحتاجه	وَ+مِحْتاج+َة	CONJ+ADJ+NSUFF_FEM_SG
+سنين	سِن+ِين	NOUN+NSUFF_MASC_PL
+طويله	طَوِيل+َة	ADJ+NSUFF_FEM_SG
+علشان	***noun
+مصر	مَصْر	NOUN_PROP
+تتقدم	تِ+تْقَدِّم	IV3FS+IV
+,	,	PUNC
+ومحدش	وِ+ما+حَدّ+ش	CONJ+NEG_PART+NOUN+NEG_PART
+يستعجل	يَ+سْتَعْجِل	IV3MS+IV
+SENTENCE-BREAK
+	
+وعمالين	وِ+عَمّال+ِين	CONJ+ADJ+NSUFF_MASC_PL
+نقول	نِ+قُول	IV1P+IV
+فى	فِي	PREP
+نصايح	***adj_comp
+واحنا	وِ+اِحْنا	CONJ+PRON_1P
+عاوزين	عاوْز+ِين	ADJ+NSUFF_MASC_PL
+اللى	اللِّي	REL_PRON
+ينصحنا	يَ+نْصَح+نا	IV3MS+IV+IVSUFF_DO:1P
+.	.	PUNC
+SENTENCE-BREAK
+	
+ياعم	يا+عَم	VOC_PART+NOUN
+اضحك	اَ+ضْحَك	IV1S+IV
+ونبي	وَ+نَبِي	PREP+NOUN
+قولي	قُول+(نُلل)+نِي	CV+CVSUFF_SUBJ:2MS+CVSUFF_DO:1S
+أخدت	أَخَد+ِت	PV+PVSUFF_SUBJ:3FS
+إيه	إِيه	NOUN
+من	مِن	PREP
+الزعل	ال+زَعَل	DET+NOUN
+?	?	PUNC
+ضحكه	ضِحْك+َة	NOUN+NSUFF_FEM_SG
+بسيطه	بَسِيط+َة	ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+أي	أَيّ	NOUN_QUANT
+وقت	وَقْت	NOUN
+ممكن	مُمْكِن	ADJ
+تديك	تِ+دِّي+َك	IV3FS+IV+IVSUFF_DO:2MS
+أمل	أَمَل	NOUN
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+مبقتش	ما+بَق+ِت+ش	NEG_PART+PV+PVSUFF_SUBJ:3FS+NEG_PART
+مشكله	مُشْكِل+َة	NOUN+NSUFF_FEM_SG
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+يدايقوك	***adj_comp
+ولا	وَ+لا	CONJ+NEG_PART
+حتى	حَتَّى	PART
+يزعلوك	يِ+زَعِّل+ُو+كَ	IV3P+IV+IVSUFF_SUBJ:3MP_MOOD:SJ+IVSUFF_DO:2MS
+عادى	عادِي	ADJ
+اصلا	أَصْلاً	NOUN
+,	,	PUNC
+المشكله	ال+مُشْكِل+َة	DET+NOUN+NSUFF_FEM_SG
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+كنت	كُن+ت	PV+PVSUFF_SUBJ:2MS
+فاكرهم	فاكِر+هُم	ADJ+PRON_3P
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+تانيه	تانْي+َة	ADJ_COMP+NSUFF_FEM_SG
+غير	غَيْر	NOUN
+كده	كِدَه	NOUN
+#	#	PUNC
+دنيا	دُنْيا	NOUN
+#	#	PUNC
+اه	إِه	INTERJ
+ـ	ـ	PUNC
+والله	وَ+اللَّه	PREP+NOUN_PROP
+SENTENCE-BREAK
+	
+عارف	عارِف	ADJ
+اللي	اللِّي	REL_PRON
+بتصحى	بِ+تِ+صَحِّي	PROG_PART+IV3FS+IV
+تكلمه	ت+كَلِّم+ُه	IV3FS+IV+IVSUFF_DO:3MS
+اول	أَوَّل	ADJ
+واحد	واحِد	NOUN_NUM
+و	وِ	CONJ
+قبل	قَبْل	NOUN
+ما	ما	SUB_CONJ
+تنام	تَنام	NOUN
+يكون	يِ+كُون	IV3MS+IV
+هو	هُوَّ	PRON_3MS
+اخر	آخِر	ADJ
+واحد	واحِد	NOUN
+مكلمه	مِكَلِّم+ُه	ADJ+PRON_3MS
+?	?	PUNC
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+اهم	أَهَمّ	ADJ_COMP
+منه	مِنّ+ُه	PREP+PRON_3MS
+في	فِي	PREP
+حياتك	حَيا+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+SENTENCE-BREAK
+	
+وبما	وِ+بِ+ما	CONJ+PREP+REL_PRON
+ان	إِنّ	SUB_CONJ
+سواق	سَوّاق	NOUN
+الميكروباص	ال+مِيكْرُوباص	DET+NOUN
+فى	فِي	PREP
+البلد	ال+بَلَد	DET+NOUN
+دى	دِي	DEM_PRON_FS
+بيتقاله	بِ+يِ+تَقالّ+هُ	PROG_PART+IV3MS+IV+IVSUFF_DO:3MS
+يا	يا	VOC_PART
+يامشمهندس	***adj_comp
+ف	فَ	CONJ
+طبيعى	طَبِيعِيّ	ADJ
+جدا	جِدّاً	NOUN
+ان	إِنّ	SUB_CONJ
+المهندس	ال+مُهَنْدِس	DET+NOUN
+يتقاله	يَ+تَقالّ+هُ	IV3MS+IV+IVSUFF_DO:3MS
+يا	يا	VOC_PART
+اسطى	أُسْطَى	NOUN
+#	#	PUNC
+مصر	مَصْر	NOUN_PROP
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+هعرف	حَ+اَ+عْرَف	FUT_PART+IV1S+IV
+اوصل	اَ+وَصَّل	IV1S+IV
+للالف	لِ+ال+أَلْف	PREP+DET+NOUN
+ولا	وَلّا	CONJ
+اية	أَيَّة	INTERROG_PRON
+.	.	PUNC
+كل	كُلّ	NOUN_QUANT
+ما	ما	SUB_CONJ
+اقول	اَ+قُول	IV1S+IV
+هانت	حَ+أَ+أْنُث	FUT_PART+IV1S+IV
+.	.	PUNC
+الاقي	اَ+لاقِي	IV1S+IV
+كم	كَم	NOUN_QUANT
+حد	حَدّ	NOUN
+عملي	عَمَلِي	ADJ
+انفولو	***adj_comp
+.	.	PUNC
+حرام	حَرام	NOUN
+عليكم	عَلَى+كُم	PREP+PRON_2P
+مش	مِش	NEG_PART
+كدة	كِدَه	NOUN
+.	.	PUNC
+هتعقدونا	حَ+تِ+عَقِّد+ُو+نا	FUT_PART+IV2P+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:1P
+في	فِي	PREP
+نفسنا	نَفْس+نا	NOUN+POSS_PRON_1P
+يا	يا	VOC_PART
+جدعان	جِدْعان	NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+إحساس	اِحْساس	NOUN
+لا	لا	NEG_PART
+يوصف	يِ+وْصِف	IV3MS+IV
+إنك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تنزل	تِ+نْزِل	IV2MS+IV
+تعمل	تِ+عْمِل	IV2FS+IV
+شوبينج	***adj_comp
+و	وَ	CONJ
+تشتري	تِ+شْتِر+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+كل	كُلّ	NOUN_QUANT
+إللي	اللِّي	REL_PRON
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+من	مِن	PREP
+غير	غَيْر	NOUN
+ما	ما	SUB_CONJ
+تدقق	تِ+دَقِّق	IV2MS+IV
+ده	دَه	DEM_PRON_MS
+بكام	بِ+كام	PREP+NOUN_QUANT
+و	وَ	CONJ
+دي	دِي	DEM_PRON_FS
+بكام	بِ+كام	PREP+NOUN_QUANT
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@Nodygamal93	***adj_comp
+احساس	اِحْساس	NOUN
+حلو	حِلْو	ADJ
+لما	لَمّا	SUB_CONJ
+تلاقي	تِ+لاقِي	IV2MS+IV
+حد	حَدّ	NOUN
+شبهك	شِبْه+كَ	NOUN+POSS_PRON_2MS
+في	فِي	PREP
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+كتيرة	كِثِير+َة	ADJ+NSUFF_FEM_SG
+,	,	PUNC
+ويهتم	وِ+يِ+هْتَمّ	CONJ+IV3MS+IV
+بنفس	بِ+نَفْس	PREP+NOUN
+الحاجات	ال+حاج+ات	DET+NOUN+NSUFF_FEM_PL
+اللي	اللِّي	REL_PRON
+بتحبها	بِ+ت+حِبّ+ها	PROG_PART+IV3FS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+فاكره	فاكْر+َة	ADJ+NSUFF_FEM_SG
+تؤام	***adj_comp
+تؤام	***adj_comp
+@@LAT@@:-D	***adj_comp
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+عايز	عايِز	NOUN
+يبقى	يِ+بْقَى	IV3MS+IV
+عندى	عَنْد+ِي	NOUN+POSS_PRON_1S
+ابن	اِبْن	NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+اعلمه	اَ+عَلِّم+ُه	IV1S+IV+IVSUFF_DO:3MS
+السباحة	ال+سِباح+َة	DET+NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+,	,	PUNC
+,	,	PUNC
+,	,	PUNC
+دى	دِي	DEM_PRON_FS
+أمتع	أَمْتَع	ADJ_COMP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+ممكن	مُمْكِن	ADJ
+الأب	ال+أَبّ	DET+NOUN
+يعملها	يِ+عْمِل+ها	IV3MS+IV+IVSUFF_DO:3FS
+الحقيقة	ال+حَقِيق+َة	DET+NOUN+NSUFF_FEM_SG
+,	,	PUNC
+,	,	PUNC
+,	,	PUNC
+غير	غَيْر	NOUN
+كده	كِدَه	NOUN
+الموضوع	ال+مَوْضُوع	DET+NOUN
+مش	مِش	NEG_PART
+جايب	جايِب	ADJ
+همه	هَمّ+(نُلل)+ُه	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS
+SENTENCE-BREAK
+	
+خسارة	خُسار+َة	NOUN+NSUFF_FEM_SG
+فيك	فِي+َك	PREP+PRON_2MS
+كلمة	كِلْم+َة	NOUN+NSUFF_FEM_SG
+راجل	راجِل	NOUN
+لو	لَو	SUB_CONJ
+بتسيب	بِ+تِ+سِيب	PROG_PART+IV3FS+IV
+صحابك	صُحاب+َك	NOUN+POSS_PRON_2MS
+يتكلموا	يِ+تْكَلِّم+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+على	عَلَى	PREP
+بنت	بِنْت	NOUN
+أنت	اِنْتَ	PRON_2MS
+تعرفها	تِ+عْرَف+ها	IV3FS+IV+IVSUFF_DO:3FS
+من	مِن	PREP
+غير	غَيْر	NOUN
+ماترد	ما+تِ+رُدّ	NEG_PART+IV3FS+IV
+عليهم	عَلَى+هُم	NOUN+POSS_PRON_3P
+.	.	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@Serious	***adj_comp
+@@LAT@@Question	***adj_comp
+:	:	PUNC
+ليه	لَيه	INTERROG_ADV
+الواحد	ال+واحِد	DET+NOUN
+لما	لَمّا	SUB_CONJ
+يبقي	يِ+بْقَى	IV3MS+IV
+مبسوط	مَبْسُوط	ADJ
+طول	طُول	NOUN
+النهار	ال+نَهار	DET+NOUN
+لازم	لازِم	ADJ
+تحصل	تِ+حْصَل	IV3FS+IV
+في	فِي	PREP
+الأخر	ال+آخِر	DET+NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+تنكد	تِ+نَكِّد	IV3FS+IV
+عليه	عَلَى+ُه	PREP+PRON_3MS
+?	?	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+ييجي	يِ+يْجِي	IV3MS+IV
+يقولك	يِ+قُول+َك	IV3MS+IV+IVSUFF_DO:2MS
+مش	مِش	NEG_PART
+هقدر	حَ+اَ+قْدَر	FUT_PART+IV1S+IV
+أغير	اَ+غَيَّر	IV1S+IV
+إرث	إِرْث	NOUN
+سنين	سِن+ِين	NOUN+NSUFF_MASC_PL
+من	مِن	PREP
+الفساد	ال+فَساد	DET+NOUN
+.	.	PUNC
+طيب	طَيِّب	ADJ
+حضرتك	حَضْر+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+بتتعب	بِ+تِ+تْعِب	PROG_PART+IV3FS+IV
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+وجاي	وِ+جايّ	PREP+ADJ
+تحكم	تِ+حْكُم	IV3FS+IV
+ليه	لَيه	INTERROG_ADV
+?	?	PUNC
+SENTENCE-BREAK
+	
+قبل	قَبْل	NOUN
+ما	ما	SUB_CONJ
+تنام	تَنام	NOUN
+اظبت	***adj_comp
+منبه	مِنَبِّه	NOUN
+الموبايل	ال+مُوبايْل	DET+NOUN
+على	عَلَى	PREP
+ميعاد	ما+يُ+عاد	NEG_PART+IV3MS+IV_PASS
+صلاة	صَلا+َة	NOUN+NSUFF_FEM_SG
+الفجر	ال+فَجْر	DET+NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+لو	لَو	SUB_CONJ
+مصحتش	مَ+صَحّ+ِت+ش	NEG_PART+PV+PVSUFF_SUBJ:3FS+NEG_PART
+تانى	تانِي	ADJ
+النية	ال+نِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+تشفعلك	***adj_comp
+SENTENCE-BREAK
+	
+حتي	حَتَّى	PART
+لو	لَو	SUB_CONJ
+فشلت	فَشَل+ِت	PV+PVSUFF_SUBJ:3FS
+ف	فَ	CONJ
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+هتتعلم	حَ+تِ+تْعَلِّم	FUT_PART+IV3FS+IV
+منها	مِن+ها	PREP+PRON_3FS
+برضه	بَرْضُه	ADV
+.	.	PUNC
+الا	إِلّا	RESTRIC_PART
+لو	لَو	SUB_CONJ
+انت	اِنْتَ	PRON_2MS
+غبي	غَبِي	ADJ
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+لازم	لازِم	ADJ
+الواحد	ال+واحِد	DET+NOUN
+لما	لَمّا	SUB_CONJ
+يجى	يِ+جِي	IV3MS+IV
+يواظب	يِ+واظِب	IV3MS+IV
+على	عَلَى	PREP
+الرياضه	ال+رِياض+َة	DET+NOUN+NSUFF_FEM_SG
+يدمنها	يُ+دْمِن+نَ+ها	IV3FP+IV+IVSUFF_SUBJ:FP+IVSUFF_DO:3FS
+ولا	وَلّا	CONJ
+انتوا	اِنْتُو	PRON_2P
+واخدنها	وَ+أَخَذ+نَ+ها	CONJ+PV+PVSUFF_SUBJ:3FP+PVSUFF_DO:3FS
+موضه	مُوض+َة	NOUN+NSUFF_FEM_SG
+ولا	وَلّا	CONJ
+ايه	أَيَّة	INTERROG_PRON
+?	?	PUNC
+#	#	PUNC
+@@LAT@@bassem	***adj_comp
+#	#	PUNC
+@@LAT@@hit	***adj_comp
+SENTENCE-BREAK
+	
+اللي	اللِّي	REL_PRON
+يشوفني	يِ+شُوف+نِي	IV3MS+IV+IVSUFF_DO:1S
+في	فِي	PREP
+عز	عِزّ	NOUN
+فرحي	فَرَح+ِي	NOUN+POSS_PRON_1S
+ميعرفنيش	ما+يِ+عْرَف+نِي+ش	NEG_PART+IV3MS+IV+IVSUFF_DO:1S+NEG_PART
+وقت	وَقْت	NOUN
+زعلي	زَعَل+ِي	NOUN+POSS_PRON_1S
+.	.	PUNC
+SENTENCE-BREAK
+	
+دآيمآ	دايْم+اً	ADJ+CASE_INDEF_ACC
+#	#	PUNC
+آلشخص	ال+شَخْص	DET+NOUN
+إللي	اللِّي	REL_PRON
+بيآخد	بِ+ي+أْخُذ	PROG_PART+IV3MS+IV
+بآله	بال+ُه	NOUN+POSS_PRON_3MS
+من	مِن	PREP
+آلتفآصيل	ال+تَفاصِيل	DET+NOUN
+آلصغيره	ال+صُغَيَّر+َة	DET+ADJ+NSUFF_FEM_SG
+بيبقي	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+أكتر	أَكْتَر	NOUN_QUANT
+شخص	شَخْص	NOUN
+منكد	مِنْكَدّ	ADJ
+دآيمآ	دايْم+اً	ADJ+CASE_INDEF_ACC
+علي	عَلَى	PREP
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+!	!	PUNC
+#	#	PUNC
+حقيقه	حَقِيق+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+(	(	PUNC
+2	2	NOUN_NUM
+)	)	PUNC
+تيجى	تِ+يْجِي	IV3FS+IV
+نتكلم	نِ+تْكَلِّم	IV1P+IV
+و	وِ	CONJ
+نقول	نِ+قُول	IV1P+IV
+كام	كام	NOUN_QUANT
+نصيحة	نَصِيح+َة	NOUN+NSUFF_FEM_SG
+على	عَلَى	PREP
+كام	كام	NOUN_QUANT
+كلمة	كِلْم+َة	NOUN+NSUFF_FEM_SG
+حلوة	حِلْو+َة	ADJ+NSUFF_FEM_SG
+على	عَلَى	PREP
+حبة	حَبّ+َة	NOUN+NSUFF_FEM_SG
+أى	أَيّ	NOUN_QUANT
+كلام	كَلام	NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+كام	كام	NOUN_QUANT
+ريتويت	***adj_comp
+SENTENCE-BREAK
+	
+فاكر	فاكِر	ADJ
+أيام	اِيّام	NOUN
+لما	لَمّا	SUB_CONJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+تقف	تُ+قَف	IV2MS+IV
+ع	عَ	PREP
+الشارع	ال+شارِع	DET+NOUN
+تلاقى	تِ+لاقِي	IV2MS+IV
+واحده	واحْد+َة	NOUN_NUM+NSUFF_FEM_SG
+محجبه	مُحَجَّب+َة	ADJ+NSUFF_FEM_SG
+فواحد	فَ+واحِد	CONJ+NOUN
+صاحبك	صاحِب+َك	NOUN+POSS_PRON_2MS
+يعاكسها	يِ+عاكِس+ها	IV3MS+IV+IVSUFF_DO:3FS
+تقوله	تِ+قُول+ُه	IV3FS+IV+IVSUFF_DO:3MS
+بس	بَسّ	CONJ
+ياض	يا+ض	VOC_PART+NOUN
+دى	دِي	DEM_PRON_FS
+محجبه	مُحَجَّب+َة	ADJ+NSUFF_FEM_SG
+?	?	PUNC
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+رفعنا	رَفَع+نا	PV+PVSUFF_SUBJ:1P
+قضية	قَضِيّ+َة	NOUN+NSUFF_FEM_SG
+على	عَلَى	PREP
+الكيان	ال+كَيان	DET+NOUN
+الصهيوني	ال+صَهْيُونِيّ	DET+ADJ
+بنقول	بِ+نِ+قُول	PROG_PART+IV1P+IV
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+إرهابيين	إِرْهابِيّ+ِين	ADJ+NSUFF_MASC_PL
+و	وَ	CONJ
+بنطالب	بِ+نِ+طالِب	PROG_PART+IV1P+IV
+بقطع	بِ+قِطَع	PREP+NOUN
+أي	أَيّ	NOUN_QUANT
+علاقة	عِلاق+َة	NOUN+NSUFF_FEM_SG
+بيهم	بِ+هُم	PREP+PRON_3P
+هتتقبل	حَ+تِ+تْقَبَل	FUT_PART+IV3FS+IV_PASS
+القضية	ال+قَضِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+برضو	بَرْضُه	ADV
+زي	زَيّ	NOUN
+حماس	حَماس	NOUN_PROP
+?	?	PUNC
+ولا	وَ+لا	CONJ+NEG_PART
+هيقول	حَ+يِ+قُول	FUT_PART+IV3MS+IV
+عيب	عَيب	NOUN
+مش	مِش	NEG_PART
+اختصاصنا	ٱِخْتِصاص+نا	NOUN+POSS_PRON_1P
+?	?	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+دايما	دايْم+اً	ADJ+CASE_INDEF_ACC
+الواحد	ال+واحِد	DET+NOUN
+#	#	PUNC
+بيقصر	بِ+يِ+قَصَّر	PROG_PART+IV3MS+IV
+في	فِي	PREP
+حق	حَقّ	NOUN
+ناس	ناس	NOUN
+#	#	PUNC
+تستاهل	تِ+سْتاهِل	IV3FS+IV
+ويسأل	وِ+يِ+سْأَل	CONJ+IV3MS+IV
+علي	عَلَى	PREP
+#	#	PUNC
+ناس	ناس	NOUN
+#	#	PUNC
+متستهلش	ما+تِ+سْتَهِل+ش	NEG_PART+IV3FS+IV+NEG_PART
+:	:	PUNC
+-	-	PUNC
+(	(	PUNC
+SENTENCE-BREAK
+	
+مهو	مِ+هِوّ	PREP+ADJ
+انت	اِنْتَ	PRON_2MS
+ماتحطليش	ما+تِ+حُطّ+لِ+ِي+ش	NEG_PART+IV2MS+IV+PREP+PRON_1S+NEG_PART
+إمتحان	اِمْتِحان	NOUN
+صعب	صَعْب	ADJ
+و	وِ	CONJ
+تيجى	تِ+يْجِي	IV3FS+IV
+فى	فِي	PREP
+الآخر	ال+آخِر	DET+NOUN
+تقولى	تِ+قُول+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+"	"	PUNC
+@@LAT@@Good	***adj_comp
+@@LAT@@Luck	***adj_comp
+"	"	PUNC
+عشان	عَ+شَأْن	PREP+NOUN
+ماتجيبش	ما+تِ+جِيب+ش	NEG_PART+IV3FS+IV+NEG_PART
+الشتيمه	ال+شِتِيم+َة	DET+NOUN+NSUFF_FEM_SG
+ليك	لِ+َك	PREP+PRON_2MS
+و	وَ	CONJ
+للست	لِ+لِث+َة	PREP+NOUN+NSUFF_FEM_SG
+الوالده	ال+والِد+َة	DET+NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+واللى	وِ+اللِّي	CONJ+REL_PRON
+كان	كان	PV
+فى	فِي+ُه	PREP+PRON_3MS
+شغله	شُغْل+ُه	NOUN+POSS_PRON_3MS
+ولسه	وِ+لِسَّه	CONJ+ADV
+راجع	راجِع+(نُلل)	CV+CVSUFF_SUBJ:2MS
+واللى	وِ+اللِّي	CONJ+REL_PRON
+كان	كان	PV
+فى	فِي+ُه	PREP+PRON_3MS
+مدرسته	مَدْرَس+َة+هُ	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+واللى	وِ+اللِّي	CONJ+REL_PRON
+واقف	واقِف	ADJ
+فى	فِي	PREP
+البلكونة	ال+بَلْكَون+َة	DET+NOUN+NSUFF_FEM_SG
+بيشرب	بِ+يِ+شْرَب	PROG_PART+IV3MS+IV
+سيجارة	سِيجار+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+نحب	نِ+حِبّ	IV1P+IV
+نقوله	نِ+قُول+ُه	IV1P+IV+IVSUFF_DO:3MS
+ان	إِنّ	SUB_CONJ
+اوزيل	***adj_comp
+جاب	جاب+(نُلل)	PV+PVSUFF_SUBJ:3MS
+جول	جَول	NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+@@LAT@@http://t.co/SP1RsPjMxY	***adj_comp
+SENTENCE-BREAK
+	
+نص	نُصّ	NOUN_QUANT
+الو	أُلُو	NOUN
+لا	لا	NEG_PART
+د	د	ABBREV
+اللى	اللِّي	REL_PRON
+ف	فَ	CONJ
+تويتر	تِوِيتِر	NOUN_PROP
+فهمين	فَ+هَمّ+َيْنِ	CONJ+NOUN+NSUFF_MASC_DU_GEN
+البنت	ال+بِنْت	DET+NOUN
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+ايه	أَيَّة	INTERROG_PRON
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+بتحب	بِ+تِ+حِبّ	PROG_PART+IV3FS+IV
+ايه	أَيَّة	INTERROG_PRON
+!	!	PUNC
+!	!	PUNC
+انا	أَنا	PRON_1S
+بقى	بَقَى	ADV
+اشك	اَ+شُكّ	IV1S+IV
+ان	إِنّ	SUB_CONJ
+ف	فَ	CONJ
+حد	حَدّ	NOUN
+بيعمل	بِ+يِ+عْمِل	PROG_PART+IV3MS+IV
+ب	بِ	PREP
+اللى	اللِّي	REL_PRON
+بيقولوا	بِ+يِ+قُول+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+ده	دَه	DEM_PRON_MS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+#	#	PUNC
+ك	ك	ABBREV
+لا	لا	NEG_PART
+م	مِ	PREP
+من	مِن	PREP
+غير	غَيْر	NOUN
+فعل	فِعْل	NOUN
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+كل	كُلّ	NOUN_QUANT
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+تعملها	تِ+عْمِل+ها	IV3FS+IV+IVSUFF_DO:3FS
+تقول	تِ+قُول	IV2FS+IV
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+راجل	راجِل	NOUN
+و	وَ	CONJ
+براحتك	بِ+راح+َة+كَ	PREP+NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+.	.	PUNC
+.	.	PUNC
+#	#	PUNC
+لما	لَمّا	SUB_CONJ
+تموت	تِ+مُوت	IV3FS+IV
+مش	مِش	NEG_PART
+هتقول	حَ+تِ+قُول	FUT_PART+IV3FS+IV
+اصل	أَصْل	NOUN
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+راجل	راجِل	NOUN
+وكان	وِ+كان	CONJ+PV
+براحتى	بِ+راح+َتَيْ	PREP+NOUN+NSUFF_FEM_DU_GEN_POSS
+#	#	PUNC
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+تفرقه	ت+فَرِق+ُه	IV2MS+IV+IVSUFF_DO:3MS
+هناك	هِناك	ADV
+يا	يا	VOC_PART
+صاحبي	صاحِب+ِي	NOUN+POSS_PRON_1S
+!	!	PUNC
+SENTENCE-BREAK
+	
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تبقى	تِ+بْق+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+واطى	واطِي	ADJ
+دى	دِي	DEM_PRON_FS
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+سهله	سَهْل+َة	ADJ+NSUFF_FEM_SG
+اوى	أَوِي	ADJ
+.	.	PUNC
+.	.	PUNC
+بس	بَسّ	CONJ
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تبقى	تِ+بْق+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+راجل	راجِل	NOUN
+دى	دِي	DEM_PRON_FS
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+مجهود	مَجْهُود	NOUN
+شويه	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+ليه	لَيه	INTERROG_ADV
+الناس	ال+ناس	DET+NOUN
+بتقول	بِ+تِ+قُول	PROG_PART+IV3FS+IV
+لأى	لِ+أَيّ	PREP+NOUN_QUANT
+حد	حَدّ	NOUN
+فى	فِي	PREP
+الشارع	ال+شارِع	DET+NOUN
+يابشمهندس	يا+بَشْمُهَنْدِس	VOC_PART+NOUN
+,	,	PUNC
+ما	ما	REL_PRON
+عدا	عَدا	VERB
+المهندس	ال+مُهَنْدِس	DET+NOUN
+فعلا	فِعْل+اً	NOUN+CASE_INDEF_ACC
+بيقولوا	بِ+يِ+قُول+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+يادكتور	يا+دُكْتَور	VOC_PART+NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+جة	جا+(نُلل)	PV+PVSUFF_SUBJ:3MS
+الزمن	ال+زَمَن	DET+NOUN
+اللي	اللِّي	REL_PRON
+الناس	ال+ناس	DET+NOUN
+تعمل	تِ+عْمِل	IV3FS+IV
+جمايل	***adj_comp
+لبعض	لِ+بَعْض	PREP+NOUN_QUANT
+,	,	PUNC
+,	,	PUNC
+عشان	عَ+شَأْن	PREP+NOUN
+تفكر	تِ+فَكَّر	IV3FS+IV
+بعض	بَعْض	NOUN_QUANT
+بية	بِ+ُه	PREP+PRON_3MS
+.	.	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+قربت	قَرَّب+ت	PV+PVSUFF_SUBJ:1S
+اتجنن	اَ+تْجَنِّن	IV1S+IV
+!	!	PUNC
+انا	أَنا	PRON_1S
+بحلم	بِ+حُلْم	PREP+NOUN
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+بتتحقق	بِ+تِ+تْحَقَّق	PROG_PART+IV3FS+IV
+:	:	PUNC
+(	(	PUNC
+وبفكر	وِ+بِ+اَ+فَكَّر	CONJ+PROG_PART+IV1S+IV
+في	فِي	PREP
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+ف	فَ	CONJ
+خيالي	خَيالِي	ADJ
+برده	بَرْضُه	ADV
+بتتحقق	بِ+تِ+تْحَقَّق	PROG_PART+IV2MS+IV
+ف	فَ	CONJ
+نفس	نَفْس	NOUN
+اليوم	ال+يَوم	DET+NOUN
+!	!	PUNC
+انا	أَنا	PRON_1S
+خايفه	خايْف+َة	ADJ+NSUFF_FEM_SG
+-	-	PUNC
+ـ	ـ	PUNC
+-	-	PUNC
+SENTENCE-BREAK
+	
+أنا	أَنا	PRON_1S
+مش	مِش	NEG_PART
+سامع	سامِع	ADJ
+نص	نُصّ	NOUN_QUANT
+كلام	كَلام	NOUN
+اللي	اللِّي	REL_PRON
+بيكلموني	بِ+يُ+كَلِّم+ُو+نِي	PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:1S
+,	,	PUNC
+بسبب	بِ+سَبَب	PREP+NOUN
+دور	دَوْر	NOUN
+البرد	ال+بَرْد	DET+NOUN
+اللي	اللِّي	REL_PRON
+عندي	عَنْد+ِي	NOUN+POSS_PRON_1S
+,	,	PUNC
+بهز	بِ+هَزّ	PREP+NOUN
+دماغي	دِماغ+ِي	NOUN+POSS_PRON_1S
+زي	زَيّ	NOUN
+العبيط	ال+عَبِيط	DET+ADJ
+كأني	كانِي	NOUN
+سامع	سامِع	ADJ
+SENTENCE-BREAK
+	
+الناس	ال+ناس	DET+NOUN
+مش	مِش	NEG_PART
+قدرة	قَدْر+َة	ADJ+NSUFF_FEM_SG
+تفهم	تِ+فْهَم	IV3FS+IV
+أن	إِنّ	SUB_CONJ
+مفيش	مِفَيِّش	NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+اسمها	اِسْم+ها	NOUN+POSS_PRON_3FS
+حب	حُبّ	NOUN
+ولا	وَلّا	CONJ
+في	فِي+ُه	PREP+PRON_3MS
+حد	حَدّ	NOUN
+بيحب	بِ+يِ+حِبّ	PROG_PART+IV3MS+IV
+بجد	بِ+جِدّ	PREP+NOUN
+والي	والِي	NOUN
+بتحبو	بِ+تِ+حِبّ+ُوا	PROG_PART+IV2P+IV+IVSUFF_SUBJ:P
+بجد	بِ+جِدّ	PREP+NOUN
+بيسيبك	بِ+يِ+سِيب+ِك	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+والي	والِي	NOUN
+بيحبك	بِ+يِ+حِبّ+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+بجد	بِ+جِدّ	PREP+NOUN
+بتسيبو	بِ+تِ+سِيب+ُوا	PROG_PART+IV2P+IV+IVSUFF_SUBJ:P
+فا	***noun_prop
+ريح	رَيَّح+(نُلل)	PV+PVSUFF_SUBJ:3MS
+بالك	بال+ِك	NOUN+POSS_PRON_2FS
+أحسن	أَحْسَن	ADJ_COMP
+.	.	PUNC
+SENTENCE-BREAK
+	
+فيه	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+كده	كِدَه	NOUN
+بيبقى	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+طول	طُول	NOUN
+عمرهم	عُمْر+هُم	NOUN+POSS_PRON_3P
+معروفين	مَعْرُوف+ِين	ADJ+NSUFF_MASC_PL
+بإسمهم	بِ+اِسْم+هُم	PREP+NOUN+POSS_PRON_3P
+وإسم	وِ+اِسْم	PREP+NOUN
+أبوهم	أَبُو+هُم	NOUN+POSS_PRON_3P
+وفجأة	وِ+فَجْأ+َة	PREP+NOUN+NSUFF_FEM_SG
+كده	كِدَه	NOUN
+سبحان	سُبْحان	NOUN
+الله	اللَّه	NOUN_PROP
+بيطلعلهم	بِ+يِ+طْلَع+لِ+هُم	PROG_PART+IV3MS+IV+PREP+PRON_3P
+إسم	اِسْم	NOUN
+عيلة	عَيل+َة	NOUN+NSUFF_FEM_SG
+روش	رَوَش+(نُلل)	PV+PVSUFF_SUBJ:3MS
+ويفضلوا	وِ+يُ+فْضِل+ُوا	CONJ+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+يقرفوا	يِ+قْرِف+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+اللي	اللِّي	REL_PRON
+خلفونا	خَلَّف+ُو+نا	PV+PVSUFF_SUBJ:3MP+PVSUFF_DO:1P
+بيه	بِ+ُه	PREP+PRON_3MS
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+لما	لَمّا	SUB_CONJ
+ولد	وَلَد	NOUN
+يبيع	يِ+بِيع	IV3MS+IV
+صاحبه	صاحْب+َة	NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+بنت	بِنْت	NOUN
+بيقولو	بِ+يِ+قُول+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+مش	مِش	NEG_PART
+راجل	راجِل	NOUN
+طيب	طَيِّب	ADJ
+و	وَ	CONJ
+البنت	ال+بِنْت	DET+NOUN
+اللي	اللِّي	REL_PRON
+بتبيع	بِ+تِ+بِيع	PROG_PART+IV3FS+IV
+صاحبتها	صاحْب+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+عشان	عَ+شَأْن	PREP+NOUN
+ولد	وَلَد	NOUN
+يتقال	يِ+تْقال	IV3MS+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+ايه	أَيَّة	INTERROG_PRON
+?	?	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+عمرك	عُمْر+َك	NOUN+POSS_PRON_2MS
+لسه	لِسَّه	ADV
+مخبى	مِخَبِّي	ADJ
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+اكتر	أَكْتَر	NOUN_QUANT
+من	مِن	PREP
+كده	كِدَه	NOUN
+مستنياك	مِسْتَنِّي+َة+َك	ADJ+NSUFF_FEM_SG+PRON_2MS
+وربك	وَ+رَبِّ+َك	CONJ+NOUN+POSS_PRON_2MS
+اكيد	اَكِيد	ADJ
+شايلك	شايِل+َك	NOUN+PRON_2MS
+خير	خَيْر	NOUN
+هيجى	حَ+يِ+جِي	FUT_PART+IV3MS+IV
+فى	فِي	PREP
+وقته	وَقْت+ُه	NOUN+POSS_PRON_3MS
+والدنيا	وِ+ال+دُنْيا	CONJ+DET+NOUN
+اكيد	اَكِيد	ADJ
+فيها	فِي+ها	PREP+PRON_3FS
+لحظات	لَحَظ+ات	NOUN+NSUFF_FEM_PL
+حلوه	حِلْو+َة	ADJ+NSUFF_FEM_SG
+هتعيشها	حَ+ت+عِيش+ها	FUT_PART+IV2MS+IV+IVSUFF_DO:3FS
+,	,	PUNC
+بس	بَسّ	CONJ
+كله	كُلّ+ُه	NOUN_QUANT+POSS_PRON_3MS
+فى	فِي	PREP
+وقته	وَقْت+ُه	NOUN+POSS_PRON_3MS
+.	.	PUNC
+.	.	PUNC
+اصبر	اُصْبُر+(نُلل)	CV+CVSUFF_SUBJ:2MS
+SENTENCE-BREAK
+	
+أصل	أَصْل	NOUN
+فى	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+مابتحبش	ما+بِ+تِ+حِبّ+ش	NEG_PART+PROG_PART+IV3FS+IV+NEG_PART
+التجديد	ال+تَجْدِيد	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+الى	اِلَى	PREP
+بيتكيف	بِ+يَ+تَكَيَّف	PROG_PART+IV3MS+IV
+من	مِن	PREP
+الكرباج	ال+كُرْباج	DET+NOUN
+من	مِن	PREP
+زمان	زَمان	NOUN
+.	.	PUNC
+.	.	PUNC
+صعب	صَعْب	ADJ
+اوى	أَوِي	NOUN
+يجيى	***noun_prop
+على	عَلَى	PREP
+كبر	كَبَر	NOUN
+.	.	PUNC
+.	.	PUNC
+يغيروا	يُ+غَيِّر+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+!	!	PUNC
+!	!	PUNC
+#	#	PUNC
+حقيقة	حَقِيق+َة	NOUN+NSUFF_FEM_SG
+#	#	PUNC
+باسم	بِ+إِسْم	PREP+NOUN
+ـ	ـ	PUNC
+يوسف	يُوسِف	NOUN_PROP
+#	#	PUNC
+رجعوا	رَجَّع+ُوا	PV+PVSUFF_SUBJ:3P
+ـ	ـ	PUNC
+جماهير	جَماهِير	NOUN
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+اى	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+بيعاملك	بِ+يِ+عامِل+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+حلو	حِلْو	ADJ
+يبقى	يِ+بْقَى	IV3MS+IV
+بيحبك	بِ+يِ+حِبّ+ِك	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+"	"	PUNC
+المصلحة	ال+مَصْلَح+َة	DET+NOUN+NSUFF_FEM_SG
+بتعمل	بِ+تِ+عْمِل	PROG_PART+IV3FS+IV
+كل	كُلّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+"	"	PUNC
+SENTENCE-BREAK
+	
+و	وِ	CONJ
+لما	لَمّا	SUB_CONJ
+تيجي	تِ+يْجِي	IV3FS+IV
+تناقش	تِ+ناقِش	IV3FS+IV
+حد	حَدّ	NOUN
+من	مِن	PREP
+الجيل	ال+جِيل	DET+NOUN
+بتاع	بِتاع	NOUN
+العواجيز	***adj_comp
+هيقولك	حَ+يُ+قُول+ِك	FUT_PART+IV3MS+IV+IVSUFF_DO:2FS
+مش	مِش	NEG_PART
+اللي	اللِّي	REL_PRON
+بيتقبض	بِ+يِ+تْقَبَض	PROG_PART+IV3MS+IV_PASS
+عليهم	عَلَى+هُم	NOUN+POSS_PRON_3P
+دوول	***noun_prop
+بيفرج	بِ+يِ+فَرَّج	PROG_PART+IV3MS+IV
+عنهم	عَن+هُم	PREP+PRON_3MP
+لو	لَو	SUB_CONJ
+مظلوم	مَظْلُوم	ADJ
+هيطلع	حَ+يِ+طْلَع	FUT_PART+IV3MS+IV
+يابني	يا+بَنِي	VOC_PART+NOUN
+متخفش	مَ+تِ+خَف+ش	NEG_PART+IV2MS+IV+NEG_PART
+(	(	PUNC
+1	1	NOUN_NUM
+)	)	PUNC
+SENTENCE-BREAK
+	
+و	وَ	CONJ
+لما	لَما	NEG_PART
+هو	هُوَّ	PRON_3MS
+مظلوم	مَظْلُوم	ADJ
+بيتقبض	بِ+يِ+تْقَبَض	PROG_PART+IV3MS+IV_PASS
+عليه	عَلَى+ُه	PREP+PRON_3MS
+من	مِن	PREP
+الاول	ال+أَوَّل	DET+ADJ
+لييه	لِ+يَيه	PREP+NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+ايه	إِيه	NOUN
+شاب	شابّ	NOUN
+ابن	اِبْن	NOUN
+ناس	ناس	NOUN
+و	وَ	CONJ
+مالوش	ما+لَوِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+دعوه	دَعْو+َة	NOUN+NSUFF_FEM_SG
+بحاجه	بِ+حاج+َة	PREP+NOUN+NSUFF_FEM_SG
+يتقبض	يِ+تْقِبِض	IV3MS+IV_PASS
+عليه	عَلَى+ُه	PREP+PRON_3MS
+و	وِ	CONJ
+يدخل	يِ+دْخُل	IV3MS+IV
+المعتقل	ال+مُعْتَقَل	DET+NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+ايه	إِيه	NOUN
+معدش	ما+عَدّ+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+حد	حَدّ	NOUN
+بقي	بَقَى	ADV
+بينطق	بِ+يُ+نْطِق	PROG_PART+IV3MS+IV
+(	(	PUNC
+2	2	NOUN_NUM
+)	)	PUNC
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+روحنا	رَوَّح+نا	PV+PVSUFF_SUBJ:1P
+الموتمر	***adj_comp
+عشان	عَ+شَأْن	PREP+NOUN
+صحابنا	صُحاب+نا	NOUN+POSS_PRON_1P
+.	.	PUNC
+.	.	PUNC
+حضرات	حَضَر+ات	NOUN+NSUFF_FEM_PL
+النشطاء	ال+نُشَطاء	DET+NOUN
+والمحاميين	وِ+ال+مُحامِي+ِين	CONJ+DET+NOUN+NSUFF_MASC_PL
+مارضيوش	ما+رِضْي+ُوا+ش	NEG_PART+PV+PVSUFF_SUBJ:3P+NEG_PART
+يتكلمو	يِ+تْكَلِّم+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+عن	عَن	PREP
+معتقلي	مُعْتَقَل+ِي	NOUN+NSUFF_MASC_PL_ACC_POSS
+المعادي	ال+مَعادِي	DET+NOUN_PROP
+عشان	عَ+شان	PREP+NOUN
+هما	هُمَّ	PRON_3P
+مجهولين	مَجْهُول+ِين	ADJ+NSUFF_MASC_PL
+ومش	وِ+مِش	CONJ+NEG_PART
+مشهورين	مَشْهُور+ِين	ADJ+NSUFF_MASC_PL
+ومالهومش	***adj_comp
+ضهر	ضَهْر	NOUN
+#	#	PUNC
+يتبع	يِ+تِّبِع	IV3MS+IV
+SENTENCE-BREAK
+	
+الكلام	ال+كَلام	DET+NOUN
+لو	لَو	SUB_CONJ
+كان	كان	PV
+يعبر	يُ+عْبُر	IV3MS+IV
+عن	عَن	PREP
+الحنان	ال+حَنان	DET+NOUN
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+قولت	قَول+َة	NOUN+NSUFF_FEM_SG
+انى	أَنّ+ِي	SUB_CONJ+PRON_1S
+مش	مِش	NEG_PART
+طايقة	طايْق+َة	NOUN+NSUFF_FEM_SG
+وش	وِشّ	NOUN
+امك	أُمّ+َك	NOUN+POSS_PRON_2MS
+من	مِن	PREP
+زمان	زَمان	NOUN
+SENTENCE-BREAK
+	
+الوقت	ال+وَقْت	DET+NOUN
+هيعودك	حَ+يِ+عَوِّد+كِ	FUT_PART+IV3MS+IV+IVSUFF_DO:2FS
+على	عَلَى	PREP
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+كتير	كِتِير	NOUN
+متخيلتش	ما+تَخَيَّل+ت+ش	NEG_PART+PV+PVSUFF_SUBJ:2MS+NEG_PART
+ابدا	أَبَداً	NOUN
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تتعود	تِ+تْعَوِّد	IV2MS+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+بس	بَسّ	CONJ
+مش	مِش	NEG_PART
+هيقدر	حَ+يِ+قْدَر	FUT_PART+IV3MS+IV
+ينسيهالك	يِ+نَسِّي+ها+لِ+ِك	IV3MS+IV+IVSUFF_DO:3FS+PREP+PRON_2FS
+SENTENCE-BREAK
+	
+كل	كُلّ	NOUN_QUANT
+أنسان	إِنْسان	NOUN
+جواه	جُوّا+ُه	NOUN+POSS_PRON_3MS
+حكاية	حِكاي+َة	NOUN+NSUFF_FEM_SG
+أو	أَو	CONJ
+سبب	سَبَب	NOUN
+بيتحكموا	بِ+ي+تَحَكَّم+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+في	فِي	PREP
+أسلوب	أُسْلُوب	NOUN
+حياته	حَيا+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+وطريقته	وِ+طَرِيق+َة+هُ	CONJ+NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+,	,	PUNC
+فا	***noun_prop
+ماتحكمش	مَ+اِتْحَكَم+(نُلل)+ش	NEG_PART+PV_PASS+PVSUFF_SUBJ:3MS+NEG_PART
+علي	عَلَى	PREP
+حد	حَدّ	NOUN
+من	مِن	PREP
+الظاهر	ال+ظاهِر	DET+ADJ
+.	.	PUNC
+.	.	PUNC
+حلل	حِلَل	NOUN
+وأفهم	وَ+اِفْهَم+(نُلل)	CONJ+CV+CVSUFF_SUBJ:2MS
+الأسباب	ال+أَسْباب	DET+NOUN
+ساعتها	ساع+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+ممكن	مُمْكِن	ADJ
+تلاقي	تِ+لاقِي	IV2MS+IV
+له	لِ+ُه	PREP+PRON_3MS
+مليون	مِلْيُون	NOUN
+عذر	عُذْر	NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+ساعات	ساع+ات	NOUN+NSUFF_FEM_PL
+كتير	كِتِير	NOUN
+مبتبقاش	مَ+بِ+ت+بْقا+ش	NEG_PART+PROG_PART+IV2MS+IV+NEG_PART
+عارف	عارِف	ADJ
+أنت	اِنْتَ	PRON_2MS
+بتحس	بِ+تِ+حِسّ	PROG_PART+IV2MS+IV
+إيه	إِيه	NOUN
+ناحيتهم	ناحِي+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3MP
+ولا	وَلّا	CONJ
+هما	هُمَّ	PRON_3P
+بالنسبالك	***adj_comp
+إيه	إِيه	NOUN
+?	?	PUNC
+?	?	PUNC
+?	?	PUNC
+بس	بَسّ	CONJ
+بتحب	بِ+تِ+حِبّ	PROG_PART+IV3FS+IV
+تتكلم	تِ+تْكَلِّم	IV3FS+IV_PASS
+معاهم	مَعَ+هُم	NOUN+POSS_PRON_3P
+كل	كُلّ	NOUN_QUANT
+يوم	يَوم	NOUN
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+عشان	عَ+شان	PREP+NOUN
+مش	مِش	NEG_PART
+بسال	بِ+اَ+سْأَل	PROG_PART+IV1S+IV
+يبقى	يِ+بْقَى	IV3MS+IV
+مش	مِش	NEG_PART
+مهتمة	مُهْتَمّ+َة	ADJ+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+ممكن	مُمْكِن	ADJ
+يعنى	يَ+عْنِي	IV3MS+IV
+اكون	اَ+كُون	IV1S+IV
+مش	مِش	NEG_PART
+عارفة	عارْف+َة	ADJ+NSUFF_FEM_SG
+اتاقلم	اِتْأَقْلِم+(نُلل)	PV+PVSUFF_SUBJ:3MS
+عل	عَلَّ	PSEUDO_VERB
+جو	جَوّ	NOUN
+ده	دَه	DEM_PRON_MS
+او	أَو	CONJ
+مش	مِش	NEG_PART
+عايزة	عايْز+َة	ADJ+NSUFF_FEM_SG
+نتعامل	نِ+تْعامِل	IV1P+IV_PASS
+كدة	كِدَه	NOUN
+SENTENCE-BREAK
+	
+وانا	وِ+أَنا	CONJ+PRON_1S
+قاعد	قاعِد	ADJ
+بصلي	بِ+اَ+صَلِّي	PROG_PART+IV1S+IV
+في	فِي	PREP
+الحرم	ال+حَرَم	DET+NOUN
+واحد	واحِد	NOUN_NUM
+مصري	مَصْرِي	ADJ
+بيصلي	بِ+يِ+صَلِّي	PROG_PART+IV3MS+IV
+جنبي	جَنْبِيّ	ADJ
+بعد	بَعْد	NOUN
+ما	ما	SUB_CONJ
+خلصنا	خِلِص+نا	PV+PVSUFF_SUBJ:1P
+بيقولي	بِ+يِ+قُو+لِ+ِي	PROG_PART+IV3MS+IV+PREP+PRON_1S
+حرما	حَرَم+اً	NOUN+CASE_INDEF_ACC
+قولتله	قُول+ت+لِ+ُه	PV+PVSUFF_SUBJ:2MS+PREP+PRON_3MS
+أكتر	أَكْتَر	NOUN_QUANT
+من	مِن	PREP
+كده	كِدَه	NOUN
+!	!	PUNC
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+يبقى	يِ+بْقَى	IV3MS+IV
+متنميش	مِ+تَنْمِيش	PREP+NOUN
+وخليك	وَ+خَلِّيك	CONJ+NOUN
+قاعده	قاعْد+َة	ADJ+NSUFF_FEM_SG
+واسهرى	وَ+أَسْهَر+ِي	CONJ+NOUN+POSS_PRON_1S
+بردوه	بَرَد+ُو+هُ	PV+PVSUFF_SUBJ:3MP+PVSUFF_DO:3MS
+لحد	لِ+حَدّ	PREP+NOUN
+متفصلى	ما+تِ+فْصِل+ِي	NEG_PART+IV2FS+IV+IVSUFF_SUBJ:2FS
+خالص	خالِص	ADJ
+بعد	بَعْد	NOUN
+كده	كِدَه	NOUN
+نامى	نامِي	ADJ
+بليل	بَلِيل	NOUN
+@@LAT@@@sarrahsherrif	***adj_comp
+SENTENCE-BREAK
+	
+أحلى	أَحْلَى	ADJ_COMP
+أكلة	أَكْل+َة	NOUN+NSUFF_FEM_SG
+هي	هِيَّ	PRON_3FS
+اللي	اللِّي	REL_PRON
+بتاكلها	بِ+تِ+أْكُل+ها	PROG_PART+IV2MS+IV+IVSUFF_DO:3FS
+و	وَ	CONJ
+أنت	اِنْتَ	PRON_2MS
+ميت	مَيّ+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+الجوع	ال+جُوع	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+أحلى	أَحْلَى	ADJ_COMP
+شرب	شُرْب	NOUN
+و	وِ	CONJ
+أنت	اِنْتَ	PRON_2MS
+ميت	مَيّ+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+العطش	ال+عَطِش	DET+NOUN
+و	وَ	CONJ
+أحلى	أَحْلَى	ADJ_COMP
+فرحة	فَرْح+َة	NOUN+NSUFF_FEM_SG
+حتيجي	حَ+تِ+يْجِي	FUT_PART+IV2FS+IV
+و	وَ	CONJ
+أنت	اِنْتَ	PRON_2MS
+ميت	مَيِّت	NOUN
+من	مِن	PREP
+اليأس	إِلْياس	NOUN_PROP
+!	!	PUNC
+!	!	PUNC
+فإطمن	فَ+أُ+طَمِّن	CONJ+IV1S+IV
+SENTENCE-BREAK
+	
+فى	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+كدا	كِد+َة	NOUN+NSUFF_FEM_SG
+فاكرة	فاكْر+َة	ADJ+NSUFF_FEM_SG
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+اللى	اللِّي	REL_PRON
+من	مِن	PREP
+حقهم	حَقّ+هُم	NOUN+POSS_PRON_3P
+بس	بَسّ	CONJ
+يزعلوا	يِ+زْعَل+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+وان	وِ+إِنّ	CONJ+SUB_CONJ
+كل	كُلّ	NOUN_QUANT
+الناس	ال+ناس	DET+NOUN
+أتخلقوا	اِتْخَلَق+ُوا	PV_PASS+PVSUFF_SUBJ:3P
+علشان	***noun
+يصلحوهم	يُ+صْلِح+ُو+هُم	IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:3MP
+-	-	PUNC
+ـ	ـ	PUNC
+-	-	PUNC
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+اللى	اللِّي	REL_PRON
+مبسوطين	مَبْسُوطِين	ADJ
+فى	فِي	PREP
+حياتيهم	حَياتِيّ+هُم	ADJ+POSS_PRON_3MP
+و	وَ	CONJ
+راضيين	راضْي+ِين	ADJ+NSUFF_MASC_PL
+على	عَلَى	PREP
+قرارتهم	قَرار+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3MP
+بقوا	بَق+ُوا	PV+PVSUFF_SUBJ:3P
+قليلين	قُلَيِّل+ِين	ADJ+NSUFF_MASC_PL
+فى	فِي	PREP
+الزمن	ال+زَمَن	DET+NOUN
+ده	دَه	DEM_PRON_MS
+SENTENCE-BREAK
+	
+الغلط	ال+غَلَط	DET+NOUN
+مننا	مِنّ+نا	PREP+PRON_1P
+لما	لَمّا	SUB_CONJ
+نكلم	ن+كَلِّم	IV1P+IV
+حد	حَدّ	NOUN
+و	وَ	CONJ
+نهتم	نِ+هْتَمّ	IV1P+IV
+بيه	بِ+ُه	PREP+PRON_3MS
+جامد	جامِد	ADJ
+.	.	PUNC
+و	وَ	CONJ
+ساعات	ساع+ات	NOUN+NSUFF_FEM_PL
+بنحبه	بِ+نِ+حِبّ+ُه	PROG_PART+IV1P+IV+IVSUFF_DO:3MS
+,	,	PUNC
+بس	بَسّ	CONJ
+بتبقي	بِ+تِ+بْقَى	PROG_PART+IV3FS+IV
+عاوز	عاوِز	ADJ
+تقوله	تِ+قُول+ُه	IV2MS+IV+IVSUFF_DO:3MS
+انا	أَنا	PRON_1S
+اسف	آسِف	ADJ
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+حبيتك	حُبِّيّ+َة+كَ	ADJ+NSUFF_FEM_SG+POSS_PRON_2MS
+.	.	PUNC
+SENTENCE-BREAK
+	
+الاحترام	ال+اِحْتِرام	DET+NOUN
+مش	مِش	NEG_PART
+مقياس	مِقْياس	NOUN
+للحب	لِ+ال+حُبّ	PREP+DET+NOUN
+.	.	PUNC
+.	.	PUNC
+ممكن	مُمْكِن	ADJ
+اكون	اَ+كُون	IV1S+IV
+بحترمك	بِ+أَ+حْتَرِم+كَ	PROG_PART+IV1S+IV+IVSUFF_DO:2MS
+بس	بَسّ	CONJ
+بكرهك	بِ+كَرِه+كَ	PREP+ADJ+POSS_PRON_2MS
+عادي	عادِي	ADJ
+SENTENCE-BREAK
+	
+ماهو	ماهُوَ	REL_PRON
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+#	#	PUNC
+مسخره	مَسْخَر+َة	NOUN+NSUFF_FEM_SG
+اكتر	أَكْتَر	NOUN_QUANT
+من	مِن	PREP
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تلاقي	تِ+لاقِي	IV2MS+IV
+#	#	PUNC
+بنت	بِنْت	NOUN
+بتصلي	بِ+تِ+صَلِّي	PROG_PART+IV3FS+IV
+#	#	PUNC
+استخاره	ٱِسْتَخار+َ+هُ	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS
+عشان	عَ+شَأْن	PREP+NOUN
+محتاره	مُحْتار+َة	ADJ+NSUFF_FEM_SG
+تصاحب	تِ+صاحِب	IV3FS+IV
+#	#	PUNC
+ادهم	أَدْهَم	NOUN_PROP
+ولا	وَ+لا	CONJ+NEG_PART
+#	#	PUNC
+عمر	عُمَر	NOUN_PROP
+!	!	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@Osamawad_4	***adj_comp
+مش	مِش	NEG_PART
+عارفة	عارْف+َة	ADJ+NSUFF_FEM_SG
+ممكن	مُمْكِن	ADJ
+.	.	PUNC
+انا	أَنا	PRON_1S
+ما	ما	SUB_CONJ
+مرتش	مِ+رَتْش	PREP+NOUN
+بالموضوع	بِ+ال+مَوْضُوع	PREP+DET+NOUN
+ده	دَه	DEM_PRON_MS
+.	.	PUNC
+موقفي	مَوْقِف+ِي	NOUN+POSS_PRON_1S
+محدد	مُحَدَّد	ADJ
+و	وَ	CONJ
+ثابت	ثابِت	NOUN
+و	وَ	CONJ
+الحمد	ال+حَمْد	DET+NOUN
+لله	لِ+اللَّه	PREP+NOUN_PROP
+طلعت	طِلْع+ِت	PV+PVSUFF_SUBJ:3FS
+صح	صَحّ	ADJ
+!	!	PUNC
+!	!	PUNC
+حب	حُبّ	NOUN
+الوطن	ال+وَطَن	DET+NOUN
+مفيهوش	***prep
+نغلط	ن+غْلَط	IV1P+IV
+و	وَ	CONJ
+نصلح	نِ+صَلَّح	IV1P+IV
+.	.	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+لما	لَمّا	SUB_CONJ
+أموت	اَ+مُوت	IV1S+IV
+مش	مِش	NEG_PART
+هموت	حَ+اَ+مُوت	FUT_PART+IV1S+IV
+من	مِن	PREP
+المرض	ال+مَرَض	DET+NOUN
+بتاعى	بِتاع+ِي	NOUN+POSS_PRON_1S
+أنا	أَنا	PRON_1S
+لما	لَمّا	SUB_CONJ
+أموت	اَ+مُوت	IV1S+IV
+هموت	حَ+اَ+مُوت	FUT_PART+IV1S+IV
+من	مِن	PREP
+المرض	ال+مَرَض	DET+NOUN
+اللى	اللِّي	REL_PRON
+عندكوا	عَنْد+كُو	NOUN+POSS_PRON_2P
+أنتوا	اِنْتُو	PRON_2P
+SENTENCE-BREAK
+	
+@@LAT@@@lovly_y@Nour51728751	***adj_comp
+اللى	اللِّي	REL_PRON
+فاقعنى	***adj_comp
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+كمان	كَمان	ADV
+لابس	لابِس	ADJ
+الساعة	ال+ساع+َة	DET+NOUN+NSUFF_FEM_SG
+(	(	PUNC
+اللى	اللِّي	REL_PRON
+هى	هِيَّ	PRON_3FS
+مش	مِش	NEG_PART
+اوميجا	***adj_comp
+)	)	PUNC
+فى	فِي	PREP
+ايده	إِيد+ُه	NOUN+POSS_PRON_3MS
+اليمين	ال+يِمِين	DET+ADJ
+-	-	PUNC
+ياعينى	يا+عِينَي+ِي	VOC_PART+NOUN+POSS_PRON_1S
+على	عَلَى	PREP
+الورع	ال+وَرَع	DET+NOUN
+SENTENCE-BREAK
+	
+عارفة	عارْف+َة	ADJ+NSUFF_FEM_SG
+احساس	إِحْساس	NOUN
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+بفتكر	بِ+أَ+فْتَكِر	PROG_PART+IV1S+IV
+كلامك	كَلام+َك	NOUN+POSS_PRON_2MS
+الوحش	ال+وِحِش	DET+ADJ
+ابقى	اَ+بْقَى	IV1S+IV
+مش	مِش	NEG_PART
+طايق	طايِق	ADJ
+اشوفك	اَ+شُوف+َك	IV1S+IV+IVSUFF_DO:2MS
+و	وَ	CONJ
+افتكر	اَ+فْتِكِر	IV1S+IV
+ضحكتك	ضَحْك+َة+كَ	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+الحلوة	ال+حِلْو+َة	DET+ADJ+NSUFF_FEM_SG
+فا	***noun_prop
+توحشيني	***adj_comp
+!	!	PUNC
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+مكنتش	ما+كُن+ت+ش	NEG_PART+PV+PVSUFF_SUBJ:2MS+NEG_PART
+هتخلف	حَ+تِ+خَلِّف	FUT_PART+IV2FS+IV
+عيل	عَيِّل	NOUN
+تعرف	تِ+عْرَف	IV2FS+IV
+تربيه	تَرْبِيّ+َة	NOUN+NSUFF_FEM_SG
+صح	صَحّ	ADJ
+يبقي	يِ+بْقَى	IV3MS+IV
+بلاش	بَلاش	NOUN
+تقرف	تِ+قْرِف	IV3FS+IV
+المجتمع	ال+مُجْتَمَع	DET+NOUN
+بعيال	بِ+عِيال	PREP+NOUN
+زياده	زِياد+َة	NOUN+NSUFF_FEM_SG
+عدد	عَدَد	NOUN
+وخلاص	وِ+خَلاص	PREP+NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+العيادات	ال+عِياد+ات	DET+NOUN+NSUFF_FEM_PL
+النهاردة	ال+نَهارْدَه	DET+NOUN
+كانت	كان+ِت	PV+PVSUFF_SUBJ:3FS
+جامدة	جامْد+َة	ADJ+NSUFF_FEM_SG
+جدا	جِدّاً	NOUN
+والاضراب	وَ+ال+إِضْراب	CONJ+DET+NOUN
+كان	كان	PV
+هايل	هايِل	ADJ
+الحقيقة	ال+حَقِيق+َة	DET+NOUN+NSUFF_FEM_SG
+في	فِي	PREP
+مستشفي	مُسْتَشْفَى	NOUN
+راس	رَأْس	NOUN
+التين	ال+تِين	DET+NOUN
+العام	ال+عام	DET+ADJ
+SENTENCE-BREAK
+	
+عندك	عَنْد+َك	NOUN+POSS_PRON_2MS
+حد	حَدّ	NOUN
+بيهتم	بِ+يَ+هْتَمّ	PROG_PART+IV3MS+IV
+بيك	بِ+َك	PREP+PRON_2MS
+و	وَ	CONJ
+بيخاف	بِ+يِ+خاف	PROG_PART+IV3MS+IV
+عليك	عَلَى+َك	PREP+PRON_2MS
+طب	طَب	INTERJ
+خلي	خَلِّي+(نُلل)	CV+CVSUFF_SUBJ:2MS
+بالك	بال+َك	NOUN+POSS_PRON_2MS
+منه	مِنّ+ُه	PREP+PRON_3MS
+بقا	بَقا+(نُلل)	PV+PVSUFF_SUBJ:3MS
+عشان	عَ+شَأْن	PREP+NOUN
+ده	دَه	DEM_PRON_MS
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+منه	مِنّ+ُه	PREP+PRON_3MS
+كتير	كِتِير	NOUN
+أو	أَو	CONJ
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+منه	مِنّ+ُه	PREP+PRON_3MS
+أصلن	أَصَّل+نَ	PV+PVSUFF_SUBJ:3FP
+#	#	PUNC
+حقييقة	***adj
+SENTENCE-BREAK
+	
+تحية	تَحِيّ+َة	NOUN+NSUFF_FEM_SG
+لكل	لِ+كُلّ	PREP+NOUN_QUANT
+واحد	واحِد	NOUN
+كبر	كِبِر+(نُلل)	PV+PVSUFF_SUBJ:3MS
+النهاردة	ال+نَهارْدَه	DET+NOUN
+ومانزلش	وِ+ما+نَزَل+(نُلل)+ش	CONJ+NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+,	,	PUNC
+تنزل	تِ+نْزِل	IV3FS+IV
+اول	أَوَّل	ADJ
+يوم	يَوم	NOUN
+!	!	PUNC
+!	!	PUNC
+دة	دَه	DEM_PRON_MS
+حتي	حَتَّى	PART
+وحشة	وِحْش+َة	ADJ+NSUFF_FEM_SG
+لما	لَمّا	SUB_CONJ
+تتكتب	تِ+تْكِتِب	IV3FS+IV_PASS
+في	فِي	PREP
+ال	ال	DET
+@@LAT@@CV	***adj_comp
+.	.	PUNC
+SENTENCE-BREAK
+	
+إنت	اِنْتَ	PRON_2MS
+معصوم	مَعْصُوم	ADJ
+من	مِن	PREP
+الغلط	ال+غَلَط	DET+NOUN
+?	?	PUNC
+!	!	PUNC
+لاء	***noun_prop
+?	?	PUNC
+!	!	PUNC
+طب	طَب	INTERJ
+ليه	لَيه	INTERROG_ADV
+بقي	بَقَى	ADV
+بتحسسني	بِ+تَ+حْسَس+نِي	PROG_PART+IV3FS+IV+IVSUFF_DO:1S
+لما	لَمّا	SUB_CONJ
+بغلط	بِ+غَلَط	PREP+ADJ
+إن	إِنّ	SUB_CONJ
+دي	دِي	DEM_PRON_FS
+نهاية	نِهاي+َة	NOUN+NSUFF_FEM_SG
+العالم	ال+عالَم	DET+NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+!	!	PUNC
+SENTENCE-BREAK
+	
+بنفضل	بِ+نِ+فَضَل	PROG_PART+IV1P+IV
+نقول	نِ+قُول	IV1P+IV
+للناس	لِ+ال+ناس	PREP+DET+NOUN
+مافيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+تستاهل	تِ+سْتاهِل	IV3FS+IV
+والمفروض	وِ+ال+مَفْرُوض	CONJ+DET+ADJ
+نقول	نِ+قُول	IV1P+IV
+لنفسنا	لِ+نَفْس+نا	PREP+NOUN+POSS_PRON_1P
+الأول	ال+أَوَّل	DET+ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+أهو	أَ+هُوَّ	DEM_PRON+PRON_3MS
+الدكتور	ال+دُكْتَور	DET+NOUN
+بتاع	بِتاع	NOUN
+الإسكان	ال+اِسْكان	DET+NOUN
+بيقول	بِ+يِ+قُول	PROG_PART+IV3MS+IV
+أن	إِنّ	SUB_CONJ
+الغير	ال+غَيْر	DET+NOUN
+متزوجين	مُتَزَوِّج+ِين	ADJ+NSUFF_MASC_PL
+بيعملوا	بِ+يِ+عْمِل+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+أزمة	أَزْم+َة	NOUN+NSUFF_FEM_SG
+سكانية	سُكّانِيّ+َة	ADJ+NSUFF_FEM_SG
+,	,	PUNC
+وأنا	وَ+أَنا	CONJ+PRON_1S
+هقف	حَ+اَ+قَف	FUT_PART+IV1S+IV
+جنب	جَنْب	NOUN
+مصر	مَصْر	NOUN_PROP
+وهساعد	وِ+حَ+اَ+ساعِد	CONJ+FUT_PART+IV1S+IV
+في	فِي	PREP
+حل	حَلّ	NOUN
+المشكلة	ال+مُشْكِل+َة	DET+NOUN+NSUFF_FEM_SG
+,	,	PUNC
+جوزونا	جَوَّز+ُو+نا	PV+PVSUFF_SUBJ:3MP+PVSUFF_DO:1P
+بقى	بَقَى	ADV
+SENTENCE-BREAK
+	
+المراه	ال+مَرْأ+َة	DET+NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+احتفالات	اِحْتِفال+ات	NOUN+NSUFF_FEM_PL
+المرأه	ال+مَرْأ+َة	DET+NOUN+NSUFF_FEM_SG
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+منك	مِنّ+َك	PREP+PRON_2MS
+احترام	ٱِحْتِرام	NOUN
+وهى	وِ+هِيَّ	CONJ+PRON_3FS
+ماشيه	ماشْي+َة	ADJ+NSUFF_FEM_SG
+فشارع	فَ+شارِع	CONJ+NOUN
+متعكسهاش	***adj_comp
+لو	لَو	SUB_CONJ
+راكبه	راكِب+هُ	NOUN+POSS_PRON_3MS
+مواصلات	مُواصَل+ات	NOUN+NSUFF_FEM_PL
+قوم	قَوْم	NOUN
+انت	اِنْتَ	PRON_2MS
+وهى	وِ+هِيَّ	CONJ+PRON_3FS
+تعد	تِ+عِدّ	IV2MS+IV
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+احترام	اِحْتِرام	NOUN
+وبس	وِ+بَسّ	CONJ+ADV
+SENTENCE-BREAK
+	
+محدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+بيختار	بِ+يَ+خْتار	PROG_PART+IV3MS+IV
+آهلة	أَهْل+ُه	NOUN+POSS_PRON_3MS
+أو	أَو	CONJ
+حياتة	حَيا+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+بس	بَسّ	CONJ
+بتقدر	بِ+تِ+قَدَّر	PROG_PART+IV3FS+IV
+تختار	تِ+خْتار	IV2MS+IV
+وتحدد	وِ+تَ+حْدُد	CONJ+IV2MS+IV
+صحابك	صُحاب+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+مستقبلك	مُسْتَقْبَل+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+حلمك	حِلْم+َك	NOUN+POSS_PRON_2MS
+متخليش	مَ+تِ+خَلِّي+ش	NEG_PART+IV3FS+IV+NEG_PART
+حد	حَدّ	NOUN
+يحسسك	يِ+حَسِّس+َك	IV3MS+IV+IVSUFF_DO:2MS
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+أقل	أَقَلّ	ADJ_COMP
+منة	مِنّ+ُه	PREP+PRON_3MS
+مهما	مَهْما	CONJ
+كان	كان	PV
+السبب	ال+سَبَب	DET+NOUN
+SENTENCE-BREAK
+	
+ممكن	مُمْكِن	ADJ
+يكون	يِ+كُون	IV3MS+IV
+العيب	ال+عَيب	DET+NOUN
+فينا	فِي+نا	PREP+PRON_1P
+ان	إِنّ	SUB_CONJ
+مش	مِش	NEG_PART
+عاجبنا	عاجِب+نا	ADJ+PRON_1P
+حالنا	حال+نا	NOUN+POSS_PRON_1P
+لازم	لازِم	ADJ
+تبدأ	تِ+بْدَأ	IV3FS+IV
+تحب	تِ+حِبّ	IV2FS+IV
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+و	وَ	CONJ
+تشوفها	ت+شُوف+ها	IV2MS+IV+IVSUFF_DO:3FS
+حلوة	حِلْو+َة	ADJ+NSUFF_FEM_SG
+عشان	عَ+شان	PREP+NOUN
+الناس	ال+ناس	DET+NOUN
+كمان	كَمان	ADV
+تشوفك	ت+شُوف+َك	IV3FS+IV+IVSUFF_DO:2MS
+كدة	كِدَه	NOUN
+لأن	لِ+إِنّ	PREP+SUB_CONJ
+ببساطة	بِ+بَساط+َة	PREP+NOUN+NSUFF_FEM_SG
+محدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+هيحبك	حَ+يُ+حِبّ+َك	FUT_PART+IV3MS+IV+IVSUFF_DO:2MS
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+مبتحبش	ما+بِ+تِ+حِبّ+ش	NEG_PART+PROG_PART+IV2MS+IV+NEG_PART
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+(	(	PUNC
+2	2	NOUN_NUM
+)	)	PUNC
+SENTENCE-BREAK
+	
+انتوا	اِنْتُو	PRON_2P
+مش	مِش	NEG_PART
+متخيلين	مِتْخَيِّل+ِين	ADJ+NSUFF_MASC_PL
+انا	أَنا	PRON_1S
+بكره	بُكْر+َة	NOUN+NSUFF_FEM_SG
+الكليه	ال+كُلِّيّ+َة	DET+NOUN+NSUFF_FEM_SG
+ازاى	اِزّاي	INTERROG_ADV
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+انا	أَنا	PRON_1S
+بمشى	بِ+مَشْي	PREP+NOUN
+استخبى	***adj_comp
+من	مِن	PREP
+الناس	ال+ناس	DET+NOUN
+اللى	اللِّي	REL_PRON
+مبحبهاش	مَ+بِ+اَ+حِبّ+ها+ش	NEG_PART+PROG_PART+IV1S+IV+IVSUFF_DO:3FS+NEG_PART
+و	وَ	CONJ
+دول	دِوَل	NOUN
+كتير	كِتِير	NOUN
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+اجى	اَ+جِي	IV1S+IV
+اغسل	أَ+غْسِل	IV1S+IV
+سنانى	سِنان+ِي	NOUN+POSS_PRON_1S
+واشم	واشِم	NOUN
+ريحة	رِيح+َة	NOUN+NSUFF_FEM_SG
+مجارى	مِجارِي	NOUN
+ف	فَ	CONJ
+ام	أُمّ	NOUN
+المياة	ال+مِياه	DET+NOUN
+تبقى	تِ+بْقَى	IV3FS+IV
+عيشة	عِيش+َة	NOUN+NSUFF_FEM_SG
+تقرف	تِ+قْرِف	IV3FS+IV
+حتى	حَتَّى	PART
+المياة	ال+مِياه	DET+NOUN
+مش	مِش	NEG_PART
+عارفين	عارْف+ِين	ADJ+NSUFF_MASC_PL
+نشربها	نِ+شْرَب+ها	IV1P+IV+IVSUFF_DO:3FS
+اية	أَيَّة	INTERROG_PRON
+الذل	ال+ذُلّ	DET+NOUN
+دة	دَه	DEM_PRON_MS
+SENTENCE-BREAK
+	
+ببقى	بِ+اَ+بْقَى	PROG_PART+IV1S+IV
+محرج	مِحَرَّج	NOUN
+من	مِن	PREP
+الناس	ال+ناس	DET+NOUN
+اللى	اللِّي	REL_PRON
+عمرى	عُمْر+ِي	NOUN+POSS_PRON_1S
+ماشوفت	ما+شُوف+ت	NEG_PART+PV+PVSUFF_SUBJ:1S
+منهم	مِن+هُم	PREP+PRON_3MP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+وحشة	وِحْش+َة	ADJ+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+فيه	فِي+ُه	PREP+PRON_3MS
+حاجز	حاجِز	NOUN
+نفسى	نَفْس+ِي	NOUN+POSS_PRON_1S
+ناحيتهم	ناحِي+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3P
+لمجرد	لِ+مُجَرَّد	PREP+NOUN
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+بيفكرونى	بِ+يِ+فَكَّر+ُوا+نِي	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P+IVSUFF_DO:1S
+بأيام	بِ+اَيّام	PREP+NOUN
+زبالة	زِبال+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+معنديش	مَ+عَنْد+ِي+ش	NEG_PART+NOUN+POSS_PRON_1S+NEG_PART
+صحاب	صُحاب	NOUN
+في	فِي	PREP
+الحقيقة	ال+حَقِيق+َة	DET+NOUN+NSUFF_FEM_SG
+اخرج	اَ+خْرُج	IV1S+IV
+معاهم	مَعَ+هُم	NOUN+POSS_PRON_3P
+والكلام	وِ+ال+كَلام	CONJ+DET+NOUN
+ده	دَه	DEM_PRON_MS
+عشان	عَ+شَأْن	PREP+NOUN
+كل	كُلّ	NOUN_QUANT
+اللي	اللِّي	REL_PRON
+اعرفهم	اَ+عْرَف+هُم	IV1S+IV+IVSUFF_DO:3P
+في	فِي	PREP
+الحقيقة	ال+حَقِيق+َة	DET+NOUN+NSUFF_FEM_SG
+بيكرهوا	بِ+يِ+كْرَه+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+بعض	بَعْض	NOUN_QUANT
+وبيمثلوا	وِ+بِ+يِ+مَثِّل+ُوا	CONJ+PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+بيحبوا	بِ+يِ+حِبّ+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+بعض	بَعْض	NOUN_QUANT
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+البنت	ال+بِنْت	DET+NOUN
+اللى	اللِّي	REL_PRON
+بتسكت	بِ+تِ+سْكَت	PROG_PART+IV3FS+IV
+كتير	كِتِير	NOUN
+بتعيط	بِ+تِ+عَيَّط	PROG_PART+IV3FS+IV
+كتير	كِتِير	NOUN
+!	!	PUNC
+وربنا	وِ+رَبّ+نا	CONJ+NOUN+POSS_PRON_1P
+يكفيك	يِ+كَفِّي+َك	IV3MS+IV+IVSUFF_DO:2MS
+شر	شَرّ	NOUN
+البنت	ال+بِنْت	DET+NOUN
+لما	لَمّا	SUB_CONJ
+تكون	تِ+كُون	IV3FS+IV
+مبسوطه	مَبْسُوط+َة	ADJ+NSUFF_FEM_SG
+هتصدعك	حَ+تِ+صَدِّع+كَ	FUT_PART+IV3FS+IV+IVSUFF_DO:2MS
+من	مِن	PREP
+كتر	كُثْر	NOUN
+الكلام	ال+كَلام	DET+NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+المصري	ال+مَصْرِي	DET+ADJ
+الوحيد	ال+وَحِيد	DET+ADJ
+اللى	اللِّي	REL_PRON
+لو	لَو	SUB_CONJ
+حصلتله	حَصَل+ِت+لِ+ُه	PV+PVSUFF_SUBJ:3FS+PREP+PRON_3MS
+مصيبه	مُصِيب+َة	NOUN+NSUFF_FEM_SG
+وعرف	وَ+عُرِف+َ	CONJ+PV_PASS+PVSUFF_SUBJ:3MS
+انها	إِنّ+ها	SUB_CONJ+PRON_3FS
+مش	مِش	NEG_PART
+عنده	عَنْد+ُه	NOUN+POSS_PRON_3MS
+لوحده	لِ+وَحْد+ُه	PREP+NOUN+POSS_PRON_3MS
+يرتاح	يِ+رْتاح	IV3MS+IV
+يعنى	يَ+عْنِي	IV3MS+IV
+مثلا	مَثَل+اً	NOUN+CASE_INDEF_ACC
+لو	لَو	SUB_CONJ
+النور	ال+نُور	DET+NOUN_PROP
+قطع	قَطْع	NOUN
+يروح	يِ+رُوح	IV3MS+IV
+يبص	يِ+بُصّ	IV3MS+IV
+عند	عِنْد	NOUN
+جاره	جار+َة	NOUN+NSUFF_FEM_SG
+لو	لَو	SUB_CONJ
+لقاه	لِ+قاه	PREP+NOUN
+قاطع	قاطِع	ADJ
+يرتاح	يِ+رْتاح	IV3MS+IV
+SENTENCE-BREAK
+	
+@@LAT@@@ehabammar1@esslamhassan2	***adj_comp
+هما	هُمَّ	PRON_3P
+عاوزين	عاوْز+ِين	ADJ+NSUFF_MASC_PL
+كد	كَدّ	NOUN
+ويبقوا	وِ+يِ+بْق+ُوا	CONJ+IV3P+IV+IVSUFF_SUBJ:P
+ضحايا	ضَحايا	NOUN
+بس	بَسّ	CONJ
+في	فِي	PREP
+ستين	سِتِّين	NOUN_NUM
+الف	أَلْف	NOUN
+داهيه	داهْي+َة	NOUN+NSUFF_FEM_SG
+خونه	خَوْن+َة	NOUN+NSUFF_FEM_SG
+خدوا	خَد+ُوا	PV+PVSUFF_SUBJ:3P
+كتير	كِثِير	ADJ
+من	مِن	PREP
+مصر	مَصْر	NOUN_PROP
+وفي	وَ+فِي	CONJ+PREP
+الآخر	ال+آخِر	DET+NOUN
+خربوها	خِرْب+ُوا+ها	PV+PVSUFF_SUBJ:3P+PVSUFF_DO:3FS
+SENTENCE-BREAK
+	
+#	#	PUNC
+البلد	ال+بَلَد	DET+NOUN
+دي	دِي	DEM_PRON_FS
+مشكلتها	مُشْكِل+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+ان	إِنّ	SUB_CONJ
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+شايف	شايِف	ADJ
+نفسة	نَفَس+َة	NOUN+NSUFF_FEM_SG
+هو	هُوَّ	PRON_3MS
+بس	بَسّ	CONJ
+ال	ال	DET
+صح	صَحّ	ADJ
+#	#	PUNC
+و	وَ	CONJ
+مبيشوفش	مَ+بِ+ي+شُوف+ش	NEG_PART+PROG_PART+IV3MS+IV+NEG_PART
+غير	غَيْر	NOUN
+غلطات	غَلَط+ات	NOUN+NSUFF_FEM_PL
+الناس	ال+ناس	DET+NOUN
+#	#	PUNC
+بس	بَسّ	CONJ
+ياريت	يارَيت	PSEUDO_VERB
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+يغير	يَ+غَيَّر	IV3MS+IV
+من	مِن	PREP
+نفسة	نَفَس+َة	NOUN+NSUFF_FEM_SG
+الاول	ال+أَوَّل	DET+ADJ
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+#	#	PUNC
+في	فِي	PREP
+ـ	ـ	PUNC
+عالم	عالَم	NOUN
+ـ	ـ	PUNC
+موازي	مُوازِي	ADJ
+اتنين	اِثْنَين	NOUN_NUM
+فضلوا	فِضْل+ُوا	PV+PVSUFF_SUBJ:3P
+يحبوا	يِ+حِبّ+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+بعض	بَعْض	NOUN_QUANT
+وعاهدوا	وِ+عاهَد+ُوا	CONJ+PV+PVSUFF_SUBJ:3MP
+بعض	بَعْض	NOUN_QUANT
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+يتجوززوا	***adj_comp
+وحصل	وَ+حَصَّل+(نُلل)	CONJ+CV+CVSUFF_SUBJ:2MS
+واتجوزوا	وَ+اِتْجَوِّز+ُوا	CONJ+PV+PVSUFF_SUBJ:3P
+وخلفوا	وِ+خَلَّف+ُوا	CONJ+PV+PVSUFF_SUBJ:3MP
+عيال	عِيال	NOUN
+مؤدبة	مُؤَدَّب+َة	ADJ+NSUFF_FEM_SG
+خالص	خالِص	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+الثوار	ال+ثُوّار	DET+NOUN
+اللي	اللِّي	REL_PRON
+شايفين	شايْف+ِين	ADJ+NSUFF_MASC_PL
+البرادعي	ال+بَرادِعِيّ	DET+ADJ
+أيقونة	إِيقُون+َة	NOUN+NSUFF_FEM_SG
+وبيدعموا	وِ+بِ+يَ+دْعَم+ُوا	CONJ+PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+حمدين	حَمْدَيْن	NOUN_PROP
+اللي	اللِّي	REL_PRON
+الأيقونة	ال+إِيقُون+َة	DET+NOUN+NSUFF_FEM_SG
+قال	قال+(نُلل)	PV+PVSUFF_SUBJ:3MS
+عليه	عَلَى+ُه	PREP+PRON_3MS
+زبال	زَبّال	NOUN
+ومتخلف	وِ+مُتَخَلِّف	PREP+ADJ
+بيعملوا	بِ+يِ+عْمِل+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+إيه	إِيه	NOUN
+دلوقتي	دِلْوَقْتِي	ADV
+?	?	PUNC
+أكيد	أَكِيد	NOUN
+بيدخلوا	بِ+يُ+دْخُل+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+في	فِي	PREP
+الحيطان	ال+حِيطان	DET+NOUN
+زي	زَيّ	NOUN
+الوطواط	ال+وَطْواط	DET+NOUN
+SENTENCE-BREAK
+	
+ايوة	أَيوَه	INTERJ
+اتغيرت	اِتْغَيَّر+ِت	PV+PVSUFF_SUBJ:3FS
+.	.	PUNC
+.	.	PUNC
+فيها	فِي+ها	PREP+PRON_3FS
+اية	أَيَّة	INTERROG_PRON
+يعني	يَ+عْنِي	IV3MS+IV
+!	!	PUNC
+!	!	PUNC
+ماهو	ماهُوَ	REL_PRON
+مفيش	مِفَيِّش	NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+بتفضل	بِ+تِ+فْضَل	PROG_PART+IV3FS+IV
+علي	عَلَى	PREP
+حالها	حال+ها	NOUN+POSS_PRON_3FS
+,	,	PUNC
+,	,	PUNC
+اشمعنا	***adv_interrog
+انا	أَنا	PRON_1S
+هفضل	حَ+اَ+فْضَل	FUT_PART+IV1S+IV
+علي	عَلَى	PREP
+حالي	حالِي	ADJ
+SENTENCE-BREAK
+	
+يعني	يَ+عْنِي	IV3MS+IV
+اللي	اللِّي	REL_PRON
+قعدوا	قَعَد+ُوا	PV+PVSUFF_SUBJ:3P
+سارقين	سارِق+َيْنِ	NOUN+NSUFF_MASC_DU_ACC
+البلد	ال+بَلَد	DET+NOUN
+30	30	NOUN_NUM
+سنة	سَن+َة	NOUN+NSUFF_FEM_SG
+و	وَ	CONJ
+قتلوا	قَتَل+ُوا	PV+PVSUFF_SUBJ:3P
+المتظاهرين	ال+مُتَظاهِر+ِين	DET+NOUN+NSUFF_MASC_PL
+بيأخدوا	بِ+ي+اخْذ+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+براءات	بَراء+ات	NOUN+NSUFF_FEM_PL
+و	وَ	CONJ
+الشريف	ال+شِرِيف	DET+ADJ
+يأخد	يَ+أْخُذ	IV3MS+IV
+اعدام	اِعْدام	NOUN
+لمجرد	لِ+مُجَرَّد	PREP+NOUN
+انة	أَنَّ+هُ	SUB_CONJ+PRON_3MS
+نزل	نِزِل+(نُلل)	PV+PVSUFF_SUBJ:3MS
+فى	فِي	PREP
+مظاهرات	مُظاهَر+ات	NOUN+NSUFF_FEM_PL
+@@LAT@@http://t.co/0pKKpC92Ap	***digit
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+عايز	عايِز	NOUN
+تنام	تَنام	NOUN
+ومش	وِ+مِش	CONJ+NEG_PART
+عارف	عارِف	ADJ
+,	,	PUNC
+قوم	قَوْم	NOUN
+ذاكر	ذاكِر+(نُلل)	CV+CVSUFF_SUBJ:2MS
+وإن	وِ+إِن	CONJ+SUB_CONJ
+شاء	شاء+(نُلل)	PV+PVSUFF_SUBJ:3MS
+الله	اللَّه	NOUN_PROP
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+هيوفقك	حَ+يِ+وَفْق+ِك	FUT_PART+IV3MS+IV+IVSUFF_DO:2FS
+,	,	PUNC
+وتنام	وَ+تَنام	CONJ+NOUN
+@@LAT@@D:	***adj_comp
+SENTENCE-BREAK
+	
+انت	اِنْتَ	PRON_2MS
+الواحيد	***adj_comp
+اللى	اللِّي	REL_PRON
+عارف	عارِف	ADJ
+امتى	إِمْتَى	INTERROG_ADV
+تقف	تُ+قَف	IV3FS+IV
+وامتى	وِ+إِمْتَى	CONJ+INTERROG_ADV
+تكمل	تِ+كَمِّل	IV3FS+IV
+متخليش	مَ+تِ+خَلّ+ِي+ش	NEG_PART+IV2FS+IV+IVSUFF_SUBJ:2FS+NEG_PART
+حد	حَدّ	NOUN
+يحبطك	يِ+حْبِط+كِ	IV3MS+IV+IVSUFF_DO:2FS
+انت	اِنْتَ	PRON_2MS
+مفتاح	مُفْتاح	NOUN
+نجاحك	نَجاح+َك	NOUN+POSS_PRON_2MS
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+لا	لا	INTERJ
+انا	أَنا	PRON_1S
+مش	مِش	NEG_PART
+مضايق	مُضايِق	ADJ
+انا	أَنا	PRON_1S
+كويس	كُوَيِّس	ADJ
+اهو	أَ+هُوَّ	DEM_PRON+PRON_3MS
+ومش	وِ+مِش	CONJ+NEG_PART
+مخنوق	مَخْنُوق	ADJ
+كمان	كَمان	ADV
+انا	أَنا	PRON_1S
+زي	زَيّ	NOUN
+الفل	ال+فُلّ	DET+NOUN
+ومن	وَ+مِن	CONJ+PREP
+جوايا	جُوّا+ِي	NOUN+POSS_PRON_1S
+بقول	بِ+اَ+قُول	PROG_PART+IV1S+IV
+ل	لِ	PREP
+لساني	لِسان+ِي	NOUN+POSS_PRON_1S
+خف	خَفّ	NOUN
+كدب	كِذْب	NOUN
+SENTENCE-BREAK
+	
+@@LAT@@@CAP_SHADY	***adj_comp
+دي	دِي	DEM_PRON_FS
+حقيقه	حَقِيق+َة	NOUN+NSUFF_FEM_SG
+للاسف	لِ+ال+أَسَف	PREP+DET+NOUN
+الواحد	ال+واحِد	DET+NOUN
+بقي	بَقَى	ADV
+بيقول	بِ+يِ+قُول	PROG_PART+IV3MS+IV
+الفاظ	اَلْفاظ	NOUN
+ملهاش	مَ+لِ+ها+ش	NEG_PART+PREP+PRON_3FS+NEG_PART
+اي	أَيّ	NOUN_QUANT
+علاقه	عِلاق+َة	NOUN+NSUFF_FEM_SG
+بتربيته	بِ+تَرْبِي+َة+هُ	PREP+NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+ابويا	أَبُو+ِي	NOUN+POSS_PRON_1S
+لو	لَو	SUB_CONJ
+عرف	عَرَف+(نُلل)	PV+PVSUFF_SUBJ:3MS
+هيدبحني	حَ+يِ+دْبَح+نِي	FUT_PART+IV3MS+IV+IVSUFF_DO:1S
+شقا	شَقّ+َة	NOUN+NSUFF_FEM_SG
+عمره	عُمْر+ُه	NOUN+POSS_PRON_3MS
+منهم	مِن+هُم	PREP+PRON_3MP
+لله	لِ+اللَّه	PREP+NOUN_PROP
+الباردين	ال+بارْد+ِين	DET+NOUN+NSUFF_MASC_PL
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+بتحس	بِ+تِ+حِسّ	PROG_PART+IV2MS+IV
+ان	إِنّ	SUB_CONJ
+في	فِي+ُه	PREP+PRON_3MS
+حد	حَدّ	NOUN
+مركز	مَرْكَز	NOUN
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+و	وَ	CONJ
+باصص	بِ+أُصُص	PREP+NOUN
+عليك	عَلَى+َك	PREP+PRON_2MS
+غبائك	غَبائ+ِك	NOUN+POSS_PRON_2FS
+و	وَ	CONJ
+هبلك	هَبَل+َك	NOUN+POSS_PRON_2MS
+بيزيدوا	بِ+يِ+زِيد+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+بغباء	بِ+غَباء	PREP+NOUN
+بقى	بَقَى	ADV
+!	!	PUNC
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+متهمنيش	ما+تِ+هِمّ+نِي+ش	NEG_PART+IV2MS+IV+IVSUFF_DO:1S+NEG_PART
+.	.	PUNC
+.	.	PUNC
+كان	كان	PV
+من	مِن	PREP
+بدري	بَدْرِي	ADV
+اسيبك	اَ+سِيب+ِك	IV1S+IV+IVSUFF_DO:2FS
+واعيش	وَ+أَ+عِيش	CONJ+IV1S+IV
+.	.	PUNC
+.	.	PUNC
+ولا	وَ+لا	CONJ+NEG_PART
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+ارجع	اَ+رْجَع	IV1S+IV
+اقول	اَ+قُول	IV1S+IV
+حبيبي	حَبِيب+ِي	NOUN+POSS_PRON_1S
+.	.	PUNC
+.	.	PUNC
+مين	مِين	REL_PRON
+هيبقى	حَ+يِ+بْقَى	FUT_PART+IV3MS+IV
+عليك	عَلَى+َك	PREP+PRON_2MS
+كده	كِدَه	NOUN
+?	?	PUNC
+?	?	PUNC
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+#	#	PUNC
+متفائل	مُتَفائِل	ADJ
+لدرجة	لِ+دَرَج+َة	PREP+NOUN+NSUFF_FEM_SG
+أن	إِنّ	SUB_CONJ
+لو	لَو	SUB_CONJ
+حصلت	حَصَل+ِت	PV+PVSUFF_SUBJ:3FS
+لك	لِ+َك	PREP+PRON_2MS
+مشكلة	مُشْكِل+َة	NOUN+NSUFF_FEM_SG
+ماتضايقش	***adj_comp
+على	عَلَى	PREP
+أاد	***adj_comp
+ما	ما	SUB_CONJ
+المفروض	ال+مَفْرُوض	DET+ADJ
+تفرح	تِ+فْرِح	IV3FS+IV
+علشان	***noun
+هتقربك	حَ+تِ+قَرَّب+َك	FUT_PART+IV2MS+IV+IVSUFF_DO:2MS
+أكتر	أَكْتَر	NOUN_QUANT
+من	مِن	PREP
+#	#	PUNC
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+روح	رُوح+(نُلل)	CV+CVSUFF_SUBJ:2MS
+هاتلك	حَ+تَ+ل+كَ	FUT_PART+IV3FS+IV+IVSUFF_DO:2MS
+شيكولاته	شُيْكُولات+َة	NOUN+NSUFF_FEM_SG
+بتحبها	بِ+ت+حِبّ+ها	PROG_PART+IV2MS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+.	.	PUNC
+انزل	اِنْزِل+(نُلل)	CV+CVSUFF_SUBJ:2MS
+اقابل	اَ+قابِل	IV1S+IV
+اصحابك	اَصْحاب+َك	NOUN+POSS_PRON_2MS
+.	.	PUNC
+.	.	PUNC
+اقفل	اَ+قْفِل	IV1S+IV
+النور	ال+نُور	DET+NOUN_PROP
+وشغل	وِ+شُغْل	PREP+NOUN
+فيلم	فِيلم	NOUN
+بتحبه	بِ+تِ+حِبّ+ُه	PROG_PART+IV3FS+IV+IVSUFF_DO:3MS
+.	.	PUNC
+.	.	PUNC
+شغل	شُغْل	NOUN
+اغاني	اَغانِي	NOUN
+دوشة	دُوش+هُ	NOUN+POSS_PRON_3MS
+وارقص	وِ+اَ+رْقُص	CONJ+IV1S+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+.	.	PUNC
+.	.	PUNC
+برضه	بَرْضُه	ADV
+الاكتئاب	ال+ٱِكْتِئاب	DET+NOUN
+مش	مِش	NEG_PART
+حيروح	حَ+يِ+رَوَّح	FUT_PART+IV3MS+IV
+يا	يا	VOC_PART
+اهبل	أَهْبَل	NOUN
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يكفيكوا	يِ+كْفِي+كُو	IV3MS+IV+IVSUFF_DO:2P
+شر	شَرّ	NOUN
+بيت	بَيت	NOUN
+كل	كُلّ	NOUN_QUANT
+اودة	أَوْد+َة	NOUN+NSUFF_FEM_SG
+فيه	فِي+ُه	PREP+PRON_3MS
+قاعد	قاعِد	ADJ
+فيها	فِي+ها	PREP+PRON_3FS
+حد	حَدّ	NOUN
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+مش	مِش	NEG_PART
+لاقي	لاقِي	ADJ
+مكان	مَكان	NOUN
+تعيط	تُ+عَيِّط	IV3FS+IV
+فيه	فِي+ُه	PREP+PRON_3MS
+-	-	PUNC
+.	.	PUNC
+-	-	PUNC
+SENTENCE-BREAK
+	
+اوقات	أَوق+ات	NOUN+NSUFF_FEM_PL
+بشوف	بِ+اَ+شُوف	PROG_PART+IV1S+IV
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+غريبه	غَرِيب+َة	ADJ+NSUFF_FEM_SG
+بخاف	بِ+اَ+خاف	PROG_PART+IV1S+IV
+اقول	اَ+قُول	IV1S+IV
+انها	إِنّ+ها	SUB_CONJ+PRON_3FS
+غريبه	غَرِيب+َة	ADJ+NSUFF_FEM_SG
+احسن	أَحْسَن	ADJ_COMP
+الناس	ال+ناس	DET+NOUN
+تقول	تُ+قُول	IV3FS+IV
+عليا	عُلْيا	ADJ
+غريب	غَرِيب	ADJ
+و	وَ	CONJ
+ده	دَه	DEM_PRON_MS
+بقى	بَقَى	ADV
+الغريب	ال+غَرِيب	DET+ADJ
+فى	فِي	PREP
+الموضوع	ال+مَوْضُوع	DET+NOUN
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+ما	ما	FOCUS_PART
+تسجنش	***adj_comp
+نفسك	نِفْس+ِك	NOUN+POSS_PRON_2FS
+جو	جَوّ	NOUN
+حوار	حِوار	NOUN
+معين	مُعَيَّن	ADJ
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+عارف	عارِف	ADJ
+تتكلم	تِ+تْكَلِّم	IV3FS+IV
+فى	فِي	PREP
+اى	أَيّ	NOUN_QUANT
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+الحياة	ال+حَيا+َة	DET+NOUN+NSUFF_FEM_SG
+والله	وَ+اللَّه	PREP+NOUN_PROP
+بس	بَسّ	CONJ
+عشها	عُشّ+ها	NOUN+POSS_PRON_3FS
+صح	صَحّ	ADJ
+هتحبها	حَ+ت+حِبُّ+ها	FUT_PART+IV2MS+IV+IVSUFF_DO:3FS
+وحتبك	وَ+حَ+تِ+بَكّ	CONJ+FUT_PART+IV2MS+IV
+SENTENCE-BREAK
+	
+بلاش	بَلاش	NOUN
+تحكم	تِ+حْكُم	IV3FS+IV
+علي	عَلَى	PREP
+حد	حَدّ	NOUN
+من	مِن	PREP
+المظهر	ال+مَظْهَر	DET+NOUN
+أو	أَو	CONJ
+من	مِن	PREP
+بره	بَرَّة	NOUN
+بس	بَسّ	CONJ
+,	,	PUNC
+هو	هُوَ	PRON_3MS
+ممكن	مُمْكِن	ADJ
+يبان	يِ+بان	IV3MS+IV
+أدامك	أُدّام+َك	NOUN+POSS_PRON_2MS
+أنه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+أسعد	أَسْعَد	NOUN
+واحد	واحِد	NOUN_NUM
+في	فِي	PREP
+الدنيا	ال+دُنْيا	DET+NOUN
+بس	بَسّ	CONJ
+هو	هُوَّ	PRON_3MS
+من	مِن	PREP
+جواه	جُوّا+ُه	NOUN+POSS_PRON_3MS
+ميت	مَيّ+َة	NOUN+NSUFF_FEM_SG
+,	,	PUNC
+,	,	PUNC
+:	:	PUNC
+)	)	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+انت	اِنْتَ	PRON_2MS
+ي	ي	ABBREV
+بني	بَنِي	NOUN
+مش	مِش	NEG_PART
+بتنام	بِ+تِ+نام	PROG_PART+IV3FS+IV
+غير	غَيْر	NOUN
+فى	فِي	PREP
+محاضراتى	مُحاضَر+ات+ِي	NOUN+NSUFF_FEM_PL+POSS_PRON_1S
+?	?	PUNC
+?	?	PUNC
+ما	ما	FOCUS_PART
+حضرتك	حَضْر+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+دايما	دايْم+اً	ADJ+CASE_INDEF_ACC
+بتوفر	بِ+تِ+وْفُر	PROG_PART+IV3FS+IV
+الجو	ال+جَوّ	DET+NOUN
+المناسب	ال+مُناسِب	DET+ADJ
+للنوم	لِ+ال+نَوم	PREP+DET+NOUN
+بصراحه	بِ+صَراح+َة	PREP+NOUN+NSUFF_FEM_SG
+!	!	PUNC
+#	#	PUNC
+يا	يا	VOC_PART
+ـ	ـ	PUNC
+دكتور	دُكْتَور	NOUN
+SENTENCE-BREAK
+	
+الو	أُلُو	NOUN
+ماكدونلز	***adj_comp
+?	?	PUNC
+ايوة	أَيوَه	INTERJ
+يا	يا	VOC_PART
+فندم	فَ+نَدَم	CONJ+NOUN
+طاب	طاب+(نُلل)	PV+PVSUFF_SUBJ:3MS
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+ماما	ماما	NOUN
+اهو	أَ+هُوَّ	DEM_PRON+PRON_3MS
+قولها	قَول+ها	NOUN+POSS_PRON_3FS
+بالظبط	بِ+ال+ظَبْط	PREP+DET+NOUN
+بتعملو	بِ+تِ+عْمِل+ُه	PROG_PART+IV3FS+IV+IVSUFF_DO:3MS
+البطاطس	ال+بَطاطِس	DET+NOUN
+بتاعتكو	بِتاع+َة+كُو	NOUN+NSUFF_FEM_SG+POSS_PRON_2P
+ازاى	اِزّاي	INTERROG_ADV
+خدي	خَدّ+ِي	NOUN+POSS_PRON_1S
+يا	يا	VOC_PART
+ماما	ماما	NOUN
+كلمي	كَلَم+ِي	NOUN+POSS_PRON_1S
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+لما	لَمّا	SUB_CONJ
+حد	حَدّ	NOUN
+يسألني	يِ+سْأَل+نِي	IV3MS+IV+IVSUFF_DO:1S
+برجك	بِ+رَجّ+كِ	PREP+NOUN+POSS_PRON_2FS
+ايه	أَيَّة	INTERROG_PRON
+بتكسف	بِ+تِ+كْسِف	PROG_PART+IV2MS+IV
+اقوله	اَ+قُول+ُه	IV1S+IV+IVSUFF_DO:3MS
+العذاراء	***noun
+بصراحة	بِ+صَراح+َة	PREP+NOUN+NSUFF_FEM_SG
+احا	أَحّ+اً	NOUN+CASE_INDEF_ACC
+اصلا	أَصْلاً	NOUN
+مين	مِين	REL_PRON
+اللي	اللِّي	REL_PRON
+سمي	سَمَّى+(نُلل)	PV+PVSUFF_SUBJ:3MS
+الابراج	ال+أَبْراج	DET+NOUN
+دي	دِي	DEM_PRON_FS
+SENTENCE-BREAK
+	
+و	وَ	CONJ
+انت	اِنْتَ	PRON_2MS
+ماشي	ماشِي	ADJ
+مع	مَعَ	NOUN
+حد	حَدّ	NOUN
+و	وَ	CONJ
+بتدور	بِ+تِ+دَوَّر	PROG_PART+IV3FS+IV
+علي	عَلَى	PREP
+حد	حَدّ	NOUN
+تاني	تانِي	ADJ
+في	فِي	PREP
+وشوش	وُشُوش	NOUN
+الناس	ال+ناس	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+اعرف	اَ+عْرَف	IV1S+IV
+انك	إِنّ+َك	SUB_CONJ+PRON_2MS
+مش	مِش	NEG_PART
+بتحتجله	***adj_comp
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+مش	مِش	NEG_PART
+ده	دَه	DEM_PRON_MS
+اللي	اللِّي	REL_PRON
+انت	اِنْتَ	PRON_2MS
+عاوزوه	عاوِز+ُو+هُ	NOUN+NSUFF_MASC_PL_NOM+POSS_PRON_3MS
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+وفضلوا	وِ+فِضْل+ُوا	CONJ+PV+PVSUFF_SUBJ:3P
+يتريأوا	***adj_comp
+عليهم	عَلَى+هُم	NOUN+POSS_PRON_3P
+وانتوا	وِ+اِنْتُو	CONJ+PRON_2P
+جايين	جايّ+ِين	ADJ+NSUFF_MASC_PL
+تعملوا	تِ+عْمِل+ُوا	IV2P+IV+IVSUFF_SUBJ:P
+ايه	إِيه	NOUN
+دا	دَه	DEM_PRON_MS
+انتوا	اِنْتُو	PRON_2P
+مهما	مَهْما	REL_PRON
+عملتوا	عَمَل+تُوا	PV+PVSUFF_SUBJ:2P
+ماحدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+هيسمع	حَ+يِ+سْمَع	FUT_PART+IV3MS+IV
+والشيوخ	وَ+ال+شُيُوخ	CONJ+DET+NOUN
+فضلوا	فِضْل+ُوا	PV+PVSUFF_SUBJ:3P
+يكلموهم	ي+كَلِّم+ُوا+هُم	IV3P+IV+IVSUFF_SUBJ:P+IVSUFF_DO:3P
+عن	عَن	PREP
+الحرام	ال+حَرام	DET+NOUN
+والحلال	وِ+ال+حَلال	CONJ+DET+NOUN
+لحد	لِ+حَدّ	PREP+NOUN
+ما	ما	SUB_CONJ
+الشباب	ال+شَباب	DET+NOUN
+هديوا	هِدْي+ُوا	PV+PVSUFF_SUBJ:3P
+-	-	PUNC
+3	3	NOUN_NUM
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+غلطانه	غَلْطان+َة	ADJ+NSUFF_FEM_SG
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+سمعت	سِمِع+ت	PV+PVSUFF_SUBJ:1S
+كلام	كَلام	NOUN
+ماما	ماما	NOUN
+نجوي	نَجْوَى	NOUN
+لما	لَمّا	SUB_CONJ
+قالت	قال+ِت	PV+PVSUFF_SUBJ:3FS
+سامح	سامِح+(نُلل)	PV+PVSUFF_SUBJ:3MS
+ياسامح	يا+سامِح	VOC_PART+ADJ
+سامح	سامِح+(نُلل)	PV+PVSUFF_SUBJ:3MS
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+مسامح	مِسامِح	NOUN
+سامح	سامِح+(نُلل)	PV+PVSUFF_SUBJ:3MS
+كان	كان	PV
+لازم	لازِم	ADJ
+ياخدوا	ي+أَخْد+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+بالجزمه	بِ+ال+جَزْم+َة	PREP+DET+NOUN+NSUFF_FEM_SG
+احنا	اِحْنا	PRON_1P
+جيل	جِيل	NOUN
+اتربي	اِتْرَبَّى+(نُلل)	PV_PASS+PVSUFF_SUBJ:3MS
+غلط	غَلَط	ADJ
+SENTENCE-BREAK
+	
+نفسى	نِفْس+ِي	NOUN+POSS_PRON_1S
+امى	أُمّ+ِي	NOUN+POSS_PRON_1S
+تقتنع	تِ+قْتَنِع	IV3FS+IV
+انى	أَنّ+ِي	SUB_CONJ+PRON_1S
+لما	لَمّا	SUB_CONJ
+هطلع	حَ+أَ+طَّلِع	FUT_PART+IV1S+IV
+العصير	ال+عَصِير	DET+NOUN
+لصحابى	لِ+صُحاب+ِي	PREP+NOUN+POSS_PRON_1S
+من	مِن	PREP
+غير	غَيْر	NOUN
+صينية	صِينِيّ+َة	ADJ+NSUFF_FEM_SG
+هيشربوة	حَ+يُ+شَرِّب+ُو+هُ	FUT_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:3MS
+عادى	عادِي	ADJ
+دول	دُوَل	NOUN
+مبيقولوش	ما+بِ+يِ+قُول+ُوا+ش	NEG_PART+PROG_PART+IV3P+IV+IVSUFF_SUBJ:P+NEG_PART
+لأ	لا	NEG_PART
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+@@LAT@@@ibrahem_mhlb	***adj_comp
+@@LAT@@@Nsaaemm	***adj_comp
+حزب	حِزْب	NOUN
+النور	ال+نُور	DET+NOUN_PROP
+شعارهم	شِعار+هُم	NOUN+POSS_PRON_3MP
+"	"	PUNC
+شغال	شَغّال	ADJ
+فى	فِي	PREP
+اى	أَيّ	NOUN_QUANT
+مجال	مَجال	NOUN
+,	,	PUNC
+نساند	نُ+سانِد	IV1P+IV
+اى	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+ونبوس	وِ+نَ+بُوس	CONJ+IV1P+IV
+ايده	إِيد+ُه	NOUN+POSS_PRON_3MS
+ما	ما	NEG_PART
+دامت	دام+َت	PV+PVSUFF_SUBJ:3FS
+القوة	ال+قُوّ+َة	DET+NOUN+NSUFF_FEM_SG
+معه	مَعَ+ُه	NOUN+POSS_PRON_3MS
+"	"	PUNC
+من	مِن	PREP
+الآخر	ال+آخِر	DET+NOUN
+يخافوا	ي+خاف+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+مايختشوش	***adj_comp
+SENTENCE-BREAK
+	
+شايف	شايِف	ADJ
+الواد	ال+واد	DET+NOUN
+اللي	اللِّي	REL_PRON
+هناك	هِناك	ADV
+ده	دَه	DEM_PRON_MS
+بس	بَسّ	CONJ
+متبصلوش	مَ+تِ+بُصّ+لِ+ُه+ش	NEG_PART+IV3FS+IV+PREP+PRON_3MS+NEG_PART
+?	?	PUNC
+?	?	PUNC
+بقولك	بِ+اَ+قُول+َك	PROG_PART+IV1S+IV+IVSUFF_DO:2MS
+متبصلوش	مَ+تِ+بُصّ+لِ+ُه+ش	NEG_PART+IV2MS+IV+PREP+PRON_3MS+NEG_PART
+?	?	PUNC
+!	!	PUNC
+!	!	PUNC
+بصتلو	بَصّ+ِت+لِ+ُه	PV+PVSUFF_SUBJ:3FS+PREP+PRON_3MS
+بردو	بَرْضُه	ADV
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+ايوه	أَيوَه	INTERJ
+انا	أَنا	PRON_1S
+اللى	اللِّي	REL_PRON
+بيتغير	بِ+يِ+تْغَيَّر	PROG_PART+IV3MS+IV_PASS
+المود	***adj_comp
+بتاعه	بِتاع+َة	NOUN+NSUFF_FEM_SG
+على	عَلَى	PREP
+حسب	حَسَب	NOUN
+الاغنيه	ال+أُغْنِي+َة	DET+NOUN+NSUFF_FEM_SG
+اللى	اللِّي	REL_PRON
+بيسمعها	بِ+يِ+سَمِّع+ها	PROG_PART+IV3MS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+.	.	PUNC
+حلوه	حِلْو+َة	ADJ+NSUFF_FEM_SG
+افرح	اَ+فْرَح	IV1S+IV
+.	.	PUNC
+.	.	PUNC
+وحشه	وِحْش+َة	ADJ+NSUFF_FEM_SG
+ازعل	اَ+زْعَل	IV1S+IV
+تحس	تِ+حِسّ	IV2FS+IV
+انى	أَنّ+ِي	SUB_CONJ+PRON_1S
+زايط	زايِط	ADJ
+فى	فِي	PREP
+الزيطه	ال+زَيط+َة	DET+NOUN+NSUFF_FEM_SG
+@@LAT@@xD	***adj_comp
+SENTENCE-BREAK
+	
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+فينا	فِي+نا	PREP+PRON_1P
+اول	أَوَّل	ADJ
+ما	ما	SUB_CONJ
+بتيجى	بِ+تِ+يْجِي	PROG_PART+IV3FS+IV
+سيرة	سِير+َة	NOUN+NSUFF_FEM_SG
+قلة	قِلّ+َة	NOUN+NSUFF_FEM_SG
+الاصل	ال+أَصْل	DET+NOUN
+ادامه	أَدّام+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+بيفتكر	بِ+يِ+فْتَكِر	PROG_PART+IV3MS+IV
+اتوماتيك	اُتُوماتِيك	NOUN
+شخص	شَخْص	NOUN
+معين	مُعَيَّن	ADJ
+#	#	PUNC
+حقيقة	حَقِيق+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+حتى	حَتَّى	PART
+لو	لَو	SUB_CONJ
+بتعمل	بِ+تِ+عْمِل	PROG_PART+IV3FS+IV
+كل	كُلّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+غلط	غَلَط	ADJ
+ف	فَ	CONJ
+الدنيا	ال+دُنْيا	DET+NOUN
+,	,	PUNC
+بس	بَسّ	CONJ
+لسة	لِسَّه	ADV
+جواك	جُوّا+َك	NOUN+POSS_PRON_2MS
+نقطة	نُقْط+َة	NOUN+NSUFF_FEM_SG
+ضمير	ضَمِير	NOUN
+حاول	حاوِل+(نُلل)	CV+CVSUFF_SUBJ:2MS
+تصحيها	تِ+صْحَ+ِي+ها	IV2FS+IV+IVSUFF_SUBJ:2FS_MOOD:SJ+IVSUFF_DO:3FS
+عشان	عَ+شَأْن	PREP+NOUN
+لو	لَو	SUB_CONJ
+ماتت	مات+ِت	PV+PVSUFF_SUBJ:3FS
+اعتبر	اَ+عْتِبِر	IV1S+IV
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+مش	مِش	NEG_PART
+موجود	مَوجُود	ADJ
+!	!	PUNC
+SENTENCE-BREAK
+	
+بعد	بَعْد	NOUN
+ما	ما	SUB_CONJ
+قفل	قَفْل	NOUN
+مع	مَعَ	NOUN
+الشيخ	ال+شَيخ	DET+NOUN
+جت	جَ+ت	PV+PVSUFF_SUBJ:3FS
+عربية	عَرَبِيّ+َة	ADJ+NSUFF_FEM_SG
+نص	نُصّ	NOUN_QUANT
+نقل	نَقْل	NOUN
+كبيرة	كِبِير+َة	ADJ+NSUFF_FEM_SG
+زنقت	زَنْق+َة	NOUN+NSUFF_FEM_SG
+عليه	عَلَى+ُه	PREP+PRON_3MS
+في	فِي	PREP
+العربية	ال+عَرَبِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+بتاعته	بِتاع+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+واتقلبت	وِ+اِتْقَلَب+ت	CONJ+PV_PASS+PVSUFF_SUBJ:2MS
+بيه	بِ+ُه	PREP+PRON_3MS
+العربية	ال+عَرَبِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+وهو	وَ+هُوَّ	CONJ+PRON_3MS
+كان	كان	PV
+راجع	راجِع+(نُلل)	CV+CVSUFF_SUBJ:2MS
+من	مِن	PREP
+عمل	عَمَل+(نُلل)	PV+PVSUFF_SUBJ:3MS
+خير	خَيْر	NOUN
+وبيدعوا	وَ+بِ+يِ+دْع+ُوا	CONJ+PROG_PART+IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+للهداية	لِ+ال+هِداي+َة	PREP+DET+NOUN+NSUFF_FEM_SG
+14	14	NOUN_NUM
+SENTENCE-BREAK
+	
+كلامنا	كَلام+نا	NOUN+POSS_PRON_1P
+كلة	كُلّ+ُه	NOUN_QUANT+POSS_PRON_3MS
+تناقض	تَناقُض	NOUN
+,	,	PUNC
+محدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+فاهمة	فاهْم+َة	ADJ+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+عشان	عَ+شَأْن	PREP+NOUN
+اللي	اللِّي	REL_PRON
+كاتبة	كاتْب+َة	NOUN+NSUFF_FEM_SG
+نفسة	نَفَس+َة	NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+فاهمة	فاهْم+َة	ADJ+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+الواححد	***adj_comp
+لما	لَمّا	SUB_CONJ
+بيعوز	بِ+يَ+عْوَز	PROG_PART+IV3MS+IV
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+بيفضل	بِ+يِ+فْضَل	PROG_PART+IV3MS+IV_PASS
+#	#	PUNC
+يعافر	يِ+عافِر	IV3MS+IV
+عشان	عَ+شَأْن	PREP+NOUN
+يوصلها	يِ+وَصَّل+ها	IV3MS+IV+IVSUFF_DO:3FS
+ولما	وِ+لَمّا	CONJ+SUB_CONJ
+بيوصلها	بِ+يُ+وْصَل+ها	PROG_PART+IV3MS+IV+IVSUFF_DO:3FS
+#	#	PUNC
+بيتكبر	بِ+يِ+تَكَبَّر	PROG_PART+IV3MS+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+SENTENCE-BREAK
+	
+@@LAT@@@mar3e	***adj_comp
+مكانش	ما+كان+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+يوصل	يِ+وْصَل	IV3MS+IV
+ابدا	أَبَداً	NOUN
+لمنصب	لِ+مَنْصِب	PREP+NOUN
+حساس	حَسّاس	NOUN
+زي	زَيّ	NOUN
+رئيس	رَئِيس	NOUN
+وكالة	وِكال+َة	NOUN+NSUFF_FEM_SG
+الطاقة	ال+طاق+َة	DET+NOUN+NSUFF_FEM_SG
+الذرية	ال+ذَرِّيّ+َة	DET+ADJ+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+بالشوكة	بِ+ال+شَوك+َة	PREP+DET+NOUN+NSUFF_FEM_SG
+والسكينة	وِ+ال+سِكِّين+َة	CONJ+DET+NOUN+NSUFF_FEM_SG
+بدل	بَدَل	NOUN
+المطوه	ال+مَطْو+َة	DET+NOUN+NSUFF_FEM_SG
+والسنجه	وِ+ال+سِنْج+َة	CONJ+DET+NOUN+NSUFF_FEM_SG
+بس	بَسّ	ADV
+SENTENCE-BREAK
+	
+أنتوا	اِنْتُو	PRON_2P
+كلكوا	كُلِّ+كُو	NOUN_QUANT+POSS_PRON_2P
+عاملين	عامْل+ِين	ADJ+NSUFF_MASC_PL
+نفسكوا	نَفْس+كُو	NOUN+POSS_PRON_2P
+مبسوطين	مَبْسُوطِين	ADJ
+,	,	PUNC
+,	,	PUNC
+و	وِ	CONJ
+محدش	مَ+حَد+ش	NEG_PART+NOUN+NEG_PART
+فيكوا	***noun
+أصلا	أَصْلاً	NOUN
+مبسوط	مَبْسُوط	ADJ
+SENTENCE-BREAK
+	
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+مش	مِش	NEG_PART
+هيخليك	حَ+يِ+خَلِي+َك	FUT_PART+IV3MS+IV+IVSUFF_DO:2MS
+ترفع	تِ+رْفَع	IV3FS+IV
+ايديك	اِيدَي+َك	NOUN+POSS_PRON_2MS
+ب	بِ	PREP
+دعوه	دَعْو+َة	NOUN+NSUFF_FEM_SG
+معينه	مُعَيَّن+َة	ADJ+NSUFF_FEM_SG
+نفسك	نَفْس+ِك	NOUN+POSS_PRON_2FS
+تحققها	تَحَقُّق+ها	NOUN+POSS_PRON_3FS
+و	وَ	CONJ
+هو	هُوَّ	PRON_3MS
+مش	مِش	NEG_PART
+عايز	عايِز	ADJ
+يستجيبلك	***adj_comp
+,	,	PUNC
+هو	هُوَ	PRON_3MS
+ال	ال	DET
+سخر	سَخَر+(نُلل)	PV+PVSUFF_SUBJ:3MS
+الدعاء	ال+دُعاء	DET+NOUN
+على	عَلَى	PREP
+لسانك	لِسان+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+علشان	***noun
+هو	هُوَّ	PRON_3MS
+عايزك	عايِز+ِك	ADJ+PRON_2FS
+تدعي	تِ+دْعِي	IV3FS+IV
+و	وَ	CONJ
+تلح	تُ+لِحّ	IV3FS+IV
+SENTENCE-BREAK
+	
+يبصلها	يِ+بُصّ+لِ+ها	IV3MS+IV+PREP+PRON_3FS
+ويضحك	وِ+يِ+ضْحَك	CONJ+IV3MS+IV
+وهى	وِ+هِيَّ	CONJ+PRON_3FS
+صدقت	صَدَّق+تِ	PV+PVSUFF_SUBJ:2FS
+حبه	حَبّ+َة	NOUN+NSUFF_FEM_SG
+ليها	لِ+ها	PREP+PRON_3FS
+,	,	PUNC
+لكن	لَكِن	CONJ
+فى	فِي	PREP
+الحقيقة	ال+حَقِيق+َة	DET+NOUN+NSUFF_FEM_SG
+كان	كان	PV
+بيضحك	بِ+يِ+ضْحَك	PROG_PART+IV3MS+IV
+شايف	شايِف	ADJ
+حبيبته	حَبِيب+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+القديمة	ال+قَدِيم+َة	DET+ADJ+NSUFF_FEM_SG
+فيها	فِي+ها	PREP+PRON_3FS
+SENTENCE-BREAK
+	
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+ناس	ناس	NOUN
+بتنام	بِ+تِ+نام	PROG_PART+IV3FS+IV
+ع	عَ	PREP
+الرصيف	ال+رَصِيف	DET+NOUN
+و	وَ	CONJ
+لا	لا	NEG_PART
+ناس	ناس	NOUN
+بتاكل	بِ+ت+اكُل	PROG_PART+IV3FS+IV
+من	مِن	PREP
+الزبالة	ال+زِبال+َة	DET+NOUN+NSUFF_FEM_SG
+!	!	PUNC
+!	!	PUNC
+#	#	PUNC
+في	فِي	PREP
+ـ	ـ	PUNC
+عالم	عالَم	NOUN
+ـ	ـ	PUNC
+موازي	مُوازِي	ADJ
+SENTENCE-BREAK
+	
+ممكن	مُمْكِن	ADJ
+تقول	تِ+قُول	IV2FS+IV
+كلام	كَلام	NOUN
+هزار	هِزار	NOUN
+بطريقه	بِ+طَرِيق+َة	PREP+NOUN+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+قدامك	قُدّام+َك	NOUN+POSS_PRON_2MS
+ياخده	يِ+أْخُذ+هُ	IV3MS+IV+IVSUFF_DO:3MS
+بجديه	بِ+جِدِّيّ+َة	PREP+NOUN+NSUFF_FEM_SG
+وممكن	وِ+مُمْكِن	PREP+ADJ
+تقول	تِ+قُول	IV3FS+IV
+كلام	كَلام	NOUN
+جد	جِدّ	NOUN
+بطريقه	بِ+طَرِيق+َة	PREP+NOUN+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+قدامك	قُدّام+َك	NOUN+POSS_PRON_2MS
+يتقبله	يِ+تْقَبَّل+ُه	IV3MS+IV+IVSUFF_DO:3MS
+كأنه	كَأَنَّ+هُ	PSEUDO_VERB+PRON_3MS
+هزار	هِزار	NOUN
+,	,	PUNC
+المشكله	ال+مُشْكِل+َة	DET+NOUN+NSUFF_FEM_SG
+في	فِي	PREP
+الطريقه	ال+طَرِيق+َة	DET+NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+فالكلام	فَ+ال+كَلام	CONJ+DET+NOUN
+SENTENCE-BREAK
+	
+#	#	PUNC
+انت	اِنْتَ	PRON_2MS
+ـ	ـ	PUNC
+مش	مِش	NEG_PART
+ـ	ـ	PUNC
+روش	رَوَش+(نُلل)	PV+PVSUFF_SUBJ:3MS
+لما	لَمّا	SUB_CONJ
+تشرب	تِ+شْرَب	IV2MS+IV
+سجاير	سَجايِر	NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+تورى	تِ+وَرّ+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+البنات	ال+بَنات	DET+NOUN
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+راجل	راجِل	NOUN
+SENTENCE-BREAK
+	
+مفيش	مِفَيِّش	NOUN
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+اسمها	اِسْم+ها	NOUN+POSS_PRON_3FS
+صحاب	صُحاب	NOUN
+,	,	PUNC
+هما	هُمَّ	PRON_3P
+بيبقوا	بِ+يَ+بُقّ+ُوا	PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+شويه	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+ناس	ناس	NOUN
+حوليك	حَوَلِي+َك	NOUN+POSS_PRON_2MS
+و	وَ	CONJ
+بيروحوا	بِ+يِ+رُوح+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+و	وَ	CONJ
+يجي	يِ+جِي	IV3MS+IV
+غيرهم	غِير+هُم	NOUN+POSS_PRON_3P
+كل	كُلّ	NOUN_QUANT
+فتره	فَتْر+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+والدنيا	وِ+ال+دُنْيا	CONJ+DET+NOUN
+تقريبا	تَقْرِيب+اً	NOUN+CASE_INDEF_ACC
+كده	كِدَه	NOUN
+كنا	كُن+ّا	PV+PVSUFF_SUBJ:1P
+ف	فَ	CONJ
+علاقة	عِلاق+َة	NOUN+NSUFF_FEM_SG
+حب	حُبّ	NOUN
+وفشلت	وِ+فَشَل+ِت	CONJ+PV+PVSUFF_SUBJ:3FS
+,	,	PUNC
+ودلوقتي	وِ+دِلْوَقْتِي	CONJ+ADV
+رافعة	رافْع+َة	NOUN+NSUFF_FEM_SG
+عليا	عُلْيا	ADJ
+قضية	قَضِيّ+َة	NOUN+NSUFF_FEM_SG
+خلع	خَلَع+(نُلل)	PV+PVSUFF_SUBJ:3MS
+SENTENCE-BREAK
+	
+حماس	حَماس	NOUN_PROP
+ايه	أَيَّة	INTERROG_PRON
+اللي	اللِّي	REL_PRON
+تدخل	تِ+دْخُل	IV3FS+IV
+مصر	مَصْر	NOUN_PROP
+حد	حَدّ	NOUN
+يسيب	يِ+سِيب	IV3MS+IV
+فلسطين	فِلَسْطِين	NOUN_PROP
+و	وَ	CONJ
+يجي	يِ+جِي	IV3MS+IV
+مصر	مَصْر	NOUN_PROP
+جتكم	جَ+ت+كُم	PV+PVSUFF_SUBJ:3FS+PVSUFF_DO:2P
+القرف	ال+قَرَف	DET+NOUN
+ده	دَه	DEM_PRON_MS
+انتوا	اِنْتُو	PRON_2P
+خليتوا	خَلِّي+تُوا	PV+PVSUFF_SUBJ:2P
+مصر	مَصْر	NOUN_PROP
+بلاعة	بَلّاع+َة	NOUN+NSUFF_FEM_SG
+كبيرة	كِبِير+َة	ADJ+NSUFF_FEM_SG
+لا	لا	NEG_PART
+تطاق	تِ+طاق	IV3FS+IV
+SENTENCE-BREAK
+	
+عارف	عارِف	ADJ
+انت	اِنْتَ	PRON_2MS
+احساس	اِحْساس	NOUN
+ان	إِنّ	SUB_CONJ
+حد	حَدّ	NOUN
+يوحشك	يِ+وْحَش+َك	IV3MS+IV+IVSUFF_DO:2MS
+و	وَ	CONJ
+ماينفعش	ما+يِ+نْفَع+ش	NEG_PART+IV3MS+IV+NEG_PART
+تشوفو	تِ+شُوف+ُوا	IV2P+IV+IVSUFF_SUBJ:P
+?	?	PUNC
+وحش	وِحِش	ADJ
+.	.	PUNC
+متجربوش	***adj_comp
+SENTENCE-BREAK
+	
+المرض	ال+مَرَض	DET+NOUN
+اللي	اللِّي	REL_PRON
+مسيطر	مُسَيْطِر	ADJ
+ع	عَ	PREP
+الناس	ال+ناس	DET+NOUN
+اليومين	ال+يُوم+ِين	DET+NOUN+NSUFF_MASC_PL
+دول	دُوَل	NOUN
+,	,	PUNC
+ان	إِنّ	SUB_CONJ
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+حد	حَدّ	NOUN
+عاجبه	عاجِب+ُه	ADJ+PRON_3MS
+حاله	حال+ُه	NOUN+POSS_PRON_3MS
+ولا	وَلّا	CONJ
+عاجبها	عاجْب+ها	NOUN+POSS_PRON_3FS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+ولا	وَلّا	CONJ
+عاجبه	عاجِب+ُه	ADJ+PRON_3MS
+اي	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+شايف	شايِف	ADJ
+نفسى	نَفْس+ِي	NOUN+POSS_PRON_1S
+مبقتش	ما+بَق+ِت+ش	NEG_PART+PV+PVSUFF_SUBJ:3FS+NEG_PART
+اكتب	اِكْتِب+(نُلل)	CV+CVSUFF_SUBJ:2MS
+كويس	كُوَيِّس	ADJ
+لو	لَو	SUB_CONJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+عامل	عامِل	ADJ
+فولو	فُول+هُ	NOUN+POSS_PRON_3MS
+لنفسى	لِ+نَفْس+ِي	PREP+NOUN+POSS_PRON_1S
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+هعمل	حَ+اَ+عْمِل	FUT_PART+IV1S+IV
+ان	إِنّ	SUB_CONJ
+فولو	فُول+هُ	NOUN+POSS_PRON_3MS
+كل	كُلّ	NOUN_QUANT
+الكلام	ال+كَلام	DET+NOUN
+بقى	بَقَى	ADV
+جوه	جُوَّه	NOUN
+ولا	وَ+لا	CONJ+NEG_PART
+بيخرج	بِ+يِ+خَرِّج	PROG_PART+IV3MS+IV
+فى	فِي	PREP
+كتابه	كِتاب+ُه	NOUN+POSS_PRON_3MS
+ولا	وَ+لا	CONJ+NEG_PART
+حتى	حَتَّى	PART
+فى	فِي	PREP
+كلام	كَلام	NOUN
+كدا	كِد+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+انتو	اِنْتُو	PRON_2P
+متعرفوش	مَ+تِ+عْرَف+ُوا+ش	NEG_PART+IV2P+IV+IVSUFF_SUBJ:P+NEG_PART
+انتو	اِنْتُو	PRON_2P
+نور	نُور	NOUN_PROP
+عينا	عَيْن+اً	NOUN+CASE_INDEF_ACC
+و	وَ	CONJ
+لا	لا	NEG_PART
+اية	أَيَّة	INTERROG_PRON
+ياباشا	يا+باشا	VOC_PART+NOUN
+نور	نُور	NOUN_PROP
+عينك	عِين+َك	NOUN+POSS_PRON_2MS
+مش	مِش	NEG_PART
+لا	لا	NEG_PART
+قين	قَيْن	NOUN
+ياكلو	ي+أَكِّل+ُه	IV3MS+IV+IVSUFF_DO:3MS
+ومش	وِ+مِش	CONJ+NEG_PART
+عارفين	عارْف+ِين	ADJ+NSUFF_MASC_PL
+يمشو	يِ+مْش+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+فى	فِي	PREP
+الشوارع	ال+شَوارِع	DET+NOUN
+ومفيش	وِ+مِفَيِّش	PREP+NOUN
+نور	نُور	NOUN_PROP
+ومفيش	وِ+مِفَيِّش	PREP+NOUN
+مياه	مِياه	NOUN
+مفيش	مِفَيِّش	NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+ياباشا	يا+باشا	VOC_PART+NOUN
+SENTENCE-BREAK
+	
+الواحد	ال+واحِد	DET+NOUN
+مش	مِش	NEG_PART
+عارف	عارِف	ADJ
+لما	لَمّا	SUB_CONJ
+اصحابنا	اَصْحاب+نا	NOUN+POSS_PRON_1P
+يطلعو	يِ+طَلَّع+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+بالسلامة ازاي	***adj_comp
+هقولهم	حَ+اَ+قُو+لِ+هُم	FUT_PART+IV1S+IV+PREP+PRON_3P
+اننا	إِنّ+نا	SUB_CONJ+PRON_1P
+كنا	كُن+ّا	PV+PVSUFF_SUBJ:1P
+بنروح	بِ+نِ+رَوح	PROG_PART+IV1P+IV
+الجامعة	ال+جامْع+َة	DET+NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+غيرهم	غِير+هُم	NOUN+POSS_PRON_3P
+عادي	عادِي	ADJ
+!	!	PUNC
+!	!	PUNC
+!	!	PUNC
+العجز	ال+عَجُز	DET+NOUN
+وحش	وِحِش	ADJ
+!	!	PUNC
+!	!	PUNC
+!	!	PUNC
+#	#	PUNC
+الحريه	ال+حُرِّيّ+َة	DET+NOUN+NSUFF_FEM_SG
+ـ	ـ	PUNC
+لطلاب	لِ+طُلّاب	PREP+NOUN
+ـ	ـ	PUNC
+صيدله	صَيدَل+َة	NOUN+NSUFF_FEM_SG
+ـ	ـ	PUNC
+المنصوره	ال+مَنْصُور+َة	DET+NOUN_PROP+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+التسريب	ال+تَثْرِيب	DET+NOUN
+بقى	بَقَى	ADV
+عادي	عادِي	ADJ
+كده	كِدَه	NOUN
+.	.	PUNC
+.	.	PUNC
+ماحدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+اتجرأ	اِتْجَرَّأ+(نُلل)	PV+PVSUFF_SUBJ:3MS
+ورفع	وِ+رَفَع+(نُلل)	CONJ+PV+PVSUFF_SUBJ:3MS
+دعوة	دَعْو+َة	NOUN+NSUFF_FEM_SG
+جنائية	جِنائِيّ+َة	ADJ+NSUFF_FEM_SG
+على	عَلَى	PREP
+اللي	اللِّي	REL_PRON
+بيسربوا	بِ+يِ+سْرَب+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+ليه	لَيه	INTERROG_ADV
+.	.	PUNC
+.	.	PUNC
+هي	هِيَّ	PRON_3FS
+المخابرات	ال+مُخابَر+ات	DET+NOUN+NSUFF_FEM_PL
+بتستخف	بِ+تَ+سْتَخِفّ	PROG_PART+IV3FS+IV
+دمها	دَم+ها	NOUN+POSS_PRON_3FS
+.	.	PUNC
+.	.	PUNC
+ولا	وَ+لا	CONJ+NEG_PART
+بتسترزق	بِ+تِ+سْتَرْزَق	PROG_PART+IV3FS+IV
+.	.	PUNC
+.	.	PUNC
+ولا	وَلّا	CONJ
+فيه	فِي+ُه	PREP+PRON_3MS
+ايه	أَيَّة	INTERROG_PRON
+.	.	PUNC
+.	.	PUNC
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+نفسي	نِفْس+ِي	NOUN+POSS_PRON_1S
+انزل	اَ+نْزِل	IV1S+IV
+امشي	اِمْشِي+(نُلل)	CV+CVSUFF_SUBJ:2MS
+لوحدى	لِ+وَحْد+ِي	PREP+NOUN+POSS_PRON_1S
+الصبح	ال+صُبْح	DET+NOUN
+و	وَ	CONJ
+اروح	اَ+رُوح	IV1S+IV
+اشرب	اَ+شْرَب	IV1S+IV
+قهوه	قَهْو+َة	NOUN+NSUFF_FEM_SG
+ف	فَ	CONJ
+اى	أَيّ	NOUN_QUANT
+حته	حِتّ+َة	NOUN+NSUFF_FEM_SG
+والهيدفون	***adj_comp
+ف	فَ	CONJ
+ودنى	وِدْن+ِي	NOUN+POSS_PRON_1S
+وبس	وِ+بَسّ	CONJ+ADV
+SENTENCE-BREAK
+	
+الموضوع	ال+مَوْضُوع	DET+NOUN
+يابني	يا+بْن+ِي	VOC_PART+NOUN+POSS_PRON_1S
+مش	مِش	NEG_PART
+شخصي	شَخْصِي	ADJ
+,	,	PUNC
+أنا	أَنا	PRON_1S
+مبثقش	***adj_comp
+ف	فَ	CONJ
+منبه	مِنَبِّه	NOUN
+الموبايل	ال+مُوبايْل	DET+NOUN
+بتاعي	بِتاع+ِي	NOUN+POSS_PRON_1S
+.	.	PUNC
+.	.	PUNC
+ف	فَ	CONJ
+لك	لِ+َك	PREP+PRON_2MS
+أن	أَن	SUB_CONJ
+تتخيل	تِ+تْخَيَّل	IV2MS+IV
+بقى	بَقَى	ADV
+SENTENCE-BREAK
+	
+أصلا	أَصْلاً	NOUN
+اللى	اللِّي	REL_PRON
+بيدخلوا	بِ+يُ+دْخُل+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+حياتنا	حَيا+َة+نا	NOUN+NSUFF_FEM_SG+POSS_PRON_1P
+صدفه	صُدْف+َة	ADJ+NSUFF_FEM_SG
+هما	هُمَّ	PRON_3P
+دول	دُوَل	NOUN
+اللى	اللِّي	REL_PRON
+علاقتنا	عَلاق+َة+نا	NOUN+NSUFF_FEM_SG+POSS_PRON_1P
+بتستمر	بِ+تِ+سْتَمِرّ	PROG_PART+IV3FS+IV
+بيهم	بِ+هُم	PREP+PRON_3P
+وبيكونوا	وِ+بِ+يِ+كُون+ُوا	CONJ+PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+اجدع	أَجْدَع	ADJ_COMP
+من	مِن	PREP
+اصحابنا	اَصْحاب+نا	NOUN+POSS_PRON_1P
+بتوع	بِتُوع	NOUN
+الطفوله	ال+طُفُول+َة	DET+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+انت	اِنْتَ	PRON_2MS
+متخيل	مِتْخَيِّل	ADJ
+كم	كَم	NOUN_QUANT
+الوضاعة	ال+وَضاع+َة	DET+NOUN+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+احنا	اِحْنا	PRON_1P
+فيها	فِي+ها	PREP+PRON_3FS
+!	!	PUNC
+!	!	PUNC
+البنت	ال+بِنْت	DET+NOUN
+خايفة	خايْف+َة	ADJ+NSUFF_FEM_SG
+تنزل	تِ+نْزِل	IV3FS+IV
+الشارع	ال+شارِع	DET+NOUN
+او	أَو	CONJ
+تروح	تِ+رُوح	IV2FS+IV
+في	فِي	PREP
+أي	أَيّ	NOUN_QUANT
+حتة	حِتّ+َة	NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+فيه	فِي+ُه	PREP+PRON_3MS
+كلاب	كِلاب	NOUN
+سعرانة	سَعْران+َة	ADJ+NSUFF_FEM_SG
+بينهشوا	بِ+يِ+نْهَش+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+فيها	فِي+ها	PREP+PRON_3FS
+!	!	PUNC
+عليه	عَلَى+ُه	PREP+PRON_3MS
+العوض	ال+عَوَض	DET+NOUN
+و	وَ	CONJ
+منه	مِنّ+ُه	PREP+PRON_3MS
+العوض	ال+عَوَض	DET+NOUN
+SENTENCE-BREAK
+	
+كل	كُلّ	NOUN_QUANT
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+لو	لَو	SUB_CONJ
+ادناها	أَدْنَأ+ها	NOUN+POSS_PRON_3FS
+حقها	حَقّ+ها	NOUN+POSS_PRON_3FS
+صح	صَحّ	ADJ
+و	وَ	CONJ
+في	فِي	PREP
+الوقت	ال+وَقْت	DET+NOUN
+المناسب	ال+مُناسِب	DET+ADJ
+حياتنا	حَيا+َة+نا	NOUN+NSUFF_FEM_SG+POSS_PRON_1P
+هتتغير	حَ+تِ+تْغَيَّر	FUT_PART+IV3FS+IV_PASS
+كتير	كِتِير	NOUN
+للاحسن	لِ+ال+أَحْسَن	PREP+DET+ADJ_COMP
+و	وَ	CONJ
+الاحلي	ال+أَحْلَى	DET+NOUN
+SENTENCE-BREAK
+	
+وهتبقى	وِ+حَ+تِ+بْقَى	CONJ+FUT_PART+IV3FS+IV
+آخرتكوا	آخِرَت+كُو	ADJ_COMP+POSS_PRON_2P
+وجع	وَجَع	NOUN
+و	وَ	CONJ
+قهر	قَهْر	NOUN
+و	وَ	CONJ
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+فيكوا	***noun
+فى	فِي	PREP
+الآخر	ال+آخِر	DET+NOUN
+يتجوز	يَ+تْجَوِّز	IV3MS+IV
+صالونات	صالُون+ات	NOUN+NSUFF_FEM_PL
+"	"	PUNC
+أصلوكوا	***adj_comp
+معملتوش	ما+عَمَل+تُوا+ش	NEG_PART+PV+PVSUFF_SUBJ:2P+NEG_PART
+حساب	حِساب	NOUN
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+فى	فِي	PREP
+الأول	ال+أَوَّل	DET+ADJ
+SENTENCE-BREAK
+	
+غالبا	غالِب+اً	ADJ+CASE_INDEF_ACC
+حاله	حال+ُه	NOUN+POSS_PRON_3MS
+من	مِن	PREP
+الإكتئاب	ال+ٱِكْتِئاب	DET+NOUN
+الشديد	ال+شِدِيد	DET+ADJ
+هى	هِيَّ	PRON_3FS
+بتكون	بِ+تِ+كُون	PROG_PART+IV3FS+IV
+رد	رَدّ	NOUN
+سؤال	سُؤال	NOUN
+.	.	PUNC
+.	.	PUNC
+هو	هُوَّ	PRON_3MS
+أنا	أَنا	PRON_1S
+لو	لَو	SUB_CONJ
+جرالى	جَرا+(نُلل)+لِ+ِي	PV+PVSUFF_SUBJ:3MS+PREP+PRON_1S
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+هفرق	حَ+أَ+فْرُق	FUT_PART+IV1S+IV
+مع	مَعَ	NOUN
+مين	مِين	INTERROG_PRON
+?	?	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@Hazem__Azim	***adj_comp
+ومبررات	وَ+مُبَرِّر+ات	CONJ+NOUN+NSUFF_FEM_PL
+جاهزه	جاهْز+َة	ADJ+NSUFF_FEM_SG
+للمتحرش	لِ+ال+مِتْحَرَّش	PREP+DET+NOUN
+هيقولها	حَ+يِ+قُو+لِ+ها	FUT_PART+IV3MS+IV+PREP+PRON_3FS
+طالمال	***adj_comp
+مجتمع	مُجْتَمَع	NOUN
+بيساعده	بِ+يِ+ساعِد+ُه	PROG_PART+IV3MS+IV+IVSUFF_DO:3MS
+على	عَلَى	PREP
+خلق	خَلْق	NOUN
+المبرر	ال+مُبَرِّر	DET+NOUN
+فطبيعي	فَ+طَبِيعِيّ	CONJ+ADJ
+تستمر	تِ+سْتَمِرّ	IV3FS+IV
+الظاهره	ال+ظاهِر+َة	DET+NOUN+NSUFF_FEM_SG
+اكتر	أَكْثَر	ADJ_COMP
+واكتر	وَ+أَكْثَر	CONJ+ADJ_COMP
+SENTENCE-BREAK
+	
+عاوز	عاوِز	ADJ
+اقول	اَ+قُول	IV1S+IV
+للسيسي	***adj_comp
+كلمة	كِلْم+َة	NOUN+NSUFF_FEM_SG
+واحدة	واحْد+َة	NOUN_NUM+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+:	:	PUNC
+انا	أَنا	PRON_1S
+رايح	رايِح	ADJ
+الجامعة	ال+جامْع+َة	DET+NOUN+NSUFF_FEM_SG
+بكرة	بُكْر+َة	NOUN+NSUFF_FEM_SG
+اظن	اَ+ظُنّ	IV1S+IV
+الرسالة	ال+رِسال+َة	DET+NOUN+NSUFF_FEM_SG
+وصلت	وَصَل+ِت	PV+PVSUFF_SUBJ:3FS
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+يا	يا	VOC_PART
+شعب	شَعْب	NOUN
+نايم	نايِم	ADJ
+ع	عَ	PREP
+الرصيف	ال+رَصِيف	DET+NOUN
+وبالمقشة	وِ+بِ+ال+مِقَشّ+َة	CONJ+PREP+DET+NOUN+NSUFF_FEM_SG
+بتتكنس	بِ+تِ+تْكِنِس	PROG_PART+IV3FS+IV_PASS
+فيك	فِي+َك	PREP+PRON_2MS
+ناس	ناس	NOUN
+بتشقي	بِ+تَ+شْقَى	PROG_PART+IV3FS+IV
+ع	عَ	PREP
+الرغيف	ال+رِغِيف	DET+NOUN
+وناس	وِ+ناس	PREP+NOUN
+بتتعب	بِ+تِ+تْعِب	PROG_PART+IV3FS+IV
+م	مِ	PREP
+التنس	ال+تِنِس	DET+NOUN
+SENTENCE-BREAK
+	
+في	فِي	PREP
+مصر	مَصْر	NOUN_PROP
+فقط	فَقَط	ADV
+:	:	PUNC
+طلاب	طُلّاب	NOUN
+الثانوية	ال+ثانَوِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+العامة	ال+عامّ+َة	DET+ADJ+NSUFF_FEM_SG
+بيذكروا	بِ+يِ+ذْكَر+ُوا	PROG_PART+IV3P+IV_PASS+IVSUFF_SUBJ:MP_MOOD:SJ
+علشان	***noun
+يفرحوا	يِ+فْرِح+ُوا	IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+اهاليهم	أَهالِي+هُم	NOUN+POSS_PRON_3MP
+مش	مِش	NEG_PART
+علشان	***noun
+نفسهم	نَفْس+هُم	NOUN+POSS_PRON_3P
+!	!	PUNC
+SENTENCE-BREAK
+	
+الدنيا	ال+دِنْيا	DET+NOUN
+مش	مِش	NEG_PART
+بتتاخد	بِ+تِ+تّاخِد	PROG_PART+IV3FS+IV
+بالدراع	بِ+ال+ذِراع	PREP+DET+NOUN
+.	.	PUNC
+.	.	PUNC
+والبقاء	وِ+ال+بَقاء	CONJ+DET+NOUN
+للي	لِ+اللِّي	PREP+REL_PRON
+عقله	عَقْل+ُه	NOUN+POSS_PRON_3MS
+كبير	كَبِير	ADJ
+مش	مِش	NEG_PART
+عضلاته	عَضَل+ات+هُ	NOUN+NSUFF_FEM_PL+POSS_PRON_3MS
+اكبر	أَكْبَر	ADJ_COMP
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+طيبه	طَيِّب+َة	ADJ+NSUFF_FEM_SG
+جدا	جِدّاً	NOUN
+وحنينه	وَ+حَنِين+هُ	CONJ+NOUN+POSS_PRON_3MS
+اه	إِه	INTERJ
+.	.	PUNC
+.	.	PUNC
+اما	أَمّا	CONJ
+بتعصب	بِ+تَعَصُّب	PREP+NOUN
+او	أَو	CONJ
+ابقي	اَ+بْقَى	IV1S+IV
+زعلانه	زَعْلان+َة	ADJ+NSUFF_FEM_SG
+من	مِن	PREP
+حد	حَدّ	NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يكفيك	يِ+كَفِّي+َك	IV3MS+IV+IVSUFF_DO:2MS
+شري	شَرْي	NOUN
+ومايوقعك	وِ+ما+ي+وَقَّع+َك	CONJ+NEG_PART+IV3MS+IV+IVSUFF_DO:2MS
+فيا	فَ+يا	CONJ+CONJ
+SENTENCE-BREAK
+	
+المشاكل	ال+مَشاكِل	DET+NOUN
+دايما	دايْم+اً	ADJ+CASE_INDEF_ACC
+بتبدأ	بِ+تِ+بْدَأ	PROG_PART+IV3FS+IV
+لما	لَمّا	SUB_CONJ
+تقرب	تَقَرُّب	NOUN
+من	مِن	PREP
+اي	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+زيادة	زِياد+َة	NOUN+NSUFF_FEM_SG
+عن	عَن	PREP
+اللزوم	ال+لُزُوم	DET+NOUN
+,	,	PUNC
+العلاقات	ال+عَلاق+ات	DET+NOUN+NSUFF_FEM_PL
+السطحية	ال+سَطْحِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+قادرة	قادْر+َة	ADJ+NSUFF_FEM_SG
+تحمينا	تِ+حْمِي+نا	IV3FS+IV+IVSUFF_DO:1P
+من	مِن	PREP
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+كتير	كِتِير	NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+السجاير	ال+سَجايِر	DET+NOUN
+رجعت	رِجْع+ِت	PV+PVSUFF_SUBJ:3FS
+موضه	مُوض+َة	NOUN+NSUFF_FEM_SG
+تاني	تانِي	ADJ
+?	?	PUNC
+مش	مِش	NEG_PART
+بتتشرب	بِ+تِ+تَشَرَّب	PROG_PART+IV3FS+IV
+مزاج	مَزاج	NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+?	?	PUNC
+SENTENCE-BREAK
+	
+علشان	***noun
+انتو	اِنْتُو	PRON_2P
+طيبين	طَيِّب+ِين	ADJ+NSUFF_MASC_PL
+ماحدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+أخد	اَ+خُد	IV1S+IV
+باله	بال+ُه	NOUN+POSS_PRON_3MS
+#	#	PUNC
+خالد	خالِد	NOUN_PROP
+ـ	ـ	PUNC
+علي	عَلَى	PREP
+بيعمل	بِ+يِ+عْمِل	PROG_PART+IV3MS+IV
+ايه	إِيه	NOUN
+,	,	PUNC
+المحامي	ال+مُحامِي	DET+NOUN
+بيتحايل	بِ+يِ+تْحايِل	PROG_PART+IV3MS+IV_PASS
+على	عَلَى	PREP
+قانون	قانُون	NOUN
+الإنتخابات	ال+ٱِنْتِخاب+ات	DET+NOUN+NSUFF_FEM_PL
+و	وِ	CONJ
+هايعمل	حَ+يِ+عْمِل	FUT_PART+IV3MS+IV
+دعاية	دِعاي+َة	NOUN+NSUFF_FEM_SG
+إنتخابية	ٱِنْتِخابِيّ+َة	ADJ+NSUFF_FEM_SG
+بحجة	بِ+حِجّ+َة	PREP+NOUN+NSUFF_FEM_SG
+تأسيس	تَأْسِيس	NOUN
+حزب	حِزْب	NOUN
+SENTENCE-BREAK
+	
+بنتعلم	بِ+نِ+تَعَلَّم	PROG_PART+IV1P+IV
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+من	مِن	PREP
+ابتدائي	اِبْتِدائِي	ADJ
+لحد	لِ+حَدّ	PREP+NOUN
+الجامعه	ال+جامْع+َة	DET+NOUN+NSUFF_FEM_SG
+كل	كُلّ	NOUN_QUANT
+ده	دَه	DEM_PRON_MS
+خيال	خَيال	NOUN
+علمي	عِلْمِيّ	ADJ
+!	!	PUNC
+كل	كُلّ	NOUN_QUANT
+الى	اللِّي	REL_PRON
+اتعلمناه	اِتْعَلِّم+نا+ُه	PV+PVSUFF_SUBJ:1P+PVSUFF_DO:3MS
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+منه	مِنّ+ُه	PREP+PRON_3MS
+فى	فِي	PREP
+الواقع	ال+واقِع	DET+NOUN
+!	!	PUNC
+بندرس	بِ+نِ+دْرِس	PROG_PART+IV1P+IV
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+ملهاش	مَ+لِ+ها+ش	NEG_PART+PREP+PRON_3FS+NEG_PART
+اى	أَيّ	NOUN_QUANT
+علاقه	عِلاق+َة	NOUN+NSUFF_FEM_SG
+بالواقع	بِ+ال+واقِع	PREP+DET+NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+المفروض	ال+مَفْرُوض	DET+ADJ
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+اقوم	اَ+قُوم	IV1S+IV
+اذاكر	اَ+ذاكِر	IV1S+IV
+و	وَ	CONJ
+كده	كِدَه	NOUN
+بس	بَسّ	CONJ
+الكينج	ال+كِينْج	DET+NOUN
+قالي	قالِ+(نُلل)+نِي	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:1S
+ان	إِنّ	SUB_CONJ
+كل	كُلّ	NOUN_QUANT
+المفروض	ال+مَفْرُوض	DET+NOUN
+مرفوض	مَرْفُوض	ADJ
+و	وِ	CONJ
+انا	أَنا	PRON_1S
+عايزه	عايْز+َة	ADJ+NSUFF_FEM_SG
+اسبت	اَ+ثْبُت	IV1S+IV
+للعالم	لِ+ال+عالَم	PREP+DET+NOUN
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+موجوده	مَوجُود+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+جملة	جُمْل+َة	NOUN+NSUFF_FEM_SG
+هذاكر	حَ+اَ+ذاكِر	FUT_PART+IV1S+IV
+بقا	بَقا+(نُلل)	PV+PVSUFF_SUBJ:3MS
+بكرة	بُكْر+َة	NOUN+NSUFF_FEM_SG
+بجد	بِ+جِدّ	PREP+NOUN
+ونقضيها	وَ+نَ+قْضِي+ها	CONJ+IV1P+IV+IVSUFF_DO:3FS
+النهارده	ال+نَهارْدَه	DET+NOUN
+سبب	سَبَب	NOUN
+اساسي	أَساسِيّ	ADJ
+لفشلي	لِ+فَشَل+ِي	PREP+NOUN+POSS_PRON_1S
+SENTENCE-BREAK
+	
+كله	كُلّ+ُه	NOUN_QUANT+POSS_PRON_3MS
+يحضر	يِ+حْضُر	IV3MS+IV
+هدية	هِدِيّ+َة	NOUN+NSUFF_FEM_SG
+عيد	عِيد	NOUN
+الام	ال+أُمّ	DET+NOUN
+.	.	PUNC
+بوسوا	بُوس+ُوا	CV+CVSUFF_SUBJ:2P
+أيد	أَيْد	NOUN
+امهاتكوا	اُمَّه+ات+كُو	NOUN+NSUFF_FEM_PL+POSS_PRON_2P
+واشكروا	***adj_comp
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+عايشين	عايْش+ِين	ADJ+NSUFF_MASC_PL
+وسطنا	وِسْط+نا	NOUN+POSS_PRON_1P
+SENTENCE-BREAK
+	
+من	مِن	PREP
+ساعة	ساع+َة	NOUN+NSUFF_FEM_SG
+ما	ما	SUB_CONJ
+أمي	أُمّ+ِي	NOUN+POSS_PRON_1S
+قالتلي	قال+ِت+لِ+ِي	PV+PVSUFF_SUBJ:3FS+PREP+PRON_1S
+"	"	PUNC
+إوعى	أَوعَى	ADJ_COMP
+ياخدوا	ي+أَخْد+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+منك	مِنّ+َك	PREP+PRON_2MS
+سندوتشاتك	سَنْدْوِتش+ات+كِ	NOUN+NSUFF_FEM_PL+POSS_PRON_2FS
+"	"	PUNC
+في	فِي	PREP
+أول	أَوَّل	NOUN
+يوم	يَوم	NOUN
+مدرسه	مَدْرَس+َة	NOUN+NSUFF_FEM_SG
+فهمت	فِهْم+ِت	PV+PVSUFF_SUBJ:3FS
+ان	إِنّ	SUB_CONJ
+الدنيا	ال+دُنْيا	DET+NOUN
+مفيهاش	***prep
+أمان	أَمان	NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يكفيك	يِ+كَفِّي+َك	IV3MS+IV+IVSUFF_DO:2MS
+شر	شَرّ	NOUN
+اللي	اللِّي	REL_PRON
+عامل	عامِل	ADJ
+فيها	فِي+ها	PREP+PRON_3FS
+قريب	قُرَيِّب	ADJ
+وهو	وِ+هُوَّ	CONJ+PRON_3MS
+بيدبرلك	***adj_comp
+عشان	عَ+شَأْن	PREP+NOUN
+يكسرك	يِ+كْسَر+َك	IV3MS+IV+IVSUFF_DO:2MS
+!	!	PUNC
+بس	بَسّ	CONJ
+علي	عَلَى	PREP
+مين	مِين	REL_PRON
+هأو	هاو	NOUN
+SENTENCE-BREAK
+	
+يارب	يا+رَبّ	VOC_PART+NOUN
+نجحنا	نِجِح+نا	PV+PVSUFF_SUBJ:1P
+عشان	عَ+شَأْن	PREP+NOUN
+خاطر	خاطِر	NOUN
+اهلينا	أَهْل+ِي+نا	NOUN+NSUFF_MASC_PL_ACC+POSS_PRON_1P
+بس	بَسّ	CONJ
+احنا	اِحْنا	PRON_1P
+منستاهلش	مَ+نِ+سْتاهِل+ش	NEG_PART+IV1P+IV+NEG_PART
+والله	وَ+اللَّه	PREP+NOUN_PROP
+,	,	PUNC
+SENTENCE-BREAK
+	
+4	4	NOUN_NUM
+-	-	PUNC
+تعالالي	***adj_comp
+انت	اِنْتَ	PRON_2MS
+بقى	بَقَى	ADV
+ياللي	***noun_prop
+بتتكلم	بِ+تِ+تْكَلِّم	PROG_PART+IV2FS+IV
+مع	مَعَ	NOUN
+واحدة	واحْد+َة	NOUN_NUM+NSUFF_FEM_SG
+زي	زَيّ	NOUN
+اختك	أُخْت+َك	NOUN+POSS_PRON_2MS
+و	وَ	CONJ
+بتتعامل	بِ+تِ+تَعامِل	PROG_PART+IV3FS+IV
+معاها	مَعَ+ها	NOUN+POSS_PRON_3FS
+زي	زَيّ	NOUN
+اختك	أُخْت+َك	NOUN+POSS_PRON_2MS
+وبتطمن	وَ+بِ+تُ+طَمِّن	CONJ+PROG_PART+IV2MS+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+زي	زَيّ	NOUN
+اختك	أُخْت+َك	NOUN+POSS_PRON_2MS
+بردو	بَرْضُه	ADV
+,	,	PUNC
+بزمتك	بِ+زِمّ+َة+َك	PREP+NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+بتتكلم	بِ+تِ+تْكَلِّم	PROG_PART+IV3FS+IV_PASS
+مع	مَعَ	NOUN
+اختك	أُخْت+َك	NOUN+POSS_PRON_2MS
+24	24	NOUN_NUM
+ساعه	ساع+َة	NOUN+NSUFF_FEM_SG
+ف	فَ	CONJ
+اليوم	ال+يَوم	DET+NOUN
+?	?	PUNC
+SENTENCE-BREAK
+	
+اى	أَيّ	NOUN_QUANT
+راجل	راجِل	NOUN
+بيبرر	بِ+يَ+بْرِر	PROG_PART+IV3MS+IV
+التحرش	ال+تَحَرُّش	DET+NOUN
+لازم	لازِم	ADJ
+يعرف	يِ+عْرَف	IV3MS+IV
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+كدة	كِدَه	NOUN
+بيفضح	بِ+يَ+فْضَح	PROG_PART+IV3MS+IV
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+هو	هُوَ	PRON_3MS
+.	.	PUNC
+.	.	PUNC
+بتفضح	بِ+تُ+فْضَح	PROG_PART+IV2MS+IV
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+ان	إِنّ	SUB_CONJ
+رجولتك	رُجُول+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+ناقصة	ناقْص+َة	ADJ+NSUFF_FEM_SG
+وبتلوم	وِ+بِ+تُ+لَوِّم	CONJ+PROG_PART+IV3FS+IV
+الضحية	ال+ضَحِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+ماتشعرش	مَ+اِتْشَعَّر+(نُلل)+ش	NEG_PART+PV_PASS+PVSUFF_SUBJ:3MS+NEG_PART
+بمسئوليتك	بِ+مَسْئُولِيّ+َة+كَ	PREP+NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+اللى	اللِّي	REL_PRON
+معملتهاش	مَ+عَمَل+ِت+ها+ش	NEG_PART+PV+PVSUFF_SUBJ:3FS+PVSUFF_DO:3FS+NEG_PART
+SENTENCE-BREAK
+	
+فكر	فِكْر	NOUN
+كده	كِدَه	NOUN
+في	فِي	PREP
+موقف	مَوْقِف	NOUN
+ام	أَم	CONJ
+كل	كُلّ	NOUN_QUANT
+شهيد	شَهِيد	NOUN
+او	أَو	CONJ
+ام	أَم	CONJ
+كل	كُلّ	NOUN_QUANT
+مسجون	مَسْجُون	ADJ
+لما	لَمّا	SUB_CONJ
+تشوف	تِ+شُوف	IV3FS+IV
+ان	إِنّ	SUB_CONJ
+فيفي	فِيفِي	NOUN_PROP
+عبده	عَبْدُه	NOUN_PROP
+بئت	بِ+أَ+ئِثّ	PROG_PART+IV1S+IV
+أم	أُمّ	NOUN
+مثاليه	مِثالِيّ+َة	ADJ+NSUFF_FEM_SG
+وبيهملوا	وِ+بِ+يُ+هْمِل+ُوا	CONJ+PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+ولادهم	وِلاد+هُم	NOUN+POSS_PRON_3P
+!	!	PUNC
+موقف	مَوْقِف	NOUN
+يدعو	ي+دْعُو	IV3MS+IV
+للاشمئزاز	لِ+ال+ٱِشْمِئْزاز	PREP+DET+NOUN
+وموقف	وِ+مَوْقِف	CONJ+NOUN
+قذر	قَذِر	ADJ
+من	مِن	PREP
+بلد	بَلَد	NOUN
+اقذر	أَقْذَر	ADJ_COMP
+.	.	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+هما	هُمَّ	PRON_3P
+ليه	لَيه	INTERROG_ADV
+ميعملوش	مَ+يِ+عَمَل+ُوا+ش	NEG_PART+IV3P+IV+IVSUFF_SUBJ:P+NEG_PART
+امتحان	اِمْتِحان	NOUN
+اخر	آخِر	ADJ
+الاجازه	ال+أَجاز+َة	DET+NOUN+NSUFF_FEM_SG
+زي	زَيّ	NOUN
+امتحان	اِمْتِحان	NOUN
+اخر	آخِر	ADJ
+السنه	ال+سَن+َة	DET+NOUN+NSUFF_FEM_SG
+كدة	كِدَه	NOUN
+?	?	PUNC
+ونسقط	وِ+نُ+سَقِّط	CONJ+IV1P+IV
+بقى	بَقَى	ADV
+ونعيد	وِ+نِ+عِيد	CONJ+IV1P+IV
+الاجازه	ال+أَجاز+َة	DET+NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+الاول	ال+أَوَّل	DET+ADJ
+وكده	وِ+كِدَه	PREP+NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@Dr_Wessam	***adj_comp
+البنات	ال+بَنات	DET+NOUN
+زمان	زَمان	NOUN
+كانوا	كان+ُوا	PV+PVSUFF_SUBJ:3P
+بيطلعوا	بِ+يِ+طْلَع+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+اتوبيس	أُتُوبِيس	NOUN
+هيئه	هَيْئ+َة	NOUN+NSUFF_FEM_SG
+النقل	ال+نَقْل	DET+NOUN
+العام	ال+عام	DET+ADJ
+بالمينى	***adj_comp
+جيب	جَيب	NOUN
+وبينزلوا	وِ+بِ+يِ+نْزِل+ُوا	CONJ+PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+سالمين	سالِم+ِين	ADJ+NSUFF_MASC_PL
+غانمين	غانِم+َيْنِ	NOUN+NSUFF_MASC_DU_ACC
+!	!	PUNC
+!	!	PUNC
+دلوقتي	دِلْوَقْتِي	ADV
+تبقى	تِ+بْقَى	IV3FS+IV
+محجبه	مُحَجَّب+َة	ADJ+NSUFF_FEM_SG
+ويشد	وِ+يِ+شِدّ	CONJ+IV3MS+IV
+حجابها	حِجاب+ها	NOUN+POSS_PRON_3FS
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@_mohamedkhalifa	***adj_comp
+ماتخليش	ما+تِ+خَلّ+ِي+ش	NEG_PART+IV2FS+IV+IVSUFF_SUBJ:2FS+NEG_PART
+بتوع	بِتُوع	NOUN
+الخليج	ال+خَلِيج	DET+NOUN
+يزعلوا	يِ+زْعَل+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+مننا	مِنّ+نا	PREP+PRON_1P
+بقى	بَقَى	ADV
+يا	يا	VOC_PART
+حماده	حَماد+َة	NOUN_PROP+NSUFF_FEM_SG
+;	;	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+إنتى	اِنْتِي	PRON_2FS
+كلام	كَلام	NOUN
+فى	فِي	PREP
+أغنية	اُغْنِيّ+َة	NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+ماتغنتش	***adj_comp
+ليا	لِيا	NOUN_PROP
+إنى	أَنّ+ِي	SUB_CONJ+PRON_1S
+سيرة	سِير+َة	NOUN+NSUFF_FEM_SG
+كل	كُلّ	NOUN_QUANT
+يوم	يَوم	NOUN
+إانتى	***adj_comp
+حكاية	حِكاي+َة	NOUN+NSUFF_FEM_SG
+قبل	قَبْل	NOUN
+النوم	ال+نَوم	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+تبقى	تِ+بْقَى	IV3FS+IV
+محشور	مَحْشُور	NOUN
+فى	فِي	PREP
+الحاجه	ال+حاج+َة	DET+NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+هتشوفها	حَ+تُ+شَوِّف+ها	FUT_PART+IV2MS+IV+IVSUFF_DO:3FS
+كويس	كُوَيِّس	ADJ
+من	مِن	PREP
+كتر	كُثْر	NOUN
+ماهى	ماهِيّ	ADJ
+محوطاك	***adj_comp
+وقريبه	وِ+قُرَيِّب+َة	CONJ+ADJ+NSUFF_FEM_SG
+من	مِن	PREP
+عينك	عِين+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+لازم	لازِم	ADJ
+تطلع	تِ+طْلَع	IV3FS+IV
+و	وَ	CONJ
+تشوفها	ت+شُوف+ها	IV2MS+IV+IVSUFF_DO:3FS
+من	مِن	PREP
+بره	بَرَّة	NOUN
+ومن	وَ+مِن	CONJ+PREP
+بعيد	بِعِيد	NOUN
+,	,	PUNC
+هتلاحظ	حَ+تُ+لاحِظ	FUT_PART+IV2MS+IV
+فرق	فَرْق	NOUN
+شاسع	شاسِع	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+اللي	اللِّي	REL_PRON
+يقول	يِ+قُول	IV3MS+IV
+انا	أَنا	PRON_1S
+مبحبش	مَ+بِ+اَ+حِبّ+ش	NEG_PART+PROG_PART+IV1S+IV+NEG_PART
+#	#	PUNC
+اسلوبك	أُسْلُوب+كَ	NOUN+POSS_PRON_2MS
+.	.	PUNC
+,	,	PUNC
+أنا	أَنا	PRON_1S
+اصلا	أَصْلاً	NOUN
+لو	لَو	SUB_CONJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+بحبك	بِ+اَ+حِبّ+ِك	PROG_PART+IV1S+IV+IVSUFF_DO:2FS
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+غيرت	غَيَّر+ِت	PV+PVSUFF_SUBJ:3FS
+#	#	PUNC
+اسلوبي	أُسْلُوب+ِي	NOUN+POSS_PRON_1S
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+:	:	PUNC
+)	)	PUNC
+.	.	PUNC
+,	,	PUNC
+SENTENCE-BREAK
+	
+فكرك	فِكْر+ِك	NOUN+POSS_PRON_2FS
+الكلام	ال+كَلام	DET+NOUN
+اللي	اللِّي	REL_PRON
+بيتقال	بِ+يُ+تْقال	PROG_PART+IV3MS+IV
+عليا	عُلْيا	ADJ
+مش	مِش	NEG_PART
+بيوصلي	بِ+يِ+وَصَّل+نِي	PROG_PART+IV3MS+IV+IVSUFF_DO:1S
+?	?	PUNC
+لا	لا	INTERJ
+بيوصل	بِ+يِ+وْصَل	PROG_PART+IV3MS+IV
+والله	وَ+اللَّه	PREP+NOUN_PROP
+بس	بَسّ	CONJ
+انا	أَنا	PRON_1S
+لو	لَو	SUB_CONJ
+اتكلمت	اِتْكَلِّم+ت	PV+PVSUFF_SUBJ:1S
+زيك	زَيّ+ِك	NOUN+POSS_PRON_2FS
+ابقى	اَ+بْقَى	IV1S+IV
+أبقى	اِبْقَى+(نُلل)	CV+CVSUFF_SUBJ:2MS
+قليل	قَلِيل	ADJ
+الأصل	ال+أَصْل	DET+NOUN
+,	,	PUNC
+و	وِ	CONJ
+انا	أَنا	PRON_1S
+أمي	أُمّ+ِي	NOUN+POSS_PRON_1S
+علمتني	عَلِّم+ت+نِي	PV+PVSUFF_SUBJ:3FS+PVSUFF_DO:1S
+الأصول	ال+اُصُول	DET+NOUN
+SENTENCE-BREAK
+	
+ممكن	مُمْكِن	ADJ
+لما	لِ+ما	PREP+REL_PRON
+تحب	تِ+حِبّ	IV3FS+IV
+حد	حَدّ	NOUN
+تحاول	تِ+حاوِل	IV3FS+IV
+متجرحوش	***adj_comp
+لانه	لِ+إِنّ+ُه	PREP+SUB_CONJ+PRON_3MS
+هيتعب	حَ+يِ+تْعَب	FUT_PART+IV3MS+IV
+اوى	أَوِي	ABBREV
+وهيقوى	وَ+حَ+يِ+قْوَى	CONJ+FUT_PART+IV3MS+IV
+واول	وِ+أَوَّل	PREP+ADJ
+ما	ما	SUB_CONJ
+يقوى	يِ+قْوَى	IV3MS+IV
+هيقوى	حَ+يُ+قْوِي	FUT_PART+IV3MS+IV
+عليك	عَلَى+َك	PREP+PRON_2MS
+انت	اِنْتَ	PRON_2MS
+#	#	PUNC
+نصيحه	نَصِيح+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+احساس	اِحْساس	NOUN
+وحش	وِحِش	ADJ
+اما	أَمّا	CONJ
+يكون	يِ+كُون	IV3MS+IV
+قدامك	قُدّام+َك	NOUN+POSS_PRON_2MS
+حد	حَدّ	NOUN
+هتموت	حَ+تِ+مُوت	FUT_PART+IV3FS+IV
+وتسلم	وِ+ت+سَلِّم	CONJ+IV3FS+IV
+عليه	عَلَى+ُه	PREP+PRON_3MS
+بس	بَسّ	CONJ
+فى	فِي	PREP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+جواك	جُوّا+َك	NOUN+POSS_PRON_2MS
+بتقولك	بِ+تِ+قَوِّل+ِك	PROG_PART+IV3FS+IV+IVSUFF_DO:2FS
+"	"	PUNC
+انت	اِنْتَ	PRON_2MS
+فاكر	فاكِر	ADJ
+هو	هُوَّ	PRON_3MS
+عمل	عَمَل+(نُلل)	PV+PVSUFF_SUBJ:3MS
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+ايه	أَيَّة	INTERROG_PRON
+"	"	PUNC
+SENTENCE-BREAK
+	
+اجمل	أَجْمَل	ADJ_COMP
+احساس	اِحْساس	NOUN
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تبقي	تِ+بْق+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+قاعد	قاعِد	ADJ
+و	وِ	CONJ
+تيجي	تِ+يْجِي	IV3FS+IV
+عينك	عِين+َك	NOUN+POSS_PRON_2MS
+علي	عَلَى	PREP
+حد	حَدّ	NOUN
+بتحبه	بِ+تِ+حِبّ+ُه	PROG_PART+IV2MS+IV+IVSUFF_DO:3MS
+تلاقيه	تِ+لاق+ِي+ُه	IV2FS+IV+IVSUFF_SUBJ:2FS+IVSUFF_DO:3MS
+باصص	بِ+أُصُص	PREP+NOUN
+عليك	عَلَى+َك	PREP+PRON_2MS
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+الاجمل	ال+أَجْمَل	DET+ADJ_COMP
+لما	لَمّا	SUB_CONJ
+يتكسف	يِ+تْكِسِف	IV3MS+IV_PASS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+الغريبة	ال+غَرِيب+َة	DET+NOUN+NSUFF_FEM_SG
+فعلا	فِعْل+اً	NOUN+CASE_INDEF_ACC
+إن	إِنّ	SUB_CONJ
+ماحدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+خد	خَد+(نُلل)	PV+PVSUFF_SUBJ:3MS
+باله	بال+ُه	NOUN+POSS_PRON_3MS
+و	وَ	CONJ
+لا	لا	NEG_PART
+حتى	حَتَّى	PART
+خريجين	خِرِّيج+ِين	NOUN+NSUFF_MASC_PL
+الحقوق	ال+حُقُوق	DET+NOUN
+على	عَلَى	PREP
+تويتر	تِوِيتِر	NOUN_PROP
+من	مِن	PREP
+التحايل	ال+تَحايُل	DET+NOUN
+على	عَلَى	PREP
+قانون	قانُون	NOUN
+الإنتخابات	ال+ٱِنْتِخاب+ات	DET+NOUN+NSUFF_FEM_PL
+الي	إِلَى	PREP
+#	#	PUNC
+خالد	خالِد	NOUN_PROP
+ـ	ـ	PUNC
+علي	عَلَى	PREP
+بيعمله	بِ+يِ+عْمِل+ُه	PROG_PART+IV3MS+IV+IVSUFF_DO:3MS
+#	#	PUNC
+@@LAT@@pt	***adj_comp
+SENTENCE-BREAK
+	
+أي	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+هايقولي	حَ+يِ+قُو+لِ+ِي	FUT_PART+IV3MS+IV+PREP+PRON_1S
+ما	ما	SUB_CONJ
+كانش	كان+(نُلل)+ش	PV+PVSUFF_SUBJ:3MS+NEG_PART
+فيه	فِي+ُه	PREP+PRON_3MS
+الكلام	ال+كَلام	DET+NOUN
+ده	دَه	DEM_PRON_MS
+أيام	اِيّام	NOUN
+مبارك	مُبارَك	NOUN_PROP
+يبقى	يِ+بْقَى	IV3MS+IV
+ما	ما	SUB_CONJ
+كانش	كان+(نُلل)+ش	PV+PVSUFF_SUBJ:3MS+NEG_PART
+بيروح	بِ+يِ+رُوح	PROG_PART+IV3MS+IV
+الجامعة	ال+جامْع+َة	DET+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+كل	كُلّ	NOUN_QUANT
+الوساخة	ال+وَساخ+َة	DET+NOUN+NSUFF_FEM_SG
+دي	دِي	DEM_PRON_FS
+كانت	كان+ِت	PV+PVSUFF_SUBJ:3FS
+موجودة	مَوجُود+َة	ADJ+NSUFF_FEM_SG
+انتو	اِنْتُو	PRON_2P
+بس	بَسّ	CONJ
+كنتوا	كُن+تُوا	PV+PVSUFF_SUBJ:2P
+في	فِي	PREP
+الفقاعة	ال+فُقّاع+َة	DET+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+#	#	PUNC
+مغيبيبن	***adj_comp
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+صحيح	صَحِيح	ADJ
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+حد	حَدّ	NOUN
+بيموت	بِ+يِ+مُوت	PROG_PART+IV3MS+IV
+عشان	عَ+شَأْن	PREP+NOUN
+حد	حَدّ	NOUN
+.	.	PUNC
+.	.	PUNC
+بس	بَسّ	CONJ
+فى	فِي+ُه	PREP+PRON_3MS
+حد	حَدّ	NOUN
+بيفضل	بِ+يِ+فْضَل	PROG_PART+IV3MS+IV_PASS
+مش	مِش	NEG_PART
+سعيد	سَعِيد	ADJ
+بسبب	بِ+سَبَب	PREP+NOUN
+حد	حَدّ	NOUN
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+دا	دَه	DEM_PRON_MS
+و	وِ	CONJ
+الموت	ال+مَوْت	DET+NOUN
+ميفرقوش	ما+يِ+فَرَّق+ُوا+ش	NEG_PART+IV3P+IV+IVSUFF_SUBJ:P+NEG_PART
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+عن	عَن	PREP
+بعض	بَعْض	NOUN_QUANT
+.	.	PUNC
+SENTENCE-BREAK
+	
+عارفين	عارْف+ِين	ADJ+NSUFF_MASC_PL
+انتو	اِنْتُو	PRON_2P
+الشخصيه	ال+شَخْصِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+الي	إِلَى	PREP
+بتيجي	بِ+تِ+يْجِي	PROG_PART+IV3FS+IV
+ف	فَ	CONJ
+وسط	وَسَط	NOUN
+عياطك	عِياط+كَ	NOUN+POSS_PRON_2MS
+وتقولك	وِ+ت+قُول+ِك	CONJ+IV3FS+IV+IVSUFF_DO:2FS
+انت	اِنْتَ	PRON_2MS
+شكلك	شَكْل+َك	NOUN+POSS_PRON_2MS
+كيوت	***adj_comp
+اوي	أَوِي	ADJ
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+بتعيط	بِ+تِ+عَيَّط	PROG_PART+IV2FS+IV
+ويشد	وِ+يِ+شِدّ	CONJ+IV3MS+IV
+ف	فَ	CONJ
+خدودك	خُدُود+ِك	NOUN+POSS_PRON_2FS
+العالم	ال+عالَم	DET+NOUN
+دي	دِي	DEM_PRON_FS
+هتموت	حَ+تِ+مُوت	FUT_PART+IV3FS+IV
+محروقه	مَحْرُوق+َة	ADJ+NSUFF_FEM_SG
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+علاء	عَلاء	NOUN_PROP
+صادق	صادِق	ADJ
+ماله	مال+(نُلل)+ُه	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS
+ومال	وِ+مال	PREP+NOUN
+البابا	أَلْباب+اً	NOUN+CASE_INDEF_ACC
+تواضرس	***adj_comp
+?	?	PUNC
+ليه	لَيه	INTERROG_ADV
+مصمم	مُصَمِّم	ADJ
+يقلبها	يِ+قْلِب+ها	IV3MS+IV+IVSUFF_DO:3FS
+فتنة	فِتْن+َة	NOUN+NSUFF_FEM_SG
+طائفية	طائِفِيّ+َة	ADJ+NSUFF_FEM_SG
+?	?	PUNC
+اللعبة	ال+لِعْب+َة	DET+NOUN+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+اتهرست	اِتْهَرَس+ِت	PV_PASS+PVSUFF_SUBJ:3FS
+ف	فَ	CONJ
+ميت	مِيت	NOUN_NUM
+فيلم	فِيلم	NOUN
+قبل	قَبْل	NOUN
+كده	كِدَه	NOUN
+ومانفعتش	وِ+ما+نِفْع+ِت+ش	CONJ+NEG_PART+PV+PVSUFF_SUBJ:3FS+NEG_PART
+كان	كان	PV
+غيرك	غِير+ِك	NOUN+POSS_PRON_2FS
+اشطر	أَشْطُر	NOUN
+شوفلك	شَوِّف+(نُلل)+لِ+ِك	PV+PVSUFF_SUBJ:3MS+PREP+PRON_2FS
+غيرها	غَيْر+ها	NOUN+POSS_PRON_3FS
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+لازم	لازِم	ADJ
+تعامل	تَعامُل	NOUN
+حد	حَدّ	NOUN
+بالمثل	بِ+ال+مَثَل	PREP+DET+NOUN
+لان	لِ+إِنّ	PREP+SUB_CONJ
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+بيتعامل	بِ+يِ+تْعامِل	PROG_PART+IV3MS+IV_PASS
+بأخلاقه	بِ+أَخْلاق+ُه	PREP+NOUN+POSS_PRON_3MS
+انت	اِنْتَ	PRON_2MS
+ممكن	مُمْكِن	ADJ
+تبعد	تِ+بْعِد	IV2FS+IV
+خالص	خالِص	ADJ
+وتبقا	وِ+ت+بْقا	CONJ+IV2MS+IV
+وفرت	وَفَر+تُ	PV+PVSUFF_SUBJ:1S
+ع	عَ	PREP
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+النفاق	ال+نِفاق	DET+NOUN
+ع	عَ	PREP
+الاقل	ال+أَقَلّ	DET+ADJ_COMP
+!	!	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@yehiazak	***adj_comp
+ما	ما	FOCUS_PART
+أنا	أَنا	PRON_1S
+قلتلها	قُل+ت+لِ+ها	PV+PVSUFF_SUBJ:1S+PREP+PRON_3FS
+كده	كِدَه	NOUN
+,	,	PUNC
+,	,	PUNC
+عارف	عارِف	ADJ
+الكارثه	ال+كارْث+َة	DET+NOUN+NSUFF_FEM_SG
+فين	فَين	INTERROG_ADV
+!	!	PUNC
+!	!	PUNC
+أنها	إِنّ+ها	SUB_CONJ+PRON_3FS
+حتربى	حَ+تُ+رَبّ+ِي	FUT_PART+IV2FS+IV+IVSUFF_SUBJ:2FS_MOOD:SJ
+ولدها	وَلَد+َ+ها	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3FS
+ان	إِنّ	SUB_CONJ
+الفعل	ال+فِعْل	DET+NOUN
+ده	دَه	DEM_PRON_MS
+مبرر	مُبَرِّر	NOUN
+و	وِ	CONJ
+بكده	بِ+كِدَه	PREP+NOUN
+حنشيل	حَ+نُ+شِيل	FUT_PART+IV1P+IV
+قرف	قَرَف	NOUN
+تربيه	تَرْبِيّ+َة	NOUN+NSUFF_FEM_SG
+وسخه	وِسْخ+َة	ADJ+NSUFF_FEM_SG
+مريضه	مَرِيض+َة	NOUN+NSUFF_FEM_SG
+تانى	تانِي	ADJ
+SENTENCE-BREAK
+	
+احنا	اِحْنا	PRON_1P
+مش	مِش	NEG_PART
+عايزين	عايْز+ِين	ADJ+NSUFF_MASC_PL
+نموت	نِ+مُوت	IV1P+IV
+نفسنا	نَفْس+نا	NOUN+POSS_PRON_1P
+.	.	PUNC
+.	.	PUNC
+احنا	اِحْنا	PRON_1P
+في	فِي	PREP
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+معينة	مُعَيَّن+َة	ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+حياتنا	حَيا+َة+نا	NOUN+NSUFF_FEM_SG+POSS_PRON_1P
+نفسنا	نَفْس+نا	NOUN+POSS_PRON_1P
+نموتها	نِ+مُوت+ها	IV1P+IV+IVSUFF_DO:3FS
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+مش	مِش	NEG_PART
+فاهمة	فاهْم+َة	ADJ+NSUFF_FEM_SG
+طلاب	طُلّاب	NOUN
+المدارس	ال+مَدارِس	DET+NOUN
+اللي	اللِّي	REL_PRON
+في	فِي	PREP
+الاسكندرية	ال+إِسْكَنْدَرِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+رفضين	***adj_comp
+لية	لَيه	INTERROG_ADV
+ان	إِنّ	SUB_CONJ
+المدرسة	ال+مَدْرَس+َة	DET+NOUN+NSUFF_FEM_SG
+يكون	يِ+كُون	IV3MS+IV
+عليها	عَلَى+ها	PREP+PRON_3FS
+حرص	حِرْص	NOUN
+!	!	PUNC
+!	!	PUNC
+و	وَ	CONJ
+طلاب	طُلّاب	NOUN
+الازهر	ال+أَزْهَر	DET+NOUN_PROP
+معترضين	مُعْتَرِض+ِين	ADJ+NSUFF_MASC_PL
+كمان	كَمان	ADV
+اية	إِيه	NOUN
+الهبل	ال+هِبْل	DET+ADJ
+دا	دَه	DEM_PRON_MS
+دول	دُوَل	NOUN
+لحميتهم	لَحْمِيّ+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3MP
+اصلا	أَصْلاً	NOUN
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+هيحصل	حَ+يِ+حْصَل	FUT_PART+IV3MS+IV
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+لما	لَمّا	SUB_CONJ
+يخرج	يُ+خْرُج	IV3MS+IV
+من	مِن	PREP
+حياتك	حَيا+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+واحد	واحِد	NOUN_NUM
+او	أَو	CONJ
+اتنين	اِثْنَين	NOUN_NUM
+او	أَو	CONJ
+عشرة	عَشَر+َة	NOUN_NUM+NSUFF_FEM_SG
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+مع	مَعَ	NOUN
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+و	وِ	CONJ
+مع	مَعَ	NOUN
+ربك	رَبّ+َك	NOUN+POSS_PRON_2MS
+هتكسب	حَ+تَ+كْسِب	FUT_PART+IV3FS+IV
+!	!	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@Al3askarY@AlMasryAlYoum	***adj_comp
+غلط	غَلَط	ADJ
+و	وِ	CONJ
+علشان	***noun
+يفتحولهم	يِ+فْتَح+ُوا+لِ+هُم	IV3P+IV+IVSUFF_SUBJ:P+PREP+PRON_3P
+حساب	حِساب	NOUN
+فى	فِي	PREP
+أمريكا	أَمْرِيكا	NOUN_PROP
+لأن	لِ+إِنّ	PREP+SUB_CONJ
+معندهمش	مَ+عَنْد+هُم+ش	NEG_PART+NOUN+POSS_PRON_3P+NEG_PART
+حساب	حِساب	NOUN
+علشان	***noun
+يقفلوه	يِ+قْفِل+ُوا+ُه	IV3P+IV+IVSUFF_SUBJ:P+IVSUFF_DO:3MS
+SENTENCE-BREAK
+	
+ياريت	يارَيت	PSEUDO_VERB
+الناس	ال+ناس	DET+NOUN
+الي	إِلَى	PREP
+ماتفرجتش	مَ+اِتْفَرَّج+ِت+ش	NEG_PART+PV+PVSUFF_SUBJ:3FS+NEG_PART
+على	عَلَى	PREP
+المؤتمر	ال+مُؤْتَمَر	DET+NOUN
+تتفرج	تِ+تْفَرَّج	IV3FS+IV
+تاني	تانِي	ADJ
+و	وِ	CONJ
+تعيد	تِ+عِيد	IV2MS+IV
+حسابتها	***adj_comp
+-	-	PUNC
+#	#	PUNC
+خالد	خالِد	NOUN_PROP
+ـ	ـ	PUNC
+علي	عَلَى	PREP
+مابينسحبش	***adj_comp
+من	مِن	PREP
+إنتخابات	إِنْتِخاب+ات	NOUN+NSUFF_FEM_PL
+رئاسة	رِئاس+َة	NOUN+NSUFF_FEM_SG
+الجمهورية	ال+جُمْهُورِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+@@LAT@@http://t.co/v8taJ2DKvE	***digit
+SENTENCE-BREAK
+	
+أنا	أَنا	PRON_1S
+محتاجة	مِحْتاج+َة	ADJ+NSUFF_FEM_SG
+اجيب	اَ+جِيب	IV1S+IV
+شخص	شَخْص	NOUN
+لبناني	لِ+بَنان+ِي	PREP+NOUN+POSS_PRON_1S
+يتكلم	يِ+تْكَلِّم	IV3MS+IV_PASS
+معايا	مَعَ+ِي	NOUN+POSS_PRON_1S
+في	فِي	PREP
+اي	أَيّ	NOUN_QUANT
+كلام	كَلام	NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+لهجتهم	لَهْج+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3MP
+بتبسطني	بِ+تِ+بْسُط+نِي	PROG_PART+IV3FS+IV+IVSUFF_DO:1S
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+لو	لَو	SUB_CONJ
+ذكرت	ذَكَر+ت	PV+PVSUFF_SUBJ:1S
+10	10	NOUN_NUM
+ساعات	ساع+ات	NOUN+NSUFF_FEM_PL
+و	وَ	CONJ
+مسكت	مِسْك+ِت	PV+PVSUFF_SUBJ:3FS
+الموبيل	ال+مُوبِيل	DET+ADJ
+نص	نُصّ	NOUN_QUANT
+ساعة	ساع+َة	NOUN+NSUFF_FEM_SG
+ابويا	أَبُو+ِي	NOUN+POSS_PRON_1S
+مش	مِش	NEG_PART
+هيشوفنى	حَ+ي+شُوف+نِي	FUT_PART+IV3MS+IV+IVSUFF_DO:1S
+غير	غَيْر	NOUN
+فى	فِي	PREP
+النص	ال+نُصّ	DET+NOUN_QUANT
+ساعه	ساع+َة	NOUN+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+أنام	اَ+نام	IV1S+IV
+مش	مِش	NEG_PART
+بشبع	بِ+شَبْع	PREP+NOUN
+نووم	***adj_comp
+أذاكر	اَ+ذاكِر	IV1S+IV
+مش	مِش	NEG_PART
+بفهم	بِ+فَهْم	PREP+NOUN
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+أحب	اَ+حِبّ	IV1S+IV
+متحبش	مَ+تِ+حِبّ+ش	NEG_PART+IV3FS+IV+NEG_PART
+اتحب	اَ+تْحَبّ	IV1S+IV_PASS
+محبش	ما+اَ+حِبّ+ش	NEG_PART+IV1S+IV+NEG_PART
+!	!	PUNC
+دي	دِي	DEM_PRON_FS
+دنيا	دُنْيا	NOUN
+رخمه	رَخَم+َة	NOUN_PROP+NSUFF_FEM_SG
+اوى	أَوِي	ADJ
+!	!	PUNC
+!	!	PUNC
+خايف	خايِف	ADJ
+أنتحر	أَ+نْتَحِر	IV1S+IV
+مموتش	مَ+مَوِّت+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+فعلا	فِعْل+اً	NOUN+CASE_INDEF_ACC
+فيه	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+"	"	PUNC
+نواياهم	نَوايا+هُم	NOUN+POSS_PRON_3MP
+كويسة	كُوَيِّس+َة	ADJ+NSUFF_FEM_SG
+"	"	PUNC
+نزلوا	نِزْل+ُوا	PV+PVSUFF_SUBJ:3P
+في	فِي	PREP
+يناير	يَنايِر	NOUN
+.	.	PUNC
+.	.	PUNC
+المفروض	ال+مَفْرُوض	DET+ADJ
+بنفس	بِ+نَفْس	PREP+NOUN
+"	"	PUNC
+النوايا	ال+نَوايا	DET+NOUN
+الكويسة	ال+كُوَيِّس+َة	DET+ADJ+NSUFF_FEM_SG
+"	"	PUNC
+دي	دِي	DEM_PRON_FS
+ينتحروا	يِ+نْتَحَر+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+بسبب	بِ+سَبَب	PREP+NOUN
+القرف	ال+قَرَف	DET+NOUN
+اللي	اللِّي	REL_PRON
+لازم	لازِم	ADJ
+نشوفه	نَ+شُوف+هُ	IV1P+IV+IVSUFF_DO:3MS
+علشان	***noun
+بس	بَسّ	CONJ
+نرجع	نِ+رْجَع	IV1P+IV
+لحدود	لِ+حُدُود	PREP+NOUN
+24	24	NOUN_NUM
+يناير	يَنايِر	NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+لازم	لازِم	ADJ
+يكون	يِ+كُون	IV3MS+IV
+ليك	لِ+َك	PREP+PRON_2MS
+"	"	PUNC
+حبيب	حَبِيب	NOUN_PROP
+"	"	PUNC
+عشان	عَ+شَأْن	PREP+NOUN
+تكون	تِ+كُون	IV3FS+IV
+مبسوط	مَبْسُوط	ADJ
+.	.	PUNC
+.	.	PUNC
+ممكن	مُمْكِن	ADJ
+يكون	يِ+كُون	IV3MS+IV
+ليه	لِ+ُه	PREP+PRON_3MS
+صحاب	صُحاب	NOUN
+اجدع	أَجْدَع	ADJ_COMP
+واحن	وِ+أَحَنّ	CONJ+ADJ_COMP
+من	مِن	PREP
+مليون	مِلْيُون	NOUN
+حبيب	حَبِيب	NOUN
+:	:	PUNC
+)	)	PUNC
+)	)	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+كانت	كان+ِت	PV+PVSUFF_SUBJ:3FS
+فرصة	فُرْص+َة	NOUN+NSUFF_FEM_SG
+بعد	بَعْد	NOUN
+جنات	جَنّ+ات	NOUN+NSUFF_FEM_PL
+ودياب	وَ+دِياب	CONJ+NOUN_PROP
+يطلع	يِ+طْلَع	IV3MS+IV
+المتحدث	ال+مُتَحَدِّث	DET+NOUN
+يعلن	يِ+عْلِن	IV3MS+IV
+اسماء	اَسْماء	NOUN
+اللي	اللِّي	REL_PRON
+قتلوا	قَتَل+ُوا	PV+PVSUFF_SUBJ:3P
+جنودنا	جُنُود+نا	NOUN+POSS_PRON_1P
+في	فِي	PREP
+رمضان	رَمَضان	NOUN
+وخطفوا	وَ+خَطَف+ُوا	CONJ+PV+PVSUFF_SUBJ:3P
+ال	ال	DET
+7	7	NOUN_NUM
+اهو	أَ+هُوَّ	DEM_PRON+PRON_3MS
+مرسي	مِرَسِّي	NOUN
+مشي	مَشَى+(نُلل)	PV+PVSUFF_SUBJ:3MS
+وسينا	وَ+سِين+اً	CONJ+NOUN+CASE_INDEF_ACC
+تحت	تَحْت	NOUN
+سيطرتنا	سَيطَر+َة+نا	NOUN+NSUFF_FEM_SG+POSS_PRON_1P
+تماما	تَمام+اً	NOUN+CASE_INDEF_ACC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+عايزين	عايْز+ِين	ADJ+NSUFF_MASC_PL
+نعرفهم	نِ+عَرَّف+هُم	IV1P+IV+IVSUFF_DO:3P
+SENTENCE-BREAK
+	
+الناس	ال+ناس	DET+NOUN
+الاغنيا	ال+أُغْنِي+َة	DET+NOUN+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+تلاقيهم	تِ+لاقِي+هُم	IV2MS+IV+IVSUFF_DO:3P
+معووجين	***adj_comp
+و	وَ	CONJ
+ولاد	وِلاد	NOUN
+وسخه	وَسَخ+هُ	NOUN+POSS_PRON_3MS
+تعرف	تِ+عْرَف	IV2MS+IV
+علي	عَلَى	PREP
+طول	طُول	NOUN
+ان	إِنّ	SUB_CONJ
+اصلهم	أَصْل+هُم	NOUN+POSS_PRON_3P
+جربوع	جَرْبُوع	NOUN
+وإغتنوا	وِ+ٱِغْتَن+َوْا	CONJ+PV+PVSUFF_SUBJ:3MP
+,	,	PUNC
+اللي	اللِّي	REL_PRON
+مأصلين	***adj_comp
+بقي	بَقَى	ADV
+بيبقوا	بِ+يَ+بُقّ+ُوا	PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+في	فِي	PREP
+منتهي	مُنْتَهَى	NOUN
+الرقي	ال+رُقَى	DET+NOUN
+SENTENCE-BREAK
+	
+يبقى	يِ+بْقَى	IV3MS+IV
+قاعد	قاعِد	ADJ
+تحت	تَحْت	NOUN
+كوبرى	كُوبْرِي	NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+يلمع	يِ+لَمِّع	IV3MS+IV
+جزم	جِزَم	NOUN
+الناس	ال+ناس	DET+NOUN
+وهو	وِ+هُوَّ	CONJ+PRON_3MS
+اصلان	أَصْل+انِ	NOUN+NSUFF_MASC_DU_NOM
+خريج	خِرِّيج	NOUN
+جامعة	جامْع+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+تعبتي	تِعِب+تِي	PV+PVSUFF_SUBJ:2FS
+و	وَ	CONJ
+انتي	اِنْتِي	PRON_2FS
+وحدك	وَ+حَدّ+كَ	CONJ+NOUN+POSS_PRON_2MS
+اوعي	اَوع+ِي	CV+CVSUFF_SUBJ:2FS
+مرة	مَرّ+َة	NOUN+NSUFF_FEM_SG
+احس	اَ+حِسّ	IV1S+IV
+دمعك	دَمْع+كِ	NOUN+POSS_PRON_2FS
+اتكلمي	اِتْكَلِّم+ِي	CV+CVSUFF_SUBJ:2FS
+ويايا	وَ+ياي+اً	CONJ+NOUN+CASE_INDEF_ACC
+و	وَ	CONJ
+احكي	اِحْكِي+(نُلل)	CV+CVSUFF_SUBJ:2MS
+اه	إِه	INTERJ
+فارقتك	فارِق+َة+كَ	ADJ+NSUFF_FEM_SG+POSS_PRON_2MS
+بس	بَسّ	CONJ
+سامعك	سامِع+كَ	NOUN+POSS_PRON_2MS
+هاتلاقيني	حَ+تُ+لاقِي+نِي	FUT_PART+IV3FS+IV+IVSUFF_DO:1S
+في	فِي	PREP
+اي	أَيّ	NOUN_QUANT
+وقت	وَقْت	NOUN
+هاتشوفيني	حَ+ت+شُوف+ِي+نِي	FUT_PART+IV2FS+IV+IVSUFF_SUBJ:2FS+IVSUFF_DO:1S
+تملي	تِ+مْلَى	IV2MS+IV
+جنبك	جَنْب+ِك	NOUN+POSS_PRON_2FS
+بعيداعن	***adj_comp
+#	#	PUNC
+أبو	أَبُو	NOUN_PROP
+ـ	ـ	PUNC
+صلاح	صَلاح	NOUN_PROP
+SENTENCE-BREAK
+	
+محدش	ما+حَدّ+ش	NEG_PART+NOUN+NEG_PART
+محتاج	مِحْتاج	ADJ
+من	مِن	PREP
+حد	حَدّ	NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+الحالة	ال+حال+َة	DET+NOUN+NSUFF_FEM_SG
+100	100	NOUN_NUM
+فل	فَلّ	NOUN
+ومرضية	وَ+مَرَضِيّ+َة	CONJ+ADJ+NSUFF_FEM_SG
+الفكرة	ال+فِكْر+َة	DET+NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+ف	فَ	CONJ
+التقدير	ال+تَقْدِير	DET+NOUN
+وده	وِ+دَه	CONJ+DEM_PRON_MS
+مش	مِش	NEG_PART
+بفلوس	بِ+فِلُوس	PREP+NOUN
+ده	دَه	DEM_PRON_MS
+كبيره	كِبِير+َة	ADJ+NSUFF_FEM_SG
+سؤال	سُؤال	NOUN
+بصافي	بِ+صافِي	PREP+ADJ
+نية	نِيّ+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+عن	عَن	PREP
+ناس	ناس	NOUN
+أول	أَوَّل	ADJ
+ماتعرفك	ما+تِ+عْرَف+َك	NEG_PART+IV3FS+IV+IVSUFF_DO:2MS
+تهتم	تِ+هْتَمّ	IV3FS+IV
+بيك	بِ+َك	PREP+PRON_2MS
+أوى	أَوِي	ABBREV
+وكأن	وِ+كان	CONJ+PV
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+وراهم	وَرا+هُم	NOUN+POSS_PRON_3P
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+إلا	إِلّا	RESTRIC_PART
+أنت	اِنْتَ	PRON_2MS
+.	.	PUNC
+.	.	PUNC
+ومع	وِ+مَعَ	CONJ+NOUN
+الوقت	ال+وَقْت	DET+NOUN
+الاهتمام	ال+اِهْتِمام	DET+NOUN
+يقل	يِ+قِلّ	IV3MS+IV
+شويه	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+بشوية	بِ+شِوَيّ+َة	PREP+NOUN+NSUFF_FEM_SG
+لحد	لِ+حَدّ	PREP+NOUN
+مايختفى	ما+يِ+خْتِفِي	NEG_PART+IV3MS+IV
+SENTENCE-BREAK
+	
+بحب	بِ+اَ+حِبّ	PROG_PART+IV1S+IV
+أصرف	اَ+صْرِف	IV1S+IV
+اللي	اللِّي	REL_PRON
+معايا	مَعَ+ِي	NOUN+POSS_PRON_1S
+و	وَ	CONJ
+معملش	ما+عَمَل+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+حساب	حِساب	NOUN
+لكمان	لِ+كَمان	PREP+NOUN
+خمس	خَمَس	NOUN_NUM
+دقايق	دَقايِق	NOUN
+من	مِن	PREP
+دلوقتي	دِلْوَقْتِي	ADV
+,	,	PUNC
+المتعة	ال+مُتْع+َة	DET+NOUN+NSUFF_FEM_SG
+مبقتش	ما+بَق+ِت+ش	NEG_PART+PV+PVSUFF_SUBJ:3FS+NEG_PART
+ف	فَ	CONJ
+إني	أَنّ+ِي	SUB_CONJ+PRON_1S
+بصرف	بِ+اَ+صْرِف	PROG_PART+IV1S+IV
+.	.	PUNC
+أنا	أَنا	PRON_1S
+بقيت	بَق+َيت	PV+PVSUFF_SUBJ:1S
+بستمتع	بِ+أَ+سْتَمْتِع	PROG_PART+IV1S+IV
+إني	أَنّ+ِي	SUB_CONJ+PRON_1S
+معييش	ما+عِيِي+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+فلوس	فِلُوس	NOUN
+SENTENCE-BREAK
+	
+عارفين	عارْف+ِين	ADJ+NSUFF_MASC_PL
+أحساس	اِحْساس	NOUN
+الملل	ال+مَلَل	DET+NOUN
+بس	بَسّ	CONJ
+من	مِن	PREP
+جواك	جُوّا+َك	NOUN+POSS_PRON_2MS
+مشغول	مَشْغُول	ADJ
+مش	مِش	NEG_PART
+عارف	عارِف	ADJ
+مع	مَعَ	NOUN
+مين	مِين	REL_PRON
+و	وَ	CONJ
+ايه	إِيه	NOUN
+اللى	اللِّي	REL_PRON
+شاغلك	شاغْل+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+مع	مَعَ	NOUN
+إن	إِنّ	SUB_CONJ
+فى	فِي+ُه	PREP+PRON_3MS
+ملل	مَلَل	NOUN
+أحساس	اِحْساس	NOUN
+وحش	وِحِش	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+بتظهر	بِ+تِ+ظْهَر	PROG_PART+IV3FS+IV
+ساعات	ساع+ات	NOUN+NSUFF_FEM_PL
+تخلى	تِ+خَلِّي	IV3FS+IV
+السكات	ال+سُكات	DET+NOUN
+يفرض	يَ+فْرِض	IV3MS+IV
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+عليا	عُلْيا	ADJ
+واروح	وِ+اَ+رُوح	CONJ+IV1S+IV
+للى	لِ+اللِّي	PREP+REL_PRON
+فات	فات+(نُلل)	PV+PVSUFF_SUBJ:3MS
+واعيش	وَ+أَ+عِيش	CONJ+IV1S+IV
+ذكريات	ذِكْرَي+ات	NOUN+NSUFF_FEM_PL
+من	مِن	PREP
+حب	حُبّ	NOUN
+مات	مات+(نُلل)	PV+PVSUFF_SUBJ:3MS
+وجعه	وَجَع+هُ	NOUN+POSS_PRON_3MS
+مأثر	مِأَثَّر	ADJ
+فيا	فَ+يا	CONJ+CONJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+طب	طَب	INTERJ
+كورة	كُور+َة	NOUN+NSUFF_FEM_SG
+حديد	حَدِيد	NOUN
+تيجي	تِ+يْجِي	IV3FS+IV
+من	مِن	PREP
+ورا	وَرا	NOUN
+المسرح	ال+مَسْرَح	DET+NOUN
+كدة	كِدَة	NOUN
+و	وِ	CONJ
+تهرس	تِ+هْرُس	IV2MS+IV
+شيرين	شِيرِين	NOUN_PROP
+SENTENCE-BREAK
+	
+فى	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+بتلقح	بِ+تِ+لَقِّح	PROG_PART+IV3FS+IV
+بالكلام	بِ+ال+كَلام	PREP+DET+NOUN
+ع	عَ	PREP
+ناس	ناس	NOUN
+تانيه	تانْي+َة	ADJ_COMP+NSUFF_FEM_SG
+فى	فِي	PREP
+التويتس	***adj_comp
+مفكر	مِفَكَّر	ADJ
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+قاعد	قاعِد	ADJ
+ع	عَ	PREP
+المسطبه	ال+مَسْطَب+َة	DET+NOUN+NSUFF_FEM_SG
+انت	اِنْتَ	PRON_2MS
+مش	مِش	NEG_PART
+فى	فِي	PREP
+ع	عَ	PREP
+التايم	ال+تَأَيُّم	DET+NOUN
+لاين	لايِن	NOUN
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+طب	طَب	INTERJ
+العيب	ال+عَيب	DET+NOUN
+في	فِي	PREP
+مين	مِين	INTERROG_PRON
+?	?	PUNC
+في	فِي	PREP
+الفيزيا	ال+فِيزيا	DET+NOUN
+?	?	PUNC
+لأ	لا	INTERJ
+عشان	عَ+شَأْن	PREP+NOUN
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+بتفهمها	بِ+تِ+فْهَم+ها	PROG_PART+IV3FS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+طب	طَب	INTERJ
+في	فِي	PREP
+المستر	ال+مِسَتَّر	DET+NOUN
+?	?	PUNC
+لأ	لا	INTERJ
+عشان	عَ+شَأْن	PREP+NOUN
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+بتفهمه	بِ+تِ+فْهِم+هُ	PROG_PART+IV3FS+IV+IVSUFF_DO:3MS
+.	.	PUNC
+يبقي	يِ+بْقَى	IV3MS+IV
+العيب	ال+عَيب	DET+NOUN
+فيا	فَ+يا	CONJ+CONJ
+أنا	أَنا	PRON_1S
+و	وَ	CONJ
+حسبي	حَسْب+ِي	NOUN+POSS_PRON_1S
+الله	اللَّه	NOUN_PROP
+و	وَ	CONJ
+نعم	نِعْم	NOUN
+الوكيل	ال+وَكِيل	DET+NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+السعاده	ال+سَعاد+َة	DET+NOUN+NSUFF_FEM_SG
+حواليك	حَوالِي+َك	NOUN_QUANT+POSS_PRON_2MS
+فى	فِي	PREP
+كل	كُلّ	NOUN_QUANT
+حته	حِتّ+َة	NOUN+NSUFF_FEM_SG
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+كده	كِدَه	NOUN
+عامله	عامْل+َة	ADJ+NSUFF_FEM_SG
+زي	زَيّ	NOUN
+.	.	PUNC
+.	.	PUNC
+زي	زَيّ	NOUN
+ضربات	ضَرَب+ات	NOUN+NSUFF_FEM_PL
+قلبك	قَلْب+ِك	NOUN+POSS_PRON_2FS
+لما	لَمّا	SUB_CONJ
+بتبقى	بِ+تِ+بْقَى	PROG_PART+IV3FS+IV
+متشيك	مِتْشَيِّك	NOUN
+على	عَلَى	PREP
+الاخر	ال+آخِر	DET+NOUN
+وداخل	وِ+داخِل	PREP+NOUN
+فرح	فَرَح	NOUN
+موجود	مَوجُود	ADJ
+فيه	فِي+ُه	PREP+PRON_3MS
+حد	حَدّ	NOUN
+بتحبه	بِ+تِ+حِبّ+ُه	PROG_PART+IV3FS+IV+IVSUFF_DO:3MS
+SENTENCE-BREAK
+	
+@@LAT@@@melzoghby@m_msobhy	***adj_comp
+البناء	ال+بِناء	DET+NOUN
+ف	فَ	CONJ
+ارض	أَرْض	NOUN
+مشروع	مَشْرُوع	NOUN
+العشوائيات	ال+عَشْوائِيّ+ات	DET+ADJ+NSUFF_FEM_PL
+بدأ	بَدَأ	PV
+من	مِن	PREP
+فترة	فَتْر+َة	NOUN+NSUFF_FEM_SG
+كبيرة	كِبِير+َة	ADJ+NSUFF_FEM_SG
+و	وَ	CONJ
+دلوقتي	دِلْوَقْتِي	ADV
+ممكن	مُمْكِن	ADJ
+تروح	تِ+رُوح	IV3FS+IV
+تشوف	تِ+شُوف	IV3FS+IV
+المباني	ال+مَبانِي	DET+NOUN
+كمان	كَمان	ADV
+.	.	PUNC
+اليوتيوب	ال+يُوتُيُوب	DET+NOUN_PROP
+مليان	مَلْيان	ADJ
+فيديوهات	فِيدْيُوه+ات	NOUN+NSUFF_FEM_PL
+ياريت	يارَيت	PSEUDO_VERB
+تشوف	تِ+شُوف	IV2FS+IV
+SENTENCE-BREAK
+	
+@@LAT@@@Hager_Magdy89	***adj_comp
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+من	مِن	PREP
+جواه	جُوّا+ُه	NOUN+POSS_PRON_3MS
+بيبقي	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+بيحب	بِ+يِ+حِبّ	PROG_PART+IV3MS+IV
+حد	حَدّ	NOUN
+او	أَو	CONJ
+معجب	مُعْجَب	ADJ
+بحد	بِ+حَدّ	PREP+NOUN
+ف	فَ	CONJ
+هيتابعه	حَ+يِ+تابْع+ُه	FUT_PART+IV3MS+IV+IVSUFF_DO:3MS
+سواء	سَواء	NOUN
+الشخص	ال+شَخْص	DET+NOUN
+ده	دَه	DEM_PRON_MS
+حس	حَسّ+(نُلل)	PV+PVSUFF_SUBJ:3MS
+او	أَو	CONJ
+لا	لا	NEG_PART
+@@LAT@@:D	***adj_comp
+النظرات	ال+نَظَر+ات	DET+NOUN+NSUFF_FEM_PL
+دي	دِي	DEM_PRON_FS
+هتلاقيها	حَ+تِ+لاقِي+ها	FUT_PART+IV2MS+IV+IVSUFF_DO:3FS
+كتير	كِتِير	NOUN
+لو	لَو	SUB_CONJ
+ركزتي	رَكِّز+تِي	PV+PVSUFF_SUBJ:2FS
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+@@LAT@@@mezo83	***adj_comp
+انا	أَنا	PRON_1S
+بأتفرج	بِ+اَ+تْفَرَّج	PROG_PART+IV1S+IV
+علي	عَلَى	PREP
+أفلام	اَفْلام	NOUN
+و	وَ	CONJ
+بس	بَسّ	CONJ
+يا	يا	VOC_PART
+لايت	لِ+آي+َة	PREP+NOUN_PROP+NSUFF_FEM_SG
+يا	يا	VOC_PART
+كوميدي	كُومِيدِي	ADJ
+,	,	PUNC
+اللي	اللِّي	REL_PRON
+بيتفرجوا	بِ+يِ+تَفَرَّج+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+علي	عَلَى	PREP
+البرامج	ال+بَرامِج	DET+NOUN
+دول	دُوَل	NOUN
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يديهم	يَد+َين+هُم	NOUN+NSUFF_MASC_DU+POSS_PRON_3P
+الصحة	ال+صِحّ+َة	DET+NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+طب	طَب	INTERJ
+على	عَلَى	PREP
+فكرة	فِكْر+َة	NOUN+NSUFF_FEM_SG
+احساس	اِحْساس	NOUN
+حلو	حِلْو	ADJ
+ان	إِنّ	SUB_CONJ
+حد	حَدّ	NOUN
+يحكيلك	يَ+حْكِي+لِ+ِك	IV3MS+IV+PREP+PRON_2FS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+و	وِ	CONJ
+تبقى	تِ+بْقَى	IV3FS+IV
+عارف	عارِف	ADJ
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+بيحكيهالك	بِ+يِ+حْكِي+ها+لِ+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:3FS+PREP+PRON_2MS
+انت	اِنْتَ	PRON_2MS
+بس	بَسّ	ADV
+,	,	PUNC
+حتى	حَتَّى	PART
+لو	لَو	SUB_CONJ
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+هبلة	هَبْل+َة	ADJ+NSUFF_FEM_SG
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+الست	ال+سِتّ	DET+NOUN
+العظيمة	ال+عَظِيم+َة	DET+ADJ+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+في	فِي	PREP
+الصورة	ال+صُور+َة	DET+NOUN+NSUFF_FEM_SG
+بظهرها	بِ+ظَهْر+ها	PREP+NOUN+POSS_PRON_3FS
+دي	دِي	DEM_PRON_FS
+,	,	PUNC
+ممكن	مُمْكِن	ADJ
+تكون	تِ+كُون	IV3FS+IV
+الست	ال+سِتّ	DET+NOUN
+الوحيدة	ال+وَحِيد+َة	DET+ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+مصر	مَصْر	NOUN_PROP
+الجديرة	ال+جَدِير+َة	DET+NOUN+NSUFF_FEM_SG
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+اقولها	اَ+قُول+ها	IV1S+IV+IVSUFF_DO:3FS
+كل	كُلّ	NOUN_QUANT
+سنة	سَن+َة	NOUN+NSUFF_FEM_SG
+وانتي	وِ+اِنْتِي	CONJ+PRON_2FS
+طيبة	طَيِّب+َة	ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+عيد	عِيد	NOUN
+الام	ال+أُمّ	DET+NOUN
+@@LAT@@http://t.co/EF5cWot6sJ	***digit
+SENTENCE-BREAK
+	
+@@LAT@@@EtisalatMisr	***adj_comp
+في	فِي	PREP
+2008	2008	NOUN_NUM
+قدت	قَد+َت	PV+PVSUFF_SUBJ:3FS
+حملة	حَمْل+َة	NOUN+NSUFF_FEM_SG
+لتحويل	لِ+تَحْوِيل	PREP+NOUN
+كل	كُلّ	NOUN_QUANT
+افراد	أَفْراد	NOUN
+عائلتي	عائِل+َة+ِي	NOUN+NSUFF_FEM_SG+POSS_PRON_1S
+من	مِن	PREP
+فودافون	***noun_prop
+لاتصالات	لِ+اِتِّصال+ات	PREP+NOUN+NSUFF_FEM_PL
+وحصل	وِ+حَصَل	CONJ+PV
+.	.	PUNC
+.	.	PUNC
+دلوقتي	دِلْوَقْتِي	ADV
+انا	أَنا	PRON_1S
+هاعمل	حَ+اَ+عْمِل	FUT_PART+IV1S+IV
+العكس	ال+عَكْس	DET+NOUN
+وكله	وِ+كُلّ+ُه	CONJ+NOUN_QUANT+POSS_PRON_3MS
+هايرجع	حَ+يِ+رْجَع	FUT_PART+IV3MS+IV
+فودافون	***noun_prop
+تاني	تانِي	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+ايه	أَيَّة	INTERROG_PRON
+أهمية	أَهَمِّيّ+َة	NOUN+NSUFF_FEM_SG
+سجدة	سَجْد+َة	NOUN+NSUFF_FEM_SG
+اللاعب	ال+لاعِب	DET+NOUN
+بعد	بَعْد	NOUN
+الجون	ال+جُون	DET+NOUN
+?	?	PUNC
+لو	لَو	SUB_CONJ
+شكرت	شَكَر+تُ	PV+PVSUFF_SUBJ:1S
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+في	فِي	PREP
+سرك	سِرُّ+َك	NOUN+POSS_PRON_2MS
+مش	مِش	NEG_PART
+هيتقبل	حَ+يِ+تْقَبَل	FUT_PART+IV3MS+IV_PASS
+?	?	PUNC
+واشمعني	وِ+اِشْمِعْنَى	CONJ+INTERROG_ADV
+في	فِي	PREP
+الكورة	ال+كَور+َة	DET+NOUN+NSUFF_FEM_SG
+?	?	PUNC
+ليه	لَيه	INTERROG_ADV
+الطباخ	ال+طَبّاخ	DET+NOUN
+مثلا	مَثَل+اً	NOUN+CASE_INDEF_ACC
+بعد	بَعْد	NOUN
+ما	ما	SUB_CONJ
+يشوح	يِ+شَوِّح	IV3MS+IV
+حتة	حِتّ+َة	NOUN+NSUFF_FEM_SG
+بفتيك	بِفْتِيك	NOUN
+حلوة	حِلْو+َة	ADJ+NSUFF_FEM_SG
+ما	ما	NEG_PART
+بيسجدش	***adj_comp
+SENTENCE-BREAK
+	
+أي	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+بعد	بَعْد	NOUN
+كده	كِدَه	NOUN
+يتحرش	يِ+تَحَرَّش	IV3MS+IV
+بالستات	بِ+ال+سِتّ+ات	PREP+DET+NOUN+NSUFF_FEM_PL
+والبنات	وِ+ال+بَنات	CONJ+DET+NOUN
+في	فِي	PREP
+الشارع	ال+شارِع	DET+NOUN
+ولا	وَ+لا	CONJ+NEG_PART
+يهمه	يِ+هِمّ+ُه	IV3MS+IV+IVSUFF_DO:3MS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+أصلها	أَصْل+ها	NOUN+POSS_PRON_3FS
+جريمة	جَرِيم+َة	NOUN+NSUFF_FEM_SG
+أخلاقية	أَخْلاقِيّ+َة	ADJ+NSUFF_FEM_SG
+وكده	وِ+كِدَه	PREP+NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+عادي	عادِي	ADJ
+يعتذر	يَ+عْتَذِر	IV3MS+IV
+بعدها	بَعْد+ها	NOUN+POSS_PRON_3FS
+والمجتمع	وَ+ال+مُجْتَمَع	CONJ+DET+NOUN
+يقبله	يِ+قْبَل+ُه	IV3MS+IV+IVSUFF_DO:3MS
+تاني	تانِي	ADJ
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+مشكلة	مُشْكِل+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+اصل	أَصْل	NOUN
+دايما	دايْم+اً	ADJ+CASE_INDEF_ACC
+الكلام	ال+كَلام	DET+NOUN
+الصح	ال+صَحّ	DET+ADJ
+بيجرح	بِ+يِ+جَرِّح	PROG_PART+IV3MS+IV
+ويوجع	وِ+يِ+وْجَع	CONJ+IV3MS+IV
+اوى	أَوِي	ADJ
+بس	بَسّ	CONJ
+لازم	لازِم	ADJ
+نسمعه	نِ+سَمَّع+ُه	IV1P+IV+IVSUFF_DO:3MS
+عشان	عَ+شَأْن	PREP+NOUN
+بيفوقنا	بِ+ي+فَوَّق+نا	PROG_PART+IV3MS+IV+IVSUFF_DO:1P
+.	.	PUNC
+SENTENCE-BREAK
+	
+فجأة	فَجْأ+َة	NOUN+NSUFF_FEM_SG
+بتلاقى	بِ+تِ+لاقِي	PROG_PART+IV2MS+IV
+المشاكل	ال+مَشاكِل	DET+NOUN
+كلها	كُلّ+ها	NOUN_QUANT+POSS_PRON_3FS
+ورا	وَرا	NOUN
+بعدها	بَعْد+ها	NOUN+POSS_PRON_3FS
+وبتبقى	وِ+بِ+تِ+بْقَى	CONJ+PROG_PART+IV3FS+IV
+عارف	عارِف	ADJ
+ان	إِنّ	SUB_CONJ
+دا	دَه	DEM_PRON_MS
+ابتلاء	ٱِبْتِلاء	NOUN
+من	مِن	PREP
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+وان	وِ+إِنّ	CONJ+SUB_CONJ
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+بيختبرك	بِ+يَ+خْتَبِر+كِ	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+بس	بَسّ	CONJ
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+فى	فِي	PREP
+الموقف	ال+مَوْقِف	DET+NOUN
+بيبقى	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+صعب	صَعْب	ADJ
+بس	بَسّ	CONJ
+لازم	لازِم	ADJ
+تصبر	تُ+صْبُر	IV3FS+IV
+وربنا	وَ+رَبِّنا	CONJ+NOUN
+هيعدلها	حَ+يَ+عْذُل+ها	FUT_PART+IV3MS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+SENTENCE-BREAK
+	
+مليون	مِلْيُون	NOUN
+بنت	بِنْت	NOUN
+هتحبك	حَ+تِ+حِبّ+ِك	FUT_PART+IV3FS+IV+IVSUFF_DO:2FS
+ومليون	وَ+مِلْيُون	CONJ+NOUN
+بنت	بِنْت	NOUN
+هتسيبك	حَ+تِ+سَيِّب+َك	FUT_PART+IV3FS+IV+IVSUFF_DO:2MS
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+غير	غَيْر	NOUN
+واحدة	واحْد+َة	NOUN_NUM+NSUFF_FEM_SG
+هتدوملك	***adj_comp
+وتقبل	وَ+تَقَبُّل	CONJ+NOUN
+بيك	بِ+َك	PREP+PRON_2MS
+على	عَلَى	PREP
+عيبك	عَيب+َك	NOUN+POSS_PRON_2MS
+SENTENCE-BREAK
+	
+الناس	ال+ناس	DET+NOUN
+ماتعرفش	ما+تِ+عْرَف+ش	NEG_PART+IV3FS+IV+NEG_PART
+ان	إِن	SUB_CONJ
+الدستور	ال+دُسْتُور	DET+NOUN
+عندنا	عِنْد+نا	NOUN+POSS_PRON_1P
+فى	فِي	PREP
+مصر	مَصْر	NOUN_PROP
+زية	زَيّ+ُه	NOUN+POSS_PRON_3MS
+زى	زَيّ	NOUN
+النيش	ال+نِيش	DET+NOUN
+فى	فِي	PREP
+البيت	ال+بَيت	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+بنطلع	بِ+نِ+طْلَع	PROG_PART+IV1P+IV
+منة	مِنّ+ُه	PREP+PRON_3MS
+الحاجة	ال+حاج+َة	DET+NOUN+NSUFF_FEM_SG
+اللى	اللِّي	REL_PRON
+احنا	اِحْنا	PRON_1P
+عايزنها	***noun_prop
+فى	فِي	PREP
+الوقت	ال+وَقْت	DET+NOUN
+اللى	اللِّي	REL_PRON
+احنا	اِحْنا	PRON_1P
+عايزينة	عايْز+ِين+ُه	ADJ+NSUFF_MASC_PL+PRON_3MS
+بس	بَسّ	ADV
+SENTENCE-BREAK
+	
+اكثر	اَكْثَر	ADJ_COMP
+ناس	ناس	NOUN
+بحترمهم	بِ+أَ+حْتَرِم+هُم	PROG_PART+IV1S+IV+IVSUFF_DO:3MP
+اللي	اللِّي	REL_PRON
+لما	لَمّا	SUB_CONJ
+يغلطوا	يِ+غْلَط+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+ميقعدوش	مَ+يُ+قْعُد+ُوا+ش	NEG_PART+IV3P+IV+IVSUFF_SUBJ:P+NEG_PART
+يكابروا	يِ+كابِر+ُوا	IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+ويكملوا	وِ+يِ+كَمِّل+ُوا	CONJ+IV3P+IV+IVSUFF_SUBJ:P
+في	فِي	PREP
+غلطهم	غَلَط+هُم	NOUN+POSS_PRON_3P
+او	أَو	CONJ
+يبرروا	يِ+بَرَّر+ُوا	IV3P+IV_PASS+IVSUFF_SUBJ:MP_MOOD:SJ
+لا	لا	NEG_PART
+بيعتذروا	بِ+يِ+عْتِذِر+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+وبيعترفوا	وَ+بِ+يَ+عْتَرِف+ُوا	CONJ+PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+بغلطهم	بِ+غَلَط+هُم	PREP+NOUN+POSS_PRON_3P
+الاعتذار	ال+ٱِعْتِذار	DET+NOUN
+سمة	سِم+َة	NOUN+NSUFF_FEM_SG
+الشجعان	ال+شُجْعان	DET+NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+ومين	وَ+مِين	CONJ+REL_PRON
+فينا	فِي+نا	PREP+PRON_1P
+مخسرش	مَ+خِسِر+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+ناس	ناس	NOUN
+متوقعش	***adj_comp
+ف	فَ	CONJ
+يوم	يَوم	NOUN
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+يخسرهم	يِ+خْسَر+هُم	IV3MS+IV+IVSUFF_DO:3P
+و	وَ	CONJ
+قربوا	قَرَّب+ُوا	PV+PVSUFF_SUBJ:3P
+منه	مِنّ+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+متصورش	مَ+ت+صَوَّر+ش	NEG_PART+IV2MS+IV+NEG_PART
+ف	فَ	CONJ
+يوم	يَوم	NOUN
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+هيعرفهم	حَ+يِ+عَرَّف+هُم	FUT_PART+IV3MS+IV+IVSUFF_DO:3P
+.	.	PUNC
+SENTENCE-BREAK
+	
+اكتر	أَكْتَر	NOUN_QUANT
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+نفسى	نَفْس+ِي	NOUN+POSS_PRON_1S
+فى	فِي	PREP
+اللى	اللِّي	REL_PRON
+هتجوزه	حَ+تِ+جَوِّز+ُه	FUT_PART+IV3FS+IV+IVSUFF_DO:3MS
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+يكون	يِ+كُون	IV3MS+IV
+طوويل	***adj_comp
+بغض	بِ+غَضّ	PREP+NOUN
+النظر	ال+نَظَر	DET+NOUN
+عن	عَن	PREP
+ملامحه	مَلامْح+ُه	NOUN+POSS_PRON_3MS
+و	وَ	CONJ
+عندى	عَنْد+ِي	NOUN+POSS_PRON_1S
+احساس	اِحْساس	NOUN
+انها	إِنّ+ها	SUB_CONJ+PRON_3FS
+مش	مِش	NEG_PART
+هتحقق	حَ+تَ+حْقِق	FUT_PART+IV3FS+IV
+SENTENCE-BREAK
+	
+@@LAT@@@Rababoush	***adj_comp
+انا	أَنا	PRON_1S
+عارفه	عارْف+َة	ADJ+NSUFF_FEM_SG
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+هاتستغربى	حَ+تِ+سْتَغْرَب+نِي	FUT_PART+IV2MS+IV+IVSUFF_DO:1S
+التويته	ال+تِوِيت+َة	DET+NOUN+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+بس	بَسّ	CONJ
+انا	أَنا	PRON_1S
+فعلا	فِعْل+اً	NOUN+CASE_INDEF_ACC
+محتاجه	مِحْتاج+َة	ADJ+NSUFF_FEM_SG
+مساعده	مُساعَد+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+دكتور	دُكْتُور	NOUN
+أمراض	أَمْراض	NOUN
+نفسيه	نَفْسِيّ+َة	NOUN+NSUFF_FEM_SG
+ومش	وِ+مِش	CONJ+NEG_PART
+عارفه	عارْف+َة	ADJ+NSUFF_FEM_SG
+اسم	اِسْم	NOUN
+دكتور	دُكْتُور	NOUN
+كويس	كُوَيِّس	ADJ
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+فاهم	فاهِم	ADJ
+ايه	أَيَّة	INTERROG_PRON
+وجه	وَجْه	NOUN
+الإنبهار	***adj_comp
+اللي	اللِّي	REL_PRON
+في	فِي	PREP
+الطاووس	ال+طاوُوس	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+يا	يا	VOC_PART
+جدعان	جِدْعان	NOUN
+ده	دَه	DEM_PRON_MS
+عباره	عِبار+َة	NOUN+NSUFF_FEM_SG
+عن	عَن	PREP
+بطه	بَطّ+َة	NOUN+NSUFF_FEM_SG
+مبالغ	مُبالَغ	ADJ
+فيها	فِي+ها	PREP+PRON_3FS
+!	!	PUNC
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+ساعات	ساع+ات	NOUN+NSUFF_FEM_PL
+بضطر	بِ+اَ+ضْطَر	PROG_PART+IV1S+IV
+اسيب	اَ+سِيب	IV1S+IV
+الناس	ال+ناس	DET+NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+مبقاش	ما+بَقا+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+تقيله	ثَقِيل+َة	NOUN+NSUFF_FEM_SG
+علي	عَلَى	PREP
+حد	حَدّ	NOUN
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+حاله	حال+َة	NOUN+NSUFF_FEM_SG
+في	فِي	PREP
+مستشفي	مُسْتَشْفَى	NOUN
+دمنهور	دَمَنْهُور	NOUN_PROP
+العام	ال+عام	DET+ADJ
+محتاجه	مِحْتاج+َة	ADJ+NSUFF_FEM_SG
+60	60	NOUN_NUM
+كيس	كِيس	NOUN
+دم	دَمّ	NOUN
+بكره	بُكْر+َة	NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+هيتبدلوا	حَ+يِ+تَبَدَّل+ُوا	FUT_PART+IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+ببلازما	***adj_comp
+والموضوع	وِ+ال+مَوْضُوع	CONJ+DET+NOUN
+طارئ	طارِئ	ADJ
+جدا	جِدّاً	NOUN
+ولازم	وِ+لازِم	PREP+ADJ
+الدم	ال+دَمّ	DET+NOUN
+يجهز	يَ+جَهِّز	IV3MS+IV
+بكره	بُكْر+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+@@LAT@@http://t.co/DX7wa3qpAN	***adj_comp
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+بيزيد	بِ+يِ+زِيد	PROG_PART+IV3MS+IV
+الهرى	ال+هُرْي	DET+NOUN
+فى	فِي	PREP
+موضوع	مَوْضُوع	NOUN
+معين	مُعَيَّن	ADJ
+بيبقى	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+رخم	رَخَم	NOUN_PROP
+.	.	PUNC
+.	.	PUNC
+فبطلو	فَ+بَطَّل+ُوا	CONJ+PV+PVSUFF_SUBJ:3P
+تتريقوا	***adj_comp
+على	عَلَى	PREP
+شيرين	شِيرِين	NOUN_PROP
+إنتو	اِنْتُو	PRON_2P
+مش	مِش	NEG_PART
+ملايكه	مْلايْك+َة	NOUN+NSUFF_FEM_SG
+يعنى	يَ+عْنِي	IV3MS+IV
+عالأقل	عَ+ال+أَقَل	PREP+DET+ADJ_COMP
+هيا	هِيَّ	PRON_3FS
+على	عَلَى	PREP
+طبيعتها	طَبِيع+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+مش	مِش	NEG_PART
+زيكو	زَيّ+كُو	NOUN+POSS_PRON_2P
+مصطنعين	مُصْطَنَع+َيْنِ	ADJ+NSUFF_MASC_DU_ACC
+!	!	PUNC
+#	#	PUNC
+@@LAT@@MBCTheVoice	***adj_comp
+SENTENCE-BREAK
+	
+حياتك	حَيا+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+لو	لَو	SUB_CONJ
+ماشي	ماشِي	ADJ
+معاها	مَعَ+ها	NOUN+POSS_PRON_3FS
+موسيقي	مُوسِيقَى	NOUN
+تصويرية	تَصْوِيرِيّ+َة	ADJ+NSUFF_FEM_SG
+هتحس	حَ+تِ+حِسّ	FUT_PART+IV2MS+IV
+إنك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+ف	فَ	CONJ
+كابوس	كابُوس	NOUN
+مش	مِش	NEG_PART
+عارف	عارِف	ADJ
+تخلص	تِ+خْلَص	IV3FS+IV
+منة	مِنّ+ُه	PREP+PRON_3MS
+,	,	PUNC
+مش	مِش	NEG_PART
+عارف	عارِف	ADJ
+نهايتة	نِهاي+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+امتي	إِمْتَى	INTERROG_ADV
+?	?	PUNC
+مع	مَعَ	NOUN
+إن	إِنّ	SUB_CONJ
+نفسك	نَفْس+ِك	NOUN+POSS_PRON_2FS
+الفيلم	ال+فِيلم	DET+NOUN
+يطول	يَ+طَوِّل	IV3MS+IV
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+جايز	جايِز	NOUN
+تبقي	تِ+بْقَى	IV3FS+IV
+نهايتة	نِهاي+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+سعيدة	سَعِيد+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+بحب	بِ+اَ+حِبّ	PROG_PART+IV1S+IV
+اسمع	اَ+سْمَع	IV1S+IV
+اي	أَيّ	NOUN_QUANT
+حد	حَدّ	NOUN
+يحكيلي	يَ+حْكِي+لِ+ِي	IV3MS+IV+PREP+PRON_1S
+اللي	اللِّي	REL_PRON
+بيحصله	بِ+يِ+حَصَّل+ُه	PROG_PART+IV3MS+IV+IVSUFF_DO:3MS
+بس	بَسّ	CONJ
+مبحبش	مَ+بِ+اَ+حِبّ+ش	NEG_PART+PROG_PART+IV1S+IV+NEG_PART
+احكي	اِحْك+ِي	CV+CVSUFF_SUBJ:2FS
+او	أَو	CONJ
+بمعنى	بِ+مَعْنَى	PREP+NOUN
+اصح	أَصَحّ	ADJ_COMP
+مبعرفش	مَ+بِ+اَ+عْرَف+ش	NEG_PART+PROG_PART+IV1S+IV+NEG_PART
+.	.	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@vivavivooo	***adj_comp
+أوبا	أَوْب+اً	NOUN+CASE_INDEF_ACC
+انا	أَنا	PRON_1S
+كمان	كَمان	ADV
+من	مِن	PREP
+أسيوط	أَسْيُوط	NOUN_PROP
+علي	عَلَى	PREP
+فكرة	فِكْر+َة	NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+عمري	عُمْر+ِي	NOUN+POSS_PRON_1S
+ما	ما	SUB_CONJ
+رحت	رُح+ت	PV+PVSUFF_SUBJ:1S
+,	,	PUNC
+,	,	PUNC
+بس	بَسّ	CONJ
+عارف	عارِف	ADJ
+ان	إِنّ	SUB_CONJ
+الصعايدة	ال+صَعايِد+َة	DET+NOUN_PROP+NSUFF_FEM_SG
+اتغيروا	اِتْغَيَّر+ُوا	PV+PVSUFF_SUBJ:3P
+عن	عَن	PREP
+زمان	زَمان	NOUN
+,	,	PUNC
+,	,	PUNC
+وكل	وِ+كُلّ	CONJ+NOUN_QUANT
+اللي	اللِّي	REL_PRON
+بيتعمل	بِ+يِ+تْعِمِل	PROG_PART+IV3MS+IV_PASS
+في	فِي	PREP
+الدراما	ال+دِراما	DET+NOUN
+قلش	قَلْش	NOUN
+SENTENCE-BREAK
+	
+البنات	ال+بَنات	DET+NOUN
+بتفرح	بِ+تِ+فَرَح	PROG_PART+IV3FS+IV
+من	مِن	PREP
+اصغر	أَصْغَر	ADJ_COMP
+كلمة	كِلْم+َة	NOUN+NSUFF_FEM_SG
+وبتزعل	وَ+بِ+تِ+زَعِّل	CONJ+PROG_PART+IV3FS+IV
+من	مِن	PREP
+اصغر	أَصْغَر	ADJ_COMP
+اصغر	أَصْغَر	ADJ_COMP
+كلمة	كِلْم+َة	NOUN+NSUFF_FEM_SG
+كائنات	كائِن+ات	NOUN+NSUFF_FEM_PL
+غريبه	غَرِيب+َة	ADJ+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+حلوة	حِلْو+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+بعد	بَعْد	NOUN
+ما	ما	SUB_CONJ
+رجعت	رِجْع+ِت	PV+PVSUFF_SUBJ:3FS
+كان	كان	PV
+رب	رَبّ	NOUN
+الأسرة	ال+أُسْر+َة	DET+NOUN+NSUFF_FEM_SG
+اتوفى	اِتْوَفَّى+(نُلل)	PV+PVSUFF_SUBJ:3MS
+والمعايش	وَ+ال+مَعايِش	CONJ+DET+NOUN
+بقت	بَق+ِت	PV+PVSUFF_SUBJ:3FS
+صعبة	صَعْب+َة	ADJ+NSUFF_FEM_SG
+فقررت	فَ+قَرَّر+َت	CONJ+PV+PVSUFF_SUBJ:3FS
+تنزل	تِ+نْزِل	IV2FS+IV
+تدور	تِ+دَوَّر	IV2FS+IV
+على	عَلَى	PREP
+شغل	شُغْل	NOUN
+ونظرا	وَ+نَظَر+ّا	CONJ+NOUN+POSS_PRON_1P
+لأنها	لِ+أَنّ+ها	PREP+SUB_CONJ+PRON_3FS
+بقت	بَق+ِت	PV+PVSUFF_SUBJ:3FS
+مدام	ما+دام+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+وواخدة	وِ+واخْد+َة	PREP+NOUN+NSUFF_FEM_SG
+حريتها	حُرِّيّ+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+عن	عَن	PREP
+قبل	قَبْل	NOUN
+كده	كِدَه	NOUN
+الأسرة	ال+أُسْر+َة	DET+NOUN+NSUFF_FEM_SG
+وافقت	وافَق+تِ	PV+PVSUFF_SUBJ:2FS
+SENTENCE-BREAK
+	
+مستني	مِسْتَنِّي	ADJ
+ايه	أَيَّة	INTERROG_PRON
+من	مِن	PREP
+#	#	PUNC
+بلد	بَلَد	NOUN
+علشان	***noun
+تشتغل	تِ+شْتَغَل	IV2MS+IV
+فيها	فِي+ها	PREP+PRON_3FS
+لازم	لازِم	ADJ
+يبقى	يِ+بْقَى	IV3MS+IV
+معاك	مَعَ+َك	NOUN+POSS_PRON_2MS
+شهاده	شَهاد+َة	NOUN+NSUFF_FEM_SG
+خبره	خِبْر+َة	NOUN+NSUFF_FEM_SG
+!	!	PUNC
+وعلشان	***noun
+تجيب	تِ+جِيب	IV3FS+IV
+شهاده	شَهاد+َة	NOUN+NSUFF_FEM_SG
+خبره	خِبْر+َة	NOUN+NSUFF_FEM_SG
+لازم	لازِم	ADJ
+تشتغل	تِ+شْتَغَل	IV2FS+IV
+:	:	PUNC
+(	(	PUNC
+^	^	PUNC
+ـ	ـ	PUNC
+^	^	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@MohamedSalah___	***adj_comp
+لا	لا	NEG_PART
+لو	لَو	SUB_CONJ
+سمحت	سَمَح+تِ	PV+PVSUFF_SUBJ:2FS
+@@LAT@@:D	***adj_comp
+,	,	PUNC
+,	,	PUNC
+انا	أَنا	PRON_1S
+عشان	عَ+شَأْن	PREP+NOUN
+مبعرفش	مَ+بِ+اَ+عْرَف+ش	NEG_PART+PROG_PART+IV1S+IV+NEG_PART
+اكدب	أَكْدَب	ADJ_COMP
+بكح	بِ+أَ+كُحّ	PROG_PART+IV1S+IV
+@@LAT@@:D	***adj_comp
+,	,	PUNC
+,	,	PUNC
+فى	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+تانية	تانْي+َة	ADJ_COMP+NSUFF_FEM_SG
+بتكدب	بِ+تِ+كْذِب	PROG_PART+IV3FS+IV
+ومبيرمشلهاش	***adj_comp
+رمش	رَمَش	NOUN
+@@LAT@@:D	***adj_comp
+قشطة	قِشْط+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+فاكرين	فاكْر+ِين	ADJ+NSUFF_MASC_PL
+لما	لَمّا	SUB_CONJ
+قلت	قُل+ت	PV+PVSUFF_SUBJ:1S
+عندي	عَنْد+ِي	NOUN+POSS_PRON_1S
+امل	أَمَل	NOUN
+في	فِي	PREP
+البلد	ال+بَلَد	DET+NOUN
+انسوا	أَنُث+ُوا	PV+PVSUFF_SUBJ:3MP
+اني	أَنّ+ِي	SUB_CONJ+PRON_1S
+قلت	قُل+ت	PV+PVSUFF_SUBJ:1S
+كده	كِدَه	NOUN
+البلد	ال+بَلَد	DET+NOUN
+دي	دِي	DEM_PRON_FS
+ملهاش	مَ+لِ+ها+ش	NEG_PART+PREP+PRON_3FS+NEG_PART
+غير	غَيْر	NOUN
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+انما	إِنَّما	PART
+امل	أَمَل	NOUN
+دي	دِي	DEM_PRON_FS
+تبقي	تِ+بْقَى	IV3FS+IV
+خالتك	خال+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+SENTENCE-BREAK
+	
+عايز	عايِز	ADJ
+ايه	أَيَّة	INTERROG_PRON
+من	مِن	PREP
+بلد	بَلَد	NOUN
+الناس	ال+ناس	DET+NOUN
+اللي	اللِّي	REL_PRON
+عايشه	عايْش+َة	ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+البلد	ال+بَلَد	DET+NOUN
+بتقول	بِ+تِ+قُول	PROG_PART+IV3FS+IV
+عايز	عايِز	ADJ
+ايه	أَيَّة	INTERROG_PRON
+من	مِن	PREP
+بلد	بَلَد	NOUN
+و	وِ	CONJ
+بعدين	بَعْدَين	ADV
+تروح	تِ+رُوح	IV3FS+IV
+تغلط	ت+غْلَط	IV3FS+IV
+في	فِي	PREP
+البلد	ال+بَلَد	DET+NOUN
+اللي	اللِّي	REL_PRON
+هي	هِيَّ	PRON_3FS
+اصلن	أَصَّل+نَ	PV+PVSUFF_SUBJ:3FP
+بلدها	بَلَد+ها	NOUN+POSS_PRON_3FS
+SENTENCE-BREAK
+	
+الموضوع	ال+مَوْضُوع	DET+NOUN
+بسيط	بَسِيط	ADJ
+اقعد	اُقْعُد+(نُلل)	CV+CVSUFF_SUBJ:2MS
+مع	مَعَ	NOUN
+الناس	ال+ناس	DET+NOUN
+اللى	اللِّي	REL_PRON
+بتحبهم	بِ+تُ+حِبّ+هُم	PROG_PART+IV3FS+IV+IVSUFF_DO:3P
+وبيسعدوك	وِ+بِ+يُ+سْعِد+ُو+كَ	CONJ+PROG_PART+IV3MP+IV+IVSUFF_SUBJ:3MP_MOOD:SJ+IVSUFF_DO:2MS
+وابعد	وِ+اَ+بْعِد	CONJ+IV1S+IV
+عن	عَن	PREP
+الناس	ال+ناس	DET+NOUN
+اللى	اللِّي	REL_PRON
+بتضايقك	بِ+تِ+ضايِق+كِ	PROG_PART+IV3FS+IV+IVSUFF_DO:2FS
+وبتنكد	وِ+بِ+تِ+نْكَد	CONJ+PROG_PART+IV3FS+IV
+عليك	عَلَى+َك	PREP+PRON_2MS
+الحياة	ال+حَيا+َة	DET+NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+ناقصة	ناقْص+َة	ADJ+NSUFF_FEM_SG
+كآبة	كَآب+َة	NOUN+NSUFF_FEM_SG
+وتعقيد	وَ+تَعْقِيد	CONJ+NOUN
+هى	هِيَّ	PRON_3FS
+منيلة	مُنَيَّل+َة	NOUN+NSUFF_FEM_SG
+لوحدها	لِ+وَحْد+ها	PREP+NOUN+POSS_PRON_3FS
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+مهما	مَهْما	REL_PRON
+كان	كان	PV
+الشخص	ال+شَخْص	DET+NOUN
+اللى	اللِّي	REL_PRON
+قدامك	قُدّام+َك	NOUN+POSS_PRON_2MS
+عنده	عَنْد+ُه	NOUN+POSS_PRON_3MS
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+حلوه	حِلْو+َة	ADJ+NSUFF_FEM_SG
+و	وَ	CONJ
+ميزات	مِيز+ات	NOUN+NSUFF_FEM_PL
+انت	اِنْتَ	PRON_2MS
+بتتمناها	بِ+تَ+تَمَنّا+ها	PROG_PART+IV2MS+IV+IVSUFF_DO:3FS
+تبقى	تِ+بْق+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+عندك	عَنْد+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+لو	لَو	SUB_CONJ
+دورت	دَوَّر+َت	PV+PVSUFF_SUBJ:3FS
+جواه	جُوّا+ُه	NOUN+POSS_PRON_3MS
+هتلاقيه	حَ+تِ+لاق+ِي+ُه	FUT_PART+IV2FS+IV+IVSUFF_SUBJ:2FS+IVSUFF_DO:3MS
+هو	هُوَّ	PRON_3MS
+كمان	كَمان	ADV
+عنده	عَنْد+ُه	NOUN+POSS_PRON_3MS
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+ناقصه	ناقْص+َة	ADJ+NSUFF_FEM_SG
+و	وَ	CONJ
+بيحسدك	بِ+يِ+حْسِد+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+عليها	عَلَى+ها	PREP+PRON_3FS
+:	:	PUNC
+@@LAT@@'	***noun_prop
+)	)	PUNC
+SENTENCE-BREAK
+	
+الرجاله	ال+رِجّال+َة	DET+NOUN+NSUFF_FEM_SG
+مبتحبش	ما+بِ+تِ+حِبّ+ش	NEG_PART+PROG_PART+IV3FS+IV+NEG_PART
+البنت	ال+بِنْت	DET+NOUN
+الهبله	ال+هَبْل+َة	DET+ADJ+NSUFF_FEM_SG
+الطيبه	ال+طَيِّب+َة	DET+ADJ+NSUFF_FEM_SG
+الي	إِلَى	PREP
+بتحبهم	بِ+تُ+حِبّ+هُم	PROG_PART+IV3FS+IV+IVSUFF_DO:3P
+!	!	PUNC
+بيحبوا	بِ+يِ+حِبّ+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+البنت	ال+بِنْت	DET+NOUN
+الجامده	ال+جامْد+َة	DET+ADJ+NSUFF_FEM_SG
+الي	إِلَى	PREP
+تبهدلهم	تِ+بَهْدِل+هُم	IV3FS+IV+IVSUFF_DO:3P
+ويخليهم	وَ+يُ+خَلِّي+هُم	CONJ+IV3MS+IV+IVSUFF_DO:3MP
+يلفوا	يِ+لِفّ+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+حولين	حَوَلِين	NOUN
+نفسهم	نَفْس+هُم	NOUN+POSS_PRON_3P
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+@@LAT@@@eman_rm70@QueenANDDY	***adj_comp
+والله	وَ+اللَّه	CONJ+NOUN_PROP
+هيا	هِيَّ	PRON_3FS
+مشاركة	مُشارْك+َة	NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+علشان	***noun
+موللي	مَوِّل+(نُلل)+لِ+ِي	CV+CVSUFF_SUBJ:2MS+PREP+PRON_1S
+فرحانه	فَرْحان+َة	ADJ+NSUFF_FEM_SG
+انما	إِنَّما	PART
+احنا	اِحْنا	PRON_1P
+اهلاوية	***adj_comp
+حتي	حَتَّى	PART
+النخاع	ال+نُخاع	DET+NOUN
+وهيا	وِ+هِيَّ	CONJ+PRON_3FS
+دي	دِي	DEM_PRON_FS
+الروح	ال+رَوح	DET+NOUN
+الرياضيه	ال+رِياضِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+لقيت	لَق+َيت	PV+PVSUFF_SUBJ:1S
+واحد	واحِد	NOUN
+ماشي	ماشِي	ADJ
+يكلم	يِ+كَلِّم	IV3MS+IV
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+,	,	PUNC
+ماتخفش	ما+تِ+خَف+ش	NEG_PART+IV3FS+IV+NEG_PART
+منه	مِنّ+ُه	PREP+PRON_3MS
+دة	دَه	DEM_PRON_MS
+غلبان	غَلْبان	ADJ
+وفي	وَ+فِي	CONJ+PREP
+#	#	PUNC
+ثانوية	ثانَوِيّ+َة	ADJ+NSUFF_FEM_SG
+ـ	ـ	PUNC
+عامة	عامّ+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+@@LAT@@@A_adam_Alhayat	***adj_comp
+شوف	شُوف+(نُلل)	CV+CVSUFF_SUBJ:2MS
+دى	دِي	DEM_PRON_FS
+يا	يا	VOC_PART
+فنان	فَنّان	NOUN
+ومبروك	وِ+مَبْرُوك	PREP+ADJ
+رجوع	رُجُوع	NOUN
+بنى	بَنِي	NOUN
+آدم	آدَم	NOUN_PROP
+شو	شُو	NOUN_PROP
+صورة	صُور+َة	NOUN+NSUFF_FEM_SG
+تحكى	تِ+حْكِي	IV3FS+IV
+ملخص	مِلَخَّص	NOUN
+القصة	ال+قُصّ+َة	DET+NOUN+NSUFF_FEM_SG
+نزل	نِزِل+(نُلل)	PV+PVSUFF_SUBJ:3MS
+اعتذار	ٱِعْتِذار	NOUN
+دلوقتى	دِلْوَقْتِي	ADV
+برضه	بَرْضُه	ADV
+بيستغفلنا	بِ+يِ+سْتَغْفِل+نا	PROG_PART+IV3MS+IV+IVSUFF_DO:1P
+@@LAT@@https://t.co/9tZG46WbfN	***digit
+SENTENCE-BREAK
+	
+يوم	يَوم	NOUN
+فرحك	فَرَح+كَ	NOUN+POSS_PRON_2MS
+انت	اِنْتَ	PRON_2MS
+بتختار	بِ+تِ+خْتار	PROG_PART+IV2MS+IV
+مين	مِين	REL_PRON
+يجيلك	يُ+جِيل+كَ	IV3MS+IV+IVSUFF_DO:2MS
+,	,	PUNC
+بس	بَسّ	CONJ
+يوم	يَوم	NOUN
+موتك	مَوْت+كِ	NOUN+POSS_PRON_2FS
+ناس	ناس	NOUN
+معينه	مُعَيَّن+َة	ADJ+NSUFF_FEM_SG
+هي	هِيَّ	PRON_3FS
+اللي	اللِّي	REL_PRON
+هتختار	حَ+تِ+خْتار	FUT_PART+IV3FS+IV
+تيجي	تِ+يْجِي	IV3FS+IV
+!	!	PUNC
+SENTENCE-BREAK
+	
+كان	كان	PV
+بيطلع	بِ+يِ+طَلَّع	PROG_PART+IV3MS+IV
+مونولوجست	مُونُولُوجِسْت	NOUN
+على	عَلَى	PREP
+خشبة	خَشَب+َة	NOUN+NSUFF_FEM_SG
+المسرح	ال+مَسْرَح	DET+NOUN
+بين	بَين	NOUN
+فصول	فِصُول	NOUN
+الرواية	ال+رِواي+َة	DET+NOUN+NSUFF_FEM_SG
+يسلى	يُ+سَلِّي	IV3MS+IV
+الجمهور	ال+جُمْهُور	DET+NOUN
+.	.	PUNC
+المرة	ال+مَرّ+َة	DET+NOUN+NSUFF_FEM_SG
+دي	دِي	DEM_PRON_FS
+طلع	طِلِع+(نُلل)	PV+PVSUFF_SUBJ:3MS
+مبتذل	مُبْتَذَل	NOUN
+.	.	PUNC
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+خده	خَدّ+ُه	NOUN+POSS_PRON_3MS
+الحمد	ال+حَمْد	DET+NOUN
+لله	لِ+اللَّه	PREP+NOUN_PROP
+نرجع	نِ+رْجَع	IV1P+IV
+للجد	لِ+ال+جَدّ	PREP+DET+NOUN
+بقى	بَقَى	ADV
+@@LAT@@http://t.co/tShnI1U5W6	***digit
+SENTENCE-BREAK
+	
+يا	يا	VOC_PART
+رب	رَبّ	NOUN
+انا	أَنا	PRON_1S
+مش	مِش	NEG_PART
+عايز	عايِز	ADJ
+اجيب	اَ+جِيب	IV1S+IV
+مجموع	مَجْمُوع	NOUN
+عشانى	عَ+شان+ِي	PREP+NOUN+POSS_PRON_1S
+,	,	PUNC
+انا	أَنا	PRON_1S
+عايز	عايِز	ADJ
+اجيب	اَ+جِيب	IV1S+IV
+مجموعة	مَجْمُوع+َة	NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+ابويا	أَبُو+ِي	NOUN+POSS_PRON_1S
+و	وَ	CONJ
+امى	أُمّ+ِي	NOUN+POSS_PRON_1S
+و	وَ	CONJ
+عشان	عَ+شَأْن	PREP+NOUN
+فلوس	فِلُوس	NOUN
+الدروس	ال+دُرُوس	DET+NOUN
+دى	دِي	DEM_PRON_FS
+مش	مِش	NEG_PART
+مال	مال	NOUN
+حرام	حَرام	NOUN
+يعنى	يَ+عْنِي	IV3MS+IV
+!	!	PUNC
+#	#	PUNC
+ثانوية	ثانَوِيّ+َة	ADJ+NSUFF_FEM_SG
+ـ	ـ	PUNC
+عامة	عامّ+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+مبنفكرش	ما+بِ+نِ+فَكَّر+ش	NEG_PART+PROG_PART+IV1P+IV+NEG_PART
+في	فِي	PREP
+المستقبل	ال+مُسْتَقْبَل	DET+NOUN
+اكتر	أَكْتَر	NOUN_QUANT
+ما	ما	SUB_CONJ
+بنتمنى	بِ+نِ+تَمَنَّى	PROG_PART+IV1P+IV
+نرجع	نِ+رْجَع	IV1P+IV
+للماضي	لِ+ال+ماضِي	PREP+DET+NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+نصلح	نِ+صَلَّح	IV1P+IV
+اخطائنا	أَخْطائ+نا	NOUN+POSS_PRON_1P
+ونكون	وِ+نِ+كُون	CONJ+IV1P+IV
+احسن	أَحْسَن	ADJ_COMP
+من	مِن	PREP
+دلوقتي	دِلْوَقْتِي	ADV
+!	!	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+اللى	اللِّي	REL_PRON
+مصبرنى	ما+اَ+صَبَّر+نِي	NEG_PART+IV1S+IV+IVSUFF_DO:1S
+ع	عَ	PREP
+المحاضره	ال+مُحاضَر+َة	DET+NOUN+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+.	.	PUNC
+.	.	PUNC
+المروحه	ال+مَرْوَح+َة	DET+NOUN+NSUFF_FEM_SG
+اللى	اللِّي	REL_PRON
+فوقيا	فَوق+ِي	NOUN+POSS_PRON_1S
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+يخربيت	***adj_comp
+الطراوه	ال+طَراو+َة	DET+NOUN+NSUFF_FEM_SG
+يعنى	يَ+عْنِي	IV3MS+IV
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+جامدة	جامْد+َة	ADJ+NSUFF_FEM_SG
+فعلا	فِعْل+اً	NOUN+CASE_INDEF_ACC
+@@LAT@@RT@Semary011:	***digit
+واحد	واحِد	NOUN_NUM
+امبارح	اِمْبارِح	NOUN
+بيهزر	بِ+يِ+هَزَّر	PROG_PART+IV3P+IV
+قال	قال+(نُلل)	PV+PVSUFF_SUBJ:3MS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+مرعبة	مُرْعِب+َة	ADJ+NSUFF_FEM_SG
+,	,	PUNC
+ما	ما	REL_PRON
+تشوف	تِ+شُوف	IV3FS+IV
+كده	كِدَه	NOUN
+اسمك	اِسْم+َك	NOUN+POSS_PRON_2MS
+يمكن	يِ+مْكِن	IV3MS+IV
+تلاقيه	تِ+لاقِي+ُه	IV3FS+IV+IVSUFF_DO:3MS
+في	فِي	PREP
+ال	ال	DET
+529	529	NOUN_NUM
+واحد	واحِد	NOUN_NUM
+اللي	اللِّي	REL_PRON
+واخدين	واخْد+ِين	ADJ+NSUFF_MASC_PL
+اعدام	اِعْدام	NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+الكام	ال+كام	DET+NOUN_QUANT
+شهر	شَهْر	NOUN
+اللى	اللِّي	REL_PRON
+جايين	جايّ+ِين	ADJ+NSUFF_MASC_PL
+دول	دُوَل	NOUN
+هيكونوا	حَ+يِ+كُون+ُوا	FUT_PART+IV3P+IV+IVSUFF_SUBJ:P
+من	مِن	PREP
+أسوأ	أَسْوَأ	ADJ_COMP
+الشهور	ال+شُهُور	DET+NOUN
+اللى	اللِّي	REL_PRON
+عدت	عَدّ+ِت	PV+PVSUFF_SUBJ:3FS
+عليا	عُلْيا	ADJ
+فى	فِي	PREP
+حياتى	حَيا+َة+ِي	NOUN+NSUFF_FEM_SG+POSS_PRON_1S
+.	.	PUNC
+.	.	PUNC
+للأسف	لِ+ال+أَسَف	PREP+DET+NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+اللى	اللِّي	REL_PRON
+حط	حَطّ	NOUN
+الجدول	ال+جَدْوَل	DET+NOUN
+لو	لَو	SUB_CONJ
+قاصد	قاصِد	ADJ
+ينتقم	يِ+نْتِقِم	IV3MS+IV
+من	مِن	PREP
+بتوع	بِتُوع	NOUN
+علمى	عِلْمِيّ	ADJ
+رياضة	رِياض+َة	NOUN+NSUFF_FEM_SG
+مكنش	مَ+كُن+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+عمل	عَمَل	NOUN
+كدا	كِدا	NOUN
+.	.	PUNC
+.	.	PUNC
+ليه	لَيه	INTERROG_ADV
+كدا	كِد+َة	NOUN+NSUFF_FEM_SG
+يا	يا	VOC_PART
+بيه	بِ+ُه	PREP+PRON_3MS
+!	!	PUNC
+!	!	PUNC
+#	#	PUNC
+ثانوية	ثانَوِيّ+َة	ADJ+NSUFF_FEM_SG
+ـ	ـ	PUNC
+عامة	عامّ+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+يعني	يَ+عْنِي	IV3MS+IV
+اعلان	إِعْلان	NOUN
+اتقل	اِتْقَلّ+(نُلل)	PV_PASS+PVSUFF_SUBJ:3MS
+يا	يا	VOC_PART
+شعب	شَعْب	NOUN
+الكبير	ال+كِبِير	DET+ADJ
+جاي	جايّ	ADJ
+في	فِي	PREP
+الاخر	ال+آخِر	DET+NOUN
+طلعت	طِلْع+ِت	PV+PVSUFF_SUBJ:3FS
+اعلان	إِعْلان	NOUN
+مكرونة	مَكَرَون+َة	NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+الي	إِلَى	PREP
+عمل	عَمَل+(نُلل)	PV+PVSUFF_SUBJ:3MS
+الفكرة	ال+فِكْر+َة	DET+NOUN+NSUFF_FEM_SG
+برنس	بْرِنْس	NOUN_PROP
+اشتغل	اَ+شْتَغَل	IV1S+IV
+الشعب	ال+شَعْب	DET+NOUN
+كلة	كُلّ+ُه	NOUN_QUANT+POSS_PRON_3MS
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+اخوياسريره	***adj_comp
+بيبقى	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+فيه	فِي+ُه	PREP+PRON_3MS
+كل	كُلّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+بيبقى	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+نايم	نايِم	ADJ
+وحواليه	وِ+حَوالَي+هِ	CONJ+PREP+PRON_3MS
+اكل	أَكْل	NOUN
+وفاكهة	وَ+فاكِه+َة	CONJ+NOUN+NSUFF_FEM_SG
+وازايز	***adj_comp
+مياه	مِياه	NOUN
+وشرابات	وَ+شَرّاب+ات	CONJ+ADJ+NSUFF_FEM_PL
+وموبيله	***adj_comp
+واللاب	***adj_comp
+توب	ثَوْب	NOUN
+والريموت	***adj_comp
+اى	أَيّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+ضايعة	ضايْع+َة	ADJ+NSUFF_FEM_SG
+فالبيت	فِ+ال+بَيت	PREP+DET+NOUN
+بنلاقيها	بِ+نُ+لاقِي+ها	PROG_PART+IV1P+IV+IVSUFF_DO:3FS
+SENTENCE-BREAK
+	
+هيعجب	حَ+يِ+عْجِب	FUT_PART+IV3MS+IV
+بيكي	بِ+ِك	PREP+PRON_2FS
+عشان	عَ+شَأْن	PREP+NOUN
+شكلك	شَكْل+َك	NOUN+POSS_PRON_2MS
+وهيجعب	وِ+حَ+يُ+جَعِّب	CONJ+FUT_PART+IV3MS+IV
+بيكي	بِ+ِك	PREP+PRON_2FS
+علشان	***noun
+شخصيتك	شَخْصِيّ+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+بس	بَسّ	CONJ
+في	فِي	PREP
+الاخر	ال+آخِر	DET+NOUN
+هيتقدملك	***adj_comp
+علشان	***noun
+اخلاقك	أَخْلاق+ِك	NOUN+POSS_PRON_2FS
+بس	بَسّ	ADV
+SENTENCE-BREAK
+	
+ايه	أَيَّة	INTERROG_PRON
+الاستفزاز	ال+اِسْتِفْزاز	DET+NOUN
+ده	دَه	DEM_PRON_MS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+لو	لَو	SUB_CONJ
+هو	هُوَّ	PRON_3MS
+هايطلع	حَ+يِ+طْلَع	FUT_PART+IV3MS+IV
+بكفالة	بِ+كَفال+َة	PREP+NOUN+NSUFF_FEM_SG
+طيب	طَيِّب	ADJ
+ماطلعهوش	مَ+اَ+طَلَّع+ُه+ش	NEG_PART+IV1S+IV+IVSUFF_DO:3MS+NEG_PART
+بكفالة	بِ+كَفال+َة	PREP+NOUN+NSUFF_FEM_SG
+امبارح	اِمْبارِح	NOUN
+ليه	لَيه	INTERROG_ADV
+او	أَو	CONJ
+اول	أَوَّل	ADJ
+امبارح	اِمْبارِح	NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+يشارك	يِ+شارْك	IV3MS+IV
+في	فِي	PREP
+الحفله	ال+حَفْل+َة	DET+NOUN+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+تعب	تِعِب+(نُلل)	PV+PVSUFF_SUBJ:3MS
+عشانها	عَ+شان+ها	PREP+NOUN+POSS_PRON_3FS
+وكان	وِ+كان	CONJ+PV
+احد	أَحَد	NOUN
+اسبابها	أَسْباب+ها	NOUN+POSS_PRON_3FS
+SENTENCE-BREAK
+	
+قال	قال+(نُلل)	PV+PVSUFF_SUBJ:3MS
+لك	لِ+َك	PREP+PRON_2MS
+إنقلاب	اِنْقِلاب	NOUN
+علشان	***noun
+هيرشح	حَ+يُ+رَشِّح	FUT_PART+IV3MS+IV
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+يعنى	يَ+عْنِي	IV3MS+IV
+هو	هُوَّ	PRON_3MS
+كان	كان	PV
+كسب	كَسْب	NOUN
+يعنى	يَ+عْنِي	IV3MS+IV
+?	?	PUNC
+لسه	لِسَّه	ADV
+فى	فِي	PREP
+إنتخابات	ٱِنْتِخاب+ات	NOUN+NSUFF_FEM_PL
+حرة	حُرّ+َة	ADJ+NSUFF_FEM_SG
+رقيعة	رَقِيع+َة	ADJ+NSUFF_FEM_SG
+#	#	PUNC
+ضحكة	ضِحْك+َة	NOUN+NSUFF_FEM_SG
+ـ	ـ	PUNC
+نزيهة	نَزِيه+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+وأي	وِ+أَيّ	CONJ+NOUN_QUANT
+حد	حَدّ	NOUN
+هايحكم	حَ+يِ+حَكِّم	FUT_PART+IV3MS+IV
+مصر	مَصْر	NOUN_PROP
+هادعيله	حَ+اَ+دْعِي+لِ+ُه	FUT_PART+IV1S+IV+PREP+PRON_3MS
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يوفقه	يِ+وَفْق+ُه	IV3MS+IV+IVSUFF_DO:3MS
+للصح	لِ+ال+صَحّ	PREP+DET+ADJ
+عشان	عَ+شَأْن	PREP+NOUN
+عاوزة	عاوْز+َة	ADJ+NSUFF_FEM_SG
+بلدي	بَلَد+ِي	NOUN+POSS_PRON_1S
+تبقي	تِ+بْقَى	IV3FS+IV
+أحسن	أَحْسَن	ADJ_COMP
+ومدام	وِ+مَدام	PREP+NOUN
+الناس	ال+ناس	DET+NOUN
+مبسوطة	مَبْسُوط+َة	ADJ+NSUFF_FEM_SG
+وعاوزاه	وَ+عاوْز+َة+ُه	CONJ+ADJ+NSUFF_FEM_SG+PRON_3MS
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يوفقه	يِ+وَفْق+ُه	IV3MS+IV+IVSUFF_DO:3MS
+ويوفقنا	وِ+يِ+وَفْق+نا	CONJ+IV3MS+IV+IVSUFF_DO:1P
+معاه	مَعَ+ُه	NOUN+POSS_PRON_3MS
+SENTENCE-BREAK
+	
+مينفعش	ما+يِ+نْفَع+ش	NEG_PART+IV3MS+IV+NEG_PART
+انهى	أَنْهِي	INTERROG_PRON
+علاقتى	عَلاق+َة+ِي	NOUN+NSUFF_FEM_SG+POSS_PRON_1S
+بكل	بِ+كُلّ	PREP+NOUN_QUANT
+الناس	ال+ناس	DET+NOUN
+إلى	إِلَى	PREP
+أعرفها	أَ+عْرِف+ها	IV1S+IV+IVSUFF_DO:3FS
+و	وَ	CONJ
+يتبدلوا	يِ+تَبَدَّل+ُوا	IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+ب	بِ	PREP
+ناس	ناس	NOUN
+جديدة	جِدِيد+َة	ADJ+NSUFF_FEM_SG
+مينفعش	ما+يِ+نْفَع+ش	NEG_PART+IV3MS+IV+NEG_PART
+صح	صَحّ	ADJ
+?	?	PUNC
+-	-	PUNC
+لامينفعش	***adj_comp
+طبعا	طَبْع+اً	NOUN+CASE_INDEF_ACC
+.	.	PUNC
+-	-	PUNC
+أنا	أَنا	PRON_1S
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+عارف	عارِف	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+عاوز	عاوِز	ADJ
+تبقى	تِ+بْقَى	IV3FS+IV
+مبسوط	مَبْسُوط	ADJ
+خلى	خَلّ+ِي	CV+CVSUFF_SUBJ:2FS
+حياتك	حَيا+َة+ِك	NOUN+NSUFF_FEM_SG+POSS_PRON_2FS
+كلها	كُلّ+ها	NOUN_QUANT+POSS_PRON_3FS
+بدايات	بِداي+ات	NOUN+NSUFF_FEM_PL
+.	.	PUNC
+.	.	PUNC
+بدايات	بِ+داي+ات	PREP+NOUN+NSUFF_FEM_PL
+وبس	وِ+بَسّ	CONJ+ADV
+.	.	PUNC
+.	.	PUNC
+مفيش	مِفَيِّش	NOUN
+أحلى	أَحْلَى	ADJ_COMP
+من	مِن	PREP
+البداية	ال+بِداي+َة	DET+NOUN+NSUFF_FEM_SG
+فى	فِي	PREP
+كل	كُلّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+قبل	قَبْل	NOUN
+ماتقول	ما+تِ+قُول	NEG_PART+IV3FS+IV
+انا	أَنا	PRON_1S
+اسف	آسِف	ADJ
+اتأكد	اَ+تْأَكِّد	IV1S+IV_PASS
+من	مِن	PREP
+الشخصية	ال+شَخْصِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+اللى	اللِّي	REL_PRON
+قدامك	قُدّام+َك	NOUN+POSS_PRON_2MS
+هتستضعفك	حَ+تَ+سْتَضْعِف+كَ	FUT_PART+IV3FS+IV+IVSUFF_DO:2MS
+ولا	وَ+لا	CONJ+NEG_PART
+هتحترمك	حَ+تِ+حْتِرِم+َك	FUT_PART+IV3FS+IV+IVSUFF_DO:2MS
+أكتر	أَكْتَر	NOUN_QUANT
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+خلي	خَلِّي+(نُلل)	CV+CVSUFF_SUBJ:2MS
+دايما	دايْم+اً	ADJ+CASE_INDEF_ACC
+جواك	جُوّا+َك	NOUN+POSS_PRON_2MS
+امل	أَمَل	NOUN
+.	.	PUNC
+.	.	PUNC
+ده	دَه	DEM_PRON_MS
+الأمل	ال+أَمَل	DET+NOUN
+بيجيب	بِ+يِ+جِيب	PROG_PART+IV3MS+IV
+سعادة	سَعاد+َة	NOUN+NSUFF_FEM_SG
+لسا	لِسّ+َة	ADV+NSUFF_FEM_SG
+جواك	جُوّا+َك	NOUN+POSS_PRON_2MS
+يا	يا	VOC_PART
+قلبي	قَلْب+ِي	NOUN+POSS_PRON_1S
+ضي	ضَيّ	NOUN
+.	.	PUNC
+.	.	PUNC
+وصباحك	وِ+صَباح+َك	CONJ+NOUN+POSS_PRON_2MS
+سكر	سُكَّر	NOUN
+زياده	زِياد+َة	NOUN+NSUFF_FEM_SG
+#	#	PUNC
+مادو	ما+اِدّ+ُوا	NEG_PART+PV+PVSUFF_SUBJ:3P
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+انت	اِنْتَ	PRON_2MS
+فاكر	فاكِر	ADJ
+ان	إِنّ	SUB_CONJ
+التريقة	ال+تَرْيَق+َة	DET+NOUN+NSUFF_FEM_SG
+تمنع	تِ+مْنَع	IV3FS+IV
+العمل	ال+عَمَل	DET+NOUN
+تبقي	تِ+بْقَى	IV3FS+IV
+لامواخذة	***adj_comp
+عبيط	عَبِيط	ADJ
+,	,	PUNC
+بطل	بَطَل	NOUN
+انت	اِنْتَ	PRON_2MS
+تتخانق	تِ+تَخانَق	IV2MS+IV
+مع	مَعَ	NOUN
+اللي	اللِّي	REL_PRON
+بيتريق	بِ+يِ+تَّرْيَق	PROG_PART+IV3MS+IV
+وشوف	وِ+شُوف+(نُلل)	CONJ+CV+CVSUFF_SUBJ:2MS
+شغلك	شُغْل+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+أشطر	أَشْطُر	NOUN
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+حبيت	حَبّ+َيت	PV+PVSUFF_SUBJ:1S
+حد	حَدّ	NOUN
+ماتخدش	ما+تُ+خُذ+ش	NEG_PART+IV3FS+IV+NEG_PART
+راى	رَأْي	NOUN
+الناس	ال+ناس	DET+NOUN
+فيه	فِي+ُه	PREP+PRON_3MS
+علشان	***noun
+انت	اِنْتَ	PRON_2MS
+اللى	اللِّي	REL_PRON
+اخترته	ٱِخْتَر+تِ+هُ	PV+PVSUFF_SUBJ:2FS+PVSUFF_DO:3MS
+مش	مِش	NEG_PART
+الناس	ال+ناس	DET+NOUN
+SENTENCE-BREAK
+	
+#	#	PUNC
+@@LAT@@pt	***adj_comp
+من	مِن	PREP
+يومين	يَوم+َين	NOUN+NSUFF_MASC_DU
+وانا	وِ+أَنا	CONJ+PRON_1S
+ماشيه	ماشِي+َة	NOUN+NSUFF_FEM_SG
+في	فِي	PREP
+طريق	طَرِيق	NOUN
+الكليه	ال+كُلِّيّ+َة	DET+NOUN+NSUFF_FEM_SG
+لاقيت	لاقِي+ت	PV+PVSUFF_SUBJ:1S
+اتنين	اِثْنَين	NOUN_NUM
+قاعدين	قاعْد+ِين	ADJ+NSUFF_MASC_PL
+جنب	جَنْب	NOUN
+بتاع	بِتاع	NOUN
+الخضار	ال+خَضار	DET+NOUN
+بيحبوا	بِ+يِ+حِبّ+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+في	فِي	PREP
+بعض	بَعْض	NOUN_QUANT
+,	,	PUNC
+وشافوني	وَ+شاف+ُوا+نِي	CONJ+PV+PVSUFF_SUBJ:3P+PVSUFF_DO:1S
+وانا	وِ+أَنا	CONJ+PRON_1S
+ماشيه	ماشْي+َة	ADJ+NSUFF_FEM_SG
+وقاعدوا	***adj_comp
+يضحكوا	يِ+ضْحَك+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+.	.	PUNC
+SENTENCE-BREAK
+	
+الحاله	ال+حال+َة	DET+NOUN+NSUFF_FEM_SG
+الزفت	ال+زِفْت	DET+NOUN
+اللي	اللِّي	REL_PRON
+الواحد	ال+واحِد	DET+NOUN_NUM
+بيبقي	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+فيها	فِي+ها	PREP+PRON_3FS
+بقت	بَق+ِت	PV+PVSUFF_SUBJ:3FS
+ملازماه	مُلازِم+ا+هُ	NOUN+NSUFF_MASC_DU_NOM+POSS_PRON_3MS
+علي	عَلَى	PREP
+طول	طُول	NOUN
+!	!	PUNC
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+المعين	ال+مُعَيَّن	DET+ADJ
+SENTENCE-BREAK
+	
+@@LAT@@*	***adj_comp
+لما	لَمّا	SUB_CONJ
+حد	حَدّ	NOUN
+يقولي	يَ+قُول+نِي	IV3MS+IV+IVSUFF_DO:1S
+خارجة	خارِج+َة	NOUN+NSUFF_FEM_SG
+فين	فَين	INTERROG_ADV
+النهاردة	ال+نَهارْدَه	DET+NOUN
+?	?	PUNC
+@@LAT@@*	***adj_comp
+هاخرج	حَ+اَ+خْرُج	FUT_PART+IV1S+IV
+مع	مَعَ	NOUN
+صحابي	صُحاب+ِي	NOUN+POSS_PRON_1S
+في	فِي	PREP
+الصالة	ال+صال+َة	DET+NOUN+NSUFF_FEM_SG
+وبعدين	وِ+بَعْدَين	CONJ+ADV
+نروح	نِ+رُوح	IV1P+IV
+الأوضة	ال+اَوض+َة	DET+NOUN+NSUFF_FEM_SG
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+وممكن	وِ+مُمْكِن	PREP+ADJ
+نروح	نِ+رُوح	IV1P+IV
+كافية	كافِي+َة	NOUN+NSUFF_FEM_SG
+المطبخ	ال+مَطْبَخ	DET+NOUN
+ناكل	ن+اكُل	IV1P+IV
+اي	أَيّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+وصلت	وِصِل+ت	PV+PVSUFF_SUBJ:1S
+لمرحلة	لِ+مَرْحَل+َة	PREP+NOUN+NSUFF_FEM_SG
+انى	أَنّ+ِي	SUB_CONJ+PRON_1S
+ممكن	مُمْكِن	ADJ
+انام	اَ+نام	IV1S+IV
+و	وِ	CONJ
+انا	أَنا	PRON_1S
+واقفة	واقْف+َة	ADJ+NSUFF_FEM_SG
+زى	زَيّ	NOUN
+الحصنة	***noun
+عادى	عادِي	ADJ
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+-	-	PUNC
+فين	فَين	INTERROG_ADV
+السندوتشات	ال+سَنْدْوِتش+ات	DET+NOUN+NSUFF_FEM_PL
+?	?	PUNC
+-	-	PUNC
+نعم	نَعَم	INTERJ
+?	?	PUNC
+-	-	PUNC
+انتي	اِنْتِي	PRON_2FS
+فاكرانا	فاكْر+َة+نا	ADJ+NSUFF_FEM_SG+PRON_1P
+بنفتح	بِ+نِ+فَتَّح	PROG_PART+IV1P+IV
+الشنط	ال+شُنَط	DET+NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+ندور	نِ+دَوَّر	IV1P+IV
+على	عَلَى	PREP
+متفجرات	مُتَفَجِّر+ات	NOUN+NSUFF_FEM_PL
+?	?	PUNC
+احنا	اِحْنا	PRON_1P
+عايزين	عايْز+ِين	ADJ+NSUFF_MASC_PL
+نفطر	نِ+فْطَر	IV1P+IV
+#	#	PUNC
+كلية	كُلِّيّ+َة	NOUN+NSUFF_FEM_SG
+ـ	ـ	PUNC
+لزازة	***adj_comp
+ـ	ـ	PUNC
+و	وَ	CONJ
+ـ	ـ	PUNC
+استظراف	اِسْتِظْراف	NOUN
+SENTENCE-BREAK
+	
+اه	إِه	INTERJ
+بنتريق	بِ+نِ+تَّرْيَق	PROG_PART+IV1P+IV
+و	وَ	CONJ
+نهرج	نُ+هَرِّج	IV1P+IV
+و	وَ	CONJ
+نسف	نِ+سْف	IV1P+IV
+و	وَ	CONJ
+نهري	نَهْرِي	ADJ
+ماشي	ماشِي	ADJ
+مش	مِش	NEG_PART
+مشكله	مُشْكِل+َة	NOUN+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+برضوا	بَرْضُه	ADV
+اللي	اللِّي	REL_PRON
+عندوا	عَنِد+ُوا	PV+PVSUFF_SUBJ:3MP
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+يقدمها	يِ+قَدِّم+ها	IV3MS+IV+IVSUFF_DO:3FS
+للشعب	لِ+ال+شَعْب	PREP+DET+NOUN
+ده	دَه	DEM_PRON_MS
+يتفضل	يِ+تْفَضَّل	IV3MS+IV
+يشتغل	يِ+شْتَغَل	IV3MS+IV
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+معلومه	مَعْلُوم+َة	NOUN+NSUFF_FEM_SG
+انا	أَنا	PRON_1S
+مش	مِش	NEG_PART
+بأيد	بِ+أَيْد	PREP+NOUN
+السيسي	***adj_comp
+SENTENCE-BREAK
+	
+الانسان	ال+إِنْسان	DET+NOUN
+ال	ال	DET
+دماغة	دِماغ+ُه	NOUN+POSS_PRON_3MS
+حلوة	حِلْو+َة	ADJ+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+غبى	غَبِي	ADJ
+ومش	وِ+مِش	CONJ+NEG_PART
+بيعرف	بِ+يِ+عْرَف	PROG_PART+IV3MS+IV
+يستغل	يِ+سْتَغِلّ	IV3MS+IV
+الفرص	ال+فُرَص	DET+NOUN
+صح	صَحّ	ADJ
+ده	دَه	DEM_PRON_MS
+بيصعب	بِ+يِ+صْعَب	PROG_PART+IV3MS+IV
+عليا	عُلْيا	ADJ
+بيخلى	بِ+يِ+خَلِّي	PROG_PART+IV3MS+IV
+انسان	إِنْسان	NOUN
+اقل	أَقَلّ	ADJ_COMP
+منه	مِنّ+ُه	PREP+PRON_3MS
+و	وَ	CONJ
+امكانياته	اِمْكانِيّ+ات+ُه	NOUN+NSUFF_FEM_PL+POSS_PRON_3MS
+على	عَلَى	PREP
+قده	قَدّ+َة	NOUN+NSUFF_FEM_SG
+يبقى	يِ+بْقَى	IV3MS+IV
+احسن	أَحْسَن	ADJ_COMP
+منه	مِنّ+ُه	PREP+PRON_3MS
+لمجرد	لِ+مُجَرَّد	PREP+NOUN
+انه	أَنَّ+هُ	SUB_CONJ+PRON_3MS
+بيفكر	بِ+يِ+فَكَّر	PROG_PART+IV3MS+IV
+صح	صَحّ	ADJ
+SENTENCE-BREAK
+	
+مشكله	مُشْكِل+َة	NOUN+NSUFF_FEM_SG
+كتير	كِثِير	ADJ
+من	مِن	PREP
+الناس	ال+ناس	DET+NOUN
+انها	إِنّ+ها	SUB_CONJ+PRON_3FS
+افتكرت	اِفْتَكَر+ِت	PV+PVSUFF_SUBJ:3FS
+الثوره	ال+ثَوْر+َة	DET+NOUN+NSUFF_FEM_SG
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+سعيده	سَعِيد+َة	ADJ+NSUFF_FEM_SG
+و	وَ	CONJ
+لطيفه	لَطِيف+َة	ADJ+NSUFF_FEM_SG
+لا	لا	NEG_PART
+دي	دِي	DEM_PRON_FS
+من	مِن	PREP
+اقسي	أَقْسَى	ADJ_COMP
+التجارب	ال+تَجارِب	DET+NOUN
+اللي	اللِّي	REL_PRON
+بتمر	بِ+تِ+مُرّ	PROG_PART+IV3FS+IV
+ببلد	بِ+بَلَد	PREP+NOUN
+SENTENCE-BREAK
+	
+@@LAT@@@israaesso	***adj_comp
+:	:	PUNC
+)	)	PUNC
+مفيش	مِفَيِّش	NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+تستاهل	تِ+سْتاهِل	IV3FS+IV
+,	,	PUNC
+يارب	يا+رَبّ	VOC_PART+NOUN
+أقدر	اَ+قْدَر	IV1S+IV
+على	عَلَى	PREP
+طول	طُول	NOUN
+أكون	اَ+كُون	IV1S+IV
+سبب	سَبَب	NOUN
+في	فِي	PREP
+أن	إِنّ	SUB_CONJ
+لو	لَو	SUB_CONJ
+شخص	شَخْص	NOUN
+واحد	واحِد	NOUN_NUM
+يضحك	يِ+ضْحَك	IV3MS+IV
+من	مِن	PREP
+قلبه	قَلْب+ُه	NOUN+POSS_PRON_3MS
+.	.	PUNC
+SENTENCE-BREAK
+	
+كل	كُلّ	NOUN_QUANT
+ما	ما	SUB_CONJ
+حد	حَدّ	NOUN
+يسألنى	يِ+سْأَل+نِي	IV3MS+IV+IVSUFF_DO:1S
+أنتى	اِنْتِي	PRON_2FS
+فى	فِي	PREP
+كلية	كُلِّيّ+َة	NOUN+NSUFF_FEM_SG
+ايه	أَيَّة	INTERROG_PRON
+و	وَ	CONJ
+أقول	اَ+قُول	IV1S+IV
+طب	طَب	INTERJ
+ألاقى	اَ+لاقِي	IV1S+IV
+نظرات	نَظَر+ات	NOUN+NSUFF_FEM_PL
+الشفقه	ال+شَفَق+َة	DET+NOUN+NSUFF_FEM_SG
+مع	مَعَ	NOUN
+الحنان	ال+حَنان	DET+NOUN
+مع	مَعَ	NOUN
+الحزن	ال+حُزْن	DET+NOUN
+و	وَ	CONJ
+الألم	ال+أَلَم	DET+NOUN
+و	وَ	CONJ
+الأسى	ال+أُسِّيّ	DET+NOUN
+.	.	PUNC
+ده	دَه	DEM_PRON_MS
+يرضى	يَ+رْضِي	IV3MS+IV
+مين	مِين	REL_PRON
+ده	دَه	DEM_PRON_MS
+بس	بَسّ	CONJ
+@@LAT@@xD	***adj_comp
+SENTENCE-BREAK
+	
+@@LAT@@@EgyptianMony30	***adj_comp
+شعور	شُعُور	NOUN
+عالمي	عالَمِيّ	ADJ
+لأ	لا	NEG_PART
+يماثله	يِ+ماثِل+هُ	IV3MS+IV+IVSUFF_DO:3MS
+شعور	شُعُور	NOUN
+لما	لَمّا	SUB_CONJ
+تتفاجئي	***adj_comp
+ان	إِنّ	SUB_CONJ
+النهاردة	ال+نَهارْدَه	DET+NOUN
+الخميس	ال+خَمِيس	DET+NOUN
+مش	مِش	NEG_PART
+الأربع	ال+أَرْبَع	DET+NOUN
+:	:	PUNC
+)	)	PUNC
+بتحصيل	بِ+تَحْصِيل	PREP+NOUN
+كتير	كِتِير	NOUN
+SENTENCE-BREAK
+	
+-	-	PUNC
+فيها	فِي+ها	PREP+PRON_3FS
+ايه	أَيَّة	INTERROG_PRON
+لو	لَو	SUB_CONJ
+حبيت	حَبّ+َيت	PV+PVSUFF_SUBJ:1S
+حد	حَدّ	NOUN
+يجي	يِ+جِي	IV3MS+IV
+يخطفني	يِ+خْطِف+نِي	IV3MS+IV+IVSUFF_DO:1S
+و	وَ	CONJ
+نروح	نِ+رُوح	IV1P+IV
+في	فِي	PREP
+أي	أَيّ	NOUN_QUANT
+حته	حِتّ+َة	NOUN+NSUFF_FEM_SG
+و	وَ	CONJ
+نعيش	نِ+عِيش	IV1P+IV
+في	فِي	PREP
+هنا	هِنا	ADV
+و	وَ	CONJ
+سرور	سُرُور	NOUN_PROP
+?	?	PUNC
+-	-	PUNC
+شدي	شَذَى	NOUN
+الغطى	***adj_comp
+عليكي	عَلَى+ِك	PREP+PRON_2MS
+شويه	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+كمان	كَمان	ADV
+.	.	PUNC
+SENTENCE-BREAK
+	
+دة	دَه	DEM_PRON_MS
+يوم	يَوم	NOUN
+الانتخابات	ال+ٱِنْتِخاب+ات	DET+NOUN+NSUFF_FEM_PL
+دة	دَه	DEM_PRON_MS
+هايبقي	حَ+يِ+بْقَى	FUT_PART+IV3MS+IV
+ولا	وَلّا	CONJ
+يوم	يَوم	NOUN
+الاستفتاء	ال+اِسْتِفْتاء	DET+NOUN
+الاخير	ال+أَخِير	DET+ADJ
+ع	عَ	PREP
+الدستور	ال+دُسْتُور	DET+NOUN
+مضروب	مَضْرُوب	ADJ
+في	فِي	PREP
+عشرين	عِشْرِين	NOUN_NUM
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+هانضحك	حَ+أَ+نْضِح+كَ	FUT_PART+IV1S+IV+IVSUFF_DO:2MS
+ضحك	ضِحْك	NOUN
+ياجدعان	يا+جِدْعان	VOC_PART+NOUN
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+أنا	أَنا	PRON_1S
+بفضل	بِ+فَضْل	PREP+NOUN
+أحكى	أَ+حْكِي	IV1S+IV
+لواحد	لِ+واحِد	PREP+NOUN
+صاحبى	صاحِب+ِي	NOUN+POSS_PRON_1S
+عن	عَن	PREP
+مشاكلى	مَشاكِل+ِي	NOUN+POSS_PRON_1S
+بدل	بَدَل	NOUN
+محكي	ما+اَ+حْكِي	NEG_PART+IV1S+IV
+لأهلى	لِ+أَهْلِيّ	PREP+ADJ
+,	,	PUNC
+أهو	أَ+هُوَّ	DEM_PRON+PRON_3MS
+على	عَلَى	PREP
+الأقل	ال+أَقَلّ	DET+ADJ_COMP
+ال	ال	DET
+"	"	PUNC
+معلش	مَعْلِش	INTERJ
+"	"	PUNC
+اللى	اللِّي	REL_PRON
+بتطلع	بِ+تِ+طْلَع	PROG_PART+IV3FS+IV
+منه	مِنّ+ُه	PREP+PRON_3MS
+ألطف	أَلْطَف	ADJ_COMP
+من	مِن	PREP
+"	"	PUNC
+و	وَ	CONJ
+احنا	اِحْنا	PRON_1P
+مالنا	مال+نا	NOUN+POSS_PRON_1P
+?	?	PUNC
+"	"	PUNC
+اللى	اللِّي	REL_PRON
+بتطلع	بِ+تِ+طْلَع	PROG_PART+IV3FS+IV
+منهم	مِن+هُم	PREP+PRON_3MP
+.	.	PUNC
+SENTENCE-BREAK
+	
+نبقى	نِ+بْقَى	IV1P+IV
+ماشين	ماش+ِين	ADJ+NSUFF_MASC_PL
+فى	فِي	PREP
+الشارع	ال+شارِع	DET+NOUN
+ونلاقى	وِ+نِ+لاقِي	CONJ+IV1P+IV
+ابن	اِبْن	NOUN
+الحلال	ال+حَلال	DET+ADJ
+اللى	اللِّي	REL_PRON
+سايب	سايِب	ADJ
+الوايرلس	***adj_comp
+بتاعه	بِتاع+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+غير	غَيْر	NOUN
+باسورد	***adj_comp
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+ساعتها	ساع+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+بس	بَسّ	CONJ
+بنتأكد	بِ+نِ+تَأَكَّد	PROG_PART+IV1P+IV
+ان	إِنّ	SUB_CONJ
+الدنيا	ال+دُنْيا	DET+NOUN
+لسه	لِسَّه	ADV
+بخير	بِ+خَيْر	PREP+NOUN
+SENTENCE-BREAK
+	
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+حد	حَدّ	NOUN
+عاجبه	عاجِب+ُه	ADJ+PRON_3MS
+حاله	حال+َة	NOUN+NSUFF_FEM_SG
+حتى	حَتَّى	PART
+لو	لَو	SUB_CONJ
+عنده	عَنْد+ُه	NOUN+POSS_PRON_3MS
+كل	كُلّ	NOUN_QUANT
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+ويبص	وَ+يِ+بُصّ	CONJ+IV3MS+IV
+للى	لِ+اللِّي	PREP+REL_PRON
+فى	فِي	PREP
+ايد	إِيد	NOUN
+غيره	غِير+ُه	NOUN+POSS_PRON_3MS
+لو	لَو	SUB_CONJ
+كان	كان	PV
+فى	فِي	PREP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+اسمها	اِسْم+ها	NOUN+POSS_PRON_3FS
+الرضا	ال+رِضا	DET+NOUN
+كان	كان	PV
+الكل	ال+كُلّ	DET+NOUN
+عجبته	عَجَب+ِت+ُه	PV+PVSUFF_SUBJ:3FS+PVSUFF_DO:3MS
+حياته	حَيا+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+و	وَ	CONJ
+ما	ما	REL_PRON
+بصش	بَصّ+(نُلل)+ش	PV+PVSUFF_SUBJ:3MS+NEG_PART
+لغيره	لِ+غَير+ُه	PREP+NOUN+POSS_PRON_3MS
+SENTENCE-BREAK
+	
+طب	طَب	INTERJ
+مع	مَعَ	NOUN
+احترامي	ٱِحْتِرام+ِي	NOUN+POSS_PRON_1S
+للجميع	لِ+ال+جَمِيع	PREP+DET+NOUN
+انا	أَنا	PRON_1S
+شايف	شايِف	ADJ
+ان	إِنّ	SUB_CONJ
+الشغل	ال+شُغْل	DET+NOUN
+احسن	أَحْسَن	ADJ_COMP
+من	مِن	PREP
+الكلام	ال+كَلام	DET+NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+الساحه	ال+ساح+َة	DET+NOUN+NSUFF_FEM_SG
+قدامي	قُدّام+ِي	NOUN+POSS_PRON_1S
+ابتدي	اَ+بْتِدِي	IV1S+IV
+اشتغل	اَ+شْتَغَل	IV1S+IV
+بدل	بَدَل	NOUN
+ما	ما	SUB_CONJ
+اقعد	اُقْعُد+(نُلل)	CV+CVSUFF_SUBJ:2MS
+انتقد	أَ+نْتَقِد	IV1S+IV
+اللي	اللِّي	REL_PRON
+قدامي	قُدّام+ِي	NOUN+POSS_PRON_1S
+و	وَ	CONJ
+بس	بَسّ	ADV
+SENTENCE-BREAK
+	
+أحسن	أَحْسَن	ADJ_COMP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+تعيش	تِ+عِيش	IV3FS+IV
+مع	مَعَ	NOUN
+نفسك	نَفْس+ِك	NOUN+POSS_PRON_2FS
+كده	كِدَه	NOUN
+وملكش	وَ+مَ+لِ+َك+ش	CONJ+NEG_PART+PREP+PRON_2MS+NEG_PART
+دعوة	دَعْو+َة	NOUN+NSUFF_FEM_SG
+بحاجة	بِ+حاج+َة	PREP+NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+اللي	اللِّي	REL_PRON
+بتحصل	بِ+تِ+حْصَل	PROG_PART+IV3FS+IV
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+إدينى	أَدِي+نِي	DEM_PRON+PRON_1S
+سبب	سَبَب	NOUN
+واحد	واحِد	NOUN_NUM
+يخليك	يِ+خَلِّي+َك	IV3MS+IV+IVSUFF_DO:2MS
+تكدب	تِ+كَذِّب	IV3FS+IV
+على	عَلَى	PREP
+حد	حَدّ	NOUN
+إنت	اِنْتَ	PRON_2MS
+عارف	عارِف	ADJ
+إنه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+بيصدقك	بِ+ي+صَدَق+ِك	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+عشان	عَ+شَأْن	PREP+NOUN
+بيحبك	بِ+يُ+حِبّ+كِ	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+محتاجين	مِحْتاج+ِين	ADJ+NSUFF_MASC_PL
+نحلم	نِ+حْلَم	IV1P+IV
+كتير	كِثِير	ADJ
+,	,	PUNC
+لان	لِ+إِنّ	PREP+SUB_CONJ
+احنا	اِحْنا	PRON_1P
+طول	طُول	NOUN
+الوقت	ال+وَقْت	DET+NOUN
+عايشين	عايْش+ِين	ADJ+NSUFF_MASC_PL
+في	فِي	PREP
+الخيال	ال+خَيال	DET+NOUN
+وأحلام	وَ+اَحْلام	CONJ+NOUN
+اليقظة	ال+يَقْظ+َة	DET+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@YoOokaa95	***adj_comp
+هتفضلى	حَ+تِ+فَضَّل+ِي	FUT_PART+IV2FS+IV+IVSUFF_SUBJ:2FS
+كده	كِدَه	NOUN
+كتير	كِتِير	NOUN
+?	?	PUNC
+!	!	PUNC
+و	وَ	CONJ
+لا	لا	NEG_PART
+هيرجع	حَ+يِ+رْجَع	FUT_PART+IV3MS+IV
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+و	وِ	CONJ
+لا	لا	NEG_PART
+هيقدم	حَ+يِ+قَدِّم	FUT_PART+IV3MS+IV
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+اتخلصى	اِتْخَلَّص+(نُلل)+نِي	CV+CVSUFF_SUBJ:2MS+CVSUFF_DO:1S
+من	مِن	PREP
+السلبيات	ال+سَلْبِيّ+ات	DET+NOUN+NSUFF_FEM_PL
+دى	دِي	DEM_PRON_FS
+و	وِ	CONJ
+استمتعى	اِسْتَمْتَع+(نُلل)+نِي	CV+CVSUFF_SUBJ:2MS+CVSUFF_DO:1S
+بحياتك	بِ+حَيا+َة+َك	PREP+NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+:	:	PUNC
+)	)	PUNC
+و	وَ	CONJ
+دى	دِي	DEM_PRON_FS
+اقل	أَقَلّ	ADJ_COMP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+تقدرى	تِ+قْدَر+ِي	IV2FS+IV+IVSUFF_SUBJ:2FS
+تقدميها	تِ+قَدِّم+ِي+ها	IV2FS+IV+IVSUFF_SUBJ:2FS+IVSUFF_DO:3FS
+للى	لِ+اللِّي	PREP+REL_PRON
+بيحبوكى	بِ+يِ+حِبّ+ُوا+ِك	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P+IVSUFF_DO:2FS
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+هسمح	حَ+اَ+سْمَح	FUT_PART+IV1S+IV
+للايام	لِ+ال+اِيّام	PREP+DET+NOUN
+تيجى	تِ+يْجِي	IV3FS+IV
+تانى	تانِي	ADJ
+علية	عَلَى+ُه	PREP+PRON_3MS
+و	وِ	CONJ
+دة	دَه	DEM_PRON_MS
+يبقى	يِ+بْقَى	IV3MS+IV
+اخر	آخِر	ADJ
+يوم	يَوم	NOUN
+فى	فِي	PREP
+حياتى	حَيا+َة+ِي	NOUN+NSUFF_FEM_SG+POSS_PRON_1S
+لو	لَو	SUB_CONJ
+ارضاها	أَرَّض+ا+ها	PV+PVSUFF_SUBJ:3MD+PVSUFF_DO:3FS
+لية	لَيه	INTERROG_ADV
+.	.	PUNC
+.	.	PUNC
+SENTENCE-BREAK
+	
+اكذب	أَكْذَب	NOUN
+انت	اِنْتَ	PRON_2MS
+حر	حُرّ	ADJ
+.	.	PUNC
+.	.	PUNC
+لكن	لَكِن	CONJ
+بلاش	بَلاش	NOUN
+تعيش	تِ+عِيش	IV3FS+IV
+في	فِي	PREP
+الدور	ال+دَوْر	DET+NOUN
+قوي	قَوِي	ADJ
+عشان	عَ+شَأْن	PREP+NOUN
+بيبقا	بِ+يِ+بْقا	PROG_PART+IV3MS+IV
+شكلك	شَكْل+َك	NOUN+POSS_PRON_2MS
+وحش	وِحِش	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+طالبه	طالِب+َة	NOUN+NSUFF_FEM_SG
+تشاؤم	تَشاؤُم	NOUN
+النهارده	ال+نَهارْدَه	DET+NOUN
+النهارده	ال+نَهارْدَه	DET+NOUN
+الخميس	ال+خَمِيس	DET+NOUN
+المجيد	ال+مَجِيد	DET+NOUN_PROP
+يعني	يَ+عْنِي	IV3MS+IV
+ويك	وِيك	NOUN
+اند	اَنْد	NOUN
+يعني	يَ+عْنِي	IV3MS+IV
+فوكك	***adj_comp
+من	مِن	PREP
+اي	أَيّ	NOUN_QUANT
+حاجه	حاج+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+@@LAT@@@salmaabody	***adj_comp
+متنسوش	مَ+تِ+نْس+ُوا+ش	NEG_PART+IV2P+IV+IVSUFF_SUBJ:P+NEG_PART
+البرسيم	ال+بِرْسِيم	DET+NOUN
+الي	اللِّي	REL_PRON
+كان	كان	PV
+وراه	وَرا+ُه	NOUN+POSS_PRON_3MS
+في	فِي	PREP
+الخلفيه	ال+خَلْفِيّ+َة	DET+NOUN+NSUFF_FEM_SG
+دي	دِي	DEM_PRON_FS
+ليها	لِ+ها	PREP+PRON_3FS
+معنى	مَعْنَى	NOUN
+كبير	كِبِير	ADJ
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+هكتب	حَ+اَ+كْتِب	FUT_PART+IV1S+IV
+تويتة	تِوِيت+َة	NOUN+NSUFF_FEM_SG
+أقول	اَ+قُول	IV1S+IV
+فيها	فِي+ها	PREP+PRON_3FS
+"	"	PUNC
+أنني	أَنَّ+نِي	SUB_CONJ+PRON_1S
+لن	لَن	NEG_PART
+أترشح	أَ+تَرَشَّح	IV1S+IV
+للرئاسة	لِ+ال+رِئاس+َة	PREP+DET+NOUN+NSUFF_FEM_SG
+"	"	PUNC
+عشان	عَ+شَأْن	PREP+NOUN
+الظاهر	ال+ظاهِر	DET+ADJ
+كدة	كِدَه	NOUN
+ان	إِنّ	SUB_CONJ
+كل	كُلّ	NOUN_QUANT
+اللي	اللِّي	REL_PRON
+بيقول	بِ+يِ+قُول	PROG_PART+IV3MS+IV
+البوئين	***adj_comp
+دول	دُوَل	NOUN
+بيمسك	بِ+يِ+مْسِك	PROG_PART+IV3MS+IV
+البلد	ال+بَلَد	DET+NOUN
+في	فِي	PREP
+خلال	خِلال	NOUN
+سنة	سَن+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+محلب	مَحْلَب	NOUN
+:	:	PUNC
+نفق	نَ+فِق	IV1P+IV
+على	عَلَى	PREP
+مسافة	مَساف+َة	NOUN+NSUFF_FEM_SG
+واحدة	واحْد+َة	NOUN_NUM+NSUFF_FEM_SG
+من	مِن	PREP
+كل	كُلّ	NOUN_QUANT
+مرشي	مَرْشِي	NOUN
+الرئاسية	ال+رِئاسِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+وابتدينا	وَ+اِبْتِد+ِي+نا	CONJ+CV+CVSUFF_SUBJ:2FS+CVSUFF_DO:1P
+الكذب	ال+كِذْب	DET+NOUN
+بقى	بَقَى	ADV
+ما	ما	REL_PRON
+هو	هُوَّ	PRON_3MS
+اللي	اللِّي	REL_PRON
+يلاقي	يِ+لاقِي	IV3MS+IV
+شعب	شَعْب	NOUN
+مغفل	مُغَفَّل	ADJ
+وميستغفلوش	***adj_comp
+يبقى	يِ+بْقَى	IV3MS+IV
+غلطان	غَلْطان	ADJ
+SENTENCE-BREAK
+	
+العيال	ال+عِيال	DET+NOUN
+اللي	اللِّي	REL_PRON
+شايفين	شايْف+ِين	ADJ+NSUFF_MASC_PL
+إن	إِنّ	SUB_CONJ
+المشاركة	ال+مُشارْك+َة	DET+NOUN+NSUFF_FEM_SG
+في	فِي	PREP
+هاشتاج	***adj_comp
+#	#	PUNC
+انتخبوا	ٱِنْتَخَب+ُوا	PV+PVSUFF_SUBJ:3MP
+ـ	ـ	PUNC
+العرص	ال+عَرْص	DET+ADJ
+عيب	عَيب	NOUN
+وحرام	وِ+حَرام	PREP+NOUN
+.	.	PUNC
+.	.	PUNC
+جاتكم	جا+ت+كُم	PV+PVSUFF_SUBJ:3FS+PVSUFF_DO:2P
+البلاوي	ال+بَلاوِي	DET+NOUN
+.	.	PUNC
+.	.	PUNC
+يعني	يَ+عْنِي	IV3MS+IV
+هو	هُوَّ	PRON_3MS
+اللي	اللِّي	REL_PRON
+عمله	عَمَل+(نُلل)+ُه	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS
+العرص	ال+عَرْص	DET+ADJ
+مش	مِش	NEG_PART
+عيب	عَيب	NOUN
+وحرام	وِ+حَرام	PREP+NOUN
+?	?	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+اوعو	أُوع+ُوا	CV+CVSUFF_SUBJ:2P
+تستسلمو	تَ+سْتَسْلِم+ُوا	IV2MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+لسه	لِسَّه	ADV
+الأمل	ال+أَمَل	DET+NOUN
+موجود	مَوجُود	ADJ
+بس	بَسّ	CONJ
+انتو	اِنْتُو	PRON_2P
+متقفلوهاش	***adj_comp
+وقولو	وَ+قَول+ُه	CONJ+NOUN+POSS_PRON_3MS
+يارب	يا+رَبّ	VOC_PART+NOUN
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+ما	ما	FOCUS_PART
+هي	هِيَ	PRON_3FS
+لو	لَو	SUB_CONJ
+كانت	كان+ِت	PV+PVSUFF_SUBJ:3FS
+عرفت	عِرِف+ت	PV+PVSUFF_SUBJ:1S
+انها	إِنّ+ها	SUB_CONJ+PRON_3FS
+بعد	بَعْد	NOUN
+كل	كُلّ	NOUN_QUANT
+التعب	ال+تَعْب	DET+NOUN
+و	وَ	CONJ
+التربية	ال+تَرْبِي+َة	DET+NOUN+NSUFF_FEM_SG
+ديه	دِي	DEM_PRON_FS
+هتتشتم	حَ+تِ+تْشِتِم	FUT_PART+IV3FS+IV_PASS
+من	مِن	PREP
+واحد	واحِد	NOUN
+صاحبك	صاحِب+َك	NOUN+POSS_PRON_2MS
+مكنتش	ما+كُن+ت+ش	NEG_PART+PV+PVSUFF_SUBJ:1S+NEG_PART
+خلفتك	خِلْف+َة+كَ	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+من	مِن	PREP
+الاساس	ال+أَساس	DET+NOUN
+!	!	PUNC
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+الخطوبة	ال+خُطُوب+َة	DET+NOUN+NSUFF_FEM_SG
+في	فِي	PREP
+عيلتنا	عَيَّل+تِ+نا	PV+PVSUFF_SUBJ:2FS+PVSUFF_DO:1P
+عبارة	عِبار+َة	NOUN+NSUFF_FEM_SG
+عن	عَن	PREP
+ان	إِنّ	SUB_CONJ
+العريس	ال+عَرِيس	DET+NOUN
+بياخد	بِ+ي+أْخُذ	PROG_PART+IV3MS+IV
+خطيبته	خَطِيب+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+و	وَ	CONJ
+اخواتها	أَخَو+ات+ها	NOUN+NSUFF_FEM_PL+POSS_PRON_3FS
+البنات	ال+بَنات	DET+NOUN
+و	وَ	CONJ
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+مانع	مانِع	NOUN
+بنت	بِنْت	NOUN
+خالتهم	خال+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3MP
+تروح	تِ+رُوح	IV3FS+IV
+معاهم	مَعَ+هُم	NOUN+POSS_PRON_3P
+يغديهم	يُ+غَذِّي+هُم	IV3MS+IV+IVSUFF_DO:3MP
+بره	بَرَّه	NOUN
+و	وَ	CONJ
+يرجعهم	يِ+رَجَّع+هُم	IV3MS+IV+IVSUFF_DO:3P
+البيت	ال+بَيت	DET+NOUN
+SENTENCE-BREAK
+	
+@@LAT@@@raafatelsawy	***adj_comp
+و	وَ	CONJ
+الله	اللَّه	NOUN_PROP
+انا	أَنا	PRON_1S
+عارفة	عارْف+َة	ADJ+NSUFF_FEM_SG
+ان	إِنّ	SUB_CONJ
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+مش	مِش	NEG_PART
+راضية	راضْي+َة	ADJ+NSUFF_FEM_SG
+بس	بَسّ	CONJ
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+تانية	تانْي+َة	ADJ_COMP+NSUFF_FEM_SG
+عمالة	عَمّال+َة	ADJ+NSUFF_FEM_SG
+تبرر	ت+بَرَّر	IV3FS+IV
+و	وَ	CONJ
+خلاص	خَلاص	NOUN
+و	وِ	CONJ
+شايفة	شايْف+َة	ADJ+NSUFF_FEM_SG
+ان	إِنّ	SUB_CONJ
+ده	دَه	DEM_PRON_MS
+احسن	أَحْسَن	ADJ_COMP
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+فى	فِي+ُه	PREP+PRON_3MS
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+تافهة	تافْه+َة	ADJ+NSUFF_FEM_SG
+لو	لَو	SUB_CONJ
+مكبرتش	مَ+كِبِر+ت+ش	NEG_PART+PV+PVSUFF_SUBJ:1S+NEG_PART
+مخك	مُخّ+َك	NOUN+POSS_PRON_2MS
+فيها	فِي+ها	PREP+PRON_3FS
+واتعملت	وِ+اِتْعَمَل+ِت	CONJ+PV_PASS+PVSUFF_SUBJ:3FS
+معاها	مَعَ+ها	NOUN+POSS_PRON_3FS
+صح	صَحّ	ADJ
+هتبقى	حَ+تِ+بْقَى	FUT_PART+IV3FS+IV
+مشكلة	مُشْكِل+َة	NOUN+NSUFF_FEM_SG
+كبيرة	كِبِير+َة	ADJ+NSUFF_FEM_SG
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+مش	مِش	NEG_PART
+واخد	واخِد	NOUN
+بالك	بال+َك	NOUN+POSS_PRON_2MS
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+يعني	يَ+عْنِي	IV3MS+IV
+الولاد	ال+وِلاد	DET+NOUN
+مش	مِش	NEG_PART
+بيعرفوا	بِ+يِ+عْرَف+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+ييجو	يِ+يْج+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+هم	هُمَّ	PRON_3P
+يسلمو	يِ+سَلِّم+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+?	?	PUNC
+ليه	لِ+ُه	PREP+PRON_3MS
+لازم	لازِم	ADJ
+نروح	نِ+رُوح	IV1P+IV
+احنا	اِحْنا	PRON_1P
+نسلم	نِ+سَلِّم	IV1P+IV
+على	عَلَى	PREP
+سيادتهم	سِياد+َة+هُم	NOUN+NSUFF_FEM_SG+POSS_PRON_3MP
+?	?	PUNC
+SENTENCE-BREAK
+	
+ماهو	ماهُوَ	REL_PRON
+مش	مِش	NEG_PART
+معقول	مَعْقُول	ADJ
+بعد	بَعْد	NOUN
+الدعا	ال+دُعا	DET+NOUN
+دا	دَه	DEM_PRON_MS
+كله	كُلّ+ُه	NOUN_QUANT+POSS_PRON_3MS
+والراجل	وِ+ال+راجِل	CONJ+DET+NOUN
+اللي	اللِّي	REL_PRON
+بيقطع	بِ+يِ+قَطَّع	PROG_PART+IV3MS+IV
+الكهربا	ال+كَهْرَب+َة	DET+NOUN+NSUFF_FEM_SG
+لسه	لِسَّه	ADV
+عايش	عايِش	ADJ
+!	!	PUNC
+?	?	PUNC
+SENTENCE-BREAK
+	
+طلعوا	طِلْع+ُوا	PV+PVSUFF_SUBJ:3P
+ورقة	وَرَق+َة	NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+الامتحان	ال+اِمْتِحان	DET+NOUN
+-	-	PUNC
+مذكرناش	مَ+ذَكَر+(نُلل)+نا+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:1P+NEG_PART
+-	-	PUNC
+مذكرتوش	مَ+ذَكَر+تُوا+ش	NEG_PART+PV+PVSUFF_SUBJ:2P+NEG_PART
+ليه	لَيه	INTERROG_ADV
+?	?	PUNC
+-	-	PUNC
+النور	ال+نُور	DET+NOUN_PROP
+كان	كان	PV
+قاطع	قاطِع	ADJ
+اعترضي	***adj_comp
+على	عَلَى	PREP
+نور	نُور	NOUN_PROP
+عين	عَيْن	NOUN
+السيسي	***adj_comp
+بقى	بَقَى	ADV
+SENTENCE-BREAK
+	
+انا	أَنا	PRON_1S
+من	مِن	PREP
+النوع	ال+نَوْع	DET+NOUN
+اللي	اللِّي	REL_PRON
+لو	لَو	SUB_CONJ
+شوفت	شُوف+ت	PV+PVSUFF_SUBJ:1S
+حد	حَدّ	NOUN
+مضايق	مُضايِق	ADJ
+او	أَو	CONJ
+زعلان	زَعْلان	ADJ
+معرفش	ما+اَ+عْرَف+ش	NEG_PART+IV1S+IV+NEG_PART
+اسيبه	اَ+سِيب+ُه	IV1S+IV+IVSUFF_DO:3MS
+كده	كِدَه	NOUN
+لازم	لازِم	ADJ
+اسأله	اَ+سْأَل+ُه	IV1S+IV+IVSUFF_DO:3MS
+واعرف	وِ+اَ+عْرَف	CONJ+IV1S+IV
+ماله	مال+ُه	NOUN+POSS_PRON_3MS
+واخفف	وِ+أُ+خَفِّف	CONJ+IV1S+IV
+عنه	عَنّ+ُه	PREP+PRON_3MS
+!	!	PUNC
+#	#	PUNC
+طبع	طَبْع	NOUN
+SENTENCE-BREAK
+	
+بصى	بُصّ+ِي	CV+CVSUFF_SUBJ:2FS
+ياستى	يا+سِتّ+ِي	VOC_PART+NOUN+POSS_PRON_1S
+متتعبيش	ما+تِ+تْعِب+ِي+ش	NEG_PART+IV2FS+IV+IVSUFF_SUBJ:2FS+NEG_PART
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+من	مِن	PREP
+كتر	كُثْر	NOUN
+التفكير	ال+تَفْكِير	DET+NOUN
+هو	هُوَّ	PRON_3MS
+لو	لَو	SUB_CONJ
+من	مِن	PREP
+نصيبك	نَصِيب+َك	NOUN+POSS_PRON_2MS
+,	,	PUNC
+عمره	عُمْر+ُه	NOUN+POSS_PRON_3MS
+ما	ما	NEG_PART
+هيكون	حَ+يِ+كُون	FUT_PART+IV3MS+IV
+لحد	لِحَدّ	NOUN
+غيرك	غِير+ِك	NOUN+POSS_PRON_2FS
+إنتى	اِنْتِي	PRON_2FS
+SENTENCE-BREAK
+	
+الواحد	ال+واحِد	DET+NOUN
+بيبقى	بِ+يِ+بْقَى	PROG_PART+IV3MS+IV
+نفسه	نَفْس+ُه	NOUN+POSS_PRON_3MS
+فى	فِي	PREP
+حد	حَدّ	NOUN
+يفهمه	يِ+فْهَم+ُه	IV3MS+IV+IVSUFF_DO:3MS
+قبل	قَبْل	NOUN
+ما	ما	SUB_CONJ
+يتكلم	يِ+تْكَلِّم	IV3MS+IV
+يبقى	يِ+بْقَى	IV3MS+IV
+مضايق	مُضايِق	ADJ
+يعرف	يِ+عْرَف	IV3MS+IV
+لوحده	لِ+وَحْد+ُه	PREP+NOUN+POSS_PRON_3MS
+الى	اللِّي	REL_PRON
+هو	هُوَّ	PRON_3MS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+كده	كِدَه	NOUN
+زى	زَيّ	NOUN
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+SENTENCE-BREAK
+	
+فى	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+كدة	كِدَة	NOUN
+لو	لَو	SUB_CONJ
+مش	مِش	NEG_PART
+عايزين	عايْز+ِين	ADJ+NSUFF_MASC_PL
+يتكلموا	يِ+تْكَلِّم+ُوا	IV3P+IV_PASS+IVSUFF_SUBJ:P
+ميتكلموش	مَ+يِ+تْكَلِّم+ُوا+ش	NEG_PART+IV3P+IV_PASS+IVSUFF_SUBJ:P+NEG_PART
+خالص	خالِص	ADJ
+و	وَ	CONJ
+يريحونا	يِ+رَيِّح+ُو+نا	IV3P+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:1P
+احسن	أَحْسَن	ADJ_COMP
+ما	ما	REL_PRON
+هما	هُمَّ	PRON_3P
+مبينين	مُبَيِّن+َيْنِ	NOUN+NSUFF_MASC_DU_ACC
+ان	إِنّ	SUB_CONJ
+هما	هُمَّ	PRON_3P
+بيتكلموا	بِ+يِ+تْكَلِّم+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+بالعافية	بِ+ال+عافْي+َة	PREP+DET+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+تبقي	تِ+بْقَى	IV3FS+IV
+متضايق	مِتْضايِق	ADJ
+عشان	عَ+شَأْن	PREP+NOUN
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+من	مِن	PREP
+حقك	حَقّ+َك	NOUN+POSS_PRON_2MS
+تضايق	تِ+ضايِق	IV2MS+IV
+عشانها	عَ+شان+ها	PREP+NOUN+POSS_PRON_3FS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+ماتبقاش	ما+تِ+بْقا+ش	NEG_PART+IV3FS+IV+NEG_PART
+غبي	غَبِي	ADJ
+اتخرس	اِتْخَرَس+(نُلل)	PV_PASS+PVSUFF_SUBJ:3MS
+وماتبينش	وِ+ما+اِتْبَيِّن+(نُلل)+ش	CONJ+NEG_PART+PV_PASS+PVSUFF_SUBJ:3MS+NEG_PART
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+ابسط	أَبْسَط	ADJ_COMP
+رد	رَدّ	NOUN
+هايتقال	حَ+يِ+تَقالّ	FUT_PART+IV3MS+IV
+لك	لِ+َك	PREP+PRON_2MS
+لو	لَو	SUB_CONJ
+بينت	بِ+يَ+نُت	PROG_PART+IV3MS+IV
+:	:	PUNC
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+مالك	مالِك	NOUN
+اصلا	أَصْلاً	NOUN
+!	!	PUNC
+"	"	PUNC
+انا	أَنا	PRON_1S
+حر	حُرّ	ADJ
+"	"	PUNC
+SENTENCE-BREAK
+	
+فوقوا	فَ+وَق+َوْا	CONJ+PV+PVSUFF_SUBJ:3MP
+وبلاش	وِ+بَلاش	PREP+NOUN
+زفت	زِفْت	ADJ
+,	,	PUNC
+كل	كُلّ	NOUN_QUANT
+مرة	مَرّ+َة	NOUN+NSUFF_FEM_SG
+نقول	نِ+قُول	IV1P+IV
+تويتر	تِوِيتِر	NOUN_PROP
+مش	مِش	NEG_PART
+للنقاش	لِ+ال+نِقاش	PREP+DET+NOUN
+,	,	PUNC
+انت	اِنْتَ	PRON_2MS
+بتفكر	بِ+تِ+فَكَّر	PROG_PART+IV3FS+IV
+بمنهج	بِ+مَنْهَج	PREP+NOUN
+و	وَ	CONJ
+هما	هُمَّ	PRON_3P
+بمنهج	بِ+مَنْهَج	PREP+NOUN
+و	وَ	CONJ
+هي	هِيَ	PRON_3FS
+بمنهج	بِ+مَنْهَج	PREP+NOUN
+,	,	PUNC
+مش	مِش	NEG_PART
+لازم	لازِم	ADJ
+واحد	واحِد	NOUN_NUM
+بس	بَسّ	ADV
+اللي	اللِّي	REL_PRON
+صح	صَحّ	ADJ
+,	,	PUNC
+كلكوا	كُلِّ+كُو	NOUN_QUANT+POSS_PRON_2P
+صح	صَحّ	ADJ
+,	,	PUNC
+يمكن	يِ+مْكِن	IV3MS+IV
+كلكوا	كُلِّ+كُو	NOUN_QUANT+POSS_PRON_2P
+غلط	غَلَط	NOUN
+.	.	PUNC
+SENTENCE-BREAK
+	
+بالك	بال+َك	NOUN+POSS_PRON_2MS
+انت	اِنْتَ	PRON_2MS
+لو	لَو	SUB_CONJ
+وصلنا	وِصِل+نا	PV+PVSUFF_SUBJ:1P
+الهاتشتاج	***adj_comp
+ده	دَه	DEM_PRON_MS
+مليون	مِلْيُون	NOUN
+,	,	PUNC
+,	,	PUNC
+هيجري	حَ+يُ+جْرَى	FUT_PART+IV3MS+IV_PASS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+?	?	PUNC
+!	!	PUNC
+,	,	PUNC
+,	,	PUNC
+و	وِ	CONJ
+النبي	ال+نَبِي	DET+NOUN
+ما	ما	SUB_CONJ
+هيجري	حَ+يُ+جْرَى	FUT_PART+IV3MS+IV_PASS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+#	#	PUNC
+سيناء	سِيناء	NOUN_PROP
+ـ	ـ	PUNC
+خارج	خارِج	ADJ
+ـ	ـ	PUNC
+التغطية	ال+تَغْطِي+َة	DET+NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+وصول	وُصُول	NOUN
+أول	أَوَّل	ADJ
+مرشح	مُرَشَّح	NOUN
+رئاسى	رِئاسِيّ	ADJ
+لمقر	لِ+مَقَرّ	PREP+NOUN
+العليا	ال+عُلْيا	DET+ADJ
+.	.	PUNC
+.	.	PUNC
+ويؤكد	وِ+يُ+ؤَكِّد	CONJ+IV3MS+IV
+:	:	PUNC
+برنامجى	بَرْنامْج+ِي	NOUN+POSS_PRON_1S
+فى	فِي	PREP
+دماغى	دِماغ+ِي	NOUN+POSS_PRON_1S
+@@LAT@@>	***adj_comp
+إبتدينا	اِبْتَد+َينا	PV+PVSUFF_SUBJ:1P
+الهبل	ال+هَبَل	DET+NOUN
+والعك	وِ+ال+عَكّ	CONJ+DET+NOUN
+.	.	PUNC
+دماغك	دِماغ+ِك	NOUN+POSS_PRON_2FS
+مين	مِين	REL_PRON
+يا	يا	VOC_PART
+عم	عَمّ	NOUN
+?	?	PUNC
+كبر	كِبِر+(نُلل)	PV+PVSUFF_SUBJ:3MS
+دماغك	دِماغ+ِك	NOUN+POSS_PRON_2FS
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+طيب	طَيِّب	ADJ
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+مع	مَعَ	NOUN
+الثورة	ال+ثَوْر+َة	DET+NOUN+NSUFF_FEM_SG
+كان	كان	PV
+عشان	عَ+شان	PREP+NOUN
+مصلحة	مَصْلَح+َة	NOUN+NSUFF_FEM_SG
+البلد	ال+بَلَد	DET+NOUN
+و	وَ	CONJ
+دلوقتي	دِلْوَقْتِي	ADV
+انا	أَنا	PRON_1S
+ضدها	ضِدّ+ها	NOUN+POSS_PRON_3FS
+عشان	عَ+شَأْن	PREP+NOUN
+مصلحة	مَصْلَح+َة	NOUN+NSUFF_FEM_SG
+البلد	ال+بَلَد	DET+NOUN
+بردة	بَرْضُه	ADV
+SENTENCE-BREAK
+	
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+بتفهمنا	بِ+تِ+فَهِّم+نا	PROG_PART+IV3FS+IV+IVSUFF_DO:1P
+من	مِن	PREP
+غير	غَيْر	NOUN
+ما	ما	SUB_CONJ
+نتكلم	نِ+تْكَلِّم	IV1P+IV
+و	وِ	CONJ
+ناس	ناس	NOUN
+لو	لَو	SUB_CONJ
+اتشقلبنا	اِتْشَقْلِب+(نُلل)+نا	PV_PASS+PVSUFF_SUBJ:3MS+PVSUFF_DO:1P
+بردو	بَرْضُه	ADV
+مش	مِش	NEG_PART
+هيفهمونا	حَ+يُ+فْهِم+ُو+نا	FUT_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ+IVSUFF_DO:1P
+SENTENCE-BREAK
+	
+النور	ال+نُور	DET+NOUN_PROP
+قطع	قَطْع	NOUN
+النهارده	ال+نَهارْدَه	DET+NOUN
+اكتر	أَكْتَر	NOUN_QUANT
+ما	ما	SUB_CONJ
+جه	جا+(نُلل)	PV+PVSUFF_SUBJ:3MS
+ده	دَه	DEM_PRON_MS
+ولسا	وَ+لِسّ+َة	CONJ+ADV+NSUFF_FEM_SG
+التكيفات	ال+تَكَيُّف+ات	DET+NOUN+NSUFF_FEM_PL
+مشتغلتش	***adj_comp
+وبكره	وِ+بُكْرَه	PREP+NOUN
+تشوفوا	تِ+شُوف+ُوا	IV2P+IV+IVSUFF_SUBJ:P
+مصر	مِصْر	NOUN_PROP
+:	:	PUNC
+(	(	PUNC
+#	#	PUNC
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+ـ	ـ	PUNC
+نور	نُور	NOUN_PROP
+SENTENCE-BREAK
+	
+الحل	ال+حَلّ	DET+NOUN
+الوحيد	ال+وَحِيد	DET+ADJ
+عشان	عَ+شَأْن	PREP+NOUN
+تعرف	تِ+عْرَف	IV2MS+IV
+اللى	اللِّي	REL_PRON
+جاى	جايّ	ADJ
+عليك	عَلَى+َك	PREP+PRON_2MS
+من	مِن	PREP
+بعيد	بِعِيد	NOUN
+ده	دَه	DEM_PRON_MS
+ولد	وَلَد	NOUN
+ولا	وَ+لا	CONJ+NEG_PART
+بنت	بِنْت	NOUN
+!	!	PUNC
+تركز	تِ+رَكِّز	IV2FS+IV
+معاه	مَعَ+ُه	NOUN+POSS_PRON_3MS
+لو	لَو	SUB_CONJ
+جاى	جايّ	ADJ
+عليك	عَلَى+َك	PREP+PRON_2MS
+يبقى	يِ+بْقَى	IV3MS+IV
+ولد	وَلَد	NOUN
+.	.	PUNC
+.	.	PUNC
+ولو	وَ+لَو	CONJ+SUB_CONJ
+جايه	جايّ+َة	ADJ+NSUFF_FEM_SG
+تبقى	تِ+بْقَى	IV3FS+IV
+بنت	بِنْت	NOUN
+SENTENCE-BREAK
+	
+رسالة	رِسال+َة	NOUN+NSUFF_FEM_SG
+المكان	ال+مَكان	DET+NOUN
+الوحيد	ال+وَحِيد	DET+ADJ
+اللى	اللِّي	REL_PRON
+بتتعب	بِ+تِ+تْعِب	PROG_PART+IV3FS+IV
+فيه	فِي+ُه	PREP+PRON_3MS
+وأنت	وِ+اِنْتَ	CONJ+PRON_2MS
+مبسوط	مَبْسُوط	ADJ
+^	^	PUNC
+ـ	ـ	PUNC
+@@LAT@@*	***adj_comp
+خليك	خَلَى+(نُلل)+َك	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:2MS
+دايما	دايْم+اً	NOUN+CASE_INDEF_ACC
+صاحب	صاحِب	NOUN
+بسمة	بَسْم+َة	NOUN+NSUFF_FEM_SG
+لكل	لِ+كُلّ	PREP+NOUN_QUANT
+الى	اللِّي	REL_PRON
+حواليك	حَوالِي+َك	NOUN_QUANT+POSS_PRON_2MS
+:	:	PUNC
+)	)	PUNC
+ساعد	ساعِد+(نُلل)	CV+CVSUFF_SUBJ:2MS
+غيرك	غَيْر+كَ	NOUN+POSS_PRON_2MS
+واوعى	وَ+اُوعَى+(نُلل)	CONJ+CV+CVSUFF_SUBJ:2MS
+فى	فِي	PREP
+يوم	يَوم	NOUN
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+@@LAT@@http://t.co/aPCoIxREyh	***adj_comp
+SENTENCE-BREAK
+	
+النور	ال+نُور	DET+NOUN_PROP
+بيقطع	بِ+يِ+قَطَّع	PROG_PART+IV3MS+IV
+مره	مَرّ+َة	NOUN+NSUFF_FEM_SG
+الصبح	ال+صُبْح	DET+NOUN
+و	وَ	CONJ
+مره	مَرّ+َة	NOUN+NSUFF_FEM_SG
+بالليل	بِ+ال+لَيل	PREP+DET+NOUN
+عشان	عَ+شَأْن	PREP+NOUN
+الي	اللِّي	REL_PRON
+مكنش	مَ+كُن+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+موجود	مَوجُود	ADJ
+في	فِي	PREP
+بيته	بِيت+ُه	NOUN+POSS_PRON_3MS
+الصبح	ال+صُبْح	DET+NOUN
+يحضر	يِ+حْضُر	IV3MS+IV
+الإعاده	ال+اِعاد+َة	DET+NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+فى	فِي	PREP
+كلام	كَلام	NOUN
+كده	كِدَه	NOUN
+بتسمعه	بِ+تُ+سَمِّع+هُ	PROG_PART+IV2MS+IV+IVSUFF_DO:3MS
+مبتعرفش	ما+بِ+تِ+عْرَف+ش	NEG_PART+PROG_PART+IV2MS+IV+NEG_PART
+تنساه	تِ+نْسا+ُه	IV2MS+IV+IVSUFF_DO:3MS
+بجد	بِ+جِدّ	PREP+NOUN
+بيفضل	بِ+يِ+فْضَل	PROG_PART+IV3MS+IV_PASS
+مأثر	مِأَثَّر	NOUN
+عليك	عَلَى+َك	PREP+PRON_2MS
+سلبيا	سَلْبِيّ+اً	ADJ+CASE_INDEF_ACC
+حتى	حَتَّى	PART
+لو	لَو	SUB_CONJ
+بعد	بَعْد	NOUN
+فتره	فَتْر+َة	NOUN+NSUFF_FEM_SG
+طويلة	طَوِيل+َة	ADJ+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+كلنا	كُلّ+نا	NOUN_QUANT+POSS_PRON_1P
+هنموت	حَ+نِ+مُوت	FUT_PART+IV1P+IV
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+بس	بَسّ	CONJ
+يا	يا	VOC_PART
+بخته	بَخْت+ُه	NOUN+POSS_PRON_3MS
+اللى	اللِّي	REL_PRON
+هيروح	حَ+يِ+رُوح	FUT_PART+IV3MS+IV
+لربنا	لِ+رَبّ+نا	PREP+NOUN+POSS_PRON_1P
+وربنا	وِ+رَبّ+نا	CONJ+NOUN+POSS_PRON_1P
+راضى	راضِي	ADJ
+عنه	عَن+هُ	PREP+PRON_3MS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+اللهم	اللّٰهُمَّ	NOUN
+لا	لا	NEG_PART
+تأخذنا	تِ+أْخُذ+نا	IV2MS+IV+IVSUFF_DO:1P
+إلا	إِلّا	RESTRIC_PART
+وأنت	وِ+اِنْتَ	CONJ+PRON_2MS
+راضى	راضِي	ADJ
+عنا	عَن+نا	PREP+PRON_1P
+.	.	PUNC
+SENTENCE-BREAK
+	
+هي	هِيَّ	PRON_3FS
+لميس	لَمِيس	ADJ
+الحديدي	ال+حَدِيدِيّ	DET+ADJ
+مش	مِش	NEG_PART
+هتجيب	حَ+تِ+جِيب	FUT_PART+IV3FS+IV
+مصر	مَصْر	NOUN_PROP
+وهي	وِ+هِيَّ	CONJ+PRON_3FS
+ضلمه	ضُلْم+َة	NOUN+NSUFF_FEM_SG
+وتولول	وَ+تُ+وَلْوِل	CONJ+IV3FS+IV
+زي	زَيّ	NOUN
+ماكانت	ما+كان+ِت	NEG_PART+PV+PVSUFF_SUBJ:3FS
+بتعمل	بِ+تِ+عْمِل	PROG_PART+IV3FS+IV
+ايام	اِيّام	NOUN
+مرسي	مِرَسِّي	NOUN
+?	?	PUNC
+!	!	PUNC
+!	!	PUNC
+SENTENCE-BREAK
+	
+مفيش	ما+فَيِّش+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+اوسخ	أَوسَخ	ADJ_COMP
+من	مِن	PREP
+إنك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+تكرهه	تِ+كْرَه+ُه	IV2MS+IV+IVSUFF_DO:3MS
+تصرف	تِ+صْرِف	IV2MS+IV
+معين	مُعَيَّن	ADJ
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+تبقى	تِ+بْقَى	IV3FS+IV
+بتعمل	بِ+تِ+عْمِل	PROG_PART+IV3FS+IV
+نفس	نَفْس	NOUN
+التصرف	ال+تَصَرُّف	DET+NOUN
+ده	دَه	DEM_PRON_MS
+مع	مَعَ	NOUN
+كل	كُلّ	NOUN_QUANT
+الناس	ال+ناس	DET+NOUN
+و	وَ	CONJ
+مش	مِش	NEG_PART
+عايز	عايِز	ADJ
+حد	حَدّ	NOUN
+يكرهك	يِ+كْرَه+َك	IV3MS+IV+IVSUFF_DO:2MS
+.	.	PUNC
+SENTENCE-BREAK
+	
+وهيفضل	وِ+حَ+يِ+فْضَل	CONJ+FUT_PART+IV3MS+IV
+الواحد	ال+واحِد	DET+NOUN
+ف	فَ	CONJ
+حاله	حال+ُه	NOUN+POSS_PRON_3MS
+توهان	تَوَهان	NOUN
+.	.	PUNC
+.	.	PUNC
+من	مِن	PREP
+كتر	كُثْر	NOUN
+تفكير	تَفْكِير	NOUN
+هو	هُوَّ	PRON_3MS
+اصلا	أَصْلاً	NOUN
+عارف	عارِف	ADJ
+نهايته	نِهاي+َة+ُه	NOUN+NSUFF_FEM_SG+POSS_PRON_3MS
+بس	بَسّ	CONJ
+عمال	عَمّال	ADJ
+يلعب	يِ+لْعَب	IV3MS+IV
+ف	فَ	CONJ
+التوقيت	ال+تَوْقِيت	DET+NOUN
+على	عَلَى	PREP
+الفاضى	ال+فاضِي	DET+ADJ
+:	:	PUNC
+/		//PUNC
+/		//PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@NorhanSolimanAs	***adj_comp
+تصوير	تَصْوِير	NOUN
+الفيلم	ال+فِيلم	DET+NOUN
+كان	كان	PV
+متعب	مُتْعِب	ADJ
+موت	مَوْت	NOUN
+مش	مِش	NEG_PART
+قادرة	قادْر+َة	ADJ+NSUFF_FEM_SG
+اوصفلكوا	***adj_comp
+يا	يا	VOC_PART
+جماعة	جَماع+َة	NOUN+NSUFF_FEM_SG
+@@LAT@@:D	***adj_comp
+ناس	ناس	NOUN
+عايشة	عايْش+َة	ADJ+NSUFF_FEM_SG
+في	فِي	PREP
+ماية	ماي+َة	NOUN+NSUFF_FEM_SG
+المخلل	ال+مُخَلَّل	DET+ADJ
+بمعني	بِ+مَعْنَى	PREP+NOUN
+الكلمة	ال+كِلْم+َة	DET+NOUN+NSUFF_FEM_SG
+يعني	يَ+عْنِي	IV3MS+IV
+@@LAT@@:D	***adj_comp
+SENTENCE-BREAK
+	
+و	وَ	CONJ
+الحاجات	ال+حاج+ات	DET+NOUN+NSUFF_FEM_PL
+اللي	اللِّي	REL_PRON
+خسرتها	خَسِر+تِ+ها	PV+PVSUFF_SUBJ:2FS+PVSUFF_DO:3FS
+للأبد	لِ+ال+أَبَد	PREP+DET+NOUN
+لمجرد	لِ+مُجَرَّد	PREP+NOUN
+إن	إِنّ	SUB_CONJ
+فيه	فِي+ُه	PREP+PRON_3MS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+جواك	جُوّا+َك	NOUN+POSS_PRON_2MS
+بتمنعك	بِ+تِ+مْنَع+َك	PROG_PART+IV3FS+IV+IVSUFF_DO:2MS
+ترجع	تِ+رْجَع	IV3FS+IV
+تاخد	ت+اخُذ	IV3FS+IV
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+سيبتها	سَيَّب+تِ+ها	PV+PVSUFF_SUBJ:2FS+PVSUFF_DO:3FS
+قبل	قَبْل	NOUN
+كده	كِدَه	NOUN
+SENTENCE-BREAK
+	
+عارف	عارِف	ADJ
+الناس	ال+ناس	DET+NOUN
+الكل	ال+كُلّ	DET+NOUN
+ما	ما	NEG_PART
+الكلام	ال+كَلام	DET+NOUN
+يخلص	يِ+خْلَص	IV3MS+IV
+يفتحوا	يِ+فْتَح+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+موضوع	مَوْضُوع	NOUN
+تانى	تانِي	ADJ
+عشان	عَ+شان	PREP+NOUN
+عايزين	عايْز+ِين	ADJ+NSUFF_MASC_PL
+يتكلموا	يِ+تْكَلِّم+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+معاك	مَعا+َك	NOUN+POSS_PRON_2MS
+?	?	PUNC
+بحبهم	بِ+حَبّ+هُم	PREP+NOUN+POSS_PRON_3MP
+.	.	PUNC
+SENTENCE-BREAK
+	
+اكبر	أَكْبَر	ADJ_COMP
+ميزة	مِيز+َة	NOUN+NSUFF_FEM_SG
+ف	فَ	CONJ
+تجربة	تَجْرُب+َة	NOUN+NSUFF_FEM_SG
+الحب	ال+حُبّ	DET+NOUN
+الفاشلة	ال+فاشِل+َة	DET+ADJ+NSUFF_FEM_SG
+انها	إِنّ+ها	SUB_CONJ+PRON_3FS
+بتعرفك	بِ+تَ+عْرِف+كِ	PROG_PART+IV3FS+IV+IVSUFF_DO:2FS
+اخطائك	أَخْطائ+َك	NOUN+POSS_PRON_2MS
+عشان	عَ+شَأْن	PREP+NOUN
+متقعش	مَ+تُ+قَع+ش	NEG_PART+IV3FS+IV+NEG_PART
+فيها	فِي+ها	PREP+PRON_3FS
+تاني	تانِي	ADJ
+SENTENCE-BREAK
+	
+#	#	PUNC
+هننضف	حَ+نُ+نَظِّف	FUT_PART+IV1P+IV
+ـ	ـ	PUNC
+لو	لَو	SUB_CONJ
+كل	كُلّ	NOUN_QUANT
+واحد	واحِد	NOUN
+عمل	عَمَل+(نُلل)	PV+PVSUFF_SUBJ:3MS
+خير	خَيْر	NOUN
+فى	فِي	PREP
+البلد	ال+بَلَد	DET+NOUN
+علشان	***noun
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+مش	مِش	NEG_PART
+علشان	***noun
+حد	حَدّ	NOUN
+!	!	PUNC
+:	:	PUNC
+)	)	PUNC
+SENTENCE-BREAK
+	
+هو	هُوَّ	PRON_3MS
+:	:	PUNC
+انا	أَنا	PRON_1S
+خايف	خايِف	ADJ
+عليكي	عَلَى+ِك	PREP+PRON_2MS
+.	.	PUNC
+.	.	PUNC
+هي	هِيَّ	PRON_3FS
+:	:	PUNC
+مش	مِش	NEG_PART
+فاهمة	فاهْم+َة	ADJ+NSUFF_FEM_SG
+يعني	يَ+عْنِي	IV3MS+IV
+ايه	إِيه	NOUN
+?	?	PUNC
+!	!	PUNC
+هو	هُوَّ	PRON_3MS
+:	:	PUNC
+مش	مِش	NEG_PART
+عارف	عارِف	ADJ
+الصراحة	ال+صَراح+َة	DET+NOUN+NSUFF_FEM_SG
+انا	أَنا	PRON_1S
+حافظها	حافِظ+ها	NOUN+POSS_PRON_3FS
+كدا	كِد+َة	NOUN+NSUFF_FEM_SG
+!	!	PUNC
+بس	بَسّ	CONJ
+بيقولوا	بِ+يِ+قُول+ُوا	PROG_PART+IV3P+IV+IVSUFF_SUBJ:P
+كدا	كِد+َة	NOUN+NSUFF_FEM_SG
+لما	لَمّا	SUB_CONJ
+بيخلعوا	بِ+يَ+خْلَع+ُوا	PROG_PART+IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:SJ
+!	!	PUNC
+SENTENCE-BREAK
+	
+مش	مِش	NEG_PART
+مهم	مُهِمّ	ADJ
+تعرف	تِ+عْرَف	IV2MS+IV
+كام	كام	NOUN_QUANT
+واحد	واحِد	NOUN
+بيحبك	بِ+يِ+حِبّ+ِك	PROG_PART+IV3MS+IV+IVSUFF_DO:2FS
+,	,	PUNC
+,	,	PUNC
+المهم	ال+مُهِمّ	DET+ADJ
+تعرف	تِ+عْرَف	IV2MS+IV
+كام	كام	NOUN_QUANT
+واحد	واحِد	NOUN
+بيكرهك	بِ+يِ+كَرَ+َك	PROG_PART+IV3MS+IV+IVSUFF_DO:2MS
+عشان	عَ+شَأْن	PREP+NOUN
+تعرف	تِ+عْرَف	IV2MS+IV
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+ماشى	ماشِي	ADJ
+فى	فِي	PREP
+الطريق	ال+طَرِيق	DET+NOUN
+الصح	ال+صَحّ	DET+ADJ
+ولا	وَلّا	CONJ
+لأ	لا	INTERJ
+.	.	PUNC
+@@LAT@@~	***noun
+SENTENCE-BREAK
+	
+@@LAT@@@gihanwaly	***adj_comp
+خليهم	خَلِّي+(نُلل)+هُم	CV+CVSUFF_SUBJ:2MS+CVSUFF_DO:3P
+يشربوا	يِ+شْرَب+ُوا	IV3P+IV+IVSUFF_SUBJ:P
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+القرف	ال+قَرَف	DET+NOUN
+اللى	اللِّي	REL_PRON
+احنا	اِحْنا	PRON_1P
+عايشين	عايْش+ِين	ADJ+NSUFF_MASC_PL
+فيه	فِي+ُه	PREP+PRON_3MS
+كل	كُلّ	NOUN_QUANT
+ساعة	ساع+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+جمال	جَمال	NOUN_PROP
+الشكل	ال+شَكْل	DET+NOUN
+دى	دِي	DEM_PRON_FS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+عند	عِنْد	NOUN
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+لكن	لَكِن	CONJ
+جمال	جَمال	NOUN_PROP
+الشخصية	ال+شَخْصِيّ+َة	DET+ADJ+NSUFF_FEM_SG
+دى	دِي	DEM_PRON_FS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+انت	اِنْتَ	PRON_2MS
+الى	اللِّي	REL_PRON
+بتعملها	بِ+تِ+عْمِل+ها	PROG_PART+IV2MS+IV+IVSUFF_DO:3FS
+.	.	PUNC
+SENTENCE-BREAK
+	
+فكرت	فَكَّر+تِ	PV+PVSUFF_SUBJ:2FS
+قبل	قَبْل	NOUN
+كده	كِدَه	NOUN
+ليه	لَيه	INTERROG_ADV
+الدهب	ال+دَهَب	DET+NOUN
+غالى	غالِي	ADJ
+?	?	PUNC
+عشان	عَ+شَأْن	PREP+NOUN
+موجود	مَوجُود	ADJ
+قليل	قَلِيل	ADJ
+,	,	PUNC
+كان	كان	PV
+ممكن	مُمْكِن	ADJ
+الحديد	ال+حَدِيد	DET+ADJ
+يبقى	يِ+بْقَى	IV3MS+IV
+معدن	مِعَدِّن	NOUN
+ثمين	ثَمِين	ADJ
+والدهب	وِ+ال+دَهَب	CONJ+DET+NOUN
+يتعمل	يِ+تْعِمِل	IV3MS+IV_PASS
+منه	مِنّ+ُه	PREP+PRON_3MS
+مسامير	مَسامِير	NOUN
+.	.	PUNC
+الأقلية	ال+أَقَلِّيّ+َة	DET+NOUN+NSUFF_FEM_SG
+مش	مِش	NEG_PART
+دايما	دايْم+اً	ADJ+CASE_INDEF_ACC
+وحشة	وِحْش+َة	ADJ+NSUFF_FEM_SG
+.	.	PUNC
+SENTENCE-BREAK
+	
+يا	يا	VOC_PART
+طنط	طَنْط	NOUN
+أرجوكي	اَ+رْجُو+ِك	IV1S+IV+IVSUFF_DO:2FS
+كفاية	كِفاي+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+مش	مِش	NEG_PART
+كل	كُلّ	NOUN_QUANT
+ما	ما	SUB_CONJ
+أطلع	اَ+طْلَع	IV1S+IV
+أقعد	أُقْعُد+(نُلل)	CV+CVSUFF_SUBJ:2MS
+في	فِي	PREP
+المترو	ال+مِتْرُو	DET+NOUN
+تيجي	تِ+يْجِي	IV3FS+IV
+تقفي	تُ+قْفَى	IV3FS+IV_PASS
+أدامي	أُدّام+ِي	NOUN+POSS_PRON_1S
+أنا	أَنا	PRON_1S
+بالذات	بِ+ال+ذات	PREP+DET+NOUN
+وتعملي	وِ+تِ+عْمِل+نِي	CONJ+IV3FS+IV+IVSUFF_DO:1S
+تعبانة	تَعْبان+َة	ADJ+NSUFF_FEM_SG
+!	!	PUNC
+إتعبي	اَ+تْعَب+نِي	IV1S+IV+IVSUFF_DO:1S
+في	فِي	PREP
+عربيتكوا	عَرَبِي+َة+كُو	NOUN+NSUFF_FEM_SG+POSS_PRON_2P
+رجاءا	***adj_comp
+عشان	عَ+شَأْن	PREP+NOUN
+أنا	أَنا	PRON_1S
+كمان	كَمان	ADV
+تعبان	تَعْبان	NOUN
+SENTENCE-BREAK
+	
+ما	ما	FOCUS_PART
+اللى	اللِّي	REL_PRON
+يترشح	يِ+تْرَشَّح	IV3MS+IV
+يترشح	يِ+تْرَشَّح	IV3MS+IV
+.	.	PUNC
+.	.	PUNC
+مش	مِش	NEG_PART
+فهماك	فَ+هَمّ+َك	CONJ+NOUN+POSS_PRON_2MS
+ياللى	***noun_prop
+بيتحرق	بِ+يَ+تَحَرَّق	PROG_PART+IV3MS+IV
+دمك	دَمّ+ِك	NOUN+POSS_PRON_2FS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+إنزل	اَ+نْزِل	IV1S+IV
+انتخب	اِنْتَخَب+(نُلل)	PV+PVSUFF_SUBJ:3MS
+اللى	اللِّي	REL_PRON
+على	عَلَى	PREP
+مزاجك	مَزاج+َك	NOUN+POSS_PRON_2MS
+.	.	PUNC
+.	.	PUNC
+مش	مِش	NEG_PART
+ديموقراطية	دِيمُوقراطِيّ+َة	ADJ+NSUFF_FEM_SG
+وحرية	وِ+حُرِّيّ+َة	PREP+NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+وإلا	وَ+إِلّا	CONJ+PREP
+اللطم	ال+لَطْم	DET+NOUN
+إسلوب	أُسْلُوب	NOUN
+حياة	حَيا+َة	NOUN+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+و	وِ	CONJ
+انا	أَنا	PRON_1S
+صغيرة	صُغَيَّر+َة	ADJ+NSUFF_FEM_SG
+ماكنتش	ما+كُن+ت+ش	NEG_PART+PV+PVSUFF_SUBJ:1S+NEG_PART
+بتفرج	بِ+اَ+تْفَرَّج	PROG_PART+IV1S+IV
+علي	عَلَى	PREP
+ميكي	***verb
+والكلام	وِ+ال+كَلام	CONJ+DET+NOUN
+دا	دَه	DEM_PRON_MS
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+بقرا	بِ+اَ+قْرا	PROG_PART+IV1S+IV
+قسم	قِسْم	NOUN
+الحوادث	ال+حَوادِث	DET+NOUN
+في	فِي	PREP
+الجرنال	ال+جُرْنال	DET+NOUN
+و	وَ	CONJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+استني	اِسْتَنَّى+(نُلل)	CV+CVSUFF_SUBJ:2MS
+جرنال	جُرْنال	NOUN
+الحوادث	ال+حَوادِث	DET+NOUN
+الي	اللِّي	REL_PRON
+كان	كان	PV
+بينزل	بِ+يِ+نْزِل	PROG_PART+IV3MS+IV
+كل	كُلّ	NOUN_QUANT
+يوم	يَوم	NOUN
+السبت	ال+سَبْت	DET+NOUN
+واقراه	وِ+اَ+قْرا+ُه	CONJ+IV1S+IV+IVSUFF_DO:3MS
+كله	كُلّ+ُه	NOUN_QUANT+POSS_PRON_3MS
+SENTENCE-BREAK
+	
+الواحد	ال+واحِد	DET+NOUN
+بيغلط	بِ+يِ+غْلَط	PROG_PART+IV3MS+IV
+لما	لَمّا	SUB_CONJ
+بيعامل	بِ+يُ+عامِل	PROG_PART+IV3MS+IV
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+عيال	عِيال	NOUN
+بالنسبه	بِ+ال+نِسْب+َة	PREP+DET+NOUN+NSUFF_FEM_SG
+له	لَ+هُ	PREP+PRON_3MS
+اطفال	أَطْفال	NOUN
+على	عَلَى	PREP
+انهم	إِنَّ+هُم	PSEUDO_VERB+PRON_3MP
+اخواته	اِخْوَ+ات+ُه	NOUN+NSUFF_FEM_PL+POSS_PRON_3MS
+الصغيريين	***adj_comp
+,	,	PUNC
+ساعتها	ساع+َة+ها	NOUN+NSUFF_FEM_SG+POSS_PRON_3FS
+بيسوقو	بِ+يُ+سَوِّق+هُ	PROG_PART+IV3MS+IV+IVSUFF_DO:3MS
+فيها	فِي+ها	PREP+PRON_3FS
+اوى	أَوِي	NOUN
+ولازم	وِ+لازِم	PREP+ADJ
+تديهم	تِ+دِّي+هُم	IV3FS+IV+IVSUFF_DO:3P
+على	عَلَى	PREP
+دماغهم	دِماغ+هُم	NOUN+POSS_PRON_3P
+SENTENCE-BREAK
+	
+@@LAT@@@KenzyBoosycat	***adj_comp
+انا	أَنا	PRON_1S
+بدأت	بَدَأ+ِت	PV+PVSUFF_SUBJ:3FS
+اتوغوش	اِتْوَغْوِش+(نُلل)	PV_PASS+PVSUFF_SUBJ:3MS
+ع	عَ	PREP
+فكره	فِكْر+َة	NOUN+NSUFF_FEM_SG
+;	;	PUNC
+)	)	PUNC
+كنتي	كُن+تِي	PV+PVSUFF_SUBJ:2FS
+كويسه	كُوَيِّس+َة	ADJ+NSUFF_FEM_SG
+ايه	أَيَّة	INTERROG_PRON
+اللي	اللِّي	REL_PRON
+حصل	حَصَل	PV
+!	!	PUNC
+!	!	PUNC
+اعترفي	***adj_comp
+SENTENCE-BREAK
+	
+لو	لَو	SUB_CONJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:2MS
+استنيت	اِسْتَنِّي+ت	PV+PVSUFF_SUBJ:2MS
+وبصيت	وِ+بِ+صِيت	CONJ+PREP+NOUN
+في	فِي	PREP
+عينه	عِين+ُه	NOUN+POSS_PRON_3MS
+اخر	آخِر	ADJ
+مرة	مَرّ+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+جايز	جايِز	ADJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+فهمت	فِهِم+ت	PV+PVSUFF_SUBJ:1S
+انه	إِنّ+ُه	SUB_CONJ+PRON_3MS
+زعلان	زَعْلان	ADJ
+زيك	زَيّ+َك	NOUN+POSS_PRON_2MS
+بالظبط	بِ+ال+ظَبْط	PREP+DET+NOUN
+ويمكن	وِ+يِ+مْكِن	CONJ+IV3MS+IV
+اكتر	أَكْتَر	NOUN_QUANT
+.	.	PUNC
+.	.	PUNC
+جايز	جايِز	ADJ
+كنت	كُن+ت	PV+PVSUFF_SUBJ:1S
+فهمت	فِهِم+ت	PV+PVSUFF_SUBJ:1S
+ان	إِنّ	SUB_CONJ
+انتوا	اِنْتُو	PRON_2P
+اللي	اللِّي	REL_PRON
+اتنين	اِثْنَين	NOUN_NUM
+ضحايا	ضَحايا	NOUN
+القدر	ال+قَذِر	DET+ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+@@LAT@@@Marmar_TT	***adj_comp
+ه	ه	ABBREV
+اه	إِه	INTERJ
+بس	بَسّ	CONJ
+للاسف	لِ+ال+أَسَف	PREP+DET+NOUN
+نورك	نُور+كَ	NOUN+POSS_PRON_2MS
+فى	فِي	PREP
+الصيف	ال+صَيف	DET+NOUN
+مش	مِش	NEG_PART
+هيشغل	حَ+يِ+شَغَّل	FUT_PART+IV3MS+IV
+مروحه	ما+اَ+رُوح+ُه	NEG_PART+IV1S+IV+IVSUFF_DO:3MS
+ولا	وَ+لا	CONJ+NEG_PART
+تكيف	تَكَيُّف	NOUN
+ولا	وَ+لا	CONJ+NEG_PART
+تلاجه	ثَلّاج+َة	NOUN+NSUFF_FEM_SG
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+استعدى	اِسْتَعَدّ+(نُلل)+نِي	PV+PVSUFF_SUBJ:3MS+PVSUFF_DO:1S
+لصيف	لِ+صَيف	PREP+NOUN
+ساخن	ساخِن	ADJ
+SENTENCE-BREAK
+	
+حبايبي	حَبايْب+ِي	NOUN+POSS_PRON_1S
+اسيبكم	اَ+سِيب+كُم	IV1S+IV+IVSUFF_DO:2P
+دلوقتي	دِلْوَقْتِي	ADV
+لأني	لِأَنّ+ِي	SUB_CONJ+PRON_1S
+صاحية	صاحِي+َة	NOUN+NSUFF_FEM_SG
+من	مِن	PREP
+بدري	بَدْرِي	ADV
+و	وِ	CONJ
+كان	كان	PV
+ورايا	وَ+رَأْي+ّا	CONJ+NOUN+POSS_PRON_1P
+حاجات	حاج+ات	NOUN+NSUFF_FEM_PL
+كتير	كِتِير	NOUN
+نتكلم	نِ+تْكَلِّم	IV1P+IV
+بكرة	بُكْر+َة	NOUN+NSUFF_FEM_SG
+إن	إِن	SUB_CONJ
+شاء	شاء+(نُلل)	PV+PVSUFF_SUBJ:3MS
+الله	اللَّه	NOUN_PROP
+بحبكم	بِ+حُبّ+كُم	PREP+NOUN+POSS_PRON_2P
+SENTENCE-BREAK
+	
+قبل	قَبْل	NOUN
+ما	ما	SUB_CONJ
+تفكر	تِ+فَكَّر	IV2FS+IV
+ترد	تِ+رُدّ	IV2FS+IV
+على	عَلَى	PREP
+حد	حَدّ	NOUN
+موجهلكش	ما+وَجِّه+(نُلل)+لِ+َك+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+PREP+PRON_2MS+NEG_PART
+كلام	كَلام	NOUN
+أو	أَو	CONJ
+مطلبش	ما+اَ+طْلُب+ش	NEG_PART+IV1S+IV+NEG_PART
+رأيك	رَأْي+َك	NOUN+POSS_PRON_2MS
+ألطش	أَ+لْطُش	IV1S+IV
+نفسك	نَفْس+َك	NOUN+POSS_PRON_2MS
+قلم	قَلَم	NOUN
+و	وَ	CONJ
+أنزل	اِنْزِل+(نُلل)	CV+CVSUFF_SUBJ:2MS
+أشترك	اِشْتَرِك+(نُلل)	CV+CVSUFF_SUBJ:2MS
+في	فِي	PREP
+@@LAT@@Gym	***adj_comp
+عشان	عَ+شَأْن	PREP+NOUN
+كده	كِدَه	NOUN
+معدل	مُعَدَّل	NOUN
+الفراغ	ال+فَراغ	DET+NOUN
+بقى	بَقَى	ADV
+خطر	خَطَر	NOUN
+أوي	أَوِي	ADJ
+.	.	PUNC
+SENTENCE-BREAK
+	
+و	وَ	CONJ
+مين	مِين	REL_PRON
+فينا	فِي+نا	PREP+PRON_1P
+مكنش	مَ+كُن+(نُلل)+ش	NEG_PART+PV+PVSUFF_SUBJ:3MS+NEG_PART
+مستني	مِسْتَنِّي	ADJ
+حد	حَدّ	NOUN
+يكلمو	ي+كَلِّم+ُه	IV3MS+IV+IVSUFF_DO:3MS
+و	وَ	CONJ
+هو	هُوَّ	PRON_3MS
+نايم	نايِم	ADJ
+و	وَ	CONJ
+كل	كُلّ	NOUN_QUANT
+شوية	شُوَيّ+َة	NOUN+NSUFF_FEM_SG
+يصحي	يِ+صْحَى	IV3MS+IV
+يبص	يِ+بُصّ	IV3MS+IV
+ف	فَ	CONJ
+الموبيل	ال+مُوبِيل	DET+ADJ
+بعين	بِ+عَيْن	PREP+NOUN_PROP
+واحدة	واحْد+َة	NOUN_NUM+NSUFF_FEM_SG
+SENTENCE-BREAK
+	
+وفي	وَ+فِي	CONJ+PREP
+لحظة	لَحْظ+َة	NOUN+NSUFF_FEM_SG
+كدة	كِدَة	NOUN
+و	وِ	CONJ
+انت	اِنْتَ	PRON_2MS
+قاعد	قاعِد	ADJ
+مع	مَعَ	NOUN
+ناس	ناس	NOUN
+بتضحك	بِ+تِ+ضْحَك	PROG_PART+IV3FS+IV
+تروح	تِ+رُوح	IV3FS+IV
+متنح	مَ+تَنَّح+(نُلل)	NEG_PART+PV+PVSUFF_SUBJ:3MS
+هي	هِيَّ	PRON_3FS
+دي	دِي	DEM_PRON_FS
+اللحظة	ال+لَحْظ+َة	DET+NOUN+NSUFF_FEM_SG
+اللي	اللِّي	REL_PRON
+بتكون	بِ+تِ+كُون	PROG_PART+IV3FS+IV
+افتكرت	ٱِفْتَكَر+تُ	PV+PVSUFF_SUBJ:1S
+فيها	فِي+ها	PREP+PRON_3FS
+حاجة	حاج+َة	NOUN+NSUFF_FEM_SG
+كانت	كان+ِت	PV+PVSUFF_SUBJ:3FS
+"	"	PUNC
+بتضحكك	بِ+تِ+ضْحِك+كِ	PROG_PART+IV3FS+IV+IVSUFF_DO:2FS
+"	"	PUNC
+كدة	كِدَه	NOUN
+زمان	زَمان	NOUN
+وراحت	وِ+راح+ِت	CONJ+PV+PVSUFF_SUBJ:3FS
+.	.	PUNC
+SENTENCE-BREAK
+	
+اللى	اللِّي	REL_PRON
+بيقول	بِ+يِ+قُول	PROG_PART+IV3MS+IV
+مش	مِش	NEG_PART
+هينتخب	حَ+يِ+نْتَخَب	FUT_PART+IV3MS+IV_PASS
+حمدين	حَمْدَيْن	NOUN_PROP
+عشان	عَ+شان	PREP+NOUN
+مش	مِش	NEG_PART
+هينجح	حَ+يُ+نَجِّح	FUT_PART+IV3MS+IV
+.	.	PUNC
+.	.	PUNC
+طب	طَب	INTERJ
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+ليه	لَيه	INTERROG_ADV
+عايش	عايِش	ADJ
+وانت	وِ+اِنْتَ	CONJ+PRON_2MS
+عارف	عارِف	ADJ
+انك	إِنّ+ِك	SUB_CONJ+PRON_2FS
+هتموت	حَ+تِ+مُوت	FUT_PART+IV2MS+IV
+SENTENCE-BREAK
+	
+مفروض	مَفْرُوض	ADJ
+ماتزعلش	ما+تِ+زَعَّل+ش	NEG_PART+IV3FS+IV+NEG_PART
+عشان	عَ+شَأْن	PREP+NOUN
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+حالها	حال+ها	NOUN+POSS_PRON_3FS
+اوحش	أَوحَش	ADJ_COMP
+من	مِن	PREP
+حالك	حال+َك	NOUN+POSS_PRON_2MS
+بكتير	بِ+كِثِير	PREP+ADJ
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+اشطا	***adj_comp
+خلاص	خَلاص	NOUN
+ماتفرحش	ما+تِ+فْرِح+ش	NEG_PART+IV2MS+IV+NEG_PART
+عشان	عَ+شَأْن	PREP+NOUN
+في	فِي+ُه	PREP+PRON_3MS
+ناس	ناس	NOUN
+حالها	حال+ها	NOUN+POSS_PRON_3FS
+احسن	أَحْسَن	ADJ_COMP
+من	مِن	PREP
+حالتك	حال+َة+َك	NOUN+NSUFF_FEM_SG+POSS_PRON_2MS
+بكتير	بِ+كِثِير	PREP+ADJ
+SENTENCE-BREAK
+	
+طب	طَب	INTERJ
+إدونا	أُذُون+اً	NOUN+CASE_INDEF_ACC
+فرصة	فُرْص+َة	NOUN+NSUFF_FEM_SG
+نحط	نُ+حُطّ	IV1P+IV
+فيشة	فِيش+َة	NOUN+NSUFF_FEM_SG
+الكشاف	ال+كَشّاف	DET+NOUN
+في	فِي	PREP
+الكهربا	ال+كَهْرَب+َة	DET+NOUN+NSUFF_FEM_SG
+عشان	عَ+شَأْن	PREP+NOUN
+يتشحن	يَ+تَّشِح+نَ	IV3FP+IV+IVSUFF_SUBJ:FP
+!	!	PUNC
+!	!	PUNC
+!	!	PUNC
+!	!	PUNC
+!	!	PUNC
+#	#	PUNC
+انا	أَنا	PRON_1S
+ـ	ـ	PUNC
+نفسي	نَفْس+ِي	NOUN+POSS_PRON_1S
+ـ	ـ	PUNC
+أعيش	اَ+عِيش	IV1S+IV
+!	!	PUNC
+SENTENCE-BREAK
+	
+لما	لَمّا	SUB_CONJ
+تزعل	تِ+زْعَل	IV2MS+IV
+من	مِن	PREP
+حد	حَدّ	NOUN
+قوله	قَول+ُه	NOUN+POSS_PRON_3MS
+ربنا	رَبّ+نا	NOUN+POSS_PRON_1P
+يسامحك	يِ+سامْح+ِك	IV3MS+IV+IVSUFF_DO:2FS
+:	:	PUNC
+)	)	PUNC
+أولا	أَوَّلاً	ADJ_NUM
+اللى	اللِّي	REL_PRON
+قدامك	قُدّام+َك	NOUN+POSS_PRON_2MS
+هيحس	حَ+يِ+حِسّ	FUT_PART+IV3MS+IV
+بالذنب	بِ+ال+ذَنْب	PREP+DET+NOUN
+بجد	بِ+جِدّ	PREP+NOUN
+من	مِن	PREP
+ناحيك	ناحِي+كَ	NOUN+POSS_PRON_2MS
+و	وَ	CONJ
+أنك	إِنّ+َك	SUB_CONJ+PRON_2MS
+دعتله	دَع+ِت+لِ+ُه	PV+PVSUFF_SUBJ:3FS+PREP+PRON_3MS
+و	وَ	CONJ
+مدعتش	***adj_comp
+عليه	عَلَى+ُه	PREP+PRON_3MS
+.	.	PUNC
+.	.	PUNC
+.	.	PUNC
+و	وَ	CONJ
+ثانيا	ثانِياً	ADJ_NUM
+هتاخد	حَ+ت+أْخُذ	FUT_PART+IV3FS+IV
+فيه	فِي+ُه	PREP+PRON_3MS
+ثواب	ثَواب	NOUN
+SENTENCE-BREAK
+	
