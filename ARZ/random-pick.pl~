@@ -1,0 +1,28 @@
+# split randomly
+
+open (TRAIN, ">train.lang.tok.train") or die;
+open (TEST, ">train.lang.tok.test") or die;
+
+srand();
+
+$tot = 350;
+$tr = 50;
+
+while (<STDIN>)
+{
+    $r = rand();
+    $t = $tr/$tot;
+    if ($r > $t)
+    {
+        print TRAIN;
+    }
+    else
+    {
+        print TEST;
+	$tr--;
+    }
+    $tot--;
+}
+
+close TEST;
+close TRAIN;

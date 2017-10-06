@@ -1,0 +1,7131 @@
+Word	POS
+ليه	ليه/PART
+لما	لما/PART
+تحب	تحب/V
+حد	حد/NOUN-MS
+من	من/PREP
+قلبك	قلب/NOUN-MS+ك/PRON
+يطلع	يطلع/V
+واطى	واطي/ADJ-MS
+ليه	ليه/PART
+لما	لما/PART
+تلعب على واحد	تلعب/V على/PREP واحد/NOUN-MS
+يطلع	يطلع/V
+بيحبك	ب/PROG-PART+يحب/V+ك/PRON
+ليه	ليه/PART
+اللى	اللي/PRON
+هيموت	ه/FUT-PART+يموت/V
+عليك	على/PREP+ك/PRON
+انت	إنت/PRON
+مش	مش/PART
+طايقه	طايق/ADJ-MS+ه/PRON
+واللى	و/CONJ+اللي/PRON
+هتموت	ه/FUT-PART+تموت/V
+عليه	على/PREP+ه/PRON
+مش	مش/PART
+طايقك	طايق/ADJ-MS+ك/PRON
+عجبت	عجب/V+ت/PRON
+لك	ل/PREP+ك/PRON
+يا	يا/PART
+زمن	زمن/NOUN-MS
+--------------------	-/PUNC
+عارف	عارف/ADJ-MS
+بيقولك ايه	ب/PROG-PART+يقول/V ل/PREP+ك/PRON إيه/PART
+"	"/PUNC
+إذا	إذا/PART
+أخطأت	أخطأ/V+ت/PRON
+فأحسن	ف/CONJ+أحسن/V
+"	"/PUNC
+..	./PUNC/.  PUNC
+يعني	يعني/V
+متعندش	ما/PART تعند/V+ش/NEG-PART
+..	./PUNC/.  PUNC
+و متسألش	و/CONJ+ما/PART تسأل/V+ش/NEG-PART
+مين	من/PART
+اللي	اللي/PRON
+بيقولك	ب/PROG-PART+يقول/V ل/PREP+ك/PRON
+.	./PUNC
+--------------------	-/PUNC
+الحمد	ال/DET+حمد/NOUN-MS
+لله	ل/PREP+الله/NOUN-MS
+يا	يا/PART
+جدعان	جدعان/NOUN-MP
+الفرسان	ال/DET+فرسان/NOUN-MP
+اللي	اللي/PRON
+اتمسكوا	اتمسك/V+وا/PRON
+عند	عند/NOUN-MS
+ستاد	ستاد/NOUN-MS
+القاهرة	ال/DET+قاهر/NOUN-FS+ة/NSUFF
+خدوا	خد/V+وا/PRON
+اخلاء	إخلاء/NOUN-MS
+سبيل	سبيل/NOUN-MS
+#	#/HASH
+ربنا	رب/NOUN-MS+نا/PRON
+_	_/PUNC
+كبير	كبير/ADJ-MS
+..	./PUNC/.  PUNC
+بقالنا	بقى/V ل/PREP+نا/PRON
+7	7/NUM
+سنين	سن/NOUN-FP+ين/NSUFF
+ظلم	ظلم/NOUN-MS
+و قهر	و/CONJ+قهر/NOUN-MS
+ده	ده/PRON
+يرضي	يرضي/V
+مين	مين/PART
+؟؟؟؟	؟/PUNC ؟/PUNC ؟/PUNC ؟/PUNC
+#	#/HASH
+الحمد	ال/DET+حمد/NOUN-MS
+_	_/PUNC
+لله	ل/PREP+الله/NOUN-MS
+--------------------	-/PUNC
+بحس	ب/PROG-PART+أحس/V
+بشخصيتي	ب/PREP+شخصي/NOUN-FS+ت/NSUFF+ي/PRON
+القوية	ال/DET+قوي/ADJ-FS+ة/NSUFF
+لما	لما/PART
+اقول	أقول/V
+لاخويا	ل/PREP+أخو/NOUN-MS+يا/PRON
+اعمل	اعمل/V
+حاجة	حاج/NOUN-FS+ة/NSUFF
+..	./PUNC ./PUNC
+و يعملها	و/CONJ+يعمل/V+ها/PRON
+..	./PUNC ./PUNC
+حتي	حتى/PART
+لو	لو/PART
+رخم	رخم/ADJ-MS
+و قال	و/CONJ+قال/V
+لأ	لا/PART
+..	./PUNC/.  PUNC
+بحس	ب/PROG-PART+أحس/V
+اني	إن/PART+ي/PRON
+شخصية	شخصي/NOUN-FS+ة/NSUFF
+كدا	كده/ADV
+و بتسمع	و/CONJ+ب/PROG-PART+تسمع/V
+كلامي	كلام/NOUN-MS+ي/PRON
+^_^	^_^/EMOT
+--------------------	-/PUNC
+@ahmedabodsheesh	@ahmedabodsheesh/MENTION
+يا	يا/PART
+باشا	باشا/NOUN-MS
+دي	دي/PRON
+مش	مش/PART
+محتاجه	محتاج/ADJ-FP+ة/NSUFF
+دراسه	دراس/NOUN-FS+ة/NSUFF
+دي	دي/PRON
+بتبقي	ب/PROG-PART+تبقى/V
+موهبه	موهب/NOUN-FS+ة/NSUFF
+عندك	عند/NOUN-MS+ك/PRON
+مثلا	مثلا/ADV
+عيلاء	عيلاء/NOUN-MS
+صادق	صادق/NOUN-MS
+و صفوت	و/CONJ+صفوت/NOUN-MS
+حجازي	حجازي/NOUN-MS
+دول	دول/PRON
+تفوقوا	تفوق/V+وا/PRON
+علي	على/PREP
+استاذهم	أستاذ/NOUN-MS+هم/PRON
+صفوت	صفوت/NOUN-MS
+الشريف	ال/DET+شريف/NOUN-MS
+كبيرهم	كبير/ADJ-MS+هم/PRON
+--------------------	-/PUNC
+و هو في	و/CONJ+هو/PRON في/PREP+ه/PRON
+محامين	محام/NOUN-MP+ين/NSUFF
+هيعبّرونا	ه/FUT-PART+يعبر/V+وا/PRON+نا/PRON
+بعد	بعد/NOUN-MS
+اعتقال	اعتقال/NOUN-MS
+وتهديد	و/CONJ+تهديد/NOUN-MS
+المحامين	ال/DET+محام/NOUN-MP+ين/NSUFF
+اللي	اللي/PRON
+بيدافعوا	ب/PROG-PART+يدافع/V+وا/PRON
+عن	عن/PREP
+المظلومين	ال/DET+مظلوم/NOUN-MP+ين/NSUFF
+؟؟؟	؟/PUNC ؟/PUNC ؟/PUNC
+ده غير	ده/PRON غير/NOUN-MS
+المحامي	ال/DET+محامي/NOUN-MS
+اللي	اللي/PRON
+قتلوا	قتل/V+وا/PRON
+والدته	والد/NOUN-FS+ة/NSUFF+ه/PRON
+!	!/PUNC
+@mohamedwaked@ANohan	@mohamedwaked@ANohan/MENTION
+--------------------	-/PUNC
+معظم	معظم/NOUN-MS
+الحاجات	ال/DET+حاج/NOUN-FP+ات/NSUFF
+اللى	اللي/PRON
+مبنقدرش	ما/PART ب/PROG-PART+نقدر/V+ش/NEG-PART
+نحكيها	نحكي/V+ها/PRON
+بنيجى	ب/PROG-PART+نيجي/V
+نكتبها	نكتب/V+ها/PRON
+هنا	هنا/ADV
+على	على/PREP
+الأقل	ال/DET+أقل/ADJ-MS
+بتخفف	ب/PROG-PART+تخفف/V
+عنا	عن/PREP+نا/PRON
+شوية	شوي/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+احنا	إحنا/PRON
+بنزعل	ب/PROG-PART+نزعل/V
+لما	لما/PART
+ربنا	رب/NOUN-MS+نا/PRON
+يبتلينا	يبتلي/V+نا/PRON
+أو	أو/CONJ
+تحصلنا	تحصل/V ل/PREP+نا/PRON
+حاجه وحشه	حاج/NOUN-FS+ة/NSUFF وحش/NOUN-FS+ة/NSUFF
+!	!/PUNC
+مع	مع/PART
+ان	إن/PART
+ربنا	رب/NOUN-MS+نا/PRON
+إذا	إذا/PART
+حب	حب/V
+عبد	عبد/NOUN-MS
+ابتلاه	ابتلى/V+ه/PRON
+لتكفير	ل/PREP+تكفير/NOUN-MS
+عن	عن/PREP
+ذنوبه	ذنوب/NOUN-FP+ه/PRON
+-	-/PUNC
+يعني	يعني/V
+خاف	خاف/V
+لو	لو/PART
+ربنا	رب/NOUN-MS+نا/PRON
+مش	مش/PART
+ابتلاك	ابتلى/V+ك/PRON
+.	./PUNC
+--------------------	-/PUNC
+(	(/PUNC
+6	6/NUM
+)	)/PUNC
+مش	مش/PART
+عارف	عارف/ADJ-MS
+ليه	ليه/PART
+بس	بس/ADV
+الكلمة	ال/DET+كلم/NOUN-FS+ة/NSUFF
+اللى	اللي/PRON
+عمرك	عمر/NOUN-MS+ك/PRON
+ما	ما/PART
+هتندم	ه/FUT-PART+تندم/V
+عليها	على/PREP+ها/PRON
+الكلمة	ال/DET+كلم/NOUN-FS+ة/NSUFF
+اللى	اللي/PRON
+أنت	أنت/PRON
+لسة	لسة/ADV
+مقولتهاش	ما/PART قل/V+ت/PRON+ها/PRON+ش/NEG-PART
+...	./PUNC ./PUNC ./PUNC
+بس للأسف	بس/PART ل/PREP+ال/DET+أسف/NOUN-MS
+لازم	لازم/ADJ-MS
+يجى	ييجي/V
+عليك	على/PREP+ك/PRON
+وقت	وقت/NOUN-MS
+و تقولها	و/CONJ+تقول/V+ها/PRON
+--------------------	-/PUNC
+اضحك	اضحك/V
+وبلاش	و/CONJ+بلاش/PART
+التكشيرة	ال/DET+تكشير/NOUN-FS+ة/NSUFF
+تنسيك	تنسي/V+ك/PRON
+شكل	شكل/NOUN-MS
+الضحكة	ال/DET+ضحك/NOUN-FS+ة/NSUFF
+وشك	وش/NOUN-MS+ك/PRON
+هيكرمش	ه/FUT-PART+يكرمش/V
+عالفاضى	ع/PREP ال/DET+فاضي/NOUN-MS
+وهتعجز	و/CONJ+ه/FUT-PART+تعجز/V
+بدرى	بدري/NOUN-MS
+خليك	خل/V+ي/PRON+ك/PRON
+ناصح	ناصح/ADJ-MS
+وارمى	و/CONJ+ارم/V+ي/PRON
+همومك	هموم/NOUN-FP+ك/PRON
+ورا	ورا/NOUN-MS
+ضهرك	ضهر/NOUN-MS+ك/PRON
+وافرح	و/CONJ+افرح/V
+دى الايام	دي/PRON ال/DET+أيام/NOUN-FP
+بتفوت	ب/PROG-PART+تفوت/V
+وتعدى	و/CONJ+تعدي/V
+والعمر	و/CONJ+ال/DET+عمر/NOUN-MS
+بيجرى	ب/PROG-PART+يجري/V
+--------------------	-/PUNC
+مش	مش/PART
+معنى	معنى/NOUN-MS
+ان	إن/PART
+حد	حد/NOUN-MS
+بيضحك	ب/PROG-PART+يضحك/V
+كتير	كتير/ADV
+يبقى	يبقى/V
+سعيد	سعيد/ADJ-MS
+يمكن	يمكن/V
+بيضحك	ب/PROG-PART+يضحك/V
+كتير	كتير/ADV
+من	من/PREP
+همه	هم/NOUN-MS+ه/PRON
+الكبير	ال/DET+كبير/ADJ-MS
+بيضحك	ب/PROG-PART+يضحك/V
+عشان	علشان/PART
+يبعد	يبعد/V
+عن	عن/PREP
+حزنه	حزن/NOUN-MS+ه/PRON
+ويعمل نفسه	و/CONJ+يعمل/V نفس/NOUN-FS+ه/PRON
+ناسيه	ناسي/ADJ-MS+ه/PRON
+--------------------	-/PUNC
+الاول	ال/DET+الأول/ADJ-MS
+كنا	كن/V+نا/PRON
+بعد ماحد	بعد/NOUN-MS ما/PART حد/NOUN-MS
+ياخد	يأخد/V
+اخلاء	إخلاء/NOUN-MS
+سبيل	سبيل/NOUN-MS
+او	أو/CONJ
+براءة	براء/NOUN-FS+ة/NSUFF
+ندعي	ندعي/V
+ان	إن/PART
+النيابة	ال/DET+نياب/NOUN-FS+ة/NSUFF
+ماتستأنفش	ما/PART تستأنف/V+ش/NEG-PART
+دلوقتي	دلوقتي/ADV
+بندعي	ب/PROG-PART+ندعي/V
+كمان	كمان/ADV
+ان	إن/PART
+امن	أمن/NOUN-MS
+الدولة	ال/DET+دول/NOUN-FS+ة/NSUFF
+ما	ما/PART
+ياخدوهوش	يأخد/V+وا/PRON+هو/PRON+ش/NEG-PART
+#	#/HASH
+سيسي	سيسي/NOUN-MS
+_	_/PUNC
+لاند	لاند/NOUN-FS
+#	#/HASH
+بلالا	بلالا/NOUN-MS
+--------------------	-/PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+اوحش	أوحش/ADJ-MS
+من	من/PREP
+انك	إن/PART+ك/PRON
+تكون	تكون/V
+شخص	شخص/NOUN-MS
+مزاجي	مزاجي/ADJ-MS
+تفاصيل	تفاصيل/NOUN-FP
+صغيرة	صغير/ADJ-FS+ة/NSUFF
+ممكن	ممكن/ADJ-MS
+تخليك	تخل/V+ي/PRON+ك/PRON
+طاير	طاير/ADJ-MS
+من	من/PREP
+الفرحة	ال/DET+فرح/NOUN-FS+ة/NSUFF
+...	./PUNC ./PUNC ./PUNC
+وكلمة	و/CONJ+كلم/NOUN-FS+ة/NSUFF
+صغيرة	صغير/ADJ-FS+ة/NSUFF
+بردو	برضه/ADV
+تنزلك	تنزل/V+ك/PRON
+لسابع	ل/PREP+سابع/ADJ-MS
+ارض	أرض/NOUN-FS
+وتكئبك	و/CONJ+تكئب/V+ك/PRON
+..	./PUNC ./PUNC
+!	!/PUNC
+--------------------	-/PUNC
+عارف انت	عارف/ADJ-MS إنت/PRON
+الصحاب	ال/DET+صحاب/NOUN-MP
+الجدعة	ال/DET+جدع/ADJ-FS+ة/NSUFF
+دى	دي/PRON
+اللى	اللي/PRON
+بتحبلك	ب/PROG-PART+تحب/V ل/PREP+ك/PRON
+الخير	ال/DET+خير/NOUN-MS
+و دايسة	و/CONJ+دايس/ADJ-MS+ة/NSUFF
+معاك	معا/PART+ك/PRON
+ف	في/PREP
+كل	كل/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+!!	!/PUNC !/PUNC
+؟	؟/PUNC
+عارفهم	عارف/ADJ-MS+هم/PRON
+؟	؟/PUNC
+طب	طيب/ADJ-MS
+و النبى	و/CONJ+ال/DET+نبي/NOUN-MS
+معندكش	ما/PART عند/NOUN-MS+ك/PRON+ش/NEG-PART
+اتنيين	اثنين/NUM
+سلف	سلف/NOUN-MS
+أكمل	أكمل/V
+معاهم	معا/PART+هم/PRON
+بقية	بقي/NOUN-FS+ة/NSUFF
+عمرى	عمر/NOUN-MS+ي/PRON
+=)	=)/EMOT
+--------------------	-/PUNC
+@MahaMaamoun	@MahaMaamoun/MENTION
+فى ناس	في/PREP+ه/PRON ناس/NOUN-MP
+بسيطة	بسيط/ADJ-FS+ة/NSUFF
+كانوا	كان/V+وا/PRON
+بيستلفوا	ب/PROG-PART+يستلف/V+وا/PRON
+علشان	علشان/PART
+يجيبوا	يجيب/V+وا/PRON
+اكل	أكل/NOUN-MS
+لعيالهم	ل/PREP+عيال/NOUN-MP+هم/PRON
+والى	و/CONJ+اللي/PRON
+محبوسين	محبوس/ADJ-MP+ين/NSUFF
+معاهم	معا/PART+هم/PRON
+من	من/PREP
+الشباب	ال/DET+شباب/NOUN-MP
+علشان	علشان/PART
+فى ناس	في/PREP+ه/PRON ناس/NOUN-MP
+مبيجلهاش	ما/PART ب/PROG-PART+يجي/V ل/PREP+ها/PRON+ش/NEG-PART
+حد	حد/NOUN-MS
+حاجة مؤلمة	حاج/NOUN-FS+ة/NSUFF مؤلم/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+بيقولوا	ب/PROG-PART+يقول/V+وا/PRON
+اللي	اللي/PRON
+بيحبك	ب/PROG-PART+يحب/V+ك/PRON
+هيبقى	ه/FUT-PART+يبقى/V
+على	على/PREP
+طبيعته	طبيع/NOUN-FS+ة/PRON+ه/PRON
+معاك	معا/PART+ك/PRON
+!	!/PUNC
+بس	بس/ADV
+اللي	اللي/PRON
+بيعشقك	ب/PROG-PART+يعشق/V+ك/PRON
+بقا	بقى/PART
+هيعمل	ه/FUT-PART+يعمل/V
+حاجات	حاج/NOUN-FP+ات/NSUFF
+مش	مش/PART
+من	من/PREP
+طبيعته	طبيع/NOUN-FS+ة/NSUFF+ه/PRON
+انه	أن/PART+ه/PRON
+يعملها	يعمل/V+ها/PRON
+عشان بس	علشان/PART بس/ADV
+يرضيك	يرضي/V+ك/PRON
+و يعجبك	و/CONJ+يعجب/V+ك/PRON
+!	!/PUNC
+--------------------	-/PUNC
+بتحب	ب/PROG-PART+تحب/V
+حد	حد/NOUN-MS
+روح	روح/V
+قوله	قول/V ل/PREP+ه/PRON
+،	،/PUNC
+مش	مش/PART
+تقول	تقول/V
+لأمه	ل/PREP+أم/NOUN-FS+ة/NSUFF
+لا	لا/PART
+إله	إله/NOUN-MS
+إلا	إلا/PART
+الله	الله/NOUN-MS
+وهو	و/CONJ+هو/PRON
+لأ	لا/PART
+...	./PUNC ./PUNC ./PUNC
+ولو	و/CONJ+لو/PART
+بتكره	ب/PROG-PART+تكره/V
+حد	حد/NOUN-MS
+ابعد	ابعد/V
+عنه	عن/PREP+ه/PRON
+وكش	و/CONJ+مش/PART
+مضطر	مضطر/ADJ-MS
+تعيش	تعيش/V
+حياتك	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+في	في/PREP
+تمثيل	تمثيل/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+زعلان	زعلان/ADJ-MS
+من	من/PREP
+حد	حد/NOUN-MS
+روح	روح/V
+صفي	صف/V+ي/PRON
+أمورك	أمور/NOUN-FP+ك/PRON
+معاه	معا/PART+ه/PRON
+--------------------	-/PUNC
+عايزة	عايز/ADJ-FS+ة/NSUFF
+أفضفض	أفضفض/V
+من غير	من/PREP غير/NOUN-MS
+ماحد	ما/PART حد/NOUN-MS
+يقول	يقول/V
+لي	ل/PREP+ي+/PRON
+معلش	معلهش/ADV
+أو	أو/CONJ
+فُكك	فك/V+ك/PRON
+أو	أو/CONJ
+نفضي	نفض/V+ي/PRON
+..	./PUNC ./PUNC
+وده	و/CONJ+ده/PRON
+مُستحيل	مستحيل/ADJ-MS
+..	./PUNC ./PUNC
+فبما	ف+/CONJ+ب/PREP+ما/PART
+إنك	إن/PART+ك/PRON
+سبب	سبب/NOUN-MS
+قرفي	قرف/NOUN-MS+ي/PRON
+فتعالى	ف+/CONJ+تعالى/V
+أفضفضلك	أفضفض/V ل/PREP+ك/PRON
+إنتَ	إنت/PRON
+وحللي	و/CONJ+حل/V ل/PREP+ك/PRON
+مشاكلنا	مشاكل/NOUN-FP+نا/PRON
+!	!/PUNC
+--------------------	-/PUNC
+الواحد	ال/DET+واحد/NOUN-MS
+لما	لما/PART
+بينام	ب/PROG-PART+ينام/V
+كتير	كثير/ADV
+،	،/PUNC
+بيحلم	ب/PROG-PART+يحلم/V
+بأحلام	ب/PREP+أحلام/NOUN-FP
+-	-/PUNC
+هيا	هو/PRON
+في	في/PREP
+الأغلب	ال/DET+أغلب/ADJ-MS
+هلاوس	هلاوس/NOUN-FP
+او	أو/CONJ
+حاجات	حاج/NOUN-FP+ات/NSUFF
+تانية	ثاني/ADJ-FS+ة/NSUFF
+،	،/PUNC
+بس	بس/PART
+المهم	ال/DET+مهم/ADJ-MS
+مش	مش/PART
+أحلام	أحلام/NOUN-FP
+يعني	يعني/V
+-	-/PUNC
+مالهمش	ما/PART ل/PREP+هم/PRON+ش/NEG-PART
+اي	أي/PART
+علاقة	علاق/NOUN-FS+ة/NSUFF
+ببعض	ب/PREP+بعض/NOUN-MS
+،	،/PUNC
+متتالية	متتالي/NOUN-FS+ة/NSUFF
+،	،/PUNC
+وغير	و/CONJ+غير/PART
+منطقية	منطقي/ADJ-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+ف حاجه ظريفه	في/PREP+ه/PRON حاج/NOUN-FS+ة/NSUFF ظريف/ADJ-FS+ة/NSUFF
+انا	أنا/PRON
+شيرت	شير/V+ت/PRON
+اغنيه	أغني/NOUN-FS+ة/NSUFF
+رنوش	رنوش/NOUN-FS
+ع	على/PREP
+صفحات	صفح/NOUN-FP+ات/NSUFF
+الموضه	ال/DET+موض/NOUN-FS+ة/NSUFF
+والاكل	و/CONJ+ال/DET+أكل/NOUN-MS
+وجابت	و/CONJ+جاب/V+ت/PRON
+رودو	ردود/NOUN-FP
+فعل	فعل/NOUN-MS
+حلوة	حلو/ADJ-FS+ة/NSUFF
+خصوصا	خصوصا/ADV
+بتاعت	خاص/NOUN-FS+ة/NSUFF
+الاكل	ال/DET+أكل/NOUN-MS
+اللى	اللي/PRON
+عنده	عند/NOUN-MS+ه/PRON
+بقى	بقى/PART
+بيج	بيج/NOUN-FS
+تانى	تاني/ADJ-MS
+يقولى	يقول/V ل/PREP+ي/PRON
+#RanaSamahaTeam	#/HASH RanaSamahaTeam/FOREIGN
+--------------------	-/PUNC
+الدنيـــا دى	ال/DET+دنيا/NOUN-FS دي/PRON
+عبارة	عبار/NOUN-FS+ة/NSUFF
+عن	عن/PREP
+امتحان	امتحان/NOUN-MS
+و احنا	و/CONJ+نحن/PRON
+فيه	في/PREP+ه/PRON
+يوم ما	يوم/NOUN-MS ما/PART
+الامتحان دة	ال/DET+امتحان/NOUN-MS ده/PART
+بيخلص	ب/PROG-PART+يخلص/V
+حياه	حيا/NOUN-FS+ة/NSUFF
+الانسان	ال/DET+إنسان/NOUN-MS
+كمان	كمان/ADV
+بتخلص	ب/PROG-PART+تخلص/V
+ساعتها	ساع/NOUN-FS+ة/NSUFF+ها/PRON
+بقى	بقى/PART
+بيروح	ب/PROG-PART+يروح/V
+يجيب	يجيب/V
+نتيجتة	نتيج/NOUN-FS+ة/NSUFF+ه/PRON
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+لمـآ	لما/PART
+تيجي علي نفسك	تيج/V+ي/PRON على/PREP نفس/NOUN-FS+ك/PRON
+كتير	كثير/ADV
+آعرف	اعرف/V
+أنك	أن/PART+ك/PRON
+مـآشي	ماشي/ADJ-MS
+غلط	خاطئ/NOUN-MS
+:)	:)/EMOT
+--------------------	-/PUNC
+@HanyAEllatif	@HanyAEllatif/MENTION
+لو ما فيش	لو/PART ما/PART في/PREP+ش/NEG-PART
+اڤورة	أفور/NOUN-FS+ة/NSUFF
+ما فيش	ما/PART في/PREP+ش/NEG-PART
+مصريين	مصري/NOUN-MP+ين/NSUFF
+..	./PUNC ./PUNC
+ربنا	رب/NOUN-MS+نا/PRON
+يخلينا	يخل/V+ي/PRON+نا/PRON
+ونأڤور	و/CONJ+نأفور/V
+كمان وكمان	كمان/ADV و/CONJ+كمان/ADV
+..p:	..p:/EMOT
+--------------------	-/PUNC
+وبعدين	و/CONJ بعدين/ADV
+انتوا	إنتو/PRON
+ازاي	كيف/PART
+تبدأوا	تبدأ/V+وا/PRON
+دروس	دروس/NOUN-FP
+من	من/PREP
+قبل	قبل/NOUN-MS
+الدراسة	ال/DET+دراس/NOUN-FS+ة/NSUFF
+؟	؟/PUNC
+ها	ها/PART
+؟	؟/PUNC
+يعني	يعني/V
+ازاي	إزاي/PART
+يكون	يكون/V
+عندي	عند/NOUN-MS+ي/PRON
+درس	درس/NOUN-MS
+النهاردة	النهاردة/ADV
+._.	._./EMOT
+--------------------	-/PUNC
+كنت	كن/V+ت/PRON
+خايف	خائف/ADJ-MS
+السيسي	ال/DET+سيسي/NOUN-MS
+يطلع	يطلع/V
+ذكي	ذكي/ADJ-MS
+وميترشحش	و/CONJ+ما/PART يترشح/V+ش/NEG-PART
+,,	,/PUNC ,/PUNC
+الحمد	ال/DET+حمد/NOUN-MS
+لله	ل/PREP+الله/NOUN-MS
+الحمار	ال/DET+حمار/NOUN-MS
+هيلبس	ه/FUT-PART+يلبس/V
+:D	:D/EMOT
+--------------------	-/PUNC
+@hananalyaly@ahmedadel755	@hananalyaly@ahmedadel755/MENTION
+هو	هو/PRON
+وزير	وزير/NOUN-MS
+دفاع	دفاع/NOUN-MS
+فاهم	فاهم/ADJ-MS
+كويس	كويس/ADV
+حدود	حدود/NOUN-FP
+منصبه	منصب/NOUN-MS+ه/PRON
+واحترامه	و/CONJ+احترام/NOUN-MS+ه/PRON
+ميصحش	ما/PART يصح/V+ش/NEG-PART
+يتكلم	يتكلم/V
+في	في/PREP
+حاجة	حاج/NOUN-FS+ة/NSUFF
+لسة	لسة/ADV
+مش	مش/PART
+موجودة	موجود/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+شكلنا	شكل/NOUN-MS+نا/PRON
+بلبس	ب/PREP+لبس/NOUN-MS
+المدرسة	ال/DET+مدرس/NOUN-FS+ة/NSUFF
+ده	ده/PRON
+هيفضل	ه/FUT-PART+يفضل/V
+نقطة	نقط/NOUN-FS+ة/NSUFF
+سودة	سود/ADJ-FS+ة/NSUFF
+في	في/PREP
+حياتنا	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+طول ماحنا	طول/NOUN-MS ما/PART إحنا/PRON
+عايشين	عايش/ADJ-MP+ين/NSUFF
+،	،/PUNC
+مأساه	مأسا/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+من	من/PREP
+النهارده	النهاردة/ADV
+هيبدأ	ه/FUT-PART+يبدأ/V
+الإعلام	ال/DET+إعلام/NOUN-MS
+يتكلم	يتكلم/V
+على	على/PREP
+ان	إن/PART
+اد ايه	قد/NOUN-MS إيه/PRON
+مشاكل	مشاكل/NOUN-FP
+مصر	مصر/NOUN-FS
+كتيره	كتير/ADJ-FS+ة/NSUFF
+وتحقيقها	و/CONJ+تحقيق/NOUN-MS+ها/PRON
+صعب	صعب/ADJ-MS
+فى	في/PREP
+سنه	سن/NOUN-FS+ة/NSUFF
+او	أو/CONJ
+اتنين	اثنين/NUM
+,	,/PUNC
+ومحتاجه	و/CONJ+محتاج/ADJ-FS+ة/NSUFF
+سنين	سن/NOUN-FP+ين/NSUFF
+طويله	طويل/ADJ-FS+ة/NSUFF
+علشان	علشان/PART
+مصر	مصر/NOUN-FS
+تتقدم	تتقدم/V
+,	,/PUNC
+ومحدش	و/CONJ+ما/PART حد/NOUN-MS+ش/NEG-PART
+يستعجل	يستعجل/V
+--------------------	-/PUNC
+وعمالين	و/CONJ+عمال/ADV+ين/PRON
+نقول فى نصايح	نقول/V في/PREP نصايح/NOUN-FP
+واحنا	و/CONJ+إحنا/PRON
+عاوزين	عايز/ADJ-MP+ين/NSUFF
+اللى	اللي/PRON
+ينصحنا	ينصح/V+نا/PRON
+.	./PUNC
+--------------------	-/PUNC
+ياعم	يا/PART عم/NOUN-MS
+اضحك	اضحك/V
+ونبي	و/CONJ+ال/DET+نبي/NOUN-MS
+قولي	قول/V ل/PREP+ي/PRON
+أخدت إيه	أخد/V+ت/PRON إيه/PART 
+من	من/PREP
+الزعل	ال/DET+زعل/NOUN-MS
+؟	؟/PUNC
+ضحكه	ضحك/NOUN-FS+ة/NSUFF
+بسيطه	بسيط/ADJ-FS+ة/NSUFF
+في	في/PREP
+أي	أي/PART
+وقت	وقت/NOUN-MS
+ممكن	ممكن/ADJ-MS
+تديك	تد/V+ي/PRON+ك/PRON
+أمل	أمل/NOUN-MS
+:)	:)/EMOT
+--------------------	-/PUNC
+مبقتش	ما/PART بقى/V+ت/PRON+ش/NEG-PART
+مشكله	مشكل/NOUN-FS+ة/NSUFF
+انهم	إن/PART+هم/PRON
+يدايقوك	يضايق/V+وا/PRON+ك/PRON
+ولا	و/CONJ+لا/PART
+حتى	حتى/PART
+يزعلوك	يزعل/V+وا/PRON+ك/PRON
+عادى	عادي/ADJ-MS
+اصلا	أصلا/ADV
+،	،/PUNC
+المشكله	ال/DET+مشكل/NOUN-FS+ة/NSUFF
+انك	إن/PART+ك/PRON
+كنت	كن/V+ت/PRON
+فاكرهم	فاكر/ADJ-MS+هم/PRON
+حاجه تانيه	حاج/NOUN-FS+ة/NSUFF تاني/ADJ-FS+ة/NSUFF
+غير كده	غير/NOUN-MS كده/ADV
+#	#/HASH
+دنيا	دنيا/NOUN-FS
+#	#/HASH
+اه	نعم/PART
+_	_/PUNC
+والله	و/CONJ+الله/NOUN-MS
+--------------------	-/PUNC
+عارف	عارف/ADJ-MS
+اللي	اللي/PRON
+بتصحى	ب/PROG-PART+تصحى/V
+تكلمه	تكلم/V+ه/PRON
+اول	أول/ADJ-MS
+واحد	واحد/NOUN-MS
+و قبل ما	و/CONJ+قبل/NOUN-MS ما/PART
+تنام	تنام/V
+يكون	يكون/V
+هو	هو/PRON
+اخر	آخر/ADJ-MS
+واحد	واحد/NOUN-MS
+مكلمه	مكلم/ADJ-MS+ه/PRON
+؟	؟/PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+اهم	أهم/ADJ-MS
+منه	من/PREP+ه/PRON
+في	في/PREP
+حياتك	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+--------------------	-/PUNC
+وبما ان	و/CONJ+ب/PREP+ما/PART إن/PART
+سواق	سواق/NOUN-MS
+الميكروباص	ال/DET+ميكروباص/NOUN-MS
+فى	في/PREP
+البلد دى	ال/DET+بلد/NOUN-FS دي/PRON
+بيتقاله	ب/PROG-PART+يتقال/V ل/PREP+ه/PRON
+يا	يا/PART
+يامشمهندس	يا/PART مشمهندس/NOUN-MS
+فــ طبيعى	ف+/CONJ+طبيعي/ADJ-MS
+جدا	جدا/ADV
+ان	إن/PART
+المهندس	ال/DET+مهندس/NOUN-MS
+يتقاله	يتقال/V ل/PREP+ه/PRON
+يا	يا/PART
+اسطى	أسطى/NOUN-MS
+#	#/HASH
+مصر	مصر/NOUN-FS
+--------------------	-/PUNC
+مش هعرف	مش/PART ه/FUT-PART+أعرف/V
+اوصل	أوصل/V
+للالف	ل/PREP+ال/DET+ألف/NUM
+ولا اية	و/CONJ+إلا/PART إيه/PART
+.	./PUNC
+كل ما	كل/NOUN-MS ما/PART
+اقول	أقول/V
+هانت	هان/V+ت/PRON
+.	./PUNC
+الاقي	ألاقي/V
+كم حد	كم/NOUN-MS حد/NOUN-MS
+عملي	عمل/V ل/PREP+ي/PRON
+انفولو	أنفولو/NOUN-MS
+.	./PUNC
+حرام	حرام/NOUN-MS
+عليكم	على/PREP+كم/PRON
+مش كدة	مش/PART كده/ADV
+.	./PUNC
+هتعقدونا	ه/FUT-PART تعقد/V+وا/PRON+نا/PRON
+في	في/PREP
+نفسنا	نفس/NOUN-FS+نا/PRON
+يا	يا/PART
+جدعان	جدعان/NOUN-MP
+.	./PUNC
+--------------------	-/PUNC
+إحساس	إحساس/NOUN-MS
+لا	لا/PART
+يوصف	يوصف/V
+إنك	إن/PART+ك/PRON
+تنزل	تنزل/V
+تعمل شوبينج	نعمل/V شوبينج/NOUN-MS
+و تشتري	و/CONJ+تشتري/V
+كل	كل/NOUN-MS
+إللي	اللي/PRON
+عايزه	عايز/ADJ-MS+ه/PRON
+من غير ما	من/PREP غير/NOUN-MS ما/PART
+تدقق	تدقق/V
+ده	ده/PRON
+بكام	ب/PREP+كام/PART
+و دي	و/CONJ+دي/PRON
+بكام	ب/PREP+كام/PART
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+@Nodygamal93	@Nodygamal93/MENTION
+احساس	إحساس/NOUN-MS
+حلو	حلو/ADJ-MS
+لما	لما/PART
+تلاقي	تلاقي/V
+حد	حد/NOUN-MS
+شبهك	شبيه/NOUN-MS+ك/PRON
+في	في/PREP
+حاجات	حاج/NOUN-FP+ات/NSUFF
+كتيرة	كتير/ADJ-FS+ة/NSUFF
+,	,/PUNC
+ويهتم	و/CONJ+يهتم/V
+بنفس	ب/PREP+نفس/NOUN-MS
+الحاجات	ال/DET+حاج/NOUN-FP+ات/NSUFF
+اللي	اللي/PRON
+بتحبها	ب/PROG-PART+تحب/V+ها/PRON
+.	./PUNC
+فاكره	فاكر/ADJ-MS+ه/PRON
+تؤام	توأم/NOUN-MS
+تؤام	توأم/NOUN-MS
+:-D	:-D/EMOT
+--------------------	-/PUNC
+انا	أنا/PRON
+عايز	عايز/ADJ-MS
+يبقى	يبقى/V
+عندى	عند/NOUN-MS+ي/PRON
+ابن	ابن/NOUN-MS
+عشان	علشان/PART
+اعلمه	أعلم/V+ه/PRON
+السباحة	ال/DET+سباح/NOUN-FS+ة/NSUFF
+بس	بس/ADV
+,,,	,/PUNC ,/PUNC ,/PUNC
+دى	دي/PRON
+أمتع	أمتع/ADJ-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+ممكن	ممكن/ADJ-MS
+الأب	ال/DET+أب/NOUN-MS
+يعملها	يعمل/V+ها/PRON
+الحقيقة	ال/DET+حقيق/NOUN-FS+ة/NSUFF
+,,,	,/PUNC ,/PUNC ,/PUNC
+غير كده	غير/NOUN-MS كده/ADV
+الموضوع	ال/DET+موضوع/NOUN-MS
+مش جايب همه	مش/PART جايب/ADJ-MS هم/NOUN-MS+ه/PRON
+--------------------	-/PUNC
+خسارة	خسار/NOUN-FS+ة/NSUFF
+فيك	في/PREP+ك/PRON
+كلمة	كلم/NOUN-FS+ة/NSUFF
+راجل	راجل/NOUN-MS
+لو	لو/PART
+بتسيب	ب/PROG-PART+تسيب/V
+صحابك	صحاب/NOUN-MP+ك/PRON
+يتكلموا	يتكلم/V+وا/PRON
+على	على/PREP
+بنت	بنت/NOUN-FS
+أنت	أنت/PRON
+تعرفها	تعرف/V+ها/PRON
+من غير ماترد	من/PREP غير/NOUN-MS ما/PART ترد/V
+عليهم	على/PREP+هم/PRON
+.	./PUNC
+--------------------	-/PUNC
+Serious	Serious/FOREIGN
+Question	Question/FOREIGN
+:	:/PUNC
+ليه	ليه/PART
+الواحد	ال/DET+واحد/NOUN-MS
+لما	لما/PART
+يبقي	يبقى/V
+مبسوط	مبسوط/ADJ-MS
+طول النهار	طول/NOUN ال/DET+نهار/NOUN-MS
+لازم	لازم/ADJ-MS
+تحصل	تحصل/V
+في	في/PREP
+الأخر	ال/DET+آخر/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+تنكد	تنكد/V
+عليه	على/PREP+ه/PRON
+؟	؟/PUNC
+!	!/PUNC
+--------------------	-/PUNC
+كل	كل/NOUN-MS
+واحد	واحد/NOUN-MS
+ييجي	ييجي/V
+يقولك	يقول/V ل/PREP+ك/PRON
+مش هقدر	مش/PART ه/FUT-PART+أقدر/V
+أغير	أغير/V
+إرث	إرث/NOUN-MS
+سنين	سن/NOUN-FP+ين/NSUFF
+من	من/PREP
+الفساد	ال/DET+فساد/NOUN-MS
+.	./PUNC
+طيب	طيب/ADJ-MS
+حضرتك	حضر/NOUN-MS+ت/NSUFF+ك/PRON
+بتتعب	ب/PROG-PART+تتعب/V
+نفسك	نفس/NOUN-FS+ك/PRON
+وجاي تحكم ليه	و/CONJ+جاي/ADJ-MS تحكم/V ليه/PART
+؟	؟/PUNC
+--------------------	-/PUNC
+قبل ما	قبل/NOUN-MS ما/PART
+تنام	تنام/V
+اظبت	اظبط/V
+منبه	منبه/NOUN-MS
+الموبايل	ال/DET+موبايل/NOUN-MS
+على	على/PREP
+ميعاد	ميعاد/NOUN-MS
+صلاة	صلا/NOUN-FS+ة/NSUFF
+الفجر	ال/DET+فجر/NOUN-MS
+عشان لو	علشان/PART لو/PART
+مصحتش	ما/PART صحي/V+ت/PRON+ش/NEG-PART
+تانى	تاني/ADJ-MS
+النية	ال/DET+ني/NOUN-FS+ة/NSUFF
+تشفعلك	تشفع/V ل/PREP+ك/PRON
+--------------------	-/PUNC
+حتي	حتى/PREP
+لو	لو/PART
+فشلت	فشل/V+ت/PRON
+ف حاجة	في/PREP حاج/NOUN-FS+ة/NSUFF
+هتتعلم	ه/FUT-PART+تتعلم/V
+منها	من/PREP+ها/PRON
+برضه	برضه/ADV
+.	./PUNC
+الا	إلا/PART
+لو انت	لو/PART إنت/PRON
+غبي	غبي/ADJ-MS
+--------------------	-/PUNC
+هو	هو/PRON
+لازم	لازم/ADJ-MS
+الواحد	ال/DET+واحد/NOUN-MS
+لما يجى	لما/PART ييجي/V
+يواظب	يواظب/V
+على	على/PREP
+الرياضه	ال/DET+رياض/NOUN-FS+ة/NSUFF
+يدمنها	يدمن/V+ها/PRON
+ولا انتوا	و/CONJ+إلا/PART إنتو/PRON
+واخدنها	واخد/ADJ-MP+ين/NSUFF+ها/PRON
+موضه	موض/NOUN-FS+ة/NSUFF
+ولا ايه	و/CONJ+إلا/PART إيه/PART
+؟	؟/PUNC
+#	#/HASH
+bassem	bassem/FOREIGN
+#	#/HASH
+hit	hit/FOREIGN
+--------------------	-/PUNC
+اللي	اللي/PRON
+يشوفني	يشوف/V+ني/PRON
+في عز	في/PREP عز/NOUN-MS
+فرحي	فرح/NOUN-MS+ي/PRON
+ميعرفنيش	ما/PART يعرف/V+ني/PRON+ش/NEG-PART
+وقت	وقت/NOUN-MS
+زعلي	زعل/NOUN-MS+ي/PRON
+.	./PUNC
+--------------------	-/PUNC
+دآيمآ	دايما/ADV
+#	#/HASH
+آلشخص	ال/DET+شخص/NOUN-MS
+إللي	اللي/PRON
+بيآخد بآله من	ب/PROG-PART+يأخد/V بال/NOUN-MS+ه/PRON من/PREP
+آلتفآصيل	ال/DET+تفاصيل/NOUN-FP
+آلصغيره	ال/DET+صغير/ADJ-FS+ة/NSUFF
+بيبقي	ب/PROG-PART+يبقى/V
+أكتر	أكتر/ADJ-MS
+شخص	شخص/NOUN-MS
+منكد	منكد/ADJ-MS
+دآيمآ	دايما/ADV
+علي	على/PREP
+نفسه	نفس/NOUN-FS+ه/PRON
+!	!/PUNC
+#	#/HASH
+حقيقه	حقيق/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+(	(/PUNC
+2	2/NUM
+)	)/PUNC
+تيجى نتكلم	تيج/V+ي/PRON نتكلم/V
+و نقول	و/CONJ+نقول/V
+كام نصيحة	كام/NOUN-MS نصيحة/NOUN-FS+ة/NSUFF
+على	على/PREP
+كام كلمة	كام/NOUN-MS كلم/NOUN-FS+ة/NSUFF
+حلوة	حلو/ADJ-FS+ة/NSUFF
+على	على/PREP
+حبة	حب/NOUN-FS+ة/NSUFF
+أى	أي/PART
+كلام	كلام/NOUN-MS
+عشان	علشان/PART
+كام ريتويت	كام/NOUN-MS ريتويت/NOUN-MS
+--------------------	-/PUNC
+فاكر أيام	فاكر/ADJ-MS أيام/NOUN-FP
+لماا	لما/PART
+كنت	كن/V+ت/PRON
+تقف	تقف/V
+ع	ع/PREP
+الشارع	ال/DET+شارع/NOUN-MS
+تلاقى	تلاقي/V
+واحده	واحد/NOUN-FS+ة/NSUFF
+محجبه	محجب/ADJ-FS+ة/NSUFF
+فواحد	ف+/CONJ+واحد/NOUN-MS
+صاحبك	صاحب/NOUN-MS+ك/PRON
+يعاكسها	يعاكس/V+ها/PRON
+تقوله	تقول/V ل/PREP+ه/PRON
+بس	بس/ADV
+ياض	يا/PART+ض/NOUN-MS
+دى	دي/PRON
+محجبه	محجب/ADJ-FS+ة/NSUFF
+؟	؟/PUNC
+--------------------	-/PUNC
+لو	لو/PART
+رفعنا	رفع/V+نا/PRON
+قضية	قضي/NOUN-FS+ة/NSUFF
+على	على/PREP
+الكيان	ال/DET+كيان/NOUN-MS
+الصهيوني	ال/DET+صهيوني/ADJ-MS
+بنقول	ب/PROG-PART+نقول/V
+انهم	إن/PART+هم/PRON
+إرهابيين	إرهابي/ADJ-MP+ين/NSUFF
+و بنطالب	و/CONJ+ب/PROG-PART+نطالب/V
+بقطع	ب/PREP+قطع/NOUN-MS
+أي	أي/PART
+علاقة	علاق/NOUN-FS+ة/NSUFF
+بيهم	بي/PREP+هم/PRON
+هتتقبل	ه/FUT-PART+تتقبل/V
+القضية	ال/DET+قضي/NOUN-FS+ة/NSUFF
+برضو	برضه/ADV
+زي	زي/NOUN-MS
+حماس	حماس/NOUN-FS
+؟	؟/PUNC
+ولا	و/CONJ+إلا/PART
+هيقول	ه/FUT-PART+يقول/V
+عيب	عيب/NOUN-MS
+مش	مش/PART
+اختصاصنا	اختصاص/NOUN-MS+نا/PRON
+؟	؟/PUNC
+!	!/PUNC
+--------------------	-/PUNC
+دايما	دايما/ADV
+الواحد	ال/DET+واحد/NOUN-MS
+#	#/HASH
+بيقصر	ب/PROG-PART+يقصر/V
+في	في/PREP
+حق	حق/NOUN-MS
+ناس	ناس/NOUN-MP
+#	#/HASH
+تستاهل	تستاهل/V
+ويسأل	و/CONJ+يسأل/V
+علي	على/PREP
+#	#/HASH
+ناس	ناس/NOUN-MP
+#	#/HASH
+متستهلش	ما/PART تستاهل/V+ش/NEG-PART
+:-(	:-(/EMOT
+--------------------	-/PUNC
+مهو	ما/PART هو/PRON
+انت	إنت/PRON
+ماتحطليش	ما/PART تحط/V ل/PREP+ي/PRON+ش/NEG-PART
+إمتحان	امتحان/NOUN-MS
+صعب	صعب/ADJ-MS
+و تيجى	و/CONJ+تيجي/V
+فى	في/PREP
+الآخر	ال/DET+آخر/NOUN-MS
+تقولى	تقول/V ل/PREP+ي/PRON
+"	"/PUNC
+Good	Good/FOREIGN
+Luck	"Luck/FOREIGN
+"
+"	"/PUNC
+عشان ماتجيبش	علشان/PART ما/PART تجيب/V+ش/NEG-PART
+الشتيمه	ال/DET+شتيم/NOUN-FS+ة/NSUFF
+ليك	لي/PREP+ك+/PRON
+و للست	و/CONJ+ل/PREP+ال/DET+ست/NOUN-FS
+الوالده	ال/DET+والد/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+واللى	و/CONJ+اللي/PRON
+كان	كان/V
+فى	في/PREP
+شغله	ayg/NOUN-MS+ه/PRON
+ولسه راجع	و/CONJ+لسة/ADV راجع/ADJ-MS
+واللى	و/CONJ+اللي/PRON
+كان	كان/V
+فى	في/PREP
+مدرسته	مدرس/NOUN-FS+ة/NSUFF+ه/PRON
+واللى	و/CONJ+اللي/PRON
+واقف	واقف/ADJ-FS
+فى	في/PREP
+البلكونة	ال/DET+بلكون/NOUN-FS+ة/NSUFF
+بيشرب سيجارة	ب/PROG-PART+يشرب/V سيجار/NOUN-FS+ة/NSUFF
+..	./PUNC ./PUNC
+نحب	نحب/V
+نقوله	نقول/V ل/PREP+ه/PRON
+ان	إن/PART
+اوزيل	أوزيل/NOUN-MS
+جاب جول	جاب/V جول/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+http://t.co/SP1RsPjMxY	http:\\t.co\SP1RsPjMxY/URL
+--------------------	-/PUNC
+نص	نصف/NOUN-MS
+الوﻻد	ال/DET+وﻻد/NOUN-MP
+اللى	اللي/PART
+ف	في/PREP
+تويتر	تويتر/NOUN-MS
+فهمين	فاهم/ADJ-MP+ين/NSUFF
+البنت	ال/DET+بنت/NOUN-FS
+عايزه ايه	عايز/ADJ-FS+ة/NSUFF إيه/PART
+..	./PUNC ./PUNC
+و بتحب ايه	و/CONJ+ب/PROG-PART+تحب/V إيه/PART
+!!	!/PUNC !/PUNC
+انا	أنا/PRON
+بقى	بقى/ADV
+اشك	أشك/V
+ان	إن/PART
+ف حد	في/PREP+ه/PRON حد/NOUN-MS
+بيعمل	ب/PROG-PART+يعمل/V
+ب اللى	ب/PREP+اللي/PRON
+بيقولوا	ب/PROG-PART+يقول/V+ه/PRON
+ده	ده/PRON
+...	./PUNC ./PUNC ./PUNC
+#	#/HASH
+كﻻم	كلام/NOUN-MS
+من	من/PREP
+غير	غير/NOUN-MS
+فعل	فعل/NOUN-MS
+--------------------	-/PUNC
+مش	مش/PART
+كل	كل/NOUN-MS
+حاجه تعملها	حاج/NOUN-FS+ة/NSUFF تعمل/V+ها/PRON
+تقول	تقول/V
+انك	إن/PART+ك/PRON
+راجل	راجل/NOUN-MS
+و براحتك	و/CONJ+براح/NOUN-FS+ة/NSUFF+ك/PRON
+..	./PUNC ./PUNC
+#	#/HASH
+لما	لما/PART
+تموت	تموت/V
+مش هتقول	مش/PART ه/FUT-PART+تقول/V
+اصل	أصل/NOUN-MS
+كنت	كن/V+ت/PRON
+راجل	راجل/NOUN-MS
+وكان	و/CONJ+كان/V
+براحتى	ب/PREP+راح/NOUN-FS+ة/NSUFF+ي/PRON
+#	#/HASH
+مفيش	ما/PART في/PREP+ش/NEG-PART
+تفرقه	تفرق/NOUN-FS+ة/NSUFF
+هناك	هناك/ADV
+يا	يا/PART
+صاحبي	صاحب/NOUN-MS+ي/NSUFF
+!	!/PUNC
+--------------------	-/PUNC
+انك	أن/PART+ك/PRON
+تبقى	تبقى/V
+واطى	واطي/ADJ-MS
+دى حاجه سهله	دي/PRON حاج/NOUN-FS+ة/NSUFF سهل/ADJ-FS+ة/NSUFF
+اوى	قوي/ADV
+..	./PUNC ./PUNC
+بس انك تبقى	بس/PART أن/PART+ك/PRON تبقى/V
+راجل	راجل/NOUN-MS
+دى	دي/PRON
+عايزه	عايز/ADJ-FS+ة/NSUFF
+مجهود	مجهود/NOUN-MS
+شويه	شوي/NOUN-FS+ة/NSUFF
+:)	:)/EMOT
+--------------------	-/PUNC
+ليه	ليه/PART
+الناس	ال/DET+ناس/NOUN-MP
+بتقول	ب/PROG-PART+تقول/V
+لأى	ل/PREP+أي/NOUN-MS
+حد	حد/NOUN-MS
+فى	في/PREP
+الشارع	ال/DET+شارع/NOUN-MS
+يابشمهندس	يا/PART بشمهندس/NOUN-MS
+،	،/PUNC
+ما عدا	ما/PART عدا/PART
+المهندس	ال/DET+مهندس/NOUN-MS
+فعلاً	فعلا/ADV
+بيقولوا	ب/PROG-PART+يقول/V+وا/PRON
+يادكتور	يا/PART دكتور/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+جة	جه/V
+الزمن	ال/DET+زمن/NOUN-MS
+اللي	اللي/PRON
+الناس	ال/DET+ناس/NOUN-MP
+تعمل	تعمل/V
+جمايل	جمايل/NOUN-FP
+لبعض	ل/PREP+بعض/NOUN-MS
+،،	،/PUNC ،/PUNC
+عشان	علشان/PART
+تفكر	تفكر/V
+بعض	بعض/NOUN-MS
+بية	بي/PREP+ه/PRON
+.	./PUNC
+--------------------	-/PUNC
+انا قربت	أنا/PRON قرب/V+ت/PRON
+اتجنن	أتجنن/V
+!	!/PUNC
+انا	أنا/PRON
+بحلم	ب/PROG-PART+أحلم/V
+حاجات	حاج/NOUN-FP+ات/NSUFF
+بتتحقق	ب/PROG-PART+تتحقق/V
+:(	:(/EMOT
+وبفكر	و/CONJ+ب/PROG-PART+أفكر/V
+في	في/PREP
+حاجات	حاج/NOUN-FP+ات/NSUFF
+ف	ف/PREP
+خيالي	خيال/NOUN-MS+ي/PRON
+برده	برضه/ADV
+بتتحقق	ب/PROG-PART+تتحقق/V
+ف	في/PREP
+نفس	نفس/NOUN-MS
+اليوم	ال/DET+يوم/NOUN-MS
+!	!/PUNC
+انا	أنا/PRON
+خايفه	خائف/ADJ-FS+ة/NSUFF
+-_-	-_-/EMOT
+--------------------	-/PUNC
+أنا	أنا/PRON
+مش سامع	مش/PART سامع/ADJ-MS
+نص	نص/NOUN-MS
+كلام	كلام/NOUN-MS
+اللي	اللي/PART
+بيكلموني	ب/PROG-PART+يكلم/V+وا/PRON+ني/PRON
+،	،/PUNC
+بسبب	ب/PREP+سبب/NOUN-MS
+دور	دور/NOUN-MS
+البرد	ال/DET+برد/NOUN-MS
+اللي	اللي/PRON
+عندي	عند/NOUN-MS+ي/PRON
+،	،/PUNC
+بهز	ب/PROG-PART+أهز/V
+دماغي	دماغ/NOUN-FS+ي/PRON
+زي	زي/NOUN-MS
+العبيط	ال/DET+عبيط/NOUN-MS
+كأني	كأن/PART+ي/PRON
+سامع	سامع/ADJ-MS
+--------------------	-/PUNC
+الناس	ال/DET+ناس/NOUN-MP
+مش قدرة تفهم	مش/PART قادر/ADJ-FS+ة/NSUFF تفهم/V
+أن مفيش	أن/PART ما/PART في/PREP+ش/NEG-PART
+حاجة اسمها	حاج/NOUN-FS+ة/NSUFF اسم/NOUN-MS+ها/PRON
+حب	حب/NOUN-MS
+ولا	و/CONJ+لا/PART
+في حد	في/PREP+ه/PRON حد/NOUN-MS
+بيحب	ب/PROG-PART+يحب/V
+بجد	ب/PREP+جد/NOUN-MS
+والي	و/CONJ+اللي/PRON
+بتحبو	ب/PROG-PART+تحب/V+ها/PRON
+بجد	ب/PREP+جد/NOUN-MS
+بيسيبك	ب/PROG-PART+يسيب/V+ك/PRON
+والي	و/CONJ+اللي/PRON
+بيحبك	ب/PROG-PART+يحب/V+ك/PRON
+بجد	ب/PREP+جد/NOUN-MS
+بتسيبو	ب/PROG-PART+تسيب/V+ه/PRON
+فا ريح	ف+/CONJ+ريح/V
+بالك	بال/NOUN-MS+ك/PRON
+أحسن	أحسن/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+فيه	في/PREP+ه/PRON
+ناس	ناس/NOUN-MP
+كده	كده/ADV
+بيبقى	ب/PROG-PART+يبقى/V
+طول عُمرهم	طول/NOUN-MS عمر/NOUN-MS+هم/PRON
+معروفين	معروف/ADJ-MP+ين/NSUFF
+بإسمهم	ب/PREP+اسم/NOUN-MS+هم/PRON
+وإسم	و/CONJ+اسم/NOUN-MS
+أبوهم	أبو/NOUN-MS+هم/PRON
+وفجأة	و/CONJ+فجأة/ADV
+كده	كده/ADV
+سُبحان	سبحان/NOUN-MS
+الله	الله/NOUN-MS
+بيطلعلهم	ب/PROG-PART+يطلع/V ل/PREP+هم/PRON
+إسم	اسم/NOUN-MS
+عيلة	عيل/NOUN-FS+ة/NSUFF
+رِوش	روش/ADJ-MS
+ويفضلوا	و/CONJ+يفضل/V+وا/PRON
+يقرفوا	يقرف/V+وا/PRON
+اللي	اللي/PART
+خلّفونا	خلف/V+وا/PRON+نا/PRON
+بيه	بي/PREP+ه/PRON
+--------------------	-/PUNC
+هو	هو/PRON
+لما ولد يبيع	لما/PART ولد/NOUN-MS يبيع/V
+صاحبه	صاحب/NOUN-MS+ه/PRON
+عشان	علشان/PART
+بنت	بنت/NOUN-FS
+بيقولو	ب/PROG-PART+يقول/V+وا/PRON
+مش راجل	مش/PART راجل/NOUN-MS
+طيب	طيب/ADJ-MS
+و البنت	و/CONJ+ال/DET+بنت/NOUN-FS
+اللي	اللي/PRON
+بتبيع	ب/PROG-PART+تبيع/V
+صاحبتها	صاحب/NOUN-FS+ة/NSUFF+ها/PRON
+عشان	علشان/PART
+ولد	ولد/NOUN-MS
+يتقال عليها ايه	يتقال/V على/PREP+ها/PRON إيه/PART
+؟	؟/PUNC
+!	!/PUNC
+--------------------	-/PUNC
+عمرك	عمر/NOUN-MS+ك/PRON
+لسه	لسة/ADV
+مخبى	مخبي/ADJ-MS
+حاجات	حاج/NOUN-FP+ات/NSUFF
+اكتر	أكتر/ADJ-MS
+من كده	من/PREP كده/ADV
+مستنياك	مستني/ADJ-MS+ة/NSUFF+اك/PRON
+وربك	و/CONJ+رب/NOUN-MS+ك/PRON
+اكيد	أكيد/ADJ-MS
+شايلك	شايل/ADJ-MS ل/PREP+ك/PRON
+خير	خير/NOUN-MS
+هيجى	ه/FUT-PART+ييجي/V
+فى	في/PREP
+وقته	وقت/NOUN-MS+ه/PRON
+والدنيا	و/CONJ+ال/DET+دنيا/NOUN-FS
+اكيد	أكيد/ADJ-MS
+فيها	في/PREP+ها/PRON
+لحظات	لحظ/NOUN-FP+ات/NSUFF
+حلوه	حلو/ADJ-FS+ة/NSUFF
+هتعيشها	ه/FUT-PART+تعيش/V+ها/PRON
+،	،/PUNC
+بس كله	بس/PART كل/NOUN-MS+ه/PRON
+فى	في/PREP
+وقته	وقت/NOUN-MS+ه/PRON
+..	./PUNC ./PUNC
+اصبر	اصبر/V
+--------------------	-/PUNC
+أصل فى ناس	أصل/NOUN-MS في/PREP+ه/PRON ناس/NOUN-MP
+مابتحبش	ما/PART ب/PROG-PART+تحب/V+ش/NEG-PART
+التجديد	ال/DET+تجديد/NOUN-MS
+..	./PUNC ./PUNC
+الى	اللي/PRON
+بيتكيف	ب/PROG-PART+يتكيف/V
+من	من/PREP
+الكرباج	ال/DET+كرباج/NOUN-MS
+من زمان	من/PREP زمان/NOUN-MS
+..	./PUNC ./PUNC
+صعب	صعب/ADJ-MS
+اوى	قوي/ADV
+يجيى	ييجي/V
+على كبر	على/PREP كبر/NOUN-MS
+..	./PUNC ./PUNC
+يغيروا	يتغير/V+وا/PRON
+!!	!/PUNC !/PUNC
+#	#/HASH
+حقيقة	حقيق/NOUN-FS+ة/NSUFF
+#	#/HASH
+باسم	باسم/NOUN-MS
+_	_/PUNC
+يوسف	يوسف/NOUN-MS
+#	#/HASH
+رجعوا	رجع/V+وا/PRON
+_	_/PUNC
+جماهير	جماهير/NOUN-MP
+--------------------	-/PUNC
+مش اى حد	مش/PART أي/NOUN-MS حدNOUN-MS
+بيعاملك	ب/PROG-PART+يعامل/V+ك/PRON
+حلو	حلو/ADJ-MS
+يبقى	يبقى/V
+بيحبك	ب/PROG-PART+يحب/V+ك/PRON
+"	"/PUNC
+المصلحة	ال/DET+مصلح/NOUN-FS+ة/NSUFF
+بتعمل	ب/PROG-PART+تعمل/V
+كل	كل/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+"	"/PUNC
+--------------------	-/PUNC
+و لما تيجي	و/CONJ+لما/PART تيجي/V
+تناقش	تناقش/V
+حد	حد/NOUN-MS
+من	من/PREP
+الجيل	ال/DET+جيل/NOUN-MS
+بتاع	بتاع/NOUN-MS
+العواجيز	ال/DET+عواجيز/NOUN-MP
+هيقولك	ه/FUT-PART+يقول/V ل/PREP+ك/PRON
+مش	مش/PART
+اللي	اللي/PRON
+بيتقبض	ب/PROG-PART+يتقبض/V
+عليهم	على/PREP+هم/PRON
+دوول	دول/PRON
+بيفرج	ب/PROG-PART+يفرج/V
+عنهم	عن/PREP+هم/PRON
+لو	لو/PART
+مظلوم	مظلوم/ADJ-MS
+هيطلع	ه/FUT-PART+يطلع/V
+يابني	يا/PART بن/NOUN-MS+ي/PRON
+متخفش	ما/PART تخاف/V+ش/NEG-PART
+(	(/PUNC
+1	1/NUM
+)	)/PUNC
+--------------------	-/PUNC
+و لما هو	و/CONJ+لما/PART هو/PRON
+مظلوم	مظلوم/ADJ-MS
+بيتقبض	ب/PROG-PART+يتقبض/V
+عليه	على/PREP+ه/PRON
+من	من/PREP
+الاول	ال/DET+أول/NOUN-MS
+لييه	ليه/PART
+يعني ايه	يعني/V إيه/PART
+شاب	شاب/NOUN-MS
+ابن ناس	ابن/NOUN-MS أناس/NOUN-MP
+و مالوش دعوه	و/CONJ+ما/PART ل/PREP+هو/PRON+ش/NEG-PART دعو/NOUN-FS+ة/NSUFF
+بحاجه	ب/PREP+حاجة/NOUN-FS+ة/NSUFF
+يتقبض	يتقبض/V
+عليه	على/PREP+ه/PRON
+و يدخل	و/CONJ+يدخل/V
+المعتقل	ال/DET+معتقل/NOUN-MS
+يعني ايه	يعني/V إيه/PART
+معدش	ما/PART عاد/V+ش/NEG-PART
+حد	حد/NOUN-MS
+بقي	بقى/V
+بينطق	ب/PROG-PART+ينطق/V
+(	(/PUNC
+2	2/NUM
+)	)/PUNC
+--------------------	-/PUNC
+لما	لما/PART
+روحنا	رح/V+نا/PRON
+الموتمر	ال/DET+موتمر/NOUN-MS
+عشان	علشان/PART
+صحابنا	صحاب/NOUN-MP+نا/PRON
+..	./PUNC ./PUNC
+حضرات	حضر/NOUN-MP+ات/NSUFF
+النشطاء	ال/DET+نشطاء/NOUN-MP
+والمحاميين	و/CONJ+ال/DET+محام/NOUN-MP+ين/NSUFF
+مارضيوش	ما/PART رضي/V+وا/PRON+ش/NEG-PART
+يتكلمو	يتكلم/V+وا/PRON
+عن	عن/PREP
+معتقلي	معتقل/NOUN-MP+ي/NSUFF
+المعادي	ال/DET+معادي/NOUN-FS
+عشان هما	علشان/PART هما/PRON
+مجهولين	مجهول/ADJ-MP+ين/NSUFF
+ومش	و/CONJ+مش/PART
+مشهورين	مشهور/ADJ-MP+ين/NSUFF
+ومالهومش	و/CONJ+ما/PART ل/PREP+هوم/PRON+ش/NEG-PART
+ضهر	ضهر/NOUN-MS
+#	#/HASH
+يتبع	يتبع/V
+--------------------	-/PUNC
+الكلام	ال/DET+كلام/NOUN-MS
+لو	لو/PART
+كان	كان/V
+يعبر	يعبر/V
+عن	عن/PREP
+الحنان	ال/DET+حنان/NOUN-MS
+كنت	كن/V+ت/PRON
+قولت	قل/V+ت/PRON
+انى	إن/PART+ي/PRON
+مش	مش/PART
+طايقة	طايق/ADJ-FS+ة/NSUFF
+وش	وش/NOUN-MS
+امك	أم/NOUN-FS+ك/PRON
+من	من/PREP
+زمان	زمان/NOUN-MS
+--------------------	-/PUNC
+الوقت	ال/DET+وقت/NOUN-MS
+هيعودك	ه/FUT-PART+يعود/V+ك/PRON
+على	على/PREP
+حاجات كتير	حاج/NOUN-FP+ات/NSUFF كثير/ADJ-MS
+متخيلتش	ما/PART تخيل/V+ت/PRON+ش/NEG-PART
+ابدا	أبدا/ADV
+انك	إن/PART+ك/PRON
+تتعود	تتعود/V
+عليها	على/PREP+ها/PRON
+....	./PUNC ./PUNC ./PUNC ./PUNC
+بس	بس/PART
+مش هيقدر	مش/PART ه/FUT-PART+يقدر/V
+ينسيهالك	ينسي/V+ها/PRON ل/PREP+ك/PRON
+--------------------	-/PUNC
+كل	كل/NOUN-MS
+أنسان	إنسان/NOUN-MS
+جواه	جو/NOUN-FS+ة/NSUFF+اه/PRON
+حكاية	حكاي/NOUN-FS+ة/NSUFF
+أو	أو/CONJ
+سبب	سبب/NOUN-MS
+بيتحكموا	ب/PROG-PART+يتحكم/V+وا/PRON
+في	في/PREP
+أسلوب	أسلوب/NOUN-MS
+حياته	حيا/NOUN-FS+ة/NSUFF+ه/PRON
+وطريقته	و/CONJ+طريق/NOUN-MS+ة/NSUFF+ه/PRON
+،	،/PUNC
+فا ماتحكمش	ف+/CONJ+ما/PART تحكم/V+ش/NEG-PART
+علي	على/PREP
+حد	حد/NOUN-MS
+من	من/PREP
+الظاهر	ال/DET+ظاهر/NOUN-MS
+..	./PUNC ./PUNC
+حلل	حلل/V
+وأفهم	و/CONJ+افهم/V
+الأسباب	ال/DET+أسباب/NOUN-FP
+ساعتها	ساع/NOUN-FS+ة/NSUFF+ها/PRON
+ممكن	ممكن/ADJ-MS
+تلاقي	تلاقي/V
+له	ل/PREP+ه/PRON
+مليون	مليون/NUM
+عذر	عذر/NOUN-MS
+.	./PUNC
+--------------------	-/PUNC
+ساعات كتير	ساع/NOUN-FP+ات/NSUFF كتير/ADJ-MS
+مبتبقاش عارف	ما/PART ب/PROG-PART+تبقى/V+ش/NEG-PART عارف/ADJ-MS
+أنت	أنت/PRON
+بتحس	ب/PROG-PART+تحس/V
+إيه	إيه/PART
+ناحيتهم	ناحي/NOUN-FS+ة/NSUFF+هم/PRON
+ولا هما	و/CONJ+لا/PART هما/PRON
+بالنسبالك	ب/PREP+ال/DET+نسب/NOUN-FS+ة/NSUFF ل/PREP+ك/PRON
+إيه	إيه/PART
+؟؟؟	؟/PUNC ؟/PUNC ؟/PUNC
+بس	بس/PART
+بتحب	ب/PROG-PART+تحب/V
+تتكلم	تتكلم/V
+معاهم	معا/PART+هم/PRON
+كل	كل/NOUN-MS
+يوم	يوم/NOUN-MS
+--------------------	-/PUNC
+هو	هو/PRON
+عشان مش بسال	علشان/PART مش/PART ب/PROG-PART+أسأل/V
+يبقى	يبقى/V
+مش	مش/PART
+مهتمة	مهتم/ADJ-MP+ة/NSUFF
+مش ممكن	مش/PART ممكن/ADJ-MS
+يعنى	يعني/V
+اكون	أكون/V
+مش عارفة	مش/PART عارف/ADJ-FS+ة/NSUFF
+اتاقلم	أتاقلم/V
+عل جو ده	على/PREP ال/DET+جو/NOUN-MS ده/PRON
+او	أو/CONJ
+مش عايزة	مش/PART عايز/ADJ-FS+ة/NSUFF
+نتعامل	نتعامل/V
+كدة	كده/ADV
+--------------------	-/PUNC
+وانا قاعد	و/CONJ+أنا/PRON قاعد/ADJ-MS
+بصلي	ب/PROG-PART+أصلي/V
+في	في/PREP
+الحرم	ال/DET+حرم/NOUN-MS
+واحد	واحد/NOUN-MS
+مصري	مصري/ADJ-MS
+بيصلي	ب/PROG-PART+يصلي/V
+جنبي	جنب/NOUN-MS+ي/PRON
+بعد ما	بعد/NOUN-MS ما/PART
+خلصنا	خلص/V+نا/PRON
+بيقولي	ب/PROG-PART+يقول/V ل/PREP+ي/PRON
+حرما	حرم/NOUN-MS+ا/CASE
+قولتله	قل/V+ت/PRON ل/PREP+ه/PRON
+أكتر	أكتر/ADJ-MS
+من كده	من/PREP كده/ADV
+!	!/PUNC
+:D	:D/EMOT
+--------------------	-/PUNC
+يبقى	يبقى/V
+متنميش	ما/PART تنام/V+ي/PRON+ش/NEG-PART
+وخليك	و/CONJ+خل/V+ي/PRON+كي/PRON
+قاعده	قاعد/ADJ-FS+ة/NSUFF
+واسهرى	و/CONJ+اسهر/V+ي/NSUFF
+بردوه	برضه/ADV
+لحد متفصلى	ل/PREP+حد/NOUN-MS ما/PART تفصل/V+ي/PRON
+خالص	خالص/ADV
+بعد كده	بعد/NOUN-MS كده/ADV
+نامى	نام/V+ي/PRON
+بليل	ب/PREP+ال/DET+ليل/NOUN-MS
+@sarrahsherrif	@sarrahsherrif/MENTION
+--------------------	-/PUNC
+أحلى	أحلى/ADJ-MS
+أكلة	أكل/NOUN-FS+ة/NSUFF
+هي	هو/PRON
+اللي	اللي/PRON
+بتاكلها	ب/PROG-PART+تاكل/V+ها/PRON
+و أنت	و/CONJ+أنت/PRON
+ميت من الجوع	ميت/ADJ-MS من/PREP ال/DET+جوع/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+أحلى	أحلى/NOUN-FP
+شرب	شرب/NOUN-MS
+و أنت	و/CONJ+أنت/PRON
+ميت من العطش	ميت/ADJ-MS من/PREP ال/DET+عطش/NOUN-MS
+و أحلى	و/CONJ+أحلى/ADJ-MS
+فرحة	فرح/NOUN-FS+ة/NSUFF
+حتيجي	ه/FUT-PART+تيجي/V
+و أنت	و/CONJ+أنت/PRON
+ميت من اليأس	ميت/ADJ-MS من/PREP ال/DET+يأس/NOUN-MS
+!!	!/PUNC !/PUNC
+فإطمن	ف/CONJ+اطمئن/V
+--------------------	-/PUNC
+فى ناس	في/PREP+ه/PRON ناس/NOUN-MP
+كدا	كده/ADV
+فاكرة	فاكر/ADJ-FS+ة/NSUFF
+انهم	إن/PART+هم/PRON
+اللى	اللي/PART
+من	من/PREP
+حقهم	حق/NOUN-MS+هم/PRON
+بس	بس/ADV
+يزعلوا	يزعل/V+وا/PRON
+وان	و/CONJ+إن/PART
+كل	كل/NOUN-MS
+الناس	ال/DET+ناس/NOUN-MP
+أتخلقوا	اتخلق/V+وا/PRON
+علشان	علشان/PART
+يصلحوهم	يصالح/V+وا/PRON+هم/PRON
+-_-	-_-/EMOT
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+اللى	اللي/PART
+مبسوطين	مبسوط/ADJ-MP+ين/NSUFF
+فى	في/PREP
+حياتيهم	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+و راضيين	و/CONJ+راض/ADJ-FP+ين/NSUFF
+على	على/PREP
+قرارتهم	قرار/NOUN-FP+ات/NSUFF+هم/PRON
+بقوا	بق/V+وا/PRON
+قليلين	قليل/ADJ-MP+ين/NSUFF
+فى	في/PREP
+الزمن ده	ال/DET+زمن/NOUN-MS ده/PRON
+--------------------	-/PUNC
+الغلط	ال/DET+غلط/NOUN-MS
+مننا	ب/PREP+نا/PRON
+لما	لما/PART
+نكلم	نكلم/V
+حد	حد/NOUN-MS
+و نهتم	و/CONJ+نهتم/V
+بيه	بي/PREP+ه/PRON
+جامد	جامد/ADV
+.	./PUNC
+و ساعات	و/CONJ+ساع/NOUN-FP+ات/NSUFF
+بنحبه	ب/PROG-PART+نحب/V+ه/PRON
+،	،/PUNC
+بس	بس/ADV
+بتبقي عاوز	ب/PROG-PART+تبقى/V عايز/ADJ-MS
+تقوله	تقول/V ل/PREP+ه/PRON
+انا	أنا/PRON
+اسف	آسف/ADJ-MS
+اني	إن/PART+ي/PRON
+حبيتك	حبي/V+ت/PRON+ك/PRON
+.	./PUNC
+--------------------	-/PUNC
+الاحترام	ال/DET+احترام/NOUN-MS
+مش	مش/PART
+مقياس	مقياس/NOUN-MS
+للحب	ل/PREP+ال/DET+حب/NOUN-MS
+..	./PUNC ./PUNC
+ممكن	ممكن/ADJ-MS
+اكون	أكون/V
+بحترمك	ب/PROG-PART+أحترم/V+ك/PRON
+بس	بس/PART
+بكرهك	ب/PROG-PART+أكره/V+ه/PRON
+عادي	عادي/ADJ-MS
+--------------------	-/PUNC
+ماهو	ما/PART هو/PRON
+مفيش	ما/PART في/PREP+ش/NEG-PART
+#	#/HASH
+مسخره	مسخر/NOUN-FS+ة/NSUFF
+اكتر	أكتر/ADJ-MS
+من	من/PREP
+انك	إن/PART+ك/PRON
+تلاقي	تلاقي/V
+#	#/HASH
+بنت	بنت/NOUN-FS
+بتصلي	ب/PROG-PART+تصل/V+ي/PRON
+#	#/HASH
+استخاره	استخار/NOUN-FS+ة/NSUFF
+عشان	علشان/PART
+محتاره	محتار/ADJ-MP+ة/NSUFF
+تصاحب	تصاحب/V
+#	#/HASH
+ادهم	أدهم/NOUN-MS
+ولا	و/CONJ+إلا/PART
+#	#/HASH
+عمر	عمر/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+@Osamawad_4	@Osamawad_4/MENTION
+مش عارفة	مش/PART عارف/ADJ-FS+ة/NSUFF
+ممكن	ممكن/ADJ-MS
+.	./PUNC
+انا	أنا/PRON
+ما مرتش	ما/PART مر/V+ت/PRON+ش/NEG-PART
+بالموضوع ده	ب/PREP+ال/DET+موضوع/NOUN-MS ده/PRON
+.	./PUNC
+موقفي	موقف/NOUN-MS+ي/PRON
+محدد	محدد/ADJ-MS
+و ثابت	و/CONJ+ثابت/ADJ-MS
+و الحمد	و/CONJ+ال/DET+حمد/NOUN-MS
+لله	ل/PREP+الله/NOUN-MS
+طلعت	طلع/V+ت/PRON
+صح	صح/NOUN-MS
+!!	!/PUNC !/PUNC
+حب	حب/NOUN-MS
+الوطن	ال/DET+وطن/NOUN-MS
+مفيهوش	ما/PART في/PREP+هو/PRON+ش/NEG-PART
+نغلط	نغلط/V
+و نصلح	و/CONJ+نصلح/V
+.	./PUNC
+--------------------	-/PUNC
+انا	أنا/PRON
+لما	لما/PART
+أموت	أموت/V
+مش هموت	مش/PART ه/FUT-PART+أموت/V
+من	من/PREP
+المرض	ال/DET+مرض/NOUN-MS
+بتاعى	بتاع/NOUN-MS+ي/PRON
+أنا	أنا/PRON
+لما	لما/PART
+أموت	أموت/V
+هموت	ه/FUT-PART+أموت/V
+من	من/PREP
+المرض	ال/DET+مرض/NOUN-MS
+اللى	اللي/PRON
+عندكوا	عند/NOUN-MS+كم/PRON
+أنتوا	إنتو/PRON
+--------------------	-/PUNC
+@lovly_y@Nour51728751	@lovly_y@Nour51728751/MENTION
+اللى	اللي/PRON
+فاقعنى	فاقع/ADJ-MS+ني/PRON
+انه	إن/PART+ه/PRON
+كمان	كمان/ADV
+لابس	لابس/ADJ-MS
+الساعة	ال/DET+ساع/NOUN-FS+ة/NSUFF
+(	(/PUNC
+اللى	اللي/PRON
+هى	هي/PRON
+مش	مش/PART
+اوميجا	أوميجا/NOUN-MS
+)	)/PUNC
+فى	في/PREP
+ايده اليمين	إيد/NOUN-FS+ه/PRON ال/DET+يمين/ADJ-MS
+-	-/PUNC
+يا	يا/PART
+عينى	عين/NOUN-FS+ي/PRON
+على	على/PREP
+الورع	ال/DET+ورع/NOUN-MS
+--------------------	-/PUNC
+عارفة	عارف/ADJ-MS+ة/NSUFF
+احساس	إحساس/NOUN-MS
+اني	إن/PART+ي/PRON
+بفتكر	ب/PROG-PART+أفتكر/V
+كلامك	كلام/NOUN-MS+ك/PRON
+الوحش	ال/DET+وحش/ADJ-MS
+ابقى	أبقى/V
+مش طايق	مش/PART طايق/ADJ-MS
+اشوفك	أشوف/V+ك/PRON
+و افتكر	و/CONJ+أفتكر/V
+ضحكتك	ضحك/NOUN-FS+ة/NSUFF+ك/PRON
+الحلوة	ال/DET+حلو/ADJ-FS+ة/NSUFF
+فا توحشيني	ف+/CONJ+توحش/V+ي/PRON+ني/PRON
+!	!/PUNC
+--------------------	-/PUNC
+لو	لو/PART
+مكنتش	ما/PART كن/V+ت/PRON+ش/NEG-PART
+هتخلف	ه/FUT-PART+تخلف/V
+عيل	عيل/NOUN-MS
+تعرف	تعرف/V
+تربيه	تربي/V+ه/PRON
+صح	صح/NOUN-MS
+يبقي	يبقى/ADV
+بلاش	بلاش/PART
+تقرف	تقرف/V
+المجتمع	ال/DET+مجتمع/NOUN-MS
+بعيال	ب/PREP+عيال/NOUN-FP
+زياده	زياد/NOUN-FS+ة/NSUFF
+عدد	عدد/NOUN-MS
+وخلاص	و/CONJ+خلاص/ADV
+...	./PUNC ./PUNC ./PUNC
+--------------------	-/PUNC
+العيادات	ال/DET+عياد/NOUN-FP+ات/NSUFF
+النهاردة	النهاردة/ADV
+كانت	كان/V+ت/PRON
+جامدة	جامد/ADJ-FS+ة/NSUFF
+جدا	جدا/ADV
+والاضراب	و/CONJ+ال/DET+إضراب/NOUN-MS
+كان	كان/V
+هايل	هايل/ADJ-MS
+الحقيقة	ال/DET+حقيق/NOUN-FS+ة/NSUFF
+في	في/PREP
+مستشفي	مستشفى/NOUN-FS
+راس	راس/NOUN-FS
+التين	ال/DET+تين/NOUN-MS
+العام	ال/DET+عام/ADJ-MS
+--------------------	-/PUNC
+عندك	عند/NOUN-MS+ك/PRON
+حد	حد/NOUN-MS
+بيهتم	ب/PROG-PART+يهتم/V
+بيك	بي/PREP+ك/PRON
+و بيخاف	و/CONJ+ب/PROG-PART+يخاف/V
+عليك	على/PREP+ك/PRON
+طب	طيب/ADJ-MS
+خلي بالك منه	خلي/V بال/NOUN-MS+ك/PRON من/PREP+ه/PRON
+بقا	بقى/ADV
+عشان	علشان/PART
+ده	ده/PRON
+مفيش	ما/PART في/PREP+ش/NEG-PART
+منه	من/PREP+ه/PRON
+كتير	كتير/ADJ-MS
+أو	أو/CONJ
+مفيش	ما/PART في/PREP+ش/NEG-PART
+منه	من/PREP+ه/PRON
+أصلن	أصلا/ADV
+#	#/HASH
+حقييقة	حقيق/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+تحية	تحي/NOUN-FS+ة/NSUFF
+لكل	ل/PREP+كل/NOUN-MS
+واحد	واحد/NOUN-MS
+كبر	كبر/V
+النهاردة	النهاردة/ADV
+ومانزلش	و/CONJ+ما/PART نزل/V+ش/NEG-PART
+،	،/PUNC
+تنزل	تنزل/V
+اول	أول/ADJ-MS
+يوم	يوم/NOUN-MS
+!!	!/PUNC !/PUNC
+دة	ده/PRON
+حتي	حتى/ADV
+وحشة	وحش/ADJ-FS+ة/NSUFF
+لما	لما/PART
+تتكتب	تتكتب/V
+في	في/PREP
+ال	ال/DET
+CV	CV/FOREIGN
+.	./PUNC
+--------------------	-/PUNC
+إنت	إنت/PRON
+معصوم	معصوم/ADJ-MS
+من	من/PREP
+الغلط	ال/DET+غلط/NOUN-MS
+؟	؟/PUNC
+!	!/PUNC
+لاء	لا/PART
+؟	؟/PUNC
+!	!/PUNC
+طب	طيب/ADJ-MS
+ليه	ليه/PART
+بقي	بقى/ADV
+بتحسسني	ب/PROG-PART+تحسس/V+ني/PRON
+لما	لما/PART
+بغلط	ب/PROG-PART+أغلط/V
+إن	إن/PART
+دي	دي/PRON
+نهاية	نهاي/NOUN-FS+ة/NSUFF
+العالم	ال/DET+عالم/NOUN-MS
+يعني	يعني/ADV
+!	!/PUNC
+--------------------	-/PUNC
+بنفضل	ب/PROG-PART+نفضل/V
+نقول	نقول/V
+للناس	ل/PREP+ال/DET+ناس/NOUN-MP
+مافيش	ما/PART في/PREP+ش/NEG-PART
+حاجة تستاهل	حاج/NOUN-FS+ة/NSUFF تستاهل/V
+والمفروض	و/CONJ+ال/DET+مفروض/ADJ-MS
+نقول	نقول/V
+لنفسنا	ل/PREP+نفس/NOUN-FS+نا/PRON
+الأول	ال/DET+أول/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+أهو	أهو/ADV
+الدكتور	ال/DET+دكتور/NOUN-MS
+بتاع	بتاع/NOUN-MS
+الإسكان	ال/DET+إسكان/NOUN-MS
+بيقول	ب/PROG-PART+يقول/V
+أن	أن/PART
+الغير	ال/DET+غير/NOUN-MS
+متزوجين	متزوج/ADJ-MP+ين/NSUFF
+بيعملوا	ب/PROG-PART+يعمل/V+وا/PRON
+أزمة	أزم/NOUN-FS+ة/NSUFF
+سكانية	سكاني/ADJ-FS+ة/NSUFF
+،	،/PUNC
+وأنا	و/CONJ+أنا/PRON
+هقف	ه/FUT-PART+أقف/V
+جنب	جنب/NOUN-MS
+مصر	مصر/NOUN-FS
+وهساعد	و/CONJ+ه/FUT-PART+أساعد/V
+في	في/PREP
+حل	حل/NOUN-MS
+المشكلة	ال/DET+مشكل/NOUN-FS+ة/NSUFF
+،	،/PUNC
+جوزونا	جوز/V+وا/PRON+نا/PRON
+بقى	بقى/ADV
+--------------------	-/PUNC
+المراه	ال/DET+مرأ/NOUN-FS+ة/NSUFF
+مش عايزه	مش/PART عايز/ADJ-FS+ة/NSUFF
+احتفالات	احتفال/NOUN-FP+ات/NSUFF
+المرأه	ال/DET+مرأ/NOUN-FS+ة/NSUFF
+عايزه	عايز/ADJ-FS+ة/NSUFF
+منك	من/PREP+ك/PRON
+احترام	احترام/NOUN-MS
+وهى	و/CONJ+هي/PRON
+ماشيه	ماشي/ADJ-FS+ة/NSUFF
+فشارع	في/PREP شارع/NOUN-MS
+متعكسهاش	ما/PART تعاكس/V+ها/PRON+ش/NEG-PART
+لو	لو/PART
+راكبه	راكب/ADJ-FS+ة/NSUFF
+مواصلات	مواصل/NOUN-FP+ات/NSUFF
+قوم	قوم/V
+انت	إنت/PRON
+وهى	و/CONJ+هي/PRON
+تعد	تقعد/V
+عايزه	عايز/ADJ-FS+ة/NSUFF
+احترام	احترام/NOUN-MS
+وبس	و/CONJ+بس/ADV
+--------------------	-/PUNC
+محدش	ما/PART حد/NOUN-MS+ش/NEG-PART
+بيختار	ب/PROG-PART+يختار/V
+آهلة	أهل/NOUN-MS+ه/PRON
+أو	أو/CONJ
+حياتة	حيا/NOUN-FS+ة/NSUFF+ه/PRON
+بس	بس/PART
+بتقدر	ب/PROG-PART+تقدر/V
+تختار	تختار/V
+وتحدد	و/CONJ+تحدد/V
+صحابك	صحاب/NOUN-MP+ك/PRON
+،	،/PUNC
+مستقبلك	مستقبل/NOUN-MS+ك/PRON
+،	،/PUNC
+حلمك	حلم/NOUN-MS+ك/PRON
+متخليش	ما/PART تخلي/V+ي/PRON+ش/NEG-PART
+حد	حد/NOUN-MS
+يحسسك	يحسس/V+ك/PRON
+انك	إن/PART+ك/PRON
+أقل	أقل/ADJ-MS
+منة	من/PREP+ه/PRON
+مهما	مهما/PART
+كان	كان/V
+السبب	ال/DET+سبب/NOUN-MS
+--------------------	-/PUNC
+ممكن	ممكن/ADJ-MS
+يكون	يكون/V
+العيب	ال/DET+عيب/NOUN-MS
+فينا	في/PREP+نا/PRON
+ان	إن/PART
+مش	مش/PART
+عاجبنا	عاجب/ADJ-MS+نا/PRON
+حالنا	حال/NOUN-MS+نا/PRON
+لازم	لازم/ADJ-MS
+تبدأ	تبدأ/V
+تحب	تحب/V
+نفسك	نفس/NOUN-FS+ك/PRON
+و تشوفها	و/CONJ+تشوف/V+ها/PRON
+حلوة	حلو/ADJ-FS+ة/NSUFF
+عشان	علشان/PART
+الناس	ال/DET+ناس/NOUN-MP
+كمان	كمان/ADV
+تشوفك	تشوف/V+ك/PRON
+كدة	كده/ADV
+لأن	ل/PREP+أن/PART
+ببساطة	ب/PREP+بساط/NOUN-FS+ة/NSUFF
+محدش	ما/PART حد/NOUN-MS+ش/NEG-PART
+هيحبك	ه/FUT-PART+يحب/V+ك/PRON
+وانت	و/CONJ+أنت/PRON
+مبتحبش	ما/PART ب/PROG-PART+تحب/V+ش/NEG-PART
+نفسك	نفس/NOUN-FS+ك/PRON
+(	(/PUNC
+2	2/NUM
+)	)/PUNC
+--------------------	-/PUNC
+انتوا	إنتو/PRON
+مش	مش/PART
+متخيلين	متخيل/ADJ-MP+ين/NSUFF
+انا	إن/PART
+بكره	بكرة/ADV
+الكليه	ال/DET+كلي/NOUN-FS+ة/NSUFF
+ازاى	إزاي/PART
+...	./PUNC ./PUNC ./PUNC
+انا	أنا/PRON
+بمشى	ب/PROG-PART+أمشي/V
+استخبى	أستخبى/V
+من	من/PREP
+الناس	ال/DET+ناس/NOUN-MP
+اللى	اللي/PART
+مبحبهاش	ما/PART ب/PROG-PART+أحب/V+ها/PRON+ش/NEG-PART
+و دول	و/CONJ+دول/PRON
+كتير	كتير/ADJ-MS
+--------------------	-/PUNC
+لما	لما/PART
+اجى	آجي/V
+اغسل	أغسل/V
+سنانى	سنان/NOUN-FP+ي/PRON
+واشم	و/CONJ+أشم/V
+ريحة	ريح/NOUN-FS+ة/NSUFF
+مجارى	مجاري/NOUN-FP
+ف	ف/PREP
+ام المياة	أم/NOUN-FS ال/DET+مياه/NOUN-FP
+تبقى	تبقى/V
+عيشة	عيش/NOUN-FS+ة/NSUFF
+تقرف	تقرف/V
+حتى	حتى/PART
+المياة	ال/DET+مياه/NOUN-FP
+مش عارفين	مش/PART عارف/ADJ-MP+ين/NSUFF
+نشربها	نشرب/V+ها/PRON
+اييييييييييييييييييييييييييييييييييييية	إيه/PART
+الذل دة	ال/DET+ذل/NOUN-MS ده/PRON
+--------------------	-/PUNC
+ببقى	ب/PROG-PART+أبقى/V
+محرج	محرج/ADJ-MS
+من	من/PREP
+الناس	ال/DET+ناس/NOUN-MP
+اللى	اللي/PART
+عمرى	عمر/NOUN-MS+ي/PRON
+ماشوفت	ما/PART شف/V+ت/PRON
+منهم	من/PREP+هم/PRON
+حاجة وحشة	حاج/NOUN-FS+ة/NSUFF وحش/NOUN-FS+ة/NSUFF
+بس	بس/PART
+فيه	في/PREP+ه/PRON
+حاجز	حاجز/NOUN-MS
+نفسى	نفس/ADJ-MS
+ناحيتهم	ناحي/NOUN-FS+ة/NSUFF+هم/PRON
+لمجرد	ل/PREP+مجرد/NOUN-MS
+انهم	إن/PART+هم/PRON
+بيفكرونى	ب/PROG-PART+يفكر/V+وا/PRON+ني/PRON
+بأيام	ب/PREP+أيام/NOUN-FP
+زبالة	زبال/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+معنديش	ما/PART عند/NOUN-MS+ي/PRON+ش/NEG-PART
+صحاب	صحاب/NOUN-MP
+في	في/PREP
+الحقيقة	ال/DET+حقيق/NOUN-FS+ة/NSUFF
+اخرج	أخرج/V
+معاهم	معا/PART+هم/PRON
+والكلام ده	و/CONJ+ال/DET+كلام/NOUN-MS ده/PRON
+عشان	علشان/PART
+كل	كل/NOUN-MS
+اللي	اللي/PART
+اعرفهم	أعرف/V+هم/PRON
+في	في/PREP
+الحقيقة	ال/DET+حقيق/NOUN-FS+ة/NSUFF
+بيكرهوا	ب/PROG-PART+يكره/V+وا/PRON
+بعض	بعض/NOUN-MS
+وبيمثلوا	و/CONJ+ب/PROG-PART+يمثل/V+وا/PRON
+انهم	إن/PART+هم/PRON
+بيحبوا	ب/PROG-PART+يحب/V+وا/PRON
+بعض	بعض/NOUN-MS
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+البنت	ال/DET+بنت/NOUN-FS
+اللى	اللي/PRON
+بتسكت	ب/PROG-PART+تسكت/V
+كتير	كثير/ADV
+بتعيط	ب/PROG-PART+تعيط/V
+كتير	كثير/ADV
+!	!/PUNC
+وربنا	و/CONJ+رب/NOUN-MS+نا/PRON
+يكفيك	يكفي/V+ك/PRON
+شر	شر/NOUN-MS
+البنت	ال/DET+بنت/NOUN-FS
+لما	لما/PART
+تكون	تكون/V
+مبسوطه	مبسوط/ADJ-FS+ة/NSUFF
+هتصدعك	ه/FUT-PART+تصدع/V+ك/PRON
+من	من/PREP
+كتر	كتر/NOUN-MS
+الكلام	ال/DET+كلام/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+المصري	ال/DET+مصري/NOUN-MS
+الوحيد	ال/DET+وحيد/ADJ-MS
+اللى	اللي/PRON
+لو	لو/PART
+حصلتله	حصل/V+ت/PRON ل/PREP+ه/PRON
+مصيبه	مصيب/NOUN-FS+ة/NSUFF
+وعرف	و/CONJ+عرف/V
+انها	إن/PART+ها/PRON
+مش	مش/PART
+عنده	عند/NOUN-MS+ه/PRON
+لوحده	ل/PREP+وحد/NOUN-MS+ه/PRON
+يرتاح	يرتاح/V
+يعنى	يعني/V
+مثلا	مثلا/ADV
+لو	لو/PART
+النور	ال/DET+نور/NOUN-MS
+قـطع	قطع/V
+يروح	يروح/V
+يبص	يبص/V
+عند	عند/NOUN-MS
+جاره	جار/NOUN-MS+ه/PRON
+لو	لو/PART
+لقاه	لقى/V+ه/PRON
+قاطع	قاطع/ADJ-MS
+يرتاح	يرتاح/V
+--------------------	-/PUNC
+@ehabammar1@esslamhassan2	@ehabammar1@esslamhassan2/MENTION
+هما	هما/PRON
+عاوزين	عايز/ADJ-MP+ين/NSUFF
+كد	كده/ADV
+ويبقوا	و/CONJ+يبق/V+وا/PRON
+ضحايا	ضحايا/NOUN-MP
+بس	بس/ADV
+في	في/PREP
+ستين	ستين/NUM
+الف	ألف/NUM
+داهيه	داهي/NOUN-FS+ة/NSUFF
+خونه	خون/NOUN-MP+ة/NSUFF
+خدوا	خد/V+وا/PRON
+كتير	كتير/ADV
+من	من/PREP
+مصر	مصر/NOUN-FS
+وفي	و/CONJ+في/PREP
+اﻻخر	ال/DET+آخر/NOUN-MS
+خربوها	خرب/V+وا/PRON+ها/PRON
+--------------------	-/PUNC
+#	#/HASH
+البلد دي	ال/DET+بلد/NOUN-FS دي/PRON
+مشكلتها	مشكل/NOUN-FS+ة/NSUFF+ها/PRON
+ان	إن/PART
+كل	كل/NOUN-MS
+واحد	واحد/NOUN-MS
+شايف	شايف/ADJ-MS
+نفسة	نفس/NOUN-FS+ه/PRON
+هو	هو/PRON
+بس	بس/ADV
+ال صح	ال/DET+صح/NOUN-MS
+#	#/HASH
+و مبيشوفش	و/CONJ+ما/PART ب/PROG-PART+يشوف/V+ش/NEG-PART
+غير	غير/NOUN-MS
+غلطات	غلط/NOUN-FP+ات/NSUFF
+الناس	ال/DET+ناس/NOUN-MP
+#	#/HASH
+بس	بس/PART
+ياريت	يا/PART ريت/NOUN-MS
+كل	كل/NOUN-MS
+واحد	واحد/NOUN-MS
+يغير	يغير/V
+من	من/PREP
+نفسة	نفس/NOUN-FS+ه/PRON
+الاول	ال/DET+أول/ADJ-MS
+:)	:)/EMOT
+--------------------	-/PUNC
+#	#/HASH
+في	في/PREP
+_	_/PUNC
+عالم	عالم/NOUN-MS
+_	_/PUNC
+موازي	موازي/ADJ-MS
+اتنين	اتنين/NUM
+فضلوا	فضل/V+وا/PRON
+يحبوا	يحب/V+وا/PRON
+بعض	بعض/NOUN-MS
+وعاهدوا	و/CONJ+عاهد/V+وا/PRON
+بعض	بعض/NOUN-MS
+انهم	إن/PART+هم/PRON
+يتجوززوا	يتجوز/V+وا/PRON
+وحصل	و/CONJ+حصل/V
+واتجوزوا	و/CONJ+اتجوز/V+وا/PRON
+وخلفوا	و/CONJ+خلف/V+وا/PRON
+عيال	عيال/NOUN-MP
+مؤدبة	مؤدب/ADJ-FS+ة/NSUFF
+خالص	خالص/ADV
+.	./PUNC
+--------------------	-/PUNC
+الثوار	ال/DET+ثوار/NOUN-MP
+اللي	اللي/PART
+شايفين	شايف/ADJ-MS+ين/PRON
+البرادعي	ال/DET+برادعي/NOUN-MS
+أيقونة	أيقون/NOUN-FS+ة/NSUFF
+وبيدعموا	و/CONJ+ب/PROG-PART+يدعم/V+وا/PRON
+حمدين	حمدين/NOUN-MS
+اللي	اللي/PRON
+الأيقونة	ال/DET+أيقون/NOUN-FS+ة/NSUFF
+قال	قال/V
+عليه	على/PREP+ه/PRON
+زبال	زبال/NOUN-MS
+ومتخلف	و/CONJ+متخلف/ADJ-MS
+بيعملوا إيه	ب/PROG-PART+يعمل/V+وا/PRON إيه/PART
+دلوقتي	دلوقتي/ADV
+؟	؟/PUNC
+أكيد	أكيد/ADJ-MS
+بيدخلوا	ب/PROG-PART+يدخل/V+وا/PRON
+في	في/PREP
+الحيطان	ال/DET+حيطان/NOUN-FP
+زي	زي/NOUN-MS
+الوطواط	ال/DET+وطواط/NOUN-MS
+--------------------	-/PUNC
+ايوة	نعم/PART
+اتغيرت	اتغير/V+ت/PRON
+..	./PUNC ./PUNC
+فيها اية	في/PREP+ها/PRON إيه/PART
+يعني	يعني/ADV
+!!	!/PUNC !/PUNC
+ماهو	ما/PART هو/PRON
+مفيش	ما/PART في/PREP+ش/NEG-PART
+حاجة بتفضل	حاج/NOUN-FS+ة/NSUFF ب/PROG-PART+تفضل/V
+علي	على/PREP
+حالها	حال/NOUN-MS+ها/PRON
+،،	،/PUNC ،/PUNC
+اشمعنا انا	إشمعنى/PART أنا/PRON
+هفضل	ه/FUT-PART+أفضل/V
+علي	على/PREP
+حالي	حال/NOUN-MS+ي/PRON
+--------------------	-/PUNC
+يعني	يعني/ADV
+اللي	اللي/PART
+قعدوا	قعد/V+وا/PRON
+سارقين	سارق/ADJ-MP+ين/NSUFF
+البلد	ال/DET+بلد/NOUN-FS
+30	30/NUM
+سنة	سن/NOUN-FS+ة/NSUFF
+و قتلوا	و/CONJ+قتل/V+وا/PRON
+المتظاهرين	ال/DET+متظاهر/NOUN-MP+ين/NSUFF
+بيأخدوا	ب/PROG-PART+يأخد/V+وا/PRON
+براءات	براء/NOUN-FP+ات/NSUFF
+و الشريف	و/CONJ+ال/DET+شريف/ADJ-MS
+يأخد	يأخد/V
+اعدام	إعدام/NOUN-MS
+لمجرد	ل/PREP+مجرد/NOUN-MS
+انة	إن/PART+ه/PRON
+نزل	نزل/V
+فى	في/PREP
+مظاهرات	مظاهر/NOUN-FP+ات/NSUFF
+http://t.co/0pKKpC92Ap	http:\\t.co\0pKKpC92Ap/URL
+--------------------	-/PUNC
+لو عايز	لو/PART عايز/ADJ-MS
+تنام	تنام/V
+ومش عارف	و/CONJ+مش/PART عارف/ADJ-MS
+،	،/PUNC
+قوم	قوم/V
+ذاكر	ذاكر/V
+وإن	و/CONJ+إن/PART
+شاء	شاء/V
+الله	الله/NOUN-MS
+ربنا	رب/NOUN-MS+نا/PRON
+هيوفقك	ه/FUT-PART+يوفق/V+ك/PRON
+،	،/PUNC
+وتنام	و/CONJ+تنام/V
+D:	D:/EMOT
+--------------------	-/PUNC
+انت	إنت/PRON
+الواحيد	ال/DET+وحيد/ADJ-MS
+اللى	اللي/PRON
+عارف	عارف/ADJ-MS
+امتى	إمتى/PART
+تقف	تقف/V
+وامتى	و/CONJ+إمتى/PART
+تكمل	تكمل/V
+متخليش	ما/PART تخلي/V+ي/PRON+ش/NEG-PART
+حد	حد/NOUN-MS
+يحبطك	يحبط/V+ك/PRON
+انت	إنت/PRON
+مفتاح	مفتاح/NOUN-MS
+نجاحك	نجاح/NOUN-MS+ك/PRON
+:)	:)/EMOT
+--------------------	-/PUNC
+لا	لا/PART
+انا	أنا/PRON
+مش	مش/PART
+مضايق	متضايق/ADJ-MS
+انا	أنا/PRON
+كويس	كويس/ADJ-MS
+اهو	أهو/ADV
+ومش	و/CONJ+مش/PART
+مخنوق	مخنوق/ADJ-MS
+كمان	كمان/ADV
+انا	أنا/PRON
+زي الفل	زي/NOUN-MS ال/DET+فل/NOUN-MS
+ومن	و/CONJ+من/REP
+جوايا	جوا/NOUN-FS+يا/PRON
+بقول	ب/PROG-PART+أقول/V
+ل لساني	ل/PREP+لسان/NOUN-MS+ي/PRON
+خف	خف/V
+كدب	كدب/NOUN-MS
+--------------------	-/PUNC
+@CAP_SHADY	@CAP_SHADY/MENTION
+دي	دي/PRON
+حقيقه	حقيق/NOUN-FS+ة/NSUFF
+للاسف	ل/PREP+ال/DET+أسف/NOUN-MS
+الواحد	ال/DET+واحد/NOUN-MS
+بقي	بقى/V
+بيقول	ب/PROG-PART+يقول/V
+الفاظ	ألفاظ/NOUN-FP
+ملهاش	ما/PART ل/PREP+ها/PRON+ش/NEG-PART
+اي	أي/PART
+علاقه	علاق/NOUN-FS+ة/NSUFF
+بتربيته	ب/PREP+تربي/NOUN-FS+ة/NSUFF+ه/PRON
+ابويا	أبو/NOUN-MS+يا/PRON
+لو	لو/PART
+عرف	عرف/V
+هيدبحني	ه/FUT-PART+يدبح/V+ني/PRON
+شقا	شقى/NOUN-MS
+عمره	عمر/NOUN-MS+ه/PRON
+منهم	ب/PREP+هم/PRON
+لله	ل/PREP+الله/NOUN-MS
+الباردين	ال/DET+بارد/ADJ-MP+ين/NSUFF
+--------------------	-/PUNC
+لما	لما/PART
+بتحس	ب/PROG-PART+تحس/V
+ان	إن/PART
+في حد	في/PREP+ه/PRON حد/NOUN-MS
+مركز	مركز/ADJ-MS
+معاك	معا/PART+ك/PRON
+و باصص	و/CONJ+باصص/ADJ-MS
+عليك	على/PREP+ك/PRON
+غبائك	غباء/NOUN-MS+ك/PRON
+و هبلك	و/CONJ+هبل/NOUN-MS+ك/PRON
+بيزيدوا	ب/PROG-PART+يزيد/V+وا/PRON
+بغباء	ب/PREP+غباء/NOUN-MS
+بقى	بقى/ADV
+!	!/PUNC
+--------------------	-/PUNC
+لو متهمنيش	لو/PART ما/PART تهم/V+ني/PRON+ش/NEG-PART
+..	./PUNC ./PUNC
+كان	كان/V
+من بدري	من/PREP بدري/ADJ-MS
+اسيبك	أسيب/V+ك/PRON
+واعيش	و/CONJ+أعيش/V
+..	./PUNC ./PUNC
+ولا	و/CONJ+لا/PART
+كنت	كن/V+ت/PRON
+ارجع	أرجع/V
+اقول	أقول/V
+حبيبي	حبيب/NOUN-MS+ي/PRON
+..	./PUNC ./PUNC
+مين	مين/PART
+هيبقى	ه/FUT-PART+يبقي/V
+عليك	على/PREP+ك/PRON
+كده	كده/ADV
+؟؟	؟/PUNC ؟/PUNC
+:)	:)/EMOT
+--------------------	-/PUNC
+خليك	خل/V+ي/PRON+ك/PRON
+#	#/HASH
+متفائل	متفائل/ADJ-MS
+لدرجة أن	ل/PREP+درج/NOUN-FS+ة/NSUFF أن/PART
+لو	لو/PART
+حصلت	حصل/V+ت/PRON
+لك	ل/PREP+ك/PRON
+مشكلة	مشكل/NOUN-FS+ة/NSUFF
+مااتضاايقش	ما/PART تتضايق/V+ش/NEG-PART
+على أاد	ب/PREP قد/NOUN-MS
+ماا	ما/PART
+المفروض	ال/DET+مفروض/ADJ-MS
+تفرح	تفرح/V
+علشاان	علشان/PART
+هتقربك	ه/FUT-PART+تقرب/V+ك/PRON
+أكتر	أكتر/ADJ-MS
+من	من/PREP
+#	#/HASH
+ربناا	رب/NOUN-MS+نا/PRON
+...	./PUNC ./PUNC ./PUNC
+--------------------	-/PUNC
+روح	روح/V
+هاتلك	هات/V ل/PREP+ك/PRON
+شيكولاته	شيكولات/NOUN-FS+ة/NSUFF
+بتحبها	ب/PROG-PART+تحب/V+ها/PRON
+..	./PUNC ./PUNC
+انزل	انزل/V
+اقابل	أقابل/V
+اصحابك	أصحاب/NOUN-MP+ك/PRON
+..	./PUNC ./PUNC
+اقفل	اقفل/V
+النور	ال/DET+نور/NOUN-MS
+وشغل	و/CONJ+شغل/V
+فيلم	فيلم/NOUN-MS
+بتحبه	ب/PROG-PART+تحب/V+ه/PRON
+..	./PUNC ./PUNC
+شغل	شغل/V
+اغاني	أغاني/NOUN-FP
+دوشة	دوش/NOUN-FS+ة/NSUFF
+وارقص	و/CONJ+ارقص/V
+عليها	على/PREP+ها/PRON
+..	./PUNC ./PUNC
+برضه	برضه/ADV
+الاكتئاب	ال/DET+اكتئاب/NOUN-MS
+مش حيروح	مش/PART ه/FUT-PART+يروح/V
+يا	يا/PART
+اهبل	أهبل/NOUN-MS
+:D	:D/EMOT
+--------------------	-/PUNC
+ربنا	رب/NOUN-MS+نا/PRON
+يكفيكوا	يكفي/V+كم/PRON
+شر	شر/NOUN-MS
+بيت	بيت/NOUN-MS
+كل	كل/NOUN-MS
+اودة	أوض/NOUN-FS+ة/NSUFF
+فيه	في/PREP+ه/PRON
+قاعد	قاعد/ADJ-MS
+فيها	في/PREP+ها/PRON
+حد	حد/NOUN-MS
+وانت	و/CONJ+أنت/PRON
+مش لاقي	مش/PART لاقي/ADJ-MS
+مكان	مكان/NOUN-MS
+تعيط	تعيط/V
+فيه	في/PREP+ه/PRON
+-.-	-.-/EMOT
+--------------------	-/PUNC
+اوقات	أوقات/NOUN-FP
+بشوف	ب/PROG-PART+أشوف/V
+حاجات	حاج/NOUN-FP+ات/NSUFF
+غريبه	غريب/ADJ-FS+ة/NSUFF
+بخاف	ب/PROG-PART+أخاف/V
+اقول	أقول/V
+انها	إن/PART+ها/PRON
+غريبه	غريب/ADJ-FS+ة/NSUFF
+احسن	أحسن/ADJ-MS
+الناس	ال/DET+ناس/NOUN-MP
+تقول	تقول/V
+عليا	على/PREP+يا/PRON
+غريب	غريب/ADJ-MS
+و ده	و/CONJ+ده/PRON
+بقى	بقى/PART
+الغريب	ال/DET+غريب/ADJ-MS
+فى	في/PREP
+الموضوع	ال/DET+موضوع/NOUN-MS
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+ما	ما/PART
+تسجنش	تسجن/V+ش/NEG-PART
+نفسك	نفس/NOUN-FS+ك/PRON
+جو	جو/NOUN-FS+ة/NSUFF
+حوار	حوار/NOUN-MS
+معين	معين/ADJ-MS
+خليك عارف	خل/V+ي/PRON+ك/PRON عارف/ADJ-MS
+تتكلم	تتكلم/V
+فى	في/PREP
+اى	أي/PART
+حاجه	حاج/NOUN-FS+ة/NSUFF
+دى	دي/PRON
+الحياة	ال/DET+حيا/NOUN-FS+ة/NSUFF
+والله	و/CONJ+الله/NOUN-MS
+بس	بس/PART
+عشها	عش/V+ها/PRON
+صح	صح/NOUN-MS
+هتحبها	ه/FUT-PART+تحب/V+ها/PRON
+وحتبك	و/CONJ+ه/FUT-PART+تحب/V+ك/PRON
+--------------------	-/PUNC
+بلاش	بلاش/PART
+تحكم	تحكم/V
+علي	على/PREP
+حد	حد/NOUN-MS
+من	من/PREP
+المظهر	ال/DET+مظهر/NOUN-MS
+أو	أو/CONJ
+من بره	من/PREP بر/NOUN-FS+ة/NSUFF
+بس	بس/ADV
+,	,/PUNC
+هو	هو/PRON
+ممكن	ممكن/ADJ-MS
+يبان	يبان/V
+أدامك	قدام/NOUN-MS+ك/PRON
+أنه	أن/PART+ه/PRON
+أسعد	أسعد/NOUN-FS
+واحد	واحد/NOUN-MS
+في	في/PREP
+الدنيا	ال/DET+دنيا/NOUN-FS
+بس هو	بس/PART هو/PRON
+من	من/PREP
+جواه	جوا/NOUN-FS+ه/PRON
+ميت	ميت/ADJ-MS
+,,	,/PUNC ,/PUNC
+:)	:)/EMOT
+!	!/PUNC
+--------------------	-/PUNC
+هو	هو/PRON
+انت	أنت/PRON
+ي بني	يا/PART بن/NOUN-MS+ي/PRON
+مش	مش/PART
+بتنام	ب/PROG-PART+تنام/V
+غير	غير/NOUN-MS
+فى	في/PREP
+محاضراتى	محاضر/NOUN-FP+ات/NSUFF+ي/PRON
+؟؟	؟/PUNC ؟/PUNC
+ما	ما/PART
+حضرتك	حضر/NOUN-MS+ة/NSUFF+ك/PRON
+دايما	دايما/ADV
+بتوفر	ب/PROG-PART+توفر/V
+الجو	ال/DET+جو/NOUN-MS
+المناسب	ال/DET+مناسب/ADJ-MS
+للنوم	ل/PREP+ال/DET+نوم/NOUN-MS
+بصراحه	ب/PREP+صراح/NOUN-FS+ة/NSUFF
+!	!/PUNC
+#	#/HASH
+يا	يا/PART
+_	_/PUNC
+دكتور	دكتور/NOUN-MS
+--------------------	-/PUNC
+الو	ألو/NOUN-MS
+ماكدونلز	ماكدونالدز/NOUN-MS
+؟	؟/PUNC
+ايوة	أيوة/PART
+يا	يا/PART
+فندم	فندم/NOUN-MS
+طاب	طيب/ADJ-MS
+معاك	معا/PART+ك/PRON
+ماما	ماما/NOUN-FS
+اهو	أهو/ADV
+قولها	قول/V ل/PREP+ها/PRON
+بالظبط	ب/PREP+ال/DET+ظبط/NOUN-MS
+بتعملو	ب/PROG-PART+تعمل/V+وا/PRON
+البطاطس	ال/DET+بطاطس/NOUN-FS
+بتاعتكو	بتاع/NOUN-FS+ة/NSUFF+كم/PRON
+ازاى	إزاي/PART
+خدي	خد/V+ي/PRON
+يا	يا/PART
+ماما	ماما/NOUN-FS
+كلمي	كلم/V+ي/PRON
+--------------------	-/PUNC
+انا	أنا/PRON
+لما	لما/PART
+حد يسألني	حد/NOUN-MS يسأل/V+ني/PRON
+برجك	برج/NOUN-MS+ك/PRON
+ايه	إيه/PART
+بتكسف	ب/PROG-PART+أتكسف/V
+اقوله	أقول/V ل/PREP+ه/PRON
+العذاراء	ال/DET+عذراء/NOUN-FS
+بصراحة	ب/PREP+صراح/NOUN-FS+ة/NSUFF
+احا	أحا/NOUN-MS
+اصلا	أصلا/ADV
+مين	مين/PART
+اللي	اللي/PRON
+سمي	سمى/V
+الابراج دي	ال/DET+أبراج/NOUN-FP دي/PRON
+--------------------	-/PUNC
+و انت	و/CONJ+إنت/PRON
+ماشي	ماشي/ADJ-MS
+مع	مع/PART
+حد	حد/NOUN-MS
+و بتدور	و/CONJ+ب/PROG-PART+تدور/V
+علي	على/PREP
+حد	حد/NOUN-MS
+تاني	تاني/ADJ-MS
+في	في/PREP
+وشوش	وشوش/NOUN-FP
+الناس	ال/DET+ناس/NOUN-MP
+..	./PUNC ./PUNC
+اعرف	اعرف/V
+انك	إن/PART+ك/PRON
+مش	مش/PART
+بتحتجله	ب/PROG-PART+تحتاج/V ل/PREP+ه/PRON
+..	./PUNC ./PUNC
+و مش ده	و/CONJ+مش/PART ده/PRON
+اللي انت عاوزوه	اللي/PRON إنت/PRON عايز/ADJ-MS+ه/PRON
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+وفضلوا	و/CONJ+فضل/V+وا/PRON
+يتريأوا	يتريق/V+وا/PRON
+عليهم	على/PREP+هم/PRON
+وانتوا	و/CONJ+إنتو/PRON
+جايين	قادم/ADJ-FS+ين/NSUFF
+تعملوا ايه	تعمل/V+وا/PRON إيه/PART
+دا	ده/PRON
+انتوا	إنتو/PRON
+مهما	مهما/PART
+عملتوا	عمل/V+تم/PRON
+ماحدش هيسمع	ما/PART حد/NOUN-MS+ش/NEG-PART ه/FUT-PART+يسمع/V
+والشيوخ	و/CONJ+ال/DET+شيوخ/NOUN-MP
+فضلوا	فضل/V+وا/PRON
+يكلموهم	يكلم/V+وا/PRON+هم/PRON
+عن	عن/PREP
+الحرام	ال/DET+حرام/NOUN-MS
+والحلال	و/CONJ+ال/DET+حلال/NOUN-MS
+لحد ما	ل/PREP+حد/NOUN-MS ما/PART
+الشباب	ال/DET+شباب/NOUN-MP
+هديوا	هدي/V+وا/PRON
+-	-/PUNC
+3	3/NUM
+--------------------	-/PUNC
+انا	أنا/PRON
+غلطانه	غلطان/ADJ-FS+ة/NSUFF
+اني	إن/PART+ي/PRON
+سمعت	سمع/V+ت/PRON
+كلام	كلام/NOUN-MS
+ماما	ماما/NOUN-FS
+نجوي	نجوى/NOUN-MS
+لما	لما/PART
+قالت	قال/V+ت/PRON
+سامح	سامح/V
+ياسامح	يا/PART سامح/NOUN-MS
+سامح	سامح/V
+خليك	خل/V+ي/PRON+ك/PRON
+مسامح	مسامح/ADJ-MS
+سامح	سامح/V
+كان	كان/V
+لازم	لازم/ADJ-MS
+ياخدوا	يأخد/V+وا/PRON
+بالجزمه	ب/PREP+ال/DET+جزم/NOUN-FS+ة/NSUFF
+احنا	إحنا/PRON
+جيل	جيل/NOUN-MP
+اتربي	اتربى/V
+غلط	غلط/NOUN-MS
+--------------------	-/PUNC
+نفسى	نفس/NOUN-FS+ي/PRON
+امى	أم/NOUN-FS+ي/NSUFF
+تقتنع	تقتنع/V
+انى	إن/PART+ي/PRON
+لما	لما/PART
+هطلع	ه/FUT-PART+أطلع/V
+العصير	ال/DET+عصير/NOUN-MS
+لصحابى	ل/PREP+صحاب/NOUN-MP+ي/PRON
+من غير	ب/PREP غير/NOUN-MS
+صينية	صيني/NOUN-FS+ة/NSUFF
+هيشربوة	ه/FUT-PART+يشرب/V+وا/PRON+ه/PRON
+عادى	عادي/ADJ-MS
+دول	دول/PRON
+مبيقولوش	ما/PART ب/PROG-PART+يقول/V+وا/PRON+ش/NEG-PART
+لأ	لا/PART
+:D	:D/EMOT
+--------------------	-/PUNC
+@ibrahem_mhlb	@ibrahem_mhlb/MENTION
+@Nsaaemm	@Nsaaemm/MENTION
+حزب	حزب/NOUN-MS
+النور	ال/DET+نور/NOUN-MS
+شعارهم	شعار/NOUN-MS+هم/PRON
+"	"""/PUNC
+"
+شغال	شغال/ADJ-MS
+فى	في/PREP
+اى	أي/PART
+مجال	مجال/NOUN-MS
+،	،/PUNC
+نساند	نساند/V
+اى	أي/PART
+حد	حد/NOUN-MS
+ونبوس	و/CONJ+نبوس/V
+ايده	إيد/NOUN-FS+ه/PRON
+ما	ما/PART
+دامت	دام/V+ت/PRON
+القوة	ال/DET+قو/NOUN-FS+ة/NSUFF
+معه	مع/PART+ه/PRON
+"	"""/PUNC
+"
+من	من/PREP
+الآخر	ال/DET+آخر/NOUN-MS
+يخافوا	يخاف/V+وا/PRON
+مايختشوش	ما/PART يختشي/V+وا/PRON+ش/NEG-PART
+--------------------	-/PUNC
+شايف	شايف/ADJ-MS
+الواد	ال/DET+واد/NOUN-MS
+اللي	اللي/PRON
+هناك	هناك/ADV
+ده	ده/PRON
+بس	بس/PART
+متبصلوش	ما/PART تبص/V ل/PREP+هو/PRON+ش/NEG-PART
+؟؟	؟/PUNC ؟/PUNC
+بقولك	ب/PROG-PART+أقول/V ل/PREP+ك/PRON
+متبصلوش	ما/PART تبص/V ل/PREP+هو/PRON+ش/NEG-PART
+؟!!	؟/PUNC !/PUNC !/PUNC
+بصتلو	بصي/V+ت/PRON ل/PREP+ه/PRON
+بردو	برضه/ADV
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+ايوه	نعم/PART
+انا	أنا/PRON
+اللى	اللي/PRON
+بيتغير	ب/PROG-PART+يتغير/V
+المود بتاعه	ال/DET+مود/NOUN-MS بتاع/NOUN-MS+ه/PRON
+على	على/PREP
+حسب	حسب/NOUN-MS
+الاغنيه	ال/DET+أغني/NOUN-FS+ة/NSUFF
+اللى	اللي/PRON
+بيسمعها	ب/PROG-PART+يسمع/V+ها/PRON
+..	./PUNC ./PUNC
+حلوه	حلو/ADJ-FS+ة/NSUFF
+افرح	أفرح/V
+..	./PUNC ./PUNC
+وحشه	وحش/ADJ-FS+ة/NSUFF
+ازعل	أزعل/V
+تحس	تحس/V
+انى	إن/PART+ي/PRON
+زايط	زايط/ADJ-MS
+فى	في/PREP
+الزيطه	ال/DET+زيط/NOUN-FS+ة/NSUFF
+xD	xD/EMOT
+--------------------	-/PUNC
+كل واحد فينا	كل/NOUN-MS واحد/NOUN-MS في/PREP+نا/PRON
+اول	أول/ADJ-MS
+ما	ما/PART
+بتيجى	ب/PROG-PART+تيج/V+ي/PRON
+سيرة	سير/NOUN-FS+ة/NSUFF
+قلة	قل/NOUN-FS+ة/NSUFF
+الاصل	ال/DET+أصل/NOUN-MS
+ادامه	قدام/NOUN-MS+ه/PRON
+..	./PUNC ./PUNC
+بيفتكر	ب/PROG-PART+يفتكر/V
+اتوماتيك	أتوماتيك/ADJ-MS
+شخص	شخص/NOUN-MS
+معين	معين/ADJ-MS
+#	#/HASH
+حقيقة	حقيق/NOUN-FS+ة/NSUFF
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+حتى	حتى/PART
+لو	لو/PART
+بتعمل	ب/PROG-PART+تعمل/V
+كل	كل/NOUN-MS
+حاجة غلط	حاج/NOUN-FS+ة/NSUFF غلط/NOUN-MS
+ف	في/PREP
+الدنيا	ال/DET+دنيا/NOUN-FS
+،	،/PUNC
+بس	بس/PART
+لسة	لسة/ADV
+جواك	جوا/NOUN-FS+ك/PRON
+نقطة	نقط/NOUN-FS+ة/NSUFF
+ضمير	ضمير/NOUN-MS
+حاول	حاول/V
+تصحيها	تصح/V+ي/PRON+ها/PRON
+عشان	علشان/PART
+لو	لو/PART
+ماتت	مات/V+ت/PRON
+اعتبر	اعتبر/V
+نفسك	نفس/NOUN-FS+ك/PRON
+مش	مش/PART
+موجود	موجود/ADJ-MS
+!	!/PUNC
+--------------------	-/PUNC
+بعد ما	بعد/NOUN-MS ما/PART
+قفل	قفل/V
+مع	مع/PART
+الشيخ	ال/DET+شيخ/NOUN-MS
+جت	ج/V+ت/PRON
+عربية	عربي/NOUN-FS+ة/NSUFF
+نص	نصف/NOUN-MS
+نقل	نقل/NOUN-MS
+كبيرة	كبير/ADJ-FS+ة/NSUFF
+زنقت	زنق/V+ت/PRON
+عليه	على/PREP+ه/PRON
+في	في/PREP
+العربية	ال/DET+عربي/NOUN-FS+ة/NSUFF
+بتاعته	بتاع/NOUN-FS+ة/NSUFF+ه/PRON
+واتقلبت	و/CONJ+اتقلب/V+ت/PRON
+بيه	بي/PREP+ه/PRON
+العربية	ال/DET+عربي/NOUN-FS+ة/NSUFF
+وهو	و/CONJ+هو/PRON
+كان	كان/V
+راجع	راجع/ADJ-MS
+من	من/PREP
+عمل	عمل/NOUN-MS
+خير	خير/NOUN-MS
+وبيدعوا	و/CONJ+ب/PROG-PART+يدعو/V
+للهداية	ل/PREP+ال/DET+هداي/NOUN-FS+ة/NSUFF
+14	14/NUM
+--------------------	-/PUNC
+كلامنا	كلام/NOUN-MS+نا/PRON
+كلة	كل/NOUN-MS+ه/PRON
+تناقض	تناقض/NOUN-MS
+,	,/PUNC
+محدش فاهمة	ما/PART حد/NOUN-MS+ش/NEG-PART فاهم/ADJ-MS+ه/PRON
+..	./PUNC ./PUNC
+عشان	علشان/PART
+اللي كاتبة	اللي/PRON كاتب/ADJ-MS+ه/PRON
+نفسة	نفس/NOUN-FS+ه/PRON
+مش فاهمة	مش/PART فاهم/ADJ-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+الواححد	ال/DET+واحد/NOUN-MS
+لما	لما/PART
+بيعوز	ب/PROG-PART+يعوز/V
+حاجة	حاج/NOUN-FS+ة/NSUFF
+بيفضل	ب/PROG-PART+يفضل/V
+#	#/HASH
+يعافر	يعافر/V
+عشان	علشان/PART
+يوصلها	يوصل/V ل/PREP+ها/PRON
+ولما	و/CONJ+لما/PART
+بيوصلها	ب/PROG-PART+يوصل/V ل/PREP+ها/PRON
+#	#/HASH
+بيتكبر	ب/PROG-PART+يتكبر/V
+عليها	على/PREP+ها/PRON
+--------------------	-/PUNC
+@mar3e	@mar3e/MENTION
+مكانش	ما/PART كان/V+ش/NEG-PART
+يوصل	يوصل/V
+ابدا	أبدا/ADV
+لمنصب	ل/PREP+منصب/NOUN-MS
+حساس	حساس/ADJ-MS
+زي	زي/NOUN-MS
+رئيس	رئيس/NOUN-MS
+وكالة	وكال/NOUN-FS+ة/NSUFF
+الطاقة	ال/DET+طاق/NOUN-FS+ة/NSUFF
+الذرية	ال/DET+ذري/ADJ-FS+ة/NSUFF
+..	./PUNC ./PUNC
+بالشوكة	ب/PREP+ال/DET+شوك/NOUN-FS+ة/NSUFF
+والسكينة	و/CONJ+ال/DET+سكين/NOUN-FS+ة/NSUFF
+بدل	بدل/NOUN-MS
+المطوه	ال/DET+مطو/NOUN-MS+ة/NSUFF
+والسنجه	و/CONJ+ال/DET+سنج/NOUN-FS+ة/NSUFF
+بس	بس/ADV
+--------------------	-/PUNC
+أنتوا	إنتو/PRON
+كلكوا	كل/NOUN-MS+كم/PRON
+عاملين نفسكوا	عامل/ADJ-MP+ين/NSUFF نفس/NOUN-FS+كم/PRON
+مبسوطين	مبسوط/ADJ-MP+ين/NSUFF
+،،	،/PUNC ،/PUNC
+و محدش	و/CONJ+ما/PART حد/NOUN-MS+ش/NEG-PART
+فيكوا	في/PREP+كم/PRON
+أصلا	أصلا/ADV
+مبسوط	مبسوط/ADJ-MS
+--------------------	-/PUNC
+ربنا	رب/NOUN-MS+نا/PRON
+مش هيخليك	مش/PART ه/FUT-PART+يخل/V+ي/PRON+ك/PRON
+ترفع	ترفع/V
+ايديك	إيد/NOUN-FS+ي/NSUFF+ك/PRON
+بـ دعوه	ب/PREP+دعو/NOUN-FS+ة/NSUFF
+معينه	معين/ADJ-MP+ة/NSUFF
+نفسك	نفس/NOUN-FS+ك/PRON
+تحققها	تحقق/V+ها/PRON
+و هو	و/CONJ+هو/PRON
+مش عايز	مش/PART عايز/ADJ-MS
+يستجيبلك	يستجيب/V ل/PREP+ك/PRON
+،	،/PUNC
+هو	هو/PRON
+الـ	اللي/PRON
+سخر	سخر/V
+الدعاء	ال/DET+دعاء/NOUN-MS
+على	على/PREP
+لسانك	لسان/NOUN-MS+ك/PRON
+،	،/PUNC
+علشان هو	علشان/PART هو/PRON
+عايزك	عايز/ADJ-MS+ك/PRON
+تدعي	تدعي/V
+و تلح	و/CONJ+تلح/V
+--------------------	-/PUNC
+يبصلها	يبص/V ل/PREP+ها/PRON
+ويضحك	و/CONJ+يضحك/V
+وهى	و/CONJ+هي/PRON
+صدقت	صدق/V+ت/PRON
+حُبه	حب/NOUN-MS+ه/PRON
+ليها	لي/PREP+ها/PRON
+،	،/PUNC
+لكن	لكن/CONJ
+فى	في/PREP
+الحقيقة	ال/DET+حقيق/NOUN-FS+ة/NSUFF
+كان	كان/V
+بيضحك	ب/PROG-PART+يضحك/V
+شايف	شايف/ADJ-MS
+حبيبته	حبيب/NOUN-FS+ة/PRON+ه/PRON
+القديمة	ال/DET+قديم/ADJ-FS+ة/NSUFF
+فيها	في/PREP+ها/PRON
+--------------------	-/PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+ناس	ناس/NOUN-MP
+بتنام	ب/PROG-PART+تنام/V
+ع	على/PREP
+الرصيف	ال/DET+رصيف/NOUN-MS
+وﻻ	و/CONJ+لا/PART
+ناس	ناس/NOUN-MP
+بتاكل	ب/PROG-PART+تاكل/V
+من	من/PREP
+الزبالة	ال/DET+زبال/NOUN-FS+ة/NSUFF
+!!	!/PUNC !/PUNC
+#	#/HASH
+في	في/PREP
+_	_/PUNC
+عالم	عالم/NOUN-MS
+_	_/PUNC
+موازي	موازي/ADJ-MS
+--------------------	-/PUNC
+ممكن	ممكن/ADJ-MS
+تقول	تقول/V
+كلام	كلام/NOUN-MS
+هزار	هزار/NOUN-MS
+بطريقه	ب/PREP+طريق/NOUN-FS+ة/NSUFF
+اللي قدامك	اللي/PRON قدام/NOUN-MS+ك/PRON
+ياخده	يأخد/V+ه/PRON
+بجديه	ب/PREP+جدي/NOUN-FS+ة/NSUFF
+وممكن	و/CONJ+ممكن/ADJ-MS
+تقول	تقول/V
+كلام	كلام/NOUN-MS
+جد	جد/NOUN-MS
+بطريقه	ب/PREP+طريق/NOUN-FS+ة/NSUFF
+اللي قدامك	اللي/PRON قدام/NOUN-MS+ك/PRON
+يتقبله	يتقبل/V+ه/PRON
+كأنه	كأن/PART+ه/PRON
+هزار	هزار/NOUN-MS
+،	،/PUNC
+المشكله	ال/DET+مشكل/NOUN-FS+ة/NSUFF
+في	في/PREP
+الطريقه	ال/DET+طريق/NOUN-FS+ة/NSUFF
+مش	مش/PART
+فالكلام	في/PREP ال/DET+كلام/NOUN-MS
+--------------------	-/PUNC
+#	#/HASH
+ﺍﻧﺖ	إنت/PRON
+_	_/PUNC
+ﻣﺶ	مش/PART
+_	_/PUNC
+ﺭﻭﺵ	شور/ADJ-MS
+لما	لما/PART
+تشرب	تشرب/V
+سجاير	سجاير/NOUN-FP
+عشان	علشان/PART
+تورى	توري/V
+البنات	ال/DET+بن/NOUN-FP+ات/NSUFF
+انك	إن/PART+ك/PRON
+راجل	راجل/NOUN-MS
+--------------------	-/PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+حاجه اسمها	حاج/NOUN-FS+ة/NSUFF اسم/NOUN-MS+ها/PRON
+صحاب	صحاب/NOUN-MP
+،	،/PUNC
+هما	هما/PRON
+بيبقوا	ب/PROG-PART+يبق/V+وا/PRON
+شويه ناس	شوي/NOUN-FS+ة/NSUFF ناس/NOUN-MP
+حوليك	حوالي/NOUN-MS+ك/PRON
+و بيروحوا	و/CONJ+ب/PROG-PART+يروح/V+وا/PRON
+و يجي	و/CONJ+ييجي/V
+غيرهم	غير/NOUN-MS+هم/PRON
+كل	كل/NOUN-MS
+فتره	فتر/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+انا	أنا/PRON
+والدنيا	و/CONJ+ال/DET+دنيا/NOUN-FS
+تقريباً كده	تقريب/NOUN-MS+ا/CASE كده/ADV
+كنا	كن/V+نا/PRON
+ف	في/PREP
+علاقة	علاق/NOUN-FS+ة/NSUFF
+حب	حب/NOUN-MS
+وفشلت	و/CONJ+فشل/V+ت/PRON
+,	,/PUNC
+ودلوقتي	و/CONJ+دلوقتي/ADV
+رافعة	رافع/ADJ-FS+ة/NSUFF
+عليا	على/PREP+يا/PRON
+قضية	قضي/NOUN-FS+ة/NSUFF
+خلع	خلع/NOUN-MS
+--------------------	-/PUNC
+حماس ايه	حماس/NOUN-FS إيه/PART
+اللي	اللي/PRON
+تدخل	تدخل/V
+مصر	مصر/NOUN-FS
+حد يسيب	حد/NOUN-MS يسيب/V
+فلسطين	فلسطين/NOUN-FS
+و يجي	و/CONJ+ييجي/V
+مصر	مصر/NOUN-FS
+جتكم القرف	جا/V+ت/PRON+كم/PRON ال/DET+قرف/NOUN-MS
+ده	ده/PRON
+انتوا	إنتو/PRON
+خليتوا	خل/V+ي/PRON+توا/PRON
+مصر	مصر/NOUN-FS
+بلاعة	بلاع/NOUN-FS+ة/NSUFF
+كبيرة	كبير/ADJ-FS+ة/NSUFF
+لا	لا/PART
+تطاق	تطاق/V
+--------------------	-/PUNC
+عارف انت	عارف/ADJ-MS إنت/PRON
+احساس	إحساس/NOUN-MS
+ان حد	إن/PART حد/NOUN-MS
+يوحشك	يوحش/V+ك/PRON
+و ماينفعش	و/CONJ+ما/PART ينفع/V+ش/NEG-PART
+تشوفو	تشوف/V+ه/PRON
+؟	؟/PUNC
+وحش	وحش/ADJ-MS
+.	./PUNC
+متجربوش	ما/PART تجرب/V+هو/PRON+ش/NEG-PART
+--------------------	-/PUNC
+المرض	ال/DET+مرض/NOUN-MS
+اللي	اللي/PRON
+مسيطر	مسيطر/ADJ-MS
+ع	على/PREP
+الناس	ال/DET+ناس/NOUN-MP
+اليومين دول	ال/DET+يوم/NOUN-MD+ين/NSUFF دول/PRON
+,	,/PUNC
+ان مفيش حد	إن/PART ما/PART في/PREP+ش/NEG-PART حد/NOUN-MS
+عاجبه	عاجب/ADJ-MS+نا/PRON
+حاله	حال/NOUN-MS+ه/PRON
+ولا	و/CONJ+لا/PART
+عاجبها	عاجب/ADJ-MS+ها/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+ولا	و/CONJ+لا/PART
+عاجبه	عاجب/ADJ-MS+ه/PRON
+اي	أي/PART
+حد	حد/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+--------------------	-/PUNC
+انا	أنا/PRON
+شايف	شايف/ADJ-MS
+نفسى	نفس/NOUN-FS+ي/PRON
+مبقتش	ما/PART بق/V+ت/PRON+ش/NEG-PART
+اكتب	أكتب/V
+كويس	كويس/ADV
+لو	لو/PART
+كنت عامل	كن/V+ت/PRON عامل/ADJ-MS
+فولو	فولو/NOUN-FS
+لنفسى	ل/PREP+نفس/NOUN-FS+ي/PRON
+كنت	كن/V+ت/PRON
+هعمل	ه/FUT-PART+أعمل/V
+ان فولو	أن/NOUN-MS فولو/NOUN-MS
+كل	كل/NOUN-MS
+الكلام	ال/DET+كلام/NOUN-MS
+بقى	بقى/V
+جوه	جو/NOUN-FS+ة/NSUFF
+ولا	و/CONJ+لا/PART
+بيخرج	ب/PROG-PART+يخرج/V
+فى	في/PREP
+كتابه	كتاب/NOUN-FS+ة/NSUFF
+ولا	و/CONJ+لا/PART
+حتى	حتى/PART
+فى	في/PREP
+كلام	كلام/NOUN-MS
+كدا	كده/ADV
+--------------------	-/PUNC
+انتو	إنتو/PRON
+متعرفوش	ما/PART تعرف/V+وا/PRON+ش/NEG-PART
+انتو	إنتو/PRON
+نور	نور/NOUN-MS
+عينننا	عين/NOUN-FS+ي/NSUFF+نا/PRON
+وﻻ اية	و/CONJ+إلا/PART إيه/PART
+ياباشا	يا/PART باشا/NOUN-MS
+نور	نور/NOUN-MS
+عينك	عين/NOUN-FS+ك/PRON
+مش ﻻقين	مش/PART لاقي/ADJ-MP+ين/PRON
+ياكلو	يأكل/V+وا/PRON
+ومش عارفين	و/CONJ+مش/PART عارف/ADJ-MP+ين/NSUFF
+يمشو	يمش/V+وا/PRON
+فى	في/PREP
+الشوارع	ال/DET+شوارع/NOUN-FP
+ومفيش	و/CONJ+ما/PART في/PREP+ش/NEG-PART
+نور	نور/NOUN-MS
+ومفيش	و/CONJ+ما/PART في/PREP+ش/NEG-PART
+مياه	مياه/NOUN-FP
+مفيش حاجة	ما/PART في/PREP+ش/NEG-PART حاج/NOUN-FS+ة/NSUFF
+ياباشا	يا/PART باشا/NOUN-MS
+--------------------	-/PUNC
+الواحد مش عارف	ال/DET+واحد/NOUN-MS مش/PART عارف/ADJ-MS
+لما	لما/PART
+اصحابنا	أصحاب/NOUN-MP+نا/PRON
+يطلعو	يطلع/V+وا/PRON
+بالسلامةازاي	ب/PREP+ال/DET+سلام/NOUN-FS+ة/NSUFF إزاي/PART
+هقولهم	ه/FUT-PART+أقول/V ل/PREP+هم/PRON
+اننا	إن/PART+نا/PRON
+كنا	كن/V+نا/PRON
+بنروح	ب/PROG-PART+نروح/V
+الجامعة	ال/DET+جامع/NOUN-FS+ة/NSUFF
+من غيرهم	ب/PREP غير/NOUN-MS+هم/PRON
+عادي	عادي/ADJ-MS
+!!!	!/PUNC !/PUNC !/PUNC
+العجز	ال/DET+عجز/NOUN-MS
+وحش	وحش/ADJ-MS
+!!!	!/PUNC !/PUNC !/PUNC
+#	#/HASH
+الحريه	ال/DET+حري/NOUN-FS+ة/NSUFF
+_	_/PUNC
+لطلاب	ل/PREP+طلاب/NOUN-MP
+_	_/PUNC
+صيدله	صيدل/NOUN-FS+ة/NSUFF
+_	_/PUNC
+المنصوره	ال/DET+منصور/NOUN-FP+ة/NSUFF
+--------------------	-/PUNC
+هو	هو/PRON
+التسريب	ال/DET+تسريب/NOUN-MS
+بقى	بقى/V
+عادي	عادي/ADJ-MS
+كده	كده/ADV
+..	./PUNC ./PUNC
+ماحدش	ما/PART حد/NOUN-MS+ش/NEG-PART
+اتجرأ	اتجرأ/V
+ورفع	و/CONJ+رفع/V
+دعوة	دعو/NOUN-FS+ة/NSUFF
+جنائية	جنائي/ADJ-MP+ة/NSUFF
+على	على/PREP
+اللي	اللي/PART
+بيسربوا	ب/PROG-PART+يسرب/V+وا/PRON
+ليه	ليه/PART
+..	./PUNC ./PUNC
+هي	هي/PRON
+المخابرات	ال/DET+مخابر/NOUN-FP+ات/NSUFF
+بتستخف دمها	ب/PROG-PART+تستخف/V دم/NOUN-MS+ها/PRON
+..	./PUNC ./PUNC
+ولا	و/CONJ+إلا/PART
+بتسترزق	ب/PROG-PART+تسترزق/V
+..	./PUNC ./PUNC
+ولا فيه ايه	و/CONJ+إلا/PART في/PREP+ه/PRON إيه/PART
+..	./PUNC ./PUNC
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+نفسي	نفس/NOUN-FS+ي/PRON
+انزل	أنزل/V
+امشي	أمشي/V
+لوحدى	ل/PREP+وحد/NOUN-MS+ي/PRON
+الصبح	ال/DET+صبح/NOUN-MS
+و اروح	و/CONJ+أروح/V
+اشرب	أشرب/V
+قهوه	قهو/NOUN-FS+ة/NSUFF
+ف	في/PREP
+اى	أي/NOUN-MS
+حته	حت/NOUN-FS+ة/NSUFF
+والهيدفون	و/CONJ+ال/DET+هيدفون/NOUN-MS
+ف	ف/PREP
+ودنى	ودن/NOUN-FS+ي/PRON
+وبس	و/CONJ+بس/ADV
+--------------------	-/PUNC
+الموضوع	ال/DET+موضوع/NOUN-MS
+يابني	يا/PART بن/NOUN-MS+ي/PRON
+مش شخصي	مش/PART شخصي/ADJ-MS
+,	,/PUNC
+أنا	أنا/PRON
+مبثقش	ما/PART ب/PROG-PART+أثق/V+ش/NEG-PART
+ف	في/PREP
+منبه	منبه/NOUN-MS
+الموبايل	ال/DET+موبايل/NOUN-MS
+بتاعي	بتاع/NOUN-MS+ي/PRON
+..	./PUNC ./PUNC
+فَ لكَ	ف+/CONJ+ل/PREP+ك/PRON
+أن	أن/PART
+تتخيل	تتخيل/V
+بقى	بقى/ADV
+--------------------	-/PUNC
+أصلا	أصلا/ADV
+اللى	اللي/PART
+بيدخلوا	ب/PROG-PART+يدخل/V+وا/PRON
+حياتنا	حيا/NOUN-FS+ة/NSUFF+نا/PRON
+صدفه	صدف/NOUN-FS+ة/NSUFF
+هما	هما/PRON
+دول	دول/PRON
+اللى	اللي/PART
+علاقتنا	علاق/NOUN-FS+ة/NSUFF+نا/PRON
+بتستمر	ب/PROG-PART+تستمر/V
+بيهم	بي/PREP+هم/PRON
+وبيكونوا	و/CONJ+ب/PROG-PART+يكون/V+وا/PRON
+اجدع	أجدع/ADJ-MS
+من	من/PREP
+اصحابنا	أصحاب/NOUN-MP+نا/PRON
+بتوع	بتوع/NOUN-MP
+الطفوله	ال/DET+طفول/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+انت	إنت/PRON
+متخيل	متخيل/ADJ-MS
+كم	كم/NOUN-MS
+الوضاعة	ال/DET+وضاع/NOUN-FS+ة/NSUFF
+اللي	اللي/PRON
+احنا	إحنا/PRON
+فيها	في/PREP+ها/PRON
+!!	!/PUNC !/PUNC
+البنت	ال/DET+بنت/NOUN-FS
+خايفة	خايف/ADJ-FS+ة/NSUFF
+تنزل	تنزل/V
+الشارع	ال/DET+شارع/NOUN-MS
+او	أو/CONJ
+تروح	تروح/V
+في	في/PREP
+أي	أي/NOUN-MS
+حتة	حت/NOUN-FS+ة/NSUFF
+عشان فيه	علشان/PART في/PREP+ه/PRON
+كلاب	كلاب/NOUN-MP
+سعرانة	سعران/NOUN-FS+ة/NSUFF
+بينهشوا	ب/PROG-PART+ينهش/V+وا/PRON
+فيها	في/PREP+ها/PRON
+!	!/PUNC
+عليه	على/PREP+ه/PRON
+العوض	ال/DET+عوض/NOUN-MS
+و منه	و/CONJ+من/PREP+ه/PRON
+العوض	ال/DET+عوض/NOUN-MS
+--------------------	-/PUNC
+كل	كل/NOUN-MS
+حاجه	حاج/NOUN-FS+ة/NSUFF
+لو	لو/PART
+ادناها	إدي/V+نا/PRON+ها/PRON
+حقها	حق/NOUN-MS+ه/PRON
+صح	صح/NOUN-MS
+و في	و/CONJ+في/PREP
+الوقت	ال/DET+وقت/NOUN-MS
+المناسب	ال/DET+مناسب/ADJ-MS
+حياتنا	حيا/NOUN-FS+ة/NSUFF+نا/PRON
+هتتغير	ه/FUT-PART+تتغير/V
+كتير	كثير/ADV
+للاحسن	ل/PREP+ال/DET+أحسن/ADJ-MS
+و الاحلي	و/CONJ+ال/DET+أحلى/ADJ-MS
+--------------------	-/PUNC
+وهتبقى	و/CONJ+ه/FUT-PART+تبقى/V
+آخرتكوا	آخر/NOUN-FS+ة/NSUFF+كم/PRON
+وجع	وجع/NOUN-MS
+و قهر	و/CONJ+قهر/NOUN-MS
+و كل	و/CONJ+كل/NOUN-MS
+واحد فيكوا	واحد/NOUN-MS في/PREP+كم/PRON
+فى الآخر	في/PREP ال/DET+آخر/NOUN-MS
+يتجوز	يتجوز/V
+صالونات	صالون/NOUN-FP+ات/NSUFF
+»	»/PUNC
+أصلوكوا	أصل/NOUN-MS+كم/PRON
+معملتوش	ما/PART عمل/V+وت/PRON+ش/NEG-PART
+حساب	حساب/NOUN-MS
+ربنا	رب/NOUN-MS+نا/PRON
+فى الأول	في/PREP ال/DET+أول/NOUN-MS
+--------------------	-/PUNC
+غالباً	غالبا/ADV
+حاله	حال/NOUN-FS+ة/NSUFF
+من	من/PREP
+الإكتئاب	ال/DET+اكتئاب/NOUN-MS
+الشديد	ال/DET+شديد/ADJ-MS
+هى	هي/PRON
+بتكون	ب/PROG-PART+تكون/V
+رد	رد/NOUN-MS
+سؤال	سؤال/NOUN-MS
+..	./PUNC ./PUNC
+هو	هو/PRON
+أنا	أنا/PRON
+لو	لو/PART
+جرالى	جرى/V ل/PREP+ي/PRON
+حاجه	حاج/NOUN-FS+ة/NSUFF
+هفرق	ه/FUT-PART+أفرق/V
+مع	مع/PART
+مين	مين/PART
+؟	؟/PUNC
+--------------------	-/PUNC
+@Hazem__Azim	@Hazem__Azim/MENTION
+ومبررات	و/CONJ+مبرر/NOUN-FP+ات/NSUFF
+جاهزه	جاهز/ADJ-FS+ة/NSUFF
+للمتحرش	ل/PREP+ال/DET+متحرش/NOUN-MS
+هيقولها	ه/FUT-PART+يقول/V+ها/PRON
+طالماال	طالما/PART ال/DET
+مجتمع	مجتمع/NOUN-MS
+بيساعده	ب/PROG-PART+يساعد/V+ه/PRON
+على	على/PREP
+خلق	خلق/V
+المبرر	ال/DET+مبرر/NOUN-MS
+فطبيعي	ف+/CONJ+طبيعي/ADJ-MS
+تستمر	تستمر/V
+الظاهره	ال/DET+ظاهر/NOUN-FS+ة/NSUFF
+اكتر	أكتر/ADJ-MS
+واكتر	و/CONJ+أكتر/ADJ-MS
+--------------------	-/PUNC
+عاوز	عايز/ADJ-MS
+اقول	أقول/V
+للسيسي	ل/PREP+ال/DET+سيسي/NOUN-MS
+كلمة	كلم/NOUN-FS+ة/NSUFF
+واحدة	واحد/NOUN-FS+ة/NSUFF
+بس	بس/ADV
+:	:/PUNC
+انا	أنا/PRON
+رايح	رايح/ADJ-MS
+الجامعة	ال/DET+جامع/NOUN-FS+ة/NSUFF
+بكرة	بكرة/ADV
+اظن	أظن/V
+الرسالة	ال/DET+رسال/NOUN-FS+ة/NSUFF
+وصلت	وصل/V+ت/PRON
+:)	:)/EMOT
+--------------------	-/PUNC
+يا	يا/PART
+شعب	شعب/NOUN-MS
+نايم	نايم/ADJ-MS
+ع	ع/PREP
+الرصيف	ال/DET+رصيف/NOUN-MS
+وبالمقشة	و/CONJ+ب/PREP+ال/DET+مقش/NOUN-FS+ة/NSUFF
+بتتكنس	ب/PROG-PART+تتكنس/V
+فيك	في/PREP+ك/PRON
+ناس	ناس/NOUN-MP
+بتشقي	ب/PROG-PART+تشقى/V
+ع	ع/PREP
+الرغيف	ال/DET+رغيف/NOUN-MS
+وناس	و/CONJ+ناس/NOUN-MP
+بتتعب	ب/PROG-PART+تتعب/V
+م	م/PREP
+التنس	ال/DET+تنس/NOUN-MS
+--------------------	-/PUNC
+في	في/PREP
+مصر	مصر/NOUN-FS
+فقط	فقط/ADV
+:	:/PUNC
+طلاب	طلاب/NOUN-MP
+الثانوية	ال/DET+ثانوي/NOUN-FS+ة/NSUFF
+العامة	ال/DET+عام/ADJ-FS+ة/NSUFF
+بيذكروا	ب/PROG-PART+يذاكر/V+وا/PRON
+علشان	علشان/PART
+يفرحوا	يفرح/V+وا/PRON
+اهاليهم	أهالي/NOUN-MP+هم/PRON
+مش	مش/PART
+علشان	علشان/PART
+نفسهم	نفس/NOUN-FS+هم/PRON
+!	!/PUNC
+--------------------	-/PUNC
+الدنيا	ال/DET+دنيا/NOUN-FS
+مش	مش/PART
+بتتاخد	ب/PROG-PART+تتاخد/V
+بالدراع	ب/PREP+ال/DET+دراع/NOUN-MS
+..	./PUNC ./PUNC
+والبقاء	و/CONJ+ال/DET+بقاء/NOUN-MS
+للي	ل/PREP+اللي/PRON
+عقله	عقل/NOUN-MS+ه/PRON
+كبير	كبير/ADJ-MS
+مش	مش/PART
+عضلاته	عضل/NOUN-FP+ات/NSUFF+ه/PRON
+اكبر	أكبر/ADJ-MS
+--------------------	-/PUNC
+انا	أنا/PRON
+طيبه	طيب/ADJ-FS+ة/NSUFF
+جداااا	جدا/ADV
+وحنينه	و/CONJ+حنين/ADJ-FS+ة/NSUFF
+اه	نعم/PART
+..	./PUNC ./PUNC
+اما	عندما/PART
+بتعصب	ب/PROG-PART+أتعصب/V
+او	أو/CONJ
+ابقي	أبقى/V
+زعلانه	زعلان/ADJ-FS+ة/NSUFF
+من	من/PREP
+حد	حد/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+ربنا يكفيك	رب/NOUN-MS+نا/PRON يكفي/V+ك/PRON
+شري	شر/NOUN-MS+ي/PRON
+ومايوقعك	و/CONJ+ما/PART يوقع/V+ك/PRON
+فيا	في/PREP+يا/PRON
+--------------------	-/PUNC
+المشاكل	ال/DET+مشاكل/NOUN-FP
+دايما	دايما/ADV
+بتبدأ	ب/PROG-PART+تبدأ/V
+لما	لما/PART
+تقرب	تقرب/V
+من اي حد	من/PREP أي/NOUN-MS حد/NOUN-MS
+زيادة	زياد/NOUN-FS+ة/NSUFF
+عن	عن/PREP
+اللزوم	ال/DET+لزوم/NOUN-MS
+,	,/PUNC
+العلاقات	ال/DET+علاق/NOUN-FP+ات/NSUFF
+السطحية	ال/DET+سطحي/ADJ-FS+ة/NSUFF
+قادرة	قادر/ADJ-FS+ة/NSUFF
+تحمينا	تحمي/V+نا/PRON
+من	من/PREP
+حاجات كتير	حاج/NOUN-FP+ات/NSUFF كثير/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+السجاير	ال/DET+سجاير/NOUN-FP
+رجعت	رجع/V+ت/PRON
+موضه	موض/NOUN-FS+ة/NSUFF
+تاني	تاني/ADV
+؟	؟/PUNC
+مش	مش/PART
+بتتشرب	ب/PROG-PART+تتشرب/V
+مزاج	مزاج/NOUN-MS
+يعني	يعني/ADV
+؟	؟/PUNC
+--------------------	-/PUNC
+علشان انتو	علشان/PART إنتو/PRON
+طيبين	طيب/ADJ-MP+ين/NSUFF
+ماحدش أخد باله	ما/PART حد/NOUN-MS+ش/NEG-PART أخد/V بال/NOUN-MS+ه/PRON
+#	#/HASH
+خالد	خالد/NOUN-MS
+_	_/PUNC
+علي	علي/NOUN-MS
+بيعمل ايه	ب/PROG-PART+يعمل/V إيه/PART
+،	،/PUNC
+المحامي	ال/DET+محامي/NOUN-MS
+بيتحايل	ب/PROG-PART+يتحايل/V
+على	على/PREP
+قانون	قانون/NOUN-MS
+الإنتخابات	ال/DET+انتخاب/NOUN-FP+ات/NSUFF
+و هايعمل	و/CONJ+ه/FUT-PART+يعمل/V
+دعاية	دعاي/NOUN-FS+ة/NSUFF
+إنتخابية	انتخابي/ADJ-FS+ة/NSUFF
+بحجة	ب/PREP+حاجة/NOUN-FS+ة/NSUFF
+تأسيس	تأسيس/NOUN-MS
+حزب	حزب/NOUN-MS
+--------------------	-/PUNC
+بنتعلم	ب/PROG-PART+نتعلم/V
+حاجات	حاج/NOUN-FP+ات/NSUFF
+من	من/PREP
+ابتدائي	ابتدائي/ADJ-MS
+لحد	ل/PREP+حد/NOUN-MS
+الجامعه	ال/DET+جامع/NOUN-FS+ة/NSUFF
+كل	كل/NOUN-MS
+ده	ده/PRON
+خيال	خيال/NOUN-MS
+علمي	علمي/ADJ-MS
+!	!/PUNC
+كل	كل/NOUN-MS
+الى	اللي/PRON
+اتعلمناه	اتعلم/V+نا/PRON+ه/PRON
+مفيش منه	ما/PART في/PREP+ش/NEG-PART من/PREP+ه/PRON
+فى	في/PREP
+الواقع	ال/DET+واقع/NOUN-MS
+!	!/PUNC
+بندرس	ب/PROG-PART+ندرس/V
+حاجات	حاج/NOUN-FP+ات/NSUFF
+ملهاش	ما/PART ل/PREP+ها/PRON+ش/NEG-PART
+اى	أي/PART
+علاقه	علاق/NOUN-FS+ة/NSUFF
+بالواقع	ب/PREP+ال/DET+واقع/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+المفروض	ال/DET+مفترض/ADJ-MS
+اني	إن/PART+ي/PRON
+اقوم	أقوم/V
+اذاكر	أذاكر/V
+و كده	و/CONJ+كده/ADV
+بس	بس/PART
+الكينج	ال/DET+كينج/NOUN-MS
+قالي	قال/V ل/PREP+ي/PRON
+ان	إن/PART
+كل	كل/NOUN-MS
+المفروض	ال/DET+مفروض/ADJ-MS
+مرفوض	مرفوض/ADJ-MS
+و انا	و/CONJ+أنا/PRON
+عايزه	عايز/ADJ-FS+ة/NSUFF
+اسبت	أثبت/V
+للعالم	ل/PREP+ال/DET+عالم/NOUN-MS
+اني	إن/PART+ي/PRON
+موجوده	موجود/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+جملة	جمل/NOUN-FS+ة/NSUFF
+هذاكر	ه/FUT-PART+أذاكر/V
+بقا	بقى/ADV
+بكرة	بكرة/ADV
+بجد	ب/PREP+جد/NOUN-MS
+ونقضيها	و/CONJ+نقضي/V+ها/PRON
+النهارده	النهاردة/ADV
+سبب	سبب/NOUN-MS
+اساسي	أساسي/ADJ-MS
+لفشلي	ل/PREP+فشل/NOUN-MS+ي/PRON
+--------------------	-/PUNC
+كله	كل/NOUN-MS+ه/PRON
+يحضر	يحضر/V
+هدية	هدي/NOUN-FS+ة/NSUFF
+عيد	عيد/NOUN-MS
+الام	ال/DET+أم/NOUN-FS
+.	./PUNC
+بوسوا	بوس/V+وا/PRON
+أيد	إيد/NOUN-FS
+امهاتكوا	أم/NOUN-FP+هات/NSUFF+كم/PRON
+واشكروا	و/CONJ+اشكر/V+وا/PRON
+ربنا	رب/NOUN-MS+نا/PRON
+انهم	إن/PART+هم/PRON
+عايشين	عايش/ADJ-MP+ين/NSUFF
+وسطنا	وسط/NOUN-MS+نا/PRON
+--------------------	-/PUNC
+من ساعة ما	من/PREP ساع/NOUN-FS+ة/NSUFF ما/PART
+أمي	أم/NOUN-FS+ي/NSUFF
+قالتلي	قال/V+ت/PRON ل/PREP+ي/PRON
+"	"/PUNC
+إوعى	إوعى/V
+ياخدوا	يأخد/V+وا/PRON
+منك	ب/PREP+ك/PRON
+سندوتشاتك	ساندوتش/NOUN-FP+ات/NSUFF+ك/PRON
+"	"/PUNC
+في	في/PREP
+أول يوم مدرسه	أول/ADJ-MS يوم/NOUN-MS مدرس/NOUN-FS+ة/NSUFF
+فهمت	فهم/V+ت/PRON
+ان	إن/PART
+الدنيا	ال/DET+دنيا/NOUN-FS
+مفيهاش	ما/PART في/PREP+ها/PRON+ش/NEG-PART
+أمان	أمان/NOUN-MS
+.	./PUNC
+--------------------	-/PUNC
+ربنا يكفيك	رب/NOUN-MS+نا/PRON يكفي/V+ك/PRON
+شر	شر/NOUN-MS
+اللي	اللي/PRON
+عامل فيها	عامل/ADJ-MS في/PREP+ها/PRON
+قريب	قريب/ADJ-MS
+وهو	و/CONJ+هو/PRON
+بيدبرلك	ب/PROG-PART+يدبر/V ل/PREP+ك/PRON
+عشان	علشان/PART
+يكسرك	يكسر/V+ك/PRON
+!	!/PUNC
+بس	بس/PART
+علي	على/PREP
+مين	مين/PART
+هأو	هأو/PART
+--------------------	-/PUNC
+يارب	يا/PART رب/NOUN-MS
+نجحنا	نجح/V+نا/PRON
+عشان خاطر	علشان/PART خاطر/NOUN-MS
+اهلينا	أهالي/NOUN-MP+نا/PRON
+بس	بس/ADV
+احنا	إحنا/PRON
+منستاهلش	ما/PART نستاهل/V+ش/NEG-PART
+والله	و/CONJ+الله/NOUN-MS
+,	,/PUNC
+--------------------	-/PUNC
+٤	٤/NUM
+-	-/PUNC
+تعالالي	تعالى/V ل/PREP+ي/PRON
+انت	إنت/PRON
+بقى	بقى/ADV
+ياللي	يا/PART اللي/PRON
+بتتكلم	ب/PROG-PART+تتكلم/V
+مع	مع/PART
+واحدة	واحد/NOUN-FS+ة/NSUFF
+زي	زي/NOUN-MS
+اختك	أخت/NOUN-FS+ك/PRON
+و بتتعامل	و/CONJ+ب/PROG-PART+تتعامل/V
+معاها	معا/PART+ها/PRON
+زي	زي/NOUN-MS
+اختك	أخت/NOUN-FS+ك/PRON
+وبتطمن	و/CONJ+ب/PROG-PART+تطمن/V
+عليها	على/PREP+ها/PRON
+زي	زي/NOUN-MS
+اختك	أخت/NOUN-FS+ك/PRON
+بردو	برضه/ADV
+،	،/PUNC
+بزمتك	ب/PREP+ذم/NOUN-FS+ة/NSUFF+ك/PRON
+بتتكلم	ب/PROG-PART+تتكلم/V
+مع	مع/PART
+اختك	أخت/NOUN-FS+ك/PRON
+٢٤ساعه	24/NUM ساع/NOUN-FM+ة/NSUFF
+ف	في/PREP
+اليوم	في/PREP ال/DET+يوم/NOUN-MS
+؟	؟/PUNC
+--------------------	-/PUNC
+اى	أي/PART
+راجل	راجل/NOUN-MS
+بيبرر	ب/PROG-PART+يبرر/V
+التحرش	ال/DET+تحرش/NOUN-MS
+لازم	لازم/ADJ-MS
+يعرف	يعرف/V
+انه	إن/PART+ه/PRON
+كدة	كده/ADV
+بيفضح	ب/PROG-PART+يفضح/V
+نفسه	نفس/NOUN-FS+ه/PRON
+هو	هو/PRON
+..	./PUNC ./PUNC
+بتفضح	ب/PROG-PART+تفضح/V
+نفسك	نفس/NOUN-FS+ك/PRON
+ان	إن/PART
+رجولتك	رجول/NOUN-FS+ة/NSUFF+ك/PRON
+ناقصة	ناقص/ADJ-FS+ة/NSUFF
+وبتلوم	و/CONJ+ب/PROG-PART+تلوم/V
+الضحية	ال/DET+ضحي/NOUN-FS+ة/NSUFF
+عشان	علشان/PART
+ماتشعرش	ما/PART تشعر/V+ش/NEG-PART
+بمسئوليتك	"
+ب/PREP+مسئولي/NOUN-FS+ة/NSUFF+ك/PRON"
+اللى	اللي/PRON
+معملتهاش	ما/PART عمل/V+ت/PRON+ها/PRON+ش/NEG-PART
+--------------------	-/PUNC
+فكر	فكر/V
+كده	كده/ADV
+في	في/PREP
+موقف	موقف/NOUN-MS
+ام	أم/NOUN-FS
+كل	كل/NOUN-MS
+شهيد	شهيد/NOUN-MS
+او	أو/CONJ
+ام	أم/NOUN-FS
+كل	كل/NOUN-MS
+مسجون	مسجون/NOUN-MS
+لما	لما/PART
+تشوف	تشوف/V
+ان	إن/PART
+فيفي	فيفي/NOUN-FS
+عبده	عبده/NOUN-MS
+بئت	بق/V+ت/PRON
+أم	أم/NOUN-FS
+مثاليه	مثالي/ADJ-FS+ة/NSUFF
+وبيهملوا	و/CONJ+ب/PROG-PART+يهمل/V+وا/PRON
+ولادهم	ولاد/NOUN-MP+هم/PRON
+!	!/PUNC
+موقف	موقف/NOUN-MS
+يدعو	يدعو/V
+للاشمئزاز	ل/PREP+ال/DET+اشمئزاز/NOUN-MS
+وموقف	و/CONJ+موقف/NOUN-MS
+قذر	قذر/ADJ-MS
+من	من/PREP
+بلد	بلد/NOUN-FS
+اقذر	أقذر/ADJ-MS
+.	./PUNC
+!	!/PUNC
+--------------------	-/PUNC
+هما ليه	هما/PRON ليه/PART
+ميعملوش	ما/PART يعمل/V+وا/PRON+ش/NEG-PART
+امتحان	امتحان/NOUN-MS
+اخر	آخر/NOUN-MS
+الاجازه	ال/DET+أجاز/NOUN-FS+ة/NSUFF
+زي	زي/NOUN-MS
+امتحان	امتحان/NOUN-MS
+اخر	آخر/NOUN-MS
+السنه	ال/DET+سن/NOUN-FS+ة/NSUFF
+كدة	كده/ADV
+؟	؟/PUNC
+ونسقط	و/CONJ+نسقط/V
+بقى	بقى/ADV
+ونعيد	و/CONJ+نعيد/V
+الاجازه	ال/DET+أجاز/NOUN-FS+ة/NSUFF
+من	من/PREP
+الاول	ال/DET+أول/NOUN-MS
+وكده	و/CONJ+كده/ADV
+.	./PUNC
+--------------------	-/PUNC
+@Dr_Wessam	@Dr_Wessam/MENTION
+البنات	ال/DET+بن/NOUN-FP+ات/NSUFF
+زمان	زمان/NOUN-MS
+كانوا	كان/V+وا/PRON
+بيطلعوا	ب/PROG-PART+يطلع/V+وا/PRON
+اتوبيس	أتوبيس/NOUN-MS
+هيئه	هيئ/NOUN-FS+ة/NSUFF
+النقل	ال/DET+نقل/NOUN-MS
+العام	ال/DET+عام/ADJ-MS
+بالمينى چيب	ب/PREP+ال/DET+ميني/NOUN-MS جيب/NOUN-FS
+وبينزلوا	و/CONJ+ب/PROG-PART+ينزل/V+وا/PRON
+سالمين	سالم/ADJ-MP+ين/NSUFF
+غانمين	غانم/ADJ-MP+ين/NSUFF
+!!	!/PUNC !/PUNC
+دلوقتي	دلوقتي/ADV
+تبقى	تبقى/V
+محجبه	محجب/ADJ-FS+ة/NSUFF
+ويشد	و/CONJ+يشد/V
+حجابها	حجاب/NOUN-MS+ها/PRON
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+@_mohamedkhalifa	@_mohamedkhalifa/MENTION
+ماتخليش	ما/PART تخل/V+ي/PRON+ش/NEG-PART
+بتوع الخليج	بتوع/NOUN-MS ال/DET+خليج/NOUN-MS
+يزعلوا	يزعل/V+وا/PRON
+مننا	من/PREP+نا/PRON
+بقى	بقى/ADV
+يا	يا/PART
+حماده	حماد/NOUN-MS+ة/NSUFF
+;)	;)/EMOT
+--------------------	-/PUNC
+إنتى	إنتي/PRON
+كلام	كلام/NOUN-MS
+فى	في/PREP
+أغنية	أغني/NOUN-FS+ة/NSUFF
+بس	بس/PART
+ماتغنتش	ما/PART تغن/V+ت/PRON+ش/NEG-PART
+ليا	لي/PREP+ا+/PRON
+إنى	إنتي/PRON
+سيرة	سير/NOUN-FS+ة/NSUFF
+كل	كل/NOUN-MS
+يوم	يوم/NOUN-MS
+إانتى	إنتي/PRON
+حكاية	حكاي/NOUN-FS+ة/NSUFF
+قبل	قبل/NOUN-MS
+النوم	ال/DET+نوم/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+--------------------	-/PUNC
+لما	لما/PART
+تبقى	تبقى/V
+محشور	محشور/ADJ-MS
+فى	في/PREP
+الحاجه	ال/DET+حاج/NOUN-FS+ة/NSUFF
+مش هتشوفها	مش/PART ه/FUT-PART+تشوف/V+ها/PRON
+كويس	كويس/ADV
+من	من/PREP
+كتر	كتر/NOUN-MS
+ماهى	ما/PART هي/PRON
+محوطاك	محاوط/ADJ-FS+ة/NSUFF+اك/PRON
+وقريبه	و/CONJ+قريب/NOUN-FS+ة/NSUFF
+من	من/PREP
+عينك	عين/NOUN-FS+ك/PRON
+،	،/PUNC
+لازم	لازم/ADJ-MS
+تطلع	تخرج/V
+و تشوفها	و/CONJ+تشوف/V+ها/PRON
+من بره	من/PREP بر/NOUN-FS+ة/NSUFF
+ومن	و/CONJ+من/PREP
+بعيد	بعيد/ADJ-MS
+،	،/PUNC
+هتلاحظ	ه/FUT-PART+تلاحظ/V
+فرق	فرق/NOUN-MS
+شاسع	شاسع/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+اللي	اللي/PRON
+يقول	يقول/V
+انا	أنا/PRON
+مبحبش	ما/PART ب/PROG-PART+أحب/V+ش/NEG-PART
+#	#/HASH
+اسلوبك	أسلوب/NOUN-MS+ك/PRON
+.	./PUNC
+،	،/PUNC
+أنـا	أنا/PRON
+اصلا	أصلا/ADV
+لو	لو/PART
+كنت	كن/V+ت/PRON
+بحبك	ب/PROG-PART+أحب/V+ك/PRON
+كنت	كن/V+ت/PRON
+غيرت	غير/V+ت/PRON
+#	#/HASH
+اسلوبي	أسلوب/NOUN-MS+ي/PRON
+معاك	معا/PART+ك/PRON
+:)	:)/EMOT
+.	./PUNC
+،	،/PUNC
+--------------------	-/PUNC
+فكرك	فكر/NOUN-FS+ك/PRON
+الكلام	ال/DET+كلام/NOUN-MS
+اللي	اللي/PRON
+بيتقال	ب/PROG-PART+يتقال/V
+عليا	على/PREP+يا/PRON
+مش	مش/PART
+بيوصلي	ب/PROG-PART+يوصل/V ل/PREP+ي/PRON
+؟	؟/PUNC
+لا	لا/PART
+بيوصل	ب/PROG-PART+يوصل/V
+والله	و/CONJ+الله/NOUN-MS
+بس	بس/PART
+انا	أنا/PRON
+لو	لو/PART
+اتكلمت	اتكلم/V+ت/PRON
+زيك	زي/NOUN-MS+ك/PRON
+ابقى	أبقى/V
+أبقى	أبقى/V
+قليل	قليل/ADJ-MS
+الأصل	ال/DET+أصل/NOUN-MS
+،	،/PUNC
+و انا	و/CONJ+أنا/PRON
+أمي	أم/NOUN-FS+ي/NSUFF
+علمتني	علم/V+ت/PRON+ني/PRON
+الأصول	ال/DET+أصول/NOUN-FP
+--------------------	-/PUNC
+ممكن	ممكن/ADJ-MS
+لما	لما/PART
+تحب	تحب/V
+حد	حد/NOUN-MS
+تحاول	تحاول/V
+متجرحوش	ما/PART تجرح/V+هو/PRON+ش/NEG-PART
+لانه	ل/PREP+أن/PART+ه/PRON
+هيتعب	ه/FUT-PART+يتعب/V
+اوى	قوي/ADV
+وهيقوى	و/CONJ+ه/FUT-PART+يقوى/V
+واول	و/CONJ+أول/ADJ-MS
+ما	ما/PART
+يقوى	يقوى/V
+هيقوى	ه/FUT-PART+يقوى/V
+عليك	على/PREP+ك/PRON
+انت	إنت/PRON
+#	#/HASH
+نصيحه	نصيح/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+احساس	إحساس/NOUN-MS
+وحش	وحش/ADJ-MS
+اما	أما/PART
+يكون	يكون/V
+قدامك	قدام/NOUN-MS+ك/PRON
+حد	حد/NOUN-MS
+هتموت	ه/FUT-PART+تموت/V
+وتسلم	و/CONJ+تسلم/V
+عليه	على/PREP+ه/PRON
+بس فى حاجة	بس/PART في/PREP+ه/PRON حاج/NOUN-FS+ة/NSUFF
+جواك	جوا/NOUN-FS+ك/PRON
+بتقولك	ب/PROG-PART+تقول/V ل/PREP+ك/PRON
+"	"/PUNC
+انت فاكر	أنت/PRON فاكر/ADJ-MS
+هو	هو/PRON
+عمل معاك ايه	عمل/V معا/PART+ك/PRON إيه/PART
+"	"/PUNC
+--------------------	-/PUNC
+اجمل	أجمل/ADJ-MS
+احساس	إحساس/NOUN-MS
+انك	إن/PART+ك/PRON
+تبقي	تبقى/V
+قاعد	قاعد/ADJ-MS
+و تيجي	و/CONJ+تيجي/V
+عينك	عين/NOUN-FS+ك/PRON
+علي	على/PREP
+حد	حد/NOUN-MS
+بتحبه	ب/PROG-PART+تحب/V+ه/PRON
+تلاقيه	تلاق/V+ي/PRON+ه/PRON
+باصص عليك	باصص/ADJ-MS على/PREP+ك/PRON
+..	./PUNC ./PUNC
+و الاجمل	و/CONJ+ال/DET+أجمل/ADJ-MS
+لما	لما/PART
+يتكسف	يتكسف/V
+.....	./PUNC ./PUNC ./PUNC ./PUNC ./PUNC
+--------------------	-/PUNC
+الغريبة	ال/DET+غريب/ADJ-FS+ة/NSUFF
+فعلا	فعلا/ADV
+إن	إن/PART
+ماحدش	ما/PART حد/NOUN-MS+ش/NEG-PART
+خد باله	خد/V بال/NOUN-MS+ه/PRON
+و لا	و/CONJ+لا/PART
+حتى	حتى/PART
+خريجين	خريج/NOUN-MP+ين/NSUFF
+الحقوق	ال/DET+حقوق/NOUN-FS
+على	على/PREP
+تويتر	تويتر/NOUN-MS
+من	من/PREP
+التحايل	ال/DET+تحايل/NOUN-MS
+على	على/PREP
+قانون	قانون/NOUN-MS
+الإنتخابات	ال/DET+انتخاب/NOUN-FP+ات/NSUFF
+الي	اللي/PRON
+#	#/HASH
+خالد	خالد/NOUN-MS
+_	_/PUNC
+علي	علي/NOUN-MS
+بيعمله	ب/PROG-PART+يعمل/V+ه/PRON
+#	#/HASH
+pt	pt/FOREIGN
+--------------------	-/PUNC
+أي	أي/PART
+حد	حد/NOUN-MS
+هايقولي	ه/FUT-PART+يقول/V ل/PREP+ي/PRON
+ما كانش فيه	ما/PART كان/V+ش/NEG-PART في/PREP+ه/PRON
+الكلام ده	ال/DET+كلام/NOUN-MS ده/PRON
+أيام	أيام/NOUN-FP
+مبارك	مبارك/NOUN-MS
+يبقى	يبقى/V
+ما كانش	ما/PART كان/V+ش/NEG-PART
+بيروح	ب/PROG-PART+يروح/V
+الجامعة	ال/DET+جامع/NOUN-FS+ة/NSUFF
+.....	./PUNC ./PUNC ./PUNC ./PUNC ./PUNC
+كل	كل/NOUN-MS
+الوساخة دي	ال/DET+وساخ/NOUN-FS+ة/NSUFF دي/PRON
+كانت	كان/V+ت/PRON
+موجودة	موجود/ADJ-FS+ة/NSUFF
+انتو	إنتو/PRON
+بس	بس/ADV
+كنتوا	كن/V+تم/PRON
+في	في/PREP
+الفقاعة	ال/DET+فقاع/NOUN-FS+ة/NSUFF
+.	./PUNC
+#	#/HASH
+مغيبيبن	مغيب/ADJ-MP+ين/NSUFF
+--------------------	-/PUNC
+هو صحيح	هو/PRON صحيح/ADJ-MS
+مفيش	ما/PART في/PREP+ش/NEG-PART
+حد	حد/NOUN-MS
+بيموت	ب/PROG-PART+يموت/V
+عشان	علشان/PART
+حد	حد/NOUN-MS
+..	./PUNC ./PUNC
+بس	بس/PART
+فى	في/PREP+ه/PRON
+حد	حد/NOUN-MS
+بيفضل	ب/PROG-PART+يفضل/V
+مش	مش/PART
+سعيد	سعيد/ADJ-MS
+بسبب	ب/PREP+سبب/NOUN-MS
+حد	حد/NOUN-MS
+..	./PUNC ./PUNC
+و دا	و/CONJ+ده/PRON
+و الموت	و/CONJ+ال/DET+موت/NOUN-MS
+ميفرقوش	ما/PART يفرق/V+وا/PRON+ش/NEG-PART
+حاجه	حاج/NOUN-FS+ة/NSUFF
+عن	عن/PREP
+بعض	بعض/NOUN-MS
+.	./PUNC
+--------------------	-/PUNC
+عارفين	عارف/ADJ-MP+ين/NSUFF
+انتو	إنتو/PRON
+الشخصيه	ال/DET+شخصي/NOUN-FS+ة/NSUFF
+الي	اللي/PRON
+بتيجي	ب/PROG-PART+تيجي/V
+ف	في/PREP
+وسط	وسط/NOUN-MS
+عياطك	عياط/NOUN-MS+ك/PRON
+وتقولك	و/CONJ+تقول/V ل/PREP+ك/PRON
+انت	إنت/PRON
+شكلك	شكل/NOUN-MS+ك/PRON
+كيوت	كيوت/ADJ-MS
+اوي	قوي/ADV
+وانت	و/CONJ+أنت/PRON
+بتعيط	ب/PROG-PART+تعيط/V
+ويشد	و/CONJ+يشد/V
+ف	في/PREP
+خدودك	خدود/NOUN-FP+ك/PRON
+العالم دي	ال/DET+عالم/NOUN-MP دي/PRON
+هتموت	ه/FUT-PART+تموت/V
+محروقه	محروق/ADJ-FS+ة/NSUFF
+:D	:D/EMOT
+--------------------	-/PUNC
+هو	هو/PRON
+علاء	علاء/NOUN-MS
+صادق	صادق/NOUN-MS
+ماله	ما/PART ل/PREP+ه/PRON
+ومال	و/CONJ+ما/PART ل/PREP
+البابا	ال/DET+بابا/NOUN-MS
+تواضرس	تواضرس/NOUN-MS
+؟	؟/PUNC
+ليه	ليه/PART
+مصمم	مصمم/ADJ-MS
+يقلبها	يقلب/V+ها/PRON
+فتنة	فتن/NOUN-FS+ة/NSUFF
+طائفية	طائفي/ADJ-FS+ة/NSUFF
+؟	؟/PUNC
+اللعبة دى	ال/DET+لعب/NOUN-FS+ة/NSUFF دي/PRON
+اتهرست	اتهرس/V+ت/PRON
+ف	في/PREP
+ميت	ميت/NUM
+فيلم	فيلم/NOUN-MS
+قبل كده	قبل/NOUN-MS كده/PRON
+ومانفعتش	و/CONJ+ما/PART نفع/V+ت/PRON+ش/NEG-PART
+كان	كان/V
+غيرك	غير/NOUN-MS+ك/PRON
+اشطر	أشطر/ADJ-MS
+شوفلك	شوف/V ل/PREP+ك/PRON
+غيرها	غير/NOUN-MS+ها/PRON
+--------------------	-/PUNC
+مش لازم	مش/PART لازم/ADJ-MS
+تعامل	تعامل/V
+حد	حد/NOUN-MS
+بالمثل	ب/PREP+ال/DET+مثل/NOUN-MS
+لان	ل/PREP+أن/PART
+كل	كل/NOUN-MS
+واحد	واحد/NOUN-MS
+بيتعامل	ب/PROG-PART+يتعامل/V
+بأخلاقه	ب/PREP+أخلاق/NOUN-FP+ه/PRON
+انت	إنت/PRON
+ممكن	ممكن/ADJ-MS
+تبعد	تبعد/V
+خالص	خالص/ADV
+وتبقا	و/CONJ+تبقى/V
+وفرت	وفر/V+ت/PRON
+ع	على/PREP
+نفسك	نفس/NOUN-FS+ك/PRON
+النفاق	ال/DET+نفاق/NOUN-MS
+ع	على/PREP
+الاقل	ال/DET+أقل/ADJ-MS
+!	!/PUNC
+--------------------	-/PUNC
+@yehiazak	@yehiazak/MENTION
+ما أنا	ما/PART أنا/PRON
+قلتلها	قل/V+ت/PRON ل/PREP+ها/PRON
+كده	كده/ADV
+،،	،/PUNC ،/PUNC
+عارف	عارف/ADJ-MS
+الكارثه فين	ال/DET+كارث/NOUN-FS+ة/NSUFF فين/PART
+!!	!/PUNC !/PUNC
+أنها	أن/PART+ها/PRON
+حتربى	ه/FUT-PART+تربي/V
+ولدها	ولاد/NOUN-MP+ها/PRON
+ان	إن/PART
+الفعل ده	ال/DET+فعل/NOUN-MS ده/PRON
+مبرر	مبرر/ADJ-MS
+و بكده	و/CONJ+ب/PREP+كده/ADV
+حنشيل	ه/FUT-PART+نشيل/V
+قرف	قرف/NOUN-MS
+تربيه	تربي/NOUN-FS+ة/NSUFF
+وسخه	وسخ/ADJ-FS+ة/NSUFF
+مريضه	مريض/ADJ-FS+ة/NSUFF
+تانى	تاني/ADV
+--------------------	-/PUNC
+احنا	إحنا/PRON
+مش عايزين	مش/PART عايز/ADJ-MP+ين/NSUFF
+نموت	نموت/V
+نفسنا	نفس/NOUN-FS+نا/PRON
+..	./PUNC ./PUNC
+احنا	إحنا/PRON
+في حاجات	في/PREP+ه/PRON حاج/NOUN-FP+ات/NSUFF
+معينة	معين/ADJ-MP+ة/NSUFF
+في	في/PREP
+حياتنا	حيا/NOUN-FS+ة/NSUFF+نا/PRON
+نفسنا	نفس/NOUN-FS+نا/PRON
+نموتها	نموت/V+ها/PRON
+--------------------	-/PUNC
+انا	أنا/PRON
+مش فاهمة	مش/PART فاهم/ADJ-FS+ة/NSUFF
+طلاب	طلاب/NOUN-MP
+المدارس	ال/DET+مدارس/NOUN-FP
+اللي	اللي/PART
+في	في/PREP
+الاسكندرية	ال/DET+إسكندري/NOUN-FS+ة/NSUFF
+رفضين	رافض/ADJ-MP+ين/NSUFF
+لية	ليه/PART
+ان	إن/PART
+المدرسة	ال/DET+مدرس/NOUN-FS+ة/NSUFF
+يكون	يكون/V
+عليها	على/PREP+ها/PRON
+حرص	حرس/NOUN-MS
+!!	!/PUNC !/PUNC
+و طلاب	و/CONJ+طلاب/NOUN-MP
+الازهر	ال/DET+أزهر/NOUN-MS
+معترضين	معترض/ADJ-MD+ين/NSUFF
+كمان	كمان/ADV
+اية	إيه/PART
+الهبل دا	ال/DET+هبل/NOUN-MS ده/PRON
+دول	دول/PRON
+لحميتهم	ل/PREP+حماي/NOUN-FS+ة/NSUFF+هم/PRON
+اصلا	أصلا/ADV
+--------------------	-/PUNC
+مش هيحصل	مش/PART ه/FUT-PART+يحصل/V
+حاجة	حاج/NOUN-FS+ة/NSUFF
+لما	لما/PART
+يخرج	يخرج/V
+من	من/PREP
+حياتك	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+واحد	واحد/NOUN-MS
+او	أو/CONJ
+اتنين	اثنين/NUM
+او	أو/CONJ
+عشرة	عشر/NUM+ة/NSUFF
+خليك	خل/V+ي/PRON+ك/PRON
+مع	مع/PART
+نفسك	نفس/NOUN-FS+ك/PRON
+و مع	و/CONJ+مع/PART
+ربك	رب/NOUN-MS+ك/PRON
+هتكسب	ه/FUT-PART+تكسب/V
+!	!/PUNC
+--------------------	-/PUNC
+@Al3askarY@AlMasryAlYoum	@Al3askarY@AlMasryAlYoum/MENTION
+غلط	غلط/NOUN-MS
+و علشان	و/CONJ+علشان/PART
+يفتحولهم	يفتح/V+وا/PRON ل/PREP+هم/PRON
+حساب	حساب/NOUN-MS
+فى	في/PREP
+أمريكا	أمريكا/NOUN-FS
+لأن	ل/PREP+أن/PART
+معندهمش	ما/PART عند/NOUN-MS+هم/PRON+ش/NEG-PART
+حساب	حساب/NOUN-MS
+علشان	علشان/PART
+يقفلوه	يقفل/V+وا/PRON+ه/PRON
+--------------------	-/PUNC
+ياريت	يا/PART ريت/NOUN-MS
+الناس	ال/DET+ناس/NOUN-MP
+الي	اللي/PART
+ماتفرجتش	ما/PART تفرج/V+ت/PRON+ش/NEG-PART
+على	على/PREP
+المؤتمر	ال/DET+مؤتمر/NOUN-MS
+تتفرج	تتفرج/V
+تاني	تاني/ADV
+و تعيد	و/CONJ+تعيد/V
+حسابتها	حساب/NOUN-FP+ات/NSUFF+ها/PRON
+-	-/PUNC
+#	#/HASH
+خالد	خالد/NOUN-MS
+_	_/PUNC
+علي	علي/NOUN-MS
+مابينسحبش	ما/PART ب/PROG-PART+ينسحب/V+ش/NEG-PART
+من	من/PREP
+إنتخابات	انتخاب/NOUN-FP+ات/NSUFF
+رئاسة	رئاس/NOUN-FS+ة/NSUFF
+الجمهورية	ال/DET+جمهوري/NOUN-FS+ة/NSUFF
+http://t.co/v8taJ2DKvE	http:\\t.co\v8taJ2DKvE/URL
+--------------------	-/PUNC
+أنا	أنا/PRON
+محتاجة	محتاج/ADJ-FP+ة/NSUFF
+اجيب	أجيب/V
+شخص	شخص/NOUN-MS
+لبناني	لبناني/ADJ-MS
+يتكلم	يتكلم/V
+معايا	معا/PART+يا/PRON
+في	في/PREP
+اي	أي/PART
+كلام	كلام/NOUN-MS
+عشان	علشان/PART
+لهجتهم	لهج/NOUN-FS+ة/NSUFF+هم/PRON
+بتبسطني	ب/PROG-PART+تبسط/V+ني/PRON
+--------------------	-/PUNC
+انا	أنا/PRON
+لو	لو/PART
+ذكرت	ذاكر/V+ت/PRON
+10	10/NUM
+ساعات	ساع/NOUN-FP+ات/NSUFF
+و مسكت	و/CONJ+مسك/V+ت/PRON
+الموبيل	ال/DET+موبايل/NOUN-MS
+نص	نص/NOUN-MS
+ساعة	ساع/NOUN-FS+ة/NSUFF
+ابويا	أبو/NOUN-MS+يا/PRON
+مش هيشوفنى	مش/PART ه/FUT-PART+يشوف/V+ني/PRON
+غير	غير/NOUN-MS
+فى	في/PREP
+النص	ال/DET+نص/NOUN-MS
+ساعه	ساع/NOUN-FS+ة/NSUFF
+دى	دي/PRON
+:D	:D/EMOT
+--------------------	-/PUNC
+أنام	أنام/V
+مش	مش/PART
+بشبع	ب/PROG-PART+أشبع/V
+نووم	نوم/NOUN-MS
+أذاكر	أذاكر/V
+مش	مش/PART
+بفهم	ب/PROG-PART+أفهم/V
+حاجه	حاج/NOUN-FS+ة/NSUFF
+أحب	أحب/V
+متحبش	ما/PART أتحب/V+ش/NEG-PART
+اتحب	أتحب/V
+محبش	ما/PART أحب/V+ش/NEG-PART
+!	!/PUNC
+دي	دي/PRON
+دنيا	دنيا/NOUN-FS
+رخمممممممه	رخم/ADJ-FS+ة/NSUFF
+اوى	قوي/ADV
+!!	!/PUNC !/PUNC
+خايف	خايف/ADJ-MS
+أنتحر	أنتحر/V
+مموتش	ما/PART أموت/V+ش/NEG-PART
+--------------------	-/PUNC
+لو	لو/PART
+فعلا	فعلا/ADV
+فيه ناس	في/PREP+ه/PRON ناس/NOUN-MP
+"	"/PUNC
+نواياهم	نوايا/NOUN-FP+هم/PRON
+كويسة	كويس/ADJ-FS+ة/NSUFF
+"	"/PUNC
+نزلوا	نزل/V+وا/PRON
+في	في/PREP
+يناير	يناير/NOUN-MS
+..	./PUNC ./PUNC
+المفروض	ال/DET+مفروض/ADJ-MS
+بنفس	ب/PREP+نفس/NOUN-MS
+"	"/PUNC
+النوايا	ال/DET+نوايا/NOUN-FP
+الكويسة	ال/DET+جيد/ADJ-FS+ة/NSUFF
+"	"/PUNC
+دي	دي/PRON
+ينتحروا	ينتحر/V+وا/PRON
+بسبب	ب/PREP+سبب/NOUN-MS
+القرف	ال/DET+قرف/NOUN-MS
+اللي	اللي/PRON
+لازم	لازم/ADJ-MS
+نشوفه	نشوف/V+ه/PRON
+علشان بس	علشان/PART بس/ADV
+نرجع	نرجع/V
+لحدود	ل/PREP+حدود/NOUN-FP
+24	24/NUM
+يناير	يناير/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+مش لازم	مش/PART لازم/ADJ-MS
+يكون	يكون/V
+ليك	لي/PREP+ك+/PRON
+"	"/PUNC
+حبيب	حبيب/NOUN-MS
+"	"/PUNC
+عشان	علشان/PART
+تكون	تكون/V
+مبسوط	مبسوط/ADJ-MS
+..	./PUNC ./PUNC
+ممكن	ممكن/ADJ-MS
+يكون	يكون/V
+ليه	ل/PREP+ي+/PRON
+صحاب	صحاب/NOUN-MP
+اجدع	أجدع/ADJ-MS
+واحن	و/CONJ+أحن/MS-MS
+من	من/PREP
+مليون	مليون/NUM
+حبيب	حبيب/NOUN-MS
+:)))	:)))/EMOT
+--------------------	-/PUNC
+كانت	كان/V+ت/PRON
+فرصة	فرص/NOUN-FS+ة/NSUFF
+بعد	بعد/NOUN-MS
+جنات	جنات/NOUN-FS
+ودياب	و/CONJ+دياب/NOUN-MS
+يطلع	يطلع/V
+المتحدث	ال/DET+متحدث/NOUN-MS
+يعلن	يعلن/V
+اسماء	أسماء/NOUN-FP
+اللي	اللي/PART
+قتلوا	قتل/V+وا/PRON
+جنودنا	جنود/NOUN-MP+نا/PRON
+في	في/PREP
+رمضان	رمضان/NOUN-MS
+وخطفوا	و/CONJ+خطف/V+وا/PRON
+ال	ال/DET
+7	7/NUM
+اهو	أهو/ADV
+مرسي	مرسي/NOUN-MS
+مشي	مشي/V
+وسينا	و/CONJ+سيناء/NOUN-FS
+تحت	تحت/NOUN-MS
+سيطرتنا	سيطر/NOUN-FS+ة/NSUFF+نا/PRON
+تماما	تماما/ADV
+…	…/PUNC
+عايزين	عايز/ADJ-MP+ين/NSUFF
+نعرفهم	نعرف/V+هم/PRON
+--------------------	-/PUNC
+الناس	ال/DET+ناس/NOUN-MP
+الاغنيا	ال/DET+أغنيا/ADJ-MP
+اللي	اللي/PART
+تلاقيهم	تلاق/V+ي/PRON+هم/PRON
+معووجين	معووج/ADJ-MP+ين/NSUFF
+و ولاد	و/CONJ+ولاد/NOUN-MP
+وسخه	وسخ/ADJ-FS+ة/NSUFF
+تعرف	تعرف/V
+علي طول	على/PREP طول/NOUN-MS
+ان	إن/PART
+اصلهم	أصل/NOUN-MS+هم/PRON
+جربوع	جربوع/NOUN-MS
+وإغتنوا	و/CONJ+اغتن/V+وا/PRON
+،	،/PUNC
+اللي	اللي/PART
+مأصلين	مأصل/ADJ-MP+ين/NSUFF
+بقي	بقى/ADV
+بيبقوا	ب/PROG-PART+يبق/V+وا/PRON
+في	في/PREP
+منتهي	منتهى/NOUN-MS
+الرُقي	ال/DET+رقي/NOUN-MS
+--------------------	-/PUNC
+يبقى	يبقى/V
+قاعد	قاعد/ADJ-MS
+تحت	تحت/NOUN-MS
+كوبرى	كوبري/NOUN-MS
+عشان	علشان/PART
+يلمع	يلمع/V
+جزم	جزم/NOUN-FP
+الناس	ال/DET+ناس/NOUN-MP
+وهو	و/CONJ+هو/PRON
+اصلان	أصلا/ADV
+خريج	خريج/NOUN-MS
+جامعة	جامع/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+لو	لو/PART
+تعبتي	تعب/V+تي/PRON
+و انتي	و/CONJ+إنتي/PRON
+وحدك	وحد/NOUN-MS+ك/PRON
+اوعي	إوع/V+ي/PRON
+مرة	مر/NOUN-FS+ة/NSUFF
+احس	أحس/V
+دمعك	دمع/NOUN-MS+ك/PRON
+اتكلمي	اتكلم/V+ي/PRON
+ويايا	ويا/PART+يا/PRON
+و احكي	و/CONJ+احك/V+ي/PRON
+اه	نعم/PART
+فارقتك	فارق/V+ت/PRON+ك/PRON
+بس	بس/PART
+سامعك	سامع/ADJ-MS+ك/PRON
+هاتلاقيني	ه/FUT-PART+تلاق/V+ي/PRON+ني/PRON
+في	في/PREP
+اي	أي/PART
+وقت	وقت/NOUN-MS
+هاتشوفيني	ه/FUT-PART+تشوف/V+ي/PRON+ني/PRON
+تملي	تملي/ADV
+جنبك	جنب/NOUN-MS+ك/PRON
+بعيداعن	بعيد/ADJ-MS+ا/CASE عن/PREP
+#	#/HASH
+أبو	أبو/NOUN-MS
+_	_/PUNC
+صلاح	صلاح/NOUN-MS
+--------------------	-/PUNC
+محدش	ما/PART حد/NOUN-MS+ش/NEG-PART
+محتاج	محتاج/ADJ-MS
+من	من/PREP
+حد	حد/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+الحالة	ال/DET+حال/NOUN-FS+ة/NSUFF
+100	100/NUM
+فل	فل/NOUN-MS
+ومرضية	و/CONJ+مرضي/ADJ-FS+ة/NSUFF
+الفكرة	ال/DET+فكر/NOUN-FS+ة/NSUFF
+بس	بس/PART
+فـ	في/PREP
+التقدير	ال/DET+تقدير/NOUN-MS
+وده	و/CONJ+ده/PRON
+مش	مش/PART
+بفلوس	ب/PREP+فلوس/NOUN-MP
+ده	ده/PRON
+كبيره	كبير/ADJ-MS+ه/PRON
+سؤال	سؤال/NOUN-MS
+بصافي	ب/PREP+صافي/ADJ-MS
+نية	ني/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+عـن	عن/PREP
+نـاس	ناس/NOUN-MP
+أول	أول/ADJ-MS
+مـاتعرفك	ما/PART تعرف/V+ك/PRON
+تـهتم	تهتم/V
+بيـك	بي/PREP+ك/PRON
+أوووى	قوي/ADV
+وكـأن	و/CONJ+كأن/PART
+مفيش	ما/PART في/PREP+ش/NEG-PART
+وراهم	ورا/NOUN-MS+هم/PRON
+حاجه	حاج/NOUN-FS+ة/NSUFF
+إلا	إلا/PART
+أنت	أنت/PRON
+..	./PUNC ./PUNC
+ومع	و/CONJ+مع/PART
+الوقت	ال/DET+وقت/NOUN-MS
+الاهتمام	ال/DET+اهتمام/NOUN-MS
+يقل	يقل/V
+شويه بشوية	شوي/NOUN-FS+ة/NSUFF ب/PREP+شوي/NOUN-FS+ة/NSUFF
+لـحد	ل/PREP+حد/NOUN-MS
+مايختفى	ما/PART يختفي/V
+--------------------	-/PUNC
+بحب	ب/PROG-PART+أحب/V
+أصرف	أصرف/V
+اللي	اللي/PRON
+معايا	معا/PART+يا/PRON
+و معملش	و/CONJ+ما/PART أعمل/V+ش/NEG-PART
+حساب	حساب/NOUN-MS
+لكمان	ل/PREP+كمان/NOUN-MS
+خمس	خمس/NUM
+دقايق	دقايق/NOUN-FP
+من	من/PREP
+دلوقتي	دلوقتي/ADV
+,	,/PUNC
+المُتعة	ال/DET+متع/NOUN-FS+ة/NSUFF
+مبقتش	ما/PART بق/V+ت/PRON+ش/NEG-PART
+ف	في/PREP
+إني	إن/PART+ي/PRON
+بصرف	ب/PROG-PART+أصرف/V
+.	./PUNC
+أنا	أنا/PRON
+بقيت	بقي/V+ت/PRON
+بستمتع	ب/PROG-PART+أستمتع/V
+إني	إن/PART+ي/PRON
+معييش	معا/PART+يي/PRON+ش/NEG-PART
+فلوس	نقود/NOUN-MP
+--------------------	-/PUNC
+عارفين	عارف/ADJ-MP+ين/NSUFF
+أحساس	إحساس/NOUN-MS
+الملل	ال/DET+ملل/NOUN-MS
+بس	بس/PART
+من	من/PREP
+جواك	جوا/NOUN-FS+ك/PRON
+مشغول	مشغول/ADJ-MS
+مش عارف	مش/PART عارف/ADJ-MS
+مع	مع/PART
+مين	مين/PART
+و ايه	و/CONJ+إيه/PART
+اللى	اللي/PRON
+شاغلك	شاغل/ADJ-MS+ك/PRON
+مع إن	مع/PART إن/PART
+فى	في/PREP+ه/PRON
+ملل	ملل/NOUN-MS
+أحساس	إحساس/NOUN-MS
+وحش	وحش/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+شوية حاجات	شوي/NOUN-FS+ة/NSUFF حاج/NOUN-FP+ات/NSUFF
+بتظهر	ب/PROG-PART+تظهر/V
+ساعات	ساعة/NOUN-FS+ات/NSUFF
+تخلى	تخلي/V
+السكات	ال/DET+سكات/NOUN-MS
+يفرض	يفرض/V
+نفسه	نفس/NOUN-FS+ه/PRON
+عليا	على/PREP+يا/PRON
+واروح	و/CONJ+أروح/V
+للى	ل/PREP+اللي/PRON
+فات	فات/V
+واعيش	و/CONJ+أعيش/V
+ذكريات	ذكرى/NOUN-FP+ات/NSUFF
+من	من/PREP
+حُب	حب/NOUN-MS
+مات	مات/V
+وجعه	وجع/NOUN-MS+ه/PRON
+مأثر	مأثر/ADJ-MS
+فيا	في/PREP+ا/PRON
+.	./PUNC
+--------------------	-/PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+طب	طيب/ADV
+كورة	كور/NOUN-FS+ة/NSUFF
+حديد	حديد/NOUN-MS
+تيجي	تيج/V+ي/PRON
+من	من/PREP
+ورا	ورا/NOUN-MS
+المسرح	ال/DET+مسرح/NOUN-MS
+كدة	كده/ADV
+و تهرس	و/CONJ+تهرس/V
+شيرين	شيرين/NOUN-FS
+--------------------	-/PUNC
+فى ناس	في/PREP+ه/PRON ناس/NOUN-MP
+بتلقح بالكلام	ب/PROG-PART+تلقح/V ب/PREP+ال/DET+كلام/NOUN-MS
+ع	على/PREP
+ناس	ناس/NOUN-MP
+تانيه	تاني/ADJ-FS+ة/NSUFF
+فى	في/PREP
+التويتس	ال/DET+تويتس/NOUN-FP
+مفكر	مفكر/ADJ-MS
+نفسك	نفس/NOUN-FS+ك/PRON
+قاعد	قاعد/ADJ-MS
+ع	على/PREP
+المسطبه	ال/DET+مسطب/NOUN-FS+ة/NSUFF
+انت مش	إنت/PRON مش/PART
+فى	في/PREP
+ع	على/PREP
+التايم لاين	ال/DET+تايم/NOUN-MS لاين/NOUN-MS
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+طب	طيب/ADJ-MS
+العيب	ال/DET+عيب/NOUN-MS
+في	في/PREP
+مين	مين/PART
+؟	؟/PUNC
+في	في/PREP
+الفيزيا	ال/DET+فيزيا/NOUN-FS
+؟	؟/PUNC
+لأ	لا/PART
+عشان	علشان/PART
+في ناس	في/PREP+ه/PRON ناس/NOUN-MP
+بتفهمها	ب/PROG-PART+تفهم/V+ها/PRON
+.	./PUNC
+طب	طيب/ADJ-MS
+في	في/PREP
+المستر	ال/DET+مستر/NOUN-MS
+؟	؟/PUNC
+لأ	لا/PART
+عشان	علشان/PART
+في ناس	في/PREP+ه/PRON ناس/NOUN-MP
+بتفهمه	ب/PROG-PART+تفهم/V+ها/PRON
+.	./PUNC
+يبقي	يبقى/V
+العيب	ال/DET+عيب/NOUN-MS
+فيا	في/PREP+ا/PRON
+أنا	أنا/PRON
+و حسبي	و/CONJ+حسب/NOUN-MS+ي/PRON
+الله	الله/NOUN-MS
+و نعم	و/CONJ+نعم/PART
+الوكيل	ال/DET+وكيل/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+السعاده	ال/DET+سعاد/NOUN-FS+ة/NSUFF
+حواليك	حوالي/NOUN-MS+ك/PRON
+فى	في/PREP
+كل	كل/NOUN-MS
+حته	حت/NOUN-FS+ة/NSUFF
+حاجة كده عامله زي	حاج/NOUN-FS+ة/NSUFF هكذا/ADV عامل/ADJ-FS+ة/NSUFF زي/NOUN-MS
+..	./PUNC ./PUNC
+زي	زي/NOUN-MS
+ضربات	ضرب/NOUN-FP+ات/NSUFF
+قلبك	قلب/NOUN-MS+ك/PRON
+لما	لما/PART
+بتبقى	ب/PROG-PART+تبقى/V
+متشيك	متشيك/ADJ-MS
+على الاخر	على/PREP ال/DET+آخر/NOUN-MS
+وداخل	و/CONJ+داخل/ADJ-MS
+فرح	فرح/NOUN-MS
+موجود	موجود/ADJ-MS
+فيه	في/PREP+ه/PRON
+حد	حد/NOUN-MS
+بتحبه	ب/PROG-PART+تحب/V+ها/PRON
+--------------------	-/PUNC
+@melzoghby@m_msobhy	@melzoghby@m_msobhy/MENTION
+البناء	ال/DET+بناء/NOUN-MS
+ف	ف/PREP
+ارض	أرض/NOUN-FS
+مشروع	مشروع/NOUN-MS
+العشوائيات	ال/DET+عشوائي/NOUN-FP+ات/NSUFF
+بدأ	بدأ/V
+من	من/PREP
+فترة	فتر/NOUN-FS+ة/NSUFF
+كبيرة	كبير/ADJ-FS+ة/NSUFF
+و دلوقتي	و/CONJ+دلوقتي/ADV
+ممكن	ممكن/ADJ-MS
+تروح	تروح/V
+تشوف	تشوف/V
+المباني	ال/DET+مباني/NOUN-FP
+كمان	كمان/ADV
+.	./PUNC
+اليوتيوب	ال/DET+يوتيوب/NOUN-MS
+مليان	مليان/ADJ-MS
+فيديوهات	فيديو/NOUN-FP+هات/NSUFF
+ياريت	يا/PART ريت/NOUN-MS
+تشوف	تشوف/V
+--------------------	-/PUNC
+@Hager_Magdy89	@Hager_Magdy89/MENTION
+كل	كل/NOUN-MS
+واحد	واحد/NOUN-MS
+من	من/PREP
+جواه	جوا/NOUN-FS+ه/PRON
+بيبقي	ب/PROG-PART+يبقى/V
+بيحب	ب/PROG-PART+يحب/V
+حد	حد/NOUN-MS
+او	أو/CONJ
+معجب	معجب/ADJ-MS
+بحد	ب/PREP+حد/NOUN-MS
+ف هيتابعه	ف+/CONJ+ه/FUT-PART+يتابع/V+ه/PRON
+سواء	سواء/NOUN-MS
+الشخص ده	ال/DET+شخص/NOUN-MS ده/PRON
+حس	حس/V
+او لا	أو/CONJ لا/PART
+:D	:D/EMOT
+النظرات دي	ال/DET+نظر/NOUN-FP+ات/NSUFF دي/PRON
+هتلاقيها	ه/FUT-PART+تلاق/V+ي/PRON+ها/PRON
+كتير	كتير/ADV
+لو	لو/PART
+ركزتي	ركز/V+تي/PRON
+شوية	شوي/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+@mezo83	@mezo83/MENTION
+انا	أنا/PRON
+بأتفرج	ب/PROG-PART+أتفرج/V
+علي	على/PREP
+أفلام	أفلام/NOUN-FP
+و بس	و/CONJ+بس/ADV
+يا	يا/PART
+لايت	لايت/ADJ-MS
+يا	يا/PART
+كوميدي	كوميدي/ADJ-MS
+،	،/PUNC
+اللي	اللي/PART
+بيتفرجوا	ب/PROG-PART+يتفرج/V+وا/PRON
+علي	على/PREP
+البرامج	ال/DET+برامج/NOUN-FP
+دول	دول/PRON
+ربنا	رب/NOUN-MS+نا/PRON
+يديهم	يد/V+ي/PRON+هم/PRON
+الصحة	ال/DET+صح/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+طب	طيب/ADJ-MS
+على فكرة	على/PREP فكر/NOUN-FS+ة/NSUFF
+احساس	إحساس/NOUN-MS
+حلو	حلو/ADJ-MS
+ان	إن/PART
+حد	حد/NOUN-MS
+يحكيلك	يحكي/V ل/PREP+ك/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+و تبقى عارف	و/CONJ+تبقى/V عارف/ADJ-MS
+انه	إن/PART+ه/PRON
+بيحكيهالك	ب/PROG-PART+يحكي/V+ها/PRON ل/PREP+ك/PRON
+انت	إنت/PRON
+بس	بس/ADV
+،	،/PUNC
+حتى	حتى/PREP
+لو	لو/PART
+حاجة هبلة	حاج/NOUN-FS+ة/NSUFF هبل/NOUN-FS+ة/NSUFF
+:)	:)/EMOT
+--------------------	-/PUNC
+الست	ال/DET+ست/NOUN-FS
+العظيمة	ال/DET+عظيم/ADJ-FS+ة/NSUFF
+اللي	اللي/PRON
+في	في/PREP
+الصورة	ال/DET+صور/NOUN-FS+ة/NSUFF
+بظهرها	ب/PREP+ظهر/NOUN-MS+ها/PRON
+دي	دي/PRON
+،	،/PUNC
+ممكن	ممكن/ADJ-MS
+تكون	تكون/V
+الست	ال/DET+ست/NOUN-FS
+الوحيدة	ال/DET+وحيد/ADJ-FS+ة/NSUFF
+في	في/PREP
+مصر	مصر/NOUN-FS
+الجديرة	ال/DET+جدير/ADJ-FS+ة/NSUFF
+اني	إن/PART+ي/PRON
+اقولها	أقول/V ل/PREP+ها/PRON
+كل	كل/NOUN-MS
+سنة	سن/NOUN-FS+ة/NSUFF
+وانتي	و/CONJ+إنتي/PRON
+طيبة	طيب/ADJ-FS+ة/NSUFF
+في	في/PREP
+عيد	عيد/NOUN-MS
+الام	ال/DET+أم/NOUN-FS
+http://t.co/EF5cWot6sJ	http:\\t.co\EF5cWot6sJ/URL
+--------------------	-/PUNC
+@EtisalatMisr	@EtisalatMisr/MENTION
+في	في/PREP
+2008	2008/NUM
+قدت	قد/V+ت/PRON
+حملة	حمل/NOUN-FS+ة/NSUFF
+لتحويل	ل/PREP+تحويل/NOUN-MS
+كل	كل/NOUN-MS
+افراد	أفراد/NOUN-MP
+عائلتي	عائل/NOUN-FS+ة/NSUFF+ي/PRON
+من	من/PREP
+فودافون	فودافون/NOUN-FS
+لاتصالات	ل/PREP+اتصال/NOUN-FP+ات/NSUFF
+وحصل	و/CONJ+حصل/V
+..	./PUNC ./PUNC
+دلوقتي	دلوقتي/ADV
+انا	أنا/PRON
+هاعمل	ه/FUT-PART+أعمل/V
+العكس	ال/DET+عكس/NOUN-MS
+وكله	و/CONJ+كل/NOUN-MS+ه/PRON
+هايرجع	ه/FUT-PART+يرجع/V
+فودافون	فودافون/NOUN-FS
+تاني	تاني/ADV
+.	./PUNC
+--------------------	-/PUNC
+ايه	إيه/PART
+أهمية	أهمي/NOUN-FS+ة/NSUFF
+سجدة	سجد/NOUN-FS+ة/NSUFF
+اللاعب	ال/DET+لاعب/NOUN-MS
+بعد	بعد/NOUN-MS
+الجون	ال/DET+جون/NOUN-MS
+؟	؟/PUNC
+لو	لو/PART
+شكرت	شكر/V+ت/PRON
+ربنا	رب/NOUN-MS+نا/PRON
+في	في/PREP
+سرك	سر/NOUN-MS+ك/PRON
+مش هيتقبل	مش/PART ه/FUT-PART+يتقبل/V
+؟	؟/PUNC
+واشمعني	و/CONJ+إشمعنى/PART
+في	في/PREP
+الكورة	ال/DET+كور/NOUN-FS+ة/NSUFF
+؟	؟/PUNC
+ليه	ليه/PART
+الطباخ	ال/DET+طباخ/NOUN-MS
+مثلاً	مثلا/ADV
+بعد ما	بعد/NOUN-MS ما/PART
+يشوح	يشوح/V
+حتة	حت/NOUN-FS+ة/NSUFF
+بفتيك	بفتيك/NOUN-MS
+حلوة	حلو/ADJ-FS+ة/NSUFF
+ما بيسجدش	ما/PART ب/PROG-PART+يسجد/V+ش/NEG-PART
+--------------------	-/PUNC
+أي	أي/PART
+حد	حد/NOUN-MS
+بعد كده	بعد/NOUN-MS كده/PRON
+يتحرش	يتحرش/V
+بالستات	ب/PREP+ال/DET+ست/NOUN-FP+ات/NSUFF
+والبنات	و/CONJ+ال/DET+بن/NOUN-FP+ات/NSUFF
+في	في/PREP
+الشارع	ال/DET+شارع/NOUN-MS
+ولا	و/CONJ+لا/PART
+يهمه	يهم/V+ه/PRON
+...	./PUNC ./PUNC ./PUNC
+أصلها	أصل/NOUN-MS+ها/PRON
+جريمة	جريم/NOUN-FS+ة/NSUFF
+أخلاقية	أخلاقي/ADJ-FS+ة/NSUFF
+وكده	و/CONJ+كده/ADV
+...	./PUNC ./PUNC ./PUNC
+عادي	عادي/ADJ-MS
+يعتذر	يعتذر/V
+بعدها	بعد/NOUN-MS+ها/PRON
+والمجتمع	و/CONJ+ال/DET+مجتمع/NOUN-MS
+يقبله	يقبل/V+ه/PRON
+تاني	تاني/ADV
+مفيش	ما/PART في/PREP+ش/NEG-PART
+مشكلة	مشكل/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+اصل	أصل/NOUN-MS
+دايما	دايما/ADV
+الكلام	ال/DET+كلام/NOUN-MS
+الصح	ال/DET+صح/ADJ-MS
+بيجرح	ب/PROG-PART+يجرح/V
+ويوجع	و/CONJ+يوجع/V
+اوى	قوي/ADV
+بس	بس/PART
+لازم	لازم/ADJ-MS
+نسمعه	نسمع/V+ه/PRON
+عشان	علشان/PART
+بيفوقنا	ب/PROG-PART+يفوق/V+نا/PRON
+.	./PUNC
+--------------------	-/PUNC
+فجأة	فجأة/ADV
+بتلاقى	ب/PROG-PART+تلاق/V+ي/PRON
+المشاكل	ال/DET+مشاكل/NOUN-FP
+كلها	كل/NOUN-MS+ها/PRON
+ورا	ورا/NOUN-MS
+بعدها	بعض/NOUN-MS+ها/PRON
+وبتبقى عارف	و/CONJ+ب/PROG-PART+تبقى/V عارف/ADJ-MS
+ان	إن/PART
+دا	ده/PRON
+ابتلاء	ابتلاء/NOUN-MS
+من	من/PREP
+ربنا	رب/NOUN-MS+نا/PRON
+وان	و/CONJ+إن/PART
+ربنا	رب/NOUN-MS+نا/PRON
+بيختبرك	ب/PROG-PART+يختبر/V+ك/PRON
+بس	بس/PART
+وانت	و/CONJ+أنت/PRON
+فى	في/PREP
+الموقف	ال/DET+موقف/NOUN-MS
+بيبقى	ب/PROG-PART+يبقى/V
+صعب	صعب/ADJ-MS
+بس لازم	بس/PART لازم/ADJ-MS
+تصبر	تصبر/V
+وربنا	و/CONJ+رب/NOUN-MS+نا/PRON
+هيعدلها	ه/FUT-PART+يعدل/V+ها/PRON
+.	./PUNC
+--------------------	-/PUNC
+مليون	مليون/NUM
+بنت	بنت/NOUN-FS
+هتحبك	ه/FUT-PART+تحب/V+ك/PRON
+ومليون	و/CONJ+مليون/NUM
+بنت	بنت/NOUN-FS
+هتسيبك	ه/FUT-PART+تسيب/V+ك/PRON
+مفيش	ما/PART في/PREP+ش/NEG-PART
+غير	غير/NOUN-MS
+واحدة	واحد/NOUN-FS+ة/NSUFF
+هتدوملك	ه/FUT-PART+تدوم/V ل/PREP+ك/PRON
+وتقبل	و/CONJ+تقبل/V
+بيك	بي/PREP+ك/PRON
+على	على/PREP
+عيبك	عيب/NOUN-MS+ك/PRON
+--------------------	-/PUNC
+الناس	ال/DET+ناس/NOUN-MP
+ماتعرفش	ما/PART تعرف/V+ش/NEG-PART
+ان	إن/PART
+الدستور	ال/DET+دستور/NOUN-MS
+عندنا	عند/NOUN-MS+نا/PRON
+فى	في/PREP
+مصر	مصر/NOUN-FS
+زية	زي/NOUN-MS+ه/PRON
+زى	زي/NOUN-MS
+النيش	ال/DET+نيش/NOUN-MS
+فى	في/PREP
+البيت	ال/DET+بيت/NOUN-MS
+..	./PUNC ./PUNC
+بنطلع	ب/PROG-PART+نطلع/V
+منة	من/PREP+ه/PRON
+الحاجة	ال/DET+حاج/NOUN-FS+ة/NSUFF
+اللى	اللي/PRON
+احنا عايزنها	إحنا/PRON عايز/ADJ-MP+ين/NSUFF+ها/PRON
+فى	في/PREP
+الوقت	ال/DET+وقت/NOUN-MS
+اللى	اللي/PRON
+احنا عايزينة	إحنا/PRON عايز/ADJ-MP+ين/NSUFF+ه/PRON
+بس	بس/ADV
+--------------------	-/PUNC
+اكثر	أكثر/ADJ-MS
+ناس	ناس/NOUN-MP
+بحترمهم	ب/PROG-PART+أحترم/V+هم/PRON
+اللي	اللي/PART
+لما	لما/PART
+يغلطوا	يغلط/V+وا/PRON
+ميقعدوش	ما/PART يقعد/V+وا/PRON+ش/NEG-PART
+يكابروا	يكابر/V+وا/PRON
+ويكملوا	و/CONJ+يكمل/V+وا/PRON
+في	في/PREP
+غلطهم	غلط/NOUN-MS+هم/PRON
+او	أو/CONJ
+يبرروا	يبرر/V+وا/PRON
+لا	لا/PART
+بيعتذروا	ب/PROG-PART+يعتذر/V+وا/PRON
+وبيعترفوا	و/CONJ+ب/PROG-PART+يعترف/V+وا/PRON
+بغلطهم	ب/PREP+غلط/NOUN-MS+هم/PRON
+الاعتذار	ال/DET+اعتذار/NOUN-MS
+سمة	سم/NOUN-FS+ة/NSUFF
+الشجعان	ال/DET+شجعان/NOUN-MP
+!	!/PUNC
+--------------------	-/PUNC
+ومين فينا	و/CONJ+مين/PART في/PREP+نا/PRON
+مخسرش	ما/PART خسر/V+ش/NEG-PART
+ناس	ناس/NOUN-MP
+متوقعش	ما/PART توقع/V+ش/NEG-PART
+ف	في/PREP
+يوم	يوم/NOUN-MS
+انه	إن/PART+ه/PRON
+يخسرهم	يخسر/V+هم/PRON
+و قربوا	و/CONJ+قرب/V+وا/PRON
+منه	من/PREP+ه/PRON
+ناس	ناس/NOUN-MP
+متصورش	ما/PART تصور/V+ش/NEG-PART
+ف	في/PREP
+يوم	يوم/NOUN-MS
+انه	إن/PART+ه/PRON
+هيعرفهم	ه/FUT-PART+يعرف/V+هم/PRON
+.	./PUNC
+--------------------	-/PUNC
+اكتر	أكتر/ADJ-MS
+حاجه	حاج/NOUN-FS+ة/NSUFF
+نفسى	نفس/NOUN-FS+ي/PRON
+فى	في/PREP
+اللى	اللي/PRON
+هتجوزه	ه/FUT-PART+أتجوز/V+ه/PRON
+انه	إن/V+ه/PRON
+يكون	يكون/V
+طوويل	طويل/ADJ-MS
+بغض	ب/PREP+غض/NOUN-MS
+النظر	ال/DET+نظر/NOUN-MS
+عن	عن/PREP
+ملامحه	ملامح/NOUN-FP+ه/PRON
+و عندى	و/CONJ+عند/NOUN-MS+ي/PRON
+احساس	إحساس/NOUN-MS
+انها	إن/PART+ها/PRON
+مش هتحقق	مش/PART ه/FUT-PART+تتحقق/V
+--------------------	-/PUNC
+@Rababoush	@Rababoush/MENTION
+انا	أنا/PRON
+عارفه	عارف/ADJ-MS+ة/NSUFF
+انك	إن/PART+ك/PRON
+هاتستغربى	ه/FUT-PART+تستغرب/V+ي/PRON
+التويته دى	ال/DET+تويت/NOUN-FS+ة/NSUFF دي/PRON
+....	./PUNC ./PUNC ./PUNC ./PUNC
+بس انا	بس/PART أنا/PRON
+فعلا	فعلا/ADV
+محتاجه	محتاج/ADJ-FP+ة/NSUFF
+مساعده	مساعد/NOUN-FS+ة/NSUFF
+من	من/PREP
+دكتور	دكتور/NOUN-MS
+أمراض	أمراض/NOUN-FP
+نفسيه	نفسي/ADJ-FS+ة/NSUFF
+ومش عارفه	و/CONJ+مش/PART عارف/ADJ-FS+ة/NSUFF
+اسم	اسم/NOUN-MS
+دكتور	دكتور/NOUN-MS
+كويس	كويس/ADJ-MS
+--------------------	-/PUNC
+مش فاهم	مش/PART فاهم/ADJ-MS
+ايه وجه	إيه/PART وجه/V
+الإنبهار	ال/DET+انبهار/NOUN-MS
+اللي	اللي/PRON
+في	في/PREP
+الطاووس	ال/DET+طاووس/NOUN-MS
+..	./PUNC ./PUNC
+يا	يا/PART
+جدعان	جدعان/NOUN-MP
+ده	ده/PRON
+عباره	عبار/NOUN-FS+ة/NSUFF
+عن	عن/PREP
+بطه	بط/NOUN-FS+ة/NSUFF
+مبالغ	مبالغ/ADJ-MS
+فيها	في/PREP+ها/PRON
+!	!/PUNC
+:D	:D/EMOT
+--------------------	-/PUNC
+ساعات	ساع/NOUN-FP+ات/NSUFF
+بضطر	ب/PROG-PART+أضطر/V
+اسيب	أسيب/V
+الناس	ال/DET+ناس/NOUN-MP
+عشان	علشان/PART
+مبقاش	ما/PART أبقى/V+ش/NEG-PART
+تقيله	تقيل/ADJ-FS+ة/NSUFF
+علي	على/PREP
+حد	حد/NOUN-MS
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+حاله	حال/NOUN-FS+ة/NSUFF
+في	في/PREP
+مستشفي	مستشفى/NOUN-FS
+دمنهور	دمنهور/NOUN-FS
+العام	ال/DET+عام/ADJ-MS
+محتاجه	محتاج/ADJ-FP+ة/NSUFF
+60	60/NUM
+كيس	كيس/NOUN-MS
+دم	دم/NOUN-MS
+بكره	بكرة/ADV
+عشان	علشان/PART
+هيتبدلوا	ه/FUT-PART+يتبدل/V+وا/PRON
+ببلازما	ب/PREP+بلازما/NOUN-FS
+والموضوع	و/CONJ+ال/DET+موضوع/NOUN-MS
+طارئ	طارئ/ADJ-MS
+جدا	جدا/ADV
+ولازم	و/CONJ+لازم/ADJ-MS
+الدم	ال/DET+دم/NOUN-MS
+يجهز	يجهز/V
+بكره	بكرة/ADV
+...	./PUNC ./PUNC ./PUNC
+http://t.co/DX7wa3qpAN	http:\\t.co\DX7wa3qpAN/URL
+--------------------	-/PUNC
+لما	لما/PART
+بيزيد	ب/PROG-PART+يزيد/V
+الهرى	ال/DET+هري/NOUN-MS
+فى	في/PREP
+موضوع	موضوع/NOUN-MS
+معين	معين/ADJ-MS
+بيبقى	ب/PROG-PART+يبقى/V
+رخم	رخم/ADJ-MS
+..	./PUNC ./PUNC
+فبطلو	ف+/CONJ+بطل/V+وا/PRON
+تتريقوا	تتريق/V+هم/PRON
+على	على/PREP
+شيرين	شيرين/NOUN-FS
+إنتو مش	إنتو/PRON مش/PART
+ملايكه	ملايك/NOUN-FP+ة/NSUFF
+يعنى	يعني/ADV
+عالأقل	على/PREP ال/DET+أقل/ADJ-MS
+هيا	هي/PRON
+على	على/PREP
+طبيعتها	طبيع/NOUN-FS+ة/NSUFF+ها/PRON
+مش	مش/PART
+زيكو	زي/NOUN-MS+كم/PRON
+مصطنعين	مصطنع/ADJ-MP+ين/NSUFF
+!	!/PUNC
+# MBCTheVoice	#/HASH MBCTheVoice/FOREIGN
+--------------------	-/PUNC
+حياتك	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+لو	لو/PART
+ماشي	ماشي/ADJ-MS
+معاها	معا/PART+ها/PRON
+موسيقي	موسيقى/NOUN-FS
+تصويرية	تصويري/ADJ-FS+ة/NSUFF
+هتحس	ه/FUT-PART+تحس/V
+إنك	إن/PART+ك/PRON
+ف	في/PREP
+كابوس	كابوس/NOUN-MS
+مش عارف	مش/PART عارف/ADJ-MS
+تخلص	تخلص/V
+منة	من/PREP+ه/PRON
+،	،/PUNC
+مش عارف	مش/PART عارف/ADJ-MS
+نهايتة	نهاي/NOUN-FS+ة/NSUFF+ه/PRON
+امتي	إمتى/PART
+؟	؟/PUNC
+مع إن	مع/PART إن/PART
+نفسك	نفس/NOUN-FS+ك/PRON
+الفيلم	ال/DET+فيلم/NOUN-MS
+يطول	يطول/V
+شوية	شوي/NOUN-FS+ة/NSUFF
+جايز	جايز/NOUN-MS
+تبقي	تبقى/V
+نهايتة	نهاي/NOUN-FS+ة/NSUFF+ه/PRON
+سعيدة	سعيد/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+بحب	ب/PROG-PART+أحب/V
+اسمع	أسمع/V
+اي	أي/NOUN-MS
+حد	حد/NOUN-MS
+يحكيلي	يحكي/V ل/PREP+ي/PRON
+اللي	اللي/PRON
+بيحصله	ب/PROG-PART+يحصل/V ل/PREP+ه/PRON
+بس	بس/PART
+مبحبش	ما/PART ب/PROG-PART+أحب/V+ش/NEG-PART
+احكي	أحكي/V
+او	أو/CONJ
+بمعنى	ب/PREP+معنى/NOUN-MS
+اصح	أصح/ADJ-MS
+مبعرفش	ما/PART ب/PROG-PART+أعرف/V+ش/NEG-PART
+.	./PUNC
+--------------------	-/PUNC
+@vivavivooo	@vivavivooo/MENTION
+أوبا	أوبا/ADV
+انا	أنا/PRON
+كمان	كمان/ADV
+من	من/PREP
+أسيوط	أسيوط/NOUN-MS
+علي فكرة	على/PREP فكر/NOUN-FS+ة/NSUFF
+بس	بس/PART
+عمري	عمر/NOUN-MS+ي/PRON
+ما	ما/PART
+رحت	رح/V+ت/PRON
+،،	،/PUNC ،/PUNC
+بس عارف	بس/PART عارف/ADJ-MS
+ان	إن/PART
+الصعايدة	ال/DET+صعايد/NOUN-MP+ة/NSUFF
+اتغيروا	اتغير/V+وا/PRON
+عن	عن/PREP
+زمان	زمان/NOUN-MS
+،،	،/PUNC ،/PUNC
+وكل	و/CONJ+كل/NOUN-MS
+اللي	اللي/PRON
+بيتعمل	ب/PROG-PART+يتعمل/V
+في	في/PREP
+الدراما	ال/DET+دراما/NOUN-FS
+قلش	قلش/NOUN-MS
+--------------------	-/PUNC
+البنات	ال/DET+بن/NOUN-FP+ات/NSUFF
+بتفرح	ب/PROG-PART+تفرح/V
+من	من/PREP
+اصغر	أصغر/ADJ-MS
+كلمة	كلم/NOUN-FS+ة/NSUFF
+وبتزعل	و/CONJ+ب/PROG-PART+تزعل/V
+من	من/PREP
+اصغر	أصغر/ADJ-MS
+اصغر	أصغر/ADJ-MS
+كلمة	كلم/NOUN-FS+ة/NSUFF
+كائنات	كائن/NOUN-FP+ات/NSUFF
+غريبه	غريب/ADJ-FS+ة/NSUFF
+بس	بس/PART
+حلوة	حلو/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+بعد ما	بعد/NOUN-MS ما/PART
+رجعت	رجع/V+ت/PRON
+كان	كان/V
+رب	رب/NOUN-MS
+الأسرة	ال/DET+أسر/NOUN-FS+ة/NSUFF
+اتوفى	اتوفى/V
+والمعايش	و/CONJ+ال/DET+معايش/NOUN-FP
+بقت	بق/V+ت/PRON
+صعبة	صعب/ADJ-FS+ة/NSUFF
+فقررت	ف+/CONJ+قرر/V+ت/PRON
+تنزل	تنزل/V
+تدور على	تدور/V على/PREP
+شغل	شغل/NOUN-MS
+ونظرا	و/CONJ+نظرا/ADV
+لأنها	ل/PREP+أن/PART+ها/PRON
+بقت	بق/V+ت/PRON
+مدام	مدام/NOUN-FS
+وواخدة	و/CONJ+واخد/ADJ-FS+ة/NSUFF
+حريتها	حري/NOUN-FS+ة/NSUFF+ها/PRON
+شوية	شوي/NOUN-FS+ة/NSUFF
+عن قبل كده	عن/PREP قبل/NOUN-MS كده/ADV
+الأسرة	ال/DET+أسر/NOUN-FS+ة/NSUFF
+وافقت	وافق/V+ت/PRON
+--------------------	-/PUNC
+مستني	مستني/ADJ-MS
+ايه	إيه/PART
+من	من/PREP
+#	#/HASH
+بلد	بلد/NOUN-FS
+علشان	علشان/PART
+تشتغل	تشتغل/V
+فيها	في/PREP+ها/PRON
+لازم	لازم/ADJ-MS
+يبقى	يبقى/V
+معاك	معا/PART+ك/PRON
+شهاده	شهاد/NOUN-FS+ة/NSUFF
+خبره	خبر/NOUN-FS+ة/NSUFF
+!	!/PUNC
+وعلشان	و/CONJ+علشان/PART
+تجيب	تجيب/V
+شهاده	شهاد/NOUN-FS+ة/NSUFF
+خبره	خبر/NOUN-FS+ة/NSUFF
+لازم	لازم/ADJ-MS
+تشتغل	تشتغل/V
+:(	:(/EMOT
+^_^	^_^/EMOT
+--------------------	-/PUNC
+@MohamedSalah___	@MohamedSalah___/MENTION
+لا	لا/PART
+لو	لو/PART
+سمحت	سمح/V+ت/PRON
+:D	:D/EMOT
+,,	,/PUNC ,/PUNC
+انا	أنا/PRON
+عشان	علشان/PART
+مبعرفش	ما/PART ب/PROG-PART+أعرف/V+ش/NEG-PART
+اكدب	أكدب/V
+بكح	ب/PROG-PART+أكح/V
+:D	:D/EMOT
+,,	,/PUNC ,/PUNC
+فى ناس	في/PREP+ه/PRON ناس/NOUN-MP
+تانية	تاني/ADJ-FS+ة/NSUFF
+بتكدب	ب/PROG-PART+تكدب/V
+ومبيرمشلهاش	و/CONJ+ما/PART ب/PROG-PART+يرمش/V ل/PREP+ها/PRON+ش/NEG-PART
+رمش	رمش/NOUN-MS
+:D	:D/EMOT
+قشطة	قشط/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+فاكرين	فاكر/ADJ-MP+ين/NSUFF
+لما	لما/PART
+قلت	قل/V+ت/PRON
+عندي	عند/NOUN-MS+ي/PRON
+امل	أمل/NOUN-MS
+في	في/PREP
+البلد	ال/DET+بلد/NOUN-FS
+انسوا	انس/V+وا/PRON
+اني	إن/PART+ي/PRON
+قلت	قل/V+ت/PRON
+كده	كده/ADV
+البلد دي	ال/DET+بلد/NOUN-FS دي/PRON
+ملهاش	ما/PART ل/PREP+ها/PRON+ش/NEG-PART
+غير	غير/NOUN-MS
+ربنا	رب/NOUN-MS+نا/PRON
+انما	إنما/PART
+امل	أمل/NOUN-MS
+دي	دي/PRON
+تبقي	تبقى/V
+خالتك	خال/NOUN-FS+ة/NSUFF+ك/PRON
+--------------------	-/PUNC
+عايز ايه	عايز/ADJ-MS إيه/PART
+من	من/PREP
+بلد	بلد/NOUN-FS
+الناس	ال/DET+ناس/NOUN-MP
+اللي	اللي/PRON
+عايشه	عايش/ADJ-FS+ة/NSUFF
+في	في/PREP
+البلد	ال/DET+بلد/NOUN-FS
+بتقول	ب/PROG-PART+تقول/V
+عايز	عايز/ADJ-MS
+ايه	إيه/PART
+من	من/PREP
+بلد	بلد/NOUN-FS
+و بعدين	و/CONJ بعدين/ADV
+تروح	تروح/V
+تغلط	تغلط/V
+في	في/PREP
+البلد	ال/DET+بلد/NOUN-FS
+اللي	اللي/PRON
+هي	هي/PRON
+اصلن	أصلا/ADV
+بلدها	بلد/NOUN-FS+ها/PRON
+--------------------	-/PUNC
+الموضوع	ال/DET+موضوع/NOUN-MS
+بسيط	بسيط/ADJ-MS
+اقعد	اقعد/V
+مع	مع/PART
+الناس	ال/DET+ناس/NOUN-MP
+اللى	اللي/PART
+بتحبهم	ب/PROG-PART+تحب/V+هم/PRON
+وبيسعدوك	و/CONJ+ب/PROG-PART+يسعد/V+وا/PRON+ك/PRON
+وابعد	و/CONJ+ابعد/V
+عن	عن/PREP
+الناس	ال/DET+ناس/NOUN-MP
+اللى	اللي/PART
+بتضايقك	ب/PROG-PART+تضايق/V+ك/PRON
+وبتنكد	و/CONJ+ب/PROG-PART+تنكد/V
+عليك	على/PREP+ك/PRON
+الحياة	ال/DET+حيا/NOUN-FS+ة/NSUFF
+مش ناقصة	مش/PART ناقص/ADJ-FS+ة/NSUFF
+كآبة	كآب/NOUN-FS+ة/NSUFF
+وتعقيد	و/CONJ+تعقيد/NOUN-MS
+هى	هو/PRON
+منيلة	منيل/ADJ-FS+ة/NSUFF
+لوحدها	ل/PREP+وحد/NOUN-MS+ها/PRON
+!!	!/PUNC !/PUNC
+--------------------	-/PUNC
+مهما	مهما/PART
+كان	كان/V
+الشخص	ال/DET+شخص/NOUN-MS
+اللى	اللي/PRON
+قدامك	قدام/NOUN-MS+ك/PRON
+عنده	عند/NOUN-MS+ه/PRON
+حاجات	حاج/NOUN-FP+ات/NSUFF
+حلوه	حلو/ADJ-FS+ة/NSUFF
+و ميزات	و/CONJ+ميز/NOUN-FP+ات/NSUFF
+انت	إنت/PRON
+بتتمناها	ب/PROG-PART+تتمنى/V+ها/PRON
+تبقى	تبقى/V
+عندك	عند/NOUN-MS+ك/PRON
+،	،/PUNC
+لو	لو/PART
+دورت	دور/V+ت/PRON
+جواه	جوا/NOUN-FS+ه/PRON
+هتلاقيه	ه/FUT-PART+تلاق/V+ي/PRON+ه/PRON
+هو	هو/PRON
+كمان	كمان/ADV
+عنده	عند/NOUN-MS+ه/PRON
+حاجات	حاج/NOUN-FP+ات/NSUFF
+ناقصه	ناقص/ADJ-FS+ة/NSUFF
+و بيحسدك	و/CONJ+ب/PROG-PART+يحسد/V+ك/PRON
+عليها	على/PREP+ها/PRON
+:')	:')/EMOT
+--------------------	-/PUNC
+الرجاله	ال/DET+رجال/NOUN-MP+ة/NSUFF
+مبتحبش	ما/PART ب/PROG-PART+تحب/V+ش/NEG-PART
+البنت	ال/DET+بنت/NOUN-FS
+الهبله	ال/DET+هبل/ADJ-FS+ة/NSUFF
+الطيبه	ال/DET+طيب/ADJ-FS+ة/NSUFF
+الي	اللي/PRON
+بتحبهم	ب/PROG-PART+تحب/V+هم/PRON
+!	!/PUNC
+بيحبوا	ب/PROG-PART+يحب/V+وا/PRON
+البنت	ال/DET+بنت/NOUN-FS
+الجامده	ال/DET+جامد/ADJ-FS+ة/NSUFF
+الي	اللي/PRON
+تبهدلهم	تبهدل/V+هم/PRON
+ويخليهم	و/CONJ+يخل/V+ي/PRON+هم/PRON
+يلفوا	يلف/V+وا/PRON
+حولين	حوالين/NOUN-MS
+نفسهم	نفس/NOUN-FS+هم/PRON
+:D	:D/EMOT
+--------------------	-/PUNC
+@eman_rm70@QueenANDDY	@eman_rm70@QueenANDDY/MENTION
+والله	و/CONJ+الله/NOUN-MS
+هيا	هي/PRON
+مشاركة	مشارك/ADJ-FS+ة/NSUFF
+بس	بس/ADV
+علشان	علشان/PART
+موللي	موللي/NOUN-FS
+فرحانه	فرحان/ADJ-FS+ة/NSUFF
+انما	إنما/PART
+احنا	إحنا/PRON
+اهلاوية	أهلاوي/NOUN-MP+ة/NSUFF
+حتي	حتى/PREP
+النخاع	ال/DET+نخاع/NOUN-MS
+وهيا دي	و/CONJ+هي/PRON دي/PRON
+الروح	ال/DET+روح/NOUN-FS
+الرياضيه	ال/DET+رياضي/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+لو	لو/PART
+لقيت	لقى/V+ت/PRON
+واحد	واحد/NOUN-MS
+ماشي يكلم	ماشي/ADJ-MS يكلم/V
+نفسه	نفس/NOUN-FS+ه/PRON
+،	،/PUNC
+ماتخفش	ما/PART تخاف/V+ش/NEG-PART
+منه	من/PREP+ه/PRON
+دة	ده/PRON
+غلبان	غلبان/NOUN-MS
+وفي	و/CONJ+في/PREP
+#	#/HASH
+ثانوية	ثانوي/NOUN-FS+ة/NSUFF
+_	_/PUNC
+عامة	عام/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+@A_adam_Alhayat	@A_adam_Alhayat/MENTION
+شوف	شوف/V
+دى	دي/PRON
+يا	يا/PART
+فنان	فنان/NOUN-MS
+ومبروك	و/CONJ+مبروك/ADJ-MS
+رجوع	رجوع/NOUN-MS
+بنى	بني/NOUN-MP
+آدم	آدم/NOUN-MS
+شو	شو/NOUN-MS
+صورة	صور/NOUN-FS+ة/NSUFF
+تحكى	تحكي/V
+ملخص	ملخص/NOUN-MS
+القصة	ال/DET+قص/NOUN-FS+ة/NSUFF
+نزل	نزل/V
+اعتذار	اعتذار/NOUN-MS
+دلوقتى	دلوقتي/ADV
+برضه	برضه/ADV
+بيستغفلنا	ب/PROG-PART+يستغفل/V+نا/PRON
+https://t.co/9tZG46WbfN	https:\\t.co\9tZG46WbfN/URL
+--------------------	-/PUNC
+يوم	يوم/NOUN-MS
+فرحك	فرح/NOUN-MS+ك/PRON
+انت	إنت/PRON
+بتختار	ب/PROG-PART+تختار/V
+مين	مين/PART
+يجيلك	يجي/V ل/PREP+ك/PRON
+,	,/PUNC
+بس	بس/PART
+يوم	يوم/NOUN-MS
+موتك	موت/NOUN-MS+ك/PRON
+ناس	ناس/NOUN-MP
+معينه	معين/ADJ-FS+ة/NSUFF
+هي	هي/PRON
+اللي	اللي/PRON
+هتختار	ه/FUT-PART+تختار/V
+تيجي	تيج/V+ي/PRON
+!	!/PUNC
+--------------------	-/PUNC
+كان	كان/V
+بيطلع	ب/PROG-PART+يطلع/V
+مونولوجست	مونولوجست/NOUN-MS
+على	على/PREP
+خشبة	خشب/NOUN-FS+ة/NSUFF
+المسرح	ال/DET+مسرح/NOUN-MS
+بين	بين/NOUN-MS
+فصول	فصول/NOUN-FP
+الرواية	ال/DET+رواي/NOUN-FS+ة/NSUFF
+يسلى	يسلي/V
+الجمهور	ال/DET+جمهور/NOUN-MS
+.	./PUNC
+المرة دي	ال/DET+مر/NOUN-FS+ة/NSUFF دي/PRON
+طلع	طلع/V
+مبتذل	مبتذل/ADJ-MS
+.	./PUNC
+ربنا	رب/NOUN-MS+نا/PRON
+خده	خد/V+ه/PRON
+الحمد	ال/DET+حمد/NOUN-MS
+لله	ل/PREP+الله/NOUN-MS
+نرجع	نرجع/V
+للجد	ل/PREP+ال/DET+جد/NOUN-MS
+بقى	بقى/ADV
+http://t.co/tShnI1U5W6	http:\\t.co\tShnI1U5W6/URL
+--------------------	-/PUNC
+يا	يا/PART
+رب	رب/NOUN-MS
+انا	أنا/PRON
+مش عايز	مش/PART عايز/ADJ-MS
+اجيب	أجيب/V
+مجموع	مجموع/NOUN-MS
+عشانى	علشان/PART+ي/PRON
+،	،/PUNC
+انا	أنا/PRON
+عايز	عايز/ADJ-MS
+اجيب	أجيب/V
+مجموعة	مجموع/NOUN-MS
+عشان	علشان/PART
+ابويا	أبو/NOUN-MS+يا/PRON
+و امى	و/CONJ+أم/NOUN-FS+ي/PRON
+و عشان	و/CONJ+علشان/PART
+فلوس	فلوس/NOUN-MP
+الدروس	ال/DET+دروس/NOUN-FP
+دى	دي/PRON
+مش	مش/PART
+مال	مال/NOUN-MS
+حرام	حرام/NOUN-MS
+يعنى	يعني/ADV
+!	!/PUNC
+#	#/HASH
+ثانوية	ثانوي/NOUN-FS+ة/NSUFF
+_	_/PUNC
+عامة	عام/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+مبنفكرش	ما/PART ب/PROG-PART+نفكر/V+ش/NEG-PART
+في	في/PREP
+المستقبل	ال/DET+مستقبل/NOUN-MS
+اكتر	أكتر/ADJ-MS
+ما	ما/PART
+بنتمنى	ب/PROG-PART+نتمنى/V
+نرجع	نرجع/V
+للماضي	ل/PREP+ال/DET+ماضي/NOUN-MS
+عشان	علشان/PART
+نصلح	نصلح/V
+اخطائنا	أخطاء/NOUN-FP+نا/PRON
+ونكون	و/CONJ+نكون/V
+احسن	أحسن/ADJ-MS
+من	من/PREP
+دلوقتي	دلوقتي/ADV
+!	!/PUNC
+--------------------	-/PUNC
+انا	أنا/PRON
+اللى	اللي/PRON
+مصبرنى	مصبر/ADJ-MS+ني/PRON
+ع	على/PREP
+المحاضره دى	ال/DET+محاضر/NOUN-FS+ة/NSUFF دي/PRON
+..	./PUNC ./PUNC
+المروحه	ال/DET+مروح/NOUN-FS+ة/NSUFF
+اللى	اللي/PRON
+فوقيا	فوق/NOUN-MS+يا/PRON
+...	./PUNC ./PUNC ./PUNC
+يخربيت	يخرب/V بيت/NOUN-MS
+الطراوه	ال/DET+طراو/NOUN-MS+ة/NSUFF
+يعنى	يعني/ADV
+:D	:D/EMOT
+--------------------	-/PUNC
+جامدة	جامد/ADJ-FS+ة/NSUFF
+فعلاً	فعلا/ADV
+RT@Semary011:	RT@Semary011:/RETWEET
+واحد	واحد/NOUN-MS
+امبارح	إمبارح/ADV
+بيهزر	ب/PROG-PART+يهزر/V
+قال	قال/V
+حاجة مرعبة	حاج/NOUN-FS+ة/NSUFF مرعب/NOUN-FS+ة/NSUFF
+،	،/PUNC
+ما تشوف كده	ما/PART تشوف/V كده/ADV
+اسمك	اسم/NOUN-MS+ك/PRON
+يمكن	يمكن/V
+تلاقيه	تلاق/V+ي/PRON+ه/PRON
+في	في/PREP
+ال	ال/DET
+529	529/NUM
+واحد	واحد/NOUN-MS
+اللي	اللي/PART
+واخدين	واخد/ADJ-MP+ين/PRON
+اعدام	إعدام/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+الكام شهر	ال/DET+كام/NOUN-MS شهر/NOUN-MS
+اللى جايين	اللي/PRON جاي/ADJ-MP+ين/NSUFF
+دول	دول/PRON
+هيكونوا	ه/FUT-PART+يكون/V+وا/PRON
+من	من/PREP
+أسوأ	أسوأ/ADJ-MS
+الشهور	ال/DET+شهور/NOUN-FP
+اللى	اللي/PRON
+عدت	عد/V+ت/PRON
+عليا	على/PREP+يا/PRON
+فى	في/PREP
+حياتى	حيا/NOUN-FS+ة/NSUFF+ي/PRON
+..	./PUNC ./PUNC
+للأسف	ل/PREP+ال/DET+أسف/NOUN-MS
+.	./PUNC
+--------------------	-/PUNC
+اللى	اللي/PRON
+حط	حط/V
+الجدول	ال/DET+جدول/NOUN-MS
+لو قاصد	لو/PART قاصد/ADJ-MS
+ينتقم	ينتقم/V
+من	من/PREP
+بتوع	بتوع/NOUN-MS
+علمى	علمي/ADJ-MS
+رياضة	رياض/NOUN-FS+ة/NSUFF
+مكنش عمل	ما/PART كان/V+ش/NEG-PART عمل/V
+كدا	كده/ADV
+..	./PUNC ./PUNC
+ليه	ليه/PART
+كدا	كده/ADV
+يا	يا/PART
+بيه	بيه/NOUN-MS
+!!	!/PUNC !/PUNC
+#	#/HASH
+ثانوية	ثانوي/NOUN-FS+ة/NSUFF
+_	_/PUNC
+عامة	عام/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+يعني	يعني/V
+اعلان	إعلان/NOUN-MS
+اتقل	اتقل/V
+يا	يا/PART
+شعب	شعب/NOUN-MS
+الكبير	ال/DET+كبير/ADJ-MS
+جاي	جاي/ADJ-MS
+في الاخر	في/PREP ال/DET+آخر/NOUN-MS
+طلعت	طلع/V+ت/PRON
+اعلان	إعلان/NOUN-MS
+مكرونة	مكرون/NOUN-FS+ة/NSUFF
+بس	بس/PART
+الي	اللي/PRON
+عمل	عمل/V
+الفكرة	ال/DET+فكر/NOUN-FS+ة/NSUFF
+برنس	برنس/NOUN-MS
+اشتغل	اشتغل/V
+الشعب	ال/DET+شعب/NOUN-MS
+كلة	كل/NOUN-MS+ه/PRON
+:)	:)/EMOT
+--------------------	-/PUNC
+انا	أنا/PRON
+اخوياسريره	أخو/NOUN-MS+يا/NSUFF سرير/NOUN-MS+ه/PRON
+بيبقى	ب/PROG-PART+يبقى/V
+فيه	في/PREP+ه/PRON
+كل	كل/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+بيبقى	ب/PROG-PART+يبقى/V
+نايم	نائم/ADJ-MS
+وحواليه	و/CONJ+حوالي/NOUN-MS+ه/PRON
+اكل	أكل/NOUN-MS
+وفاكهة	و/CONJ+فاكه/NOUN-FS+ة/NSUFF
+وازايز	و/CONJ+قزايز/NOUN-FP
+مياه	مياه/NOUN-FP
+وشرابات	و/CONJ+شراب/NOUN-FP+ات/NSUFF
+وموبيله	و/CONJ+موبايل/NOUN-MS+ه/PRON
+واللاب توب	و/CONJ+ال/DET+لاب/NOUN-MS توب/NOUN-MS
+والريموت	و/CONJ+ال/DET+ريموت/NOUN-MS
+اى	أي/PART
+حاجة ضايعة	حاج/NOUN-FS+ة/NSUFF ضايع/NOUN-FS+ة/NSUFF
+فالبيت	في/PREP ال/DET+بيت/NOUN-MS
+بنلاقيها	ب/PROG-PART+نلاقي/V+ها/PRON
+--------------------	-/PUNC
+هيعجب	ه/FUT-PART+يعجب/V
+بيكي	بي/PREP+كي/PRON
+عشان	علشان/PART
+شكلك	شكل/NOUN-MS+ك/PRON
+وهيجعب	و/CONJ+ه/FUT-PART+يعجب/V
+بيكي	بي/PREP+كي/PRON
+علشان	علشان/PART
+شخصيتك	شخصي/NOUN-FS+ة/NSUFF+ك/PRON
+بس	بس/PART
+في الاخر	في/PREP ال/DET+آخر/NOUN-MS
+هيتقدملك	ه/FUT-PART+يتقدم/V ل/PREP+ك/PRON
+علشان	علشان/PART
+اخلاقك	أخلاق/NOUN-FP+ك/PRON
+بس	بس/ADV
+--------------------	-/PUNC
+ايه	إيه/PART
+الاستفزاز ده	ال/DET+استفزاز/NOUN-MS ده/PRON
+...	./PUNC ./PUNC ./PUNC
+لو	لو/PART
+هو	هو/PRON
+هايطلع	ه/FUT-PART+يطلع/V
+بكفالة	ب/PREP+كفال/NOUN-FS+ة/NSUFF
+طيب	طيب/ADJ-MS
+ماطلعهوش	ما/PART طلع/V+هو/PRON+ش/NEG-PART
+بكفالة	ب/PREP+كفال/NOUN-FS+ة/NSUFF
+امبارح	إمبارح/ADV
+ليه	ليه/PART
+او	أو/CONJ
+اول امبارح	أول/ADJ-MS إمبارح/ADV
+عشان	علشان/PART
+يشارك	يشارك/V
+في	في/PREP
+الحفله	ال/DET+حفل/NOUN-FS+ة/NSUFF
+اللي	اللي/PRON
+تعب	تعب/V
+عشانها	علشان/PART+ها/PRON
+وكان	و/CONJ+كان/V
+احد	أحد/NOUN-MS
+اسبابها	أسباب/NOUN-FP+ها/PRON
+--------------------	-/PUNC
+قال	قال/V
+لك	ل/PREP+ك/PRON
+إنقلاب	انقلاب/NOUN-MS
+علشان	علشان/PART
+هيرشح	ه/FUT-PART+يرشح/V
+نفسه	نفس/NOUN-FS+ه/PRON
+...	./PUNC ./PUNC ./PUNC
+يعنى	يعني/ADV
+هو كان	هو/PRON كان/V
+كسب	كسب/V
+يعنى	يعني/ADV
+؟	؟/PUNC
+لسه	لسة/ADV
+فى	في/PREP+ه/PRON
+إنتخابات	انتخاب/NOUN-FP+ات/NSUFF
+حرة	حر/ADJ-FS+ة/NSUFF
+رقيعة	رقيع/ADJ-FS+ة/NSUFF
+#	#/HASH
+ضحكة	ضحك/NOUN-FS+ة/NSUFF
+_	_/PUNC
+نزيهة	نزيه/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+وأي	و/CONJ+أي/NOUN-MS
+حد	حد/NOUN-MS
+هايحكم	ه/FUT-PART+يحكم/V
+مصر	مصر/NOUN-FS
+هادعيله	ه/FUT-PART+أدعي/V ل/PREP+ه/PRON
+ربنا	رب/NOUN-MS+نا/PRON
+يوفقه	يوفق/V+ه/PRON
+للصح	ل/PREP+ال/DET+صح/NOUN-MS
+عشان	علشان/PART
+عاوزة	عايز/ADJ-FS+ة/NSUFF
+بلدي	بلد/NOUN-FS+ي/PRON
+تبقي	تبقى/V
+أحسن	أحسن/ADJ-MS
+ومدام	و/CONJ+ما/PART دام/V
+الناس	ال/DET+ناس/NOUN-MP
+مبسوطة	مبسوط/ADJ-FS+ة/NSUFF
+وعاوزاه	و/CONJ+عايز/ADJ-FS+اه/PRON
+ربنا	رب/NOUN-MS+نا/PRON
+يوفقه	يوفق/V+ه/PRON
+ويوفقنا	و/CONJ+يوفق/V+نا/PRON
+معاه	معا/PART+ه/PRON
+--------------------	-/PUNC
+مينفعش	ما/PART ينفع/V+ش/NEG-PART
+انهى	أنهي/V
+علاقتى	علاق/NOUN-FS+ة/NSUFF+ي/PRON
+بكل	ب/PREP+كل/NOUN-MS
+الناس	ال/DET+ناس/NOUN-MP
+إلى	اللي/PART
+أعرفها	أعرف/V+ها/PRON
+و يتبدلوا	و/CONJ+يتبدل/V+وا/PRON
+ب ناس	ب/PREP+ناس/NOUN-MP
+جديدة	جديد/ADJ-FS+ة/NSUFF
+مينفعش	ما/PART ينفع/V+ش/NEG-PART
+صح	صح/NOUN-MS
+؟	؟/PUNC
+-	-/PUNC
+لامينفعش	لا/PART ما/PART ينفع/V+ش/NEG-PART
+طبعا	طبعا/ADV
+.	./PUNC
+-	-/PUNC
+أنا	أنا/PRON
+كنت عارف	كن/V+ت/PRON عارف/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+لو	لو/PART
+عاوز	عايز/ADJ-MS
+تبقى	تبقى/V
+مبسوط	مبسوط/ADJ-MS
+خلى	خل/V+ي/PRON
+حياتك	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+كلها	كل/NOUN-MS+ها/PRON
+بدايات	بداي/NOUN-FP+ات/NSUFF
+..	./PUNC ./PUNC
+بدايات	بداي/NOUN-FP+ات/NSUFF
+وبس	و/CONJ+فقط/ADV
+..	./PUNC ./PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+أحلى	أحلى/ADJ-MS
+من	من/PREP
+البداية	ال/DET+بداي/NOUN-FS+ة/NSUFF
+فى	في/PREP
+كل	كل/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+قبل ماتقول	قبل/NOUN-MS ما/PART تقول/V
+انا	أنا/PRON
+اسف	آسف/ADJ-MS
+اتأكد	اتأكد/V
+من	من/PREP
+الشخصية	ال/DET+شخصي/NOUN-FS+ة/NSUFF
+اللى	اللي/PRON
+قدامك	قدام/NOUN-MS+ك/PRON
+هتستضعفك	ه/FUT-PART+تستضعف/V+ك/PRON
+ولا	و/CONJ+إلا/PART
+هتحترمك	ه/FUT-PART+تحترم/V+ك/PRON
+أكتر	أكتر/ADJ-MS
+.....	./PUNC ./PUNC ./PUNC ./PUNC ./PUNC
+--------------------	-/PUNC
+خلي	خل/V+ي/PRON
+دايما	دايما/ADV
+جواك	جوا/NOUN-FS+ك/PRON
+امل	أمل/NOUN-MS
+..	./PUNC ./PUNC
+ده	ده/PRON
+الأمل	ال/DET+أمل/NOUN-MS
+بيجيب	ب/PROG-PART+يجيب/V
+سعادة	سعاد/NOUN-FS+ة/NSUFF
+لسا	لسة/ADV
+جواك	جوا/NOUN-FS+ك/PRON
+يا	يا/PART
+قلبي	قلب/NOUN-MS+ي/PRON
+ضي	ضي/NOUN-MS
+..	./PUNC ./PUNC
+وصباحك	و/CONJ+صباح/NOUN-MS+ك/PRON
+سكر	سكر/NOUN-MS
+زياده	زياد/NOUN-FS+ة/NSUFF
+#	#/HASH
+مادو	مادو/NOUN-MS
+--------------------	-/PUNC
+لو	لو/PART
+انت	إنت/PRON
+فاكر	فاكر/ADJ-MS
+ان	إن/PART
+التريقة	ال/DET+تريق/NOUN-FS+ة/NSUFF
+تمنع	تمنع/V
+العمل	ال/DET+عمل/NOUN-MS
+تبقي	تبقى/V
+لامواخذة	لا/PART مؤاخذ/NOUN-FS+ة/NSUFF
+عبيط	عبيط/ADJ-MS
+،	،/PUNC
+بطل انت	بطل/V إنت/PRON
+تتخانق	تتخانق/V
+مع	مع/PART
+اللي	اللي/PRON
+بيتريق	ب/PROG-PART+يتريق/V
+وشوف شغلك	و/CONJ+شوف/V شغل/NOUN-MS+ك/PRON
+،	،/PUNC
+خليك	خلي/V+ي/PRON+ك/PRON
+أشطر	أشطر/ADJ-MS
+--------------------	-/PUNC
+لو	لو/PART
+حبيت	حبي/V+ت/PRON
+حد	حد/NOUN-MS
+ماتخدش	ما/PART تأخد/V+ش/NEG-PART
+راى	رأي/NOUN-MS
+الناس	ال/DET+ناس/NOUN-MP
+فيه	في/PREP+ه/PRON
+علشان انت	علشان/PART إنت/PRON
+اللى	اللي/PRON
+اخترته	اختر/V+ت/PRON+ه/PRON
+مش	مش/PART
+الناس	ال/DET+ناس/NOUN-MP
+--------------------	-/PUNC
+# pt	#/HASH pt/FOREIGN
+من	من/PREP
+يومين	يوم/NOUN-MD+ين/NSUFF
+وانا	و/CONJ+أنا/PRON
+ماشيه	ماشي/ADJ-FS+ة/NSUFF
+في	في/PREP
+طريق	طريق/NOUN-FS
+الكليه	ال/DET+كلي/NOUN-FS+ة/NSUFF
+لاقيت	لاقي/V+ت/PRON
+اتنين	اتنين/NUM
+قاعدين	قاعد/ADJ-MP+ين/NSUFF
+جنب	جنب/NOUN-MS
+بتاع	بتاع/NOUN-MS
+الخضار	ال/DET+خضار/NOUN-FP
+بيحبوا	ب/PROG-PART+يحب/V+وا/PRON
+في بعض	في/PREP بعض/NOUN-MS
+,	,/PUNC
+وشافوني	و/CONJ+شاف/V+وا/PRON+ني/PRON
+وانا	و/CONJ+أنا/PRON
+ماشيه	ماشي/ADJ-FS+ة/NSUFF
+وقاعدوا	و/CONJ+قعد/V+وا/PRON
+يضحكوا	يضحك/V+وا/PRON
+.	./PUNC
+--------------------	-/PUNC
+الحاله	ال/DET+حال/NOUN-FS+ة/NSUFF
+الزفت	ال/DET+زفت/ADJ-MS
+اللي	اللي/PRON
+الواحد	ال/DET+واحد/NOUN-MS
+بيبقي	ب/PROG-PART+يبقى/V
+فيها	في/PREP+ها/PRON
+بقت	بق/V+ت/PRON
+ملازماه	ملازم/ADJ-FS+اه/PRON
+علي طول	على/PREP طول/NOUN-MS
+!	!/PUNC
+ربنا	رب/NOUN-MS+نا/PRON
+المعين	ال/DET+معين/ADJ-MS
+--------------------	-/PUNC
+*	*/PUNC
+لما حد	لما/PART حد/NOUN-MS
+يقولي	يقول/V ل/PREP+ي/PRON
+خارجة فين	خارج/ADJ-FS+ة/NSUFF فين/PART
+النهاردة	النهاردة/ADV
+؟	؟/PUNC
+*	*/PUNC
+هاخرج	ه/FUT-PART+أخرج/V
+مع	مع/PART
+صحابي	صحاب/NOUN-MP+ي/PRON
+في	في/PREP
+الصالة	ال/DET+صال/NOUN-FS+ة/NSUFF
+وبعدين	و/CONJ+بعدين/ADV
+نروح	نروح/V
+الأوضة	ال/DET+أوض/NOUN-FS+ة/NSUFF
+شوية	شوي/NOUN-FS+ة/NSUFF
+وممكن	ال/DET+ممكن/ADJ-MS
+نروح	نروح/V
+كافية	كافيه/NOUN-MS
+المطبخ	ال/DET+مطبخ/NOUN-MS
+ناكل	ناكل/V
+اي	أي/PART
+حاجة	حاج/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+انا	أنا/PRON
+وصلت	وصل/V+ت/PRON
+لمرحلة	ل/PREP+مرحل/NOUN-FS+ة/NSUFF
+انى	إن/PART+ي/PRON
+ممكن	ممكن/ADJ-MS
+انام	أنام/V
+و انا	و/CONJ+أنا/PRON
+واقفة	واقف/ADJ-FS+ة/NSUFF
+زى	زي/NOUN-MS
+الحصنة	ال/DET+حصن/NOUN-FP+ة/NSUFF
+عادى	عادي/ADJ-MS
+:D	:D/EMOT
+--------------------	-/PUNC
+-	-/PUNC
+فين	فين/PART
+السندوتشات	ال/DET+سندوتش/NOUN-FP+ات/NSUFF
+؟	؟/PUNC
+-	-/PUNC
+نعم	نعم/PART
+؟	؟/PUNC
+-	-/PUNC
+انتي	إنتي/PRON
+فاكرانا	فاكر/ADJ-FS+ا/NSUFF+نا/PRON
+بنفتح	ب/PROG-PART+نفتح/V
+الشنط	ال/DET+شنط/NOUN-FP
+عشان	علشان/PART
+ندور	ندور/V
+على	على/PREP
+متفجرات	متفجر/NOUN-FP+ات/NSUFF
+؟	؟/PUNC
+احنا	إحنا/PRON
+عايزين	عايز/ADJ-MS+ين/NSUFF
+نفطر	نفطر/V
+#	#/HASH
+كلية	كلي/NOUN-FS+ة/NSUFF
+_	_/PUNC
+لزازة	لذاذ/NOUN-FS+ة/NSUFF
+_	_/PUNC
+و	و/CONJ
+_	_/PUNC
+استظراف	استظراف/NOUN-MS
+--------------------	-/PUNC
+اه	آه/PART
+بنتريق	ب/PROG-PART+نتريق/V
+و نهرج	و/CONJ+نهرج/V
+و نسف	و/CONJ+نسف/V
+و نهري	و/CONJ+نهري/V
+ماشي	ماشي/ADV
+مش مشكله	مش/PART مشكل/NOUN-FS+ة/NSUFF
+بس	بس/PART
+برضوا	برضه/ADV
+اللي	اللي/PRON
+عندوا	عند/NOUN-MS+ه/PRON
+حاجه يقدمها	حاج/NOUN-FS+ة/NSUFF يقدم/V+ها/PRON
+للشعب ده	ل/PREP+ال/DET+شعب/NOUN-MS ده/PRON
+يتفضل يشتغل	يتفضل/V يشتغل/V
+....	./PUNC ./PUNC ./PUNC ./PUNC
+معلومه	معلوم/NOUN-FS+ة/NSUFF
+انا	أنا/PRON
+مش	مش/PART
+بأيد	ب/PROG-PART+أيد/V
+السيسي	ال/DET+سيسي/NOUN-MS
+--------------------	-/PUNC
+الانسان	ال/DET+إنسان/NOUN-MS
+ال	اللي/PRON
+دماغة	دماغ/NOUN-FS+ه/PRON
+حلوة	حلو/ADJ-FS+ة/NSUFF
+بس	بس/PART
+غبى	غبي/ADJ-MS
+ومش	و/CONJ+مش/PART
+بيعرف	ب/PROG-PART+يعرف/V
+يستغل	يستغل/V
+الفرص	ال/DET+فرص/NOUN-FP
+صح	صح/ADV
+ده	ده/PRON
+بيصعب	ب/PROG-PART+يصعب/V
+عليا	على/PREP+يا/PRON
+بيخلى	ب/PROG-PART+يخل/V+ي/PRON
+انسان	إنسان/NOUN-MS
+اقل	أقل/ADJ-MS
+منه	من/PREP+ه/PRON
+و امكانياته	و/CONJ+إمكاني/NOUN-FP+ات/NSUFF+ه/PRON
+على قده	على/PREP قد/NOUN-MS+ه/PRON
+يبقى	يبقى/V
+احسن	أحسن/ADJ-MS
+منه	من/PREP+ه/PRON
+لمجرد	ل/PREP+مجرد/NOUN-MS
+انه	إن/PART+ه/PRON
+بيفكر	ب/PROG-PART+يفكر/V
+صح	صح/ADV
+--------------------	-/PUNC
+مشكله	مشكل/NOUN-FS+ة/NSUFF
+كتير	كتير/NOUN-MS
+من	من/PREP
+الناس	ال/DET+ناس/NOUN-MP
+انها	إن/PART+ها/PRON
+افتكرت	افتكر/V+ت/PRON
+الثوره	ال/DET+ثور/NOUN-FS+ة/NSUFF
+حاجه سعيده	حاج/NOUN-FS+ة/NSUFF سعيد/NOUN-FS+ة/NSUFF
+و لطيفه	و/CONJ+لطيف/ADJ-MS+ة/NSUFF
+لا	لا/PART
+دي	دي/PRON
+من	من/PREP
+اقسي	أقسى/ADJ-MS
+التجارب	ال/DET+تجارب/NOUN-FP
+اللي	اللي/PRON
+بتمر	ب/PROG-PART+تمر/V
+ببلد	ب/PREP+بلد/NOUN-FS
+--------------------	-/PUNC
+@israaesso	@israaesso/MENTION
+:)	:)/EMOT
+مفيش	ما/PART في/PREP+ش/NEG-PART
+حاجة تستاهل	حاج/NOUN-FS+ة/NSUFF تستاهل/V
+،	،/PUNC
+يارب	يا/PART رب/NOUN-MS
+أقدر	أقدر/V
+على طول	على/PREP طول/NOUN-MS
+أكون	أكون/V
+سبب	سبب/NOUN-MS
+في	في/PREP
+أن	أن/PART
+لو	لو/PART
+شخص	شخص/NOUN-MS
+واحد	واحد/ADJ-MS
+يضحك	يضحك/V
+من	من/PREP
+قلبه	قلب/NOUN-MS+ه/PRON
+.	./PUNC
+--------------------	-/PUNC
+كل ما	كل/NOUN-MS ما/PART
+حد	حد/NOUN-MS
+يسألنى	يسأل/V+ني/PRON
+أنتى	إنتي/PRON
+فى	في/PREP
+كلية	كلي/NOUN-FS+ة/NSUFF
+ايه	إيه/PART
+و أقول	و/CONJ+أقول/V
+طب	طب/NOUN-MS
+ألاقى	ألاقي/V
+نظرات	نظر/NOUN-FP+ات/NSUFF
+الشفقه	ال/DET+شفق/NOUN-FS+ة/NSUFF
+مع	مع/PART
+الحنان	ال/DET+حنان/NOUN-MS
+مع	مع/PART
+الحزن	ال/DET+حزن/NOUN-MS
+و الألم	و/CONJ+ال/DET+ألم/NOUN-MS
+و الأسى	و/CONJ+ال/DET+أسى/NOUN-MS
+.	./PUNC
+ده	ده/PRON
+يرضى	يرضي/V
+مين	مين/PART
+ده	ده/PRON
+بس	بس/ADV
+xD	xD/EMOT
+--------------------	-/PUNC
+@EgyptianMony30	@EgyptianMony30/MENTION
+شعور	شعور/NOUN-MS
+عالمي	عالمي/ADJ-MS
+لأ	لا/PART
+يماثله	يماثل/V+ه/PRON
+شعور	شعور/NOUN-MS
+لما	لما/PART
+تتفاجئي	تتفاجئ/V
+ان	إن/PART
+النهاردة	النهاردة/ADV
+الخميس	ال/DET+خميس/NOUN-MS
+مش	مش/PART
+الأربع	ال/DET+أربع/NOUN-MS
+:)	:)/EMOT
+بتحصيل	ب/PROG-PART+تحصل/V
+كتير	كتير/ADV
+--------------------	-/PUNC
+-	-/PUNC
+فيها ايه	في/PREP+ها/PRON إيه/PART
+لو	لو/PART
+حبيت	حبي/V+ت/PRON
+حد	حد/NOUN-MS
+يجي	ييجي/V
+يخطفني	يخطف/V+ني/PRON
+و نروح	و/CONJ+نروح/V
+في	في/PREP
+أي	أي/PART
+حته	حت/NOUN-FS+ة/NSUFF
+و نعيش	و/CONJ+نعيش/V
+في	في/PREP
+هنا	هنا/NOUN-MS
+و سرور	و/CONJ+سرور/NOUN-MS
+؟	؟/PUNC
+-	-/PUNC
+شدي	شد/V+ي/PRON
+الغطى	ال/DET+غطا/NOUN-MS
+عليكي	على/PREP+كي/PRON
+شويه	شوي/NOUN-FS+ة/NSUFF
+كمان	كمان/ADV
+.	./PUNC
+--------------------	-/PUNC
+دة	ده/PRON
+يوم	يوم/NOUN-MS
+الانتخابات	ال/DET+انتخاب/NOUN-FP+ات/NSUFF
+دة	ده/PRON
+هايبقي	ه/FUT-PART+يبقى/V
+ولا	و/CONJ+لا/PART
+يوم	يوم/NOUN-MS
+الاستفتاء	ال/DET+استفتاء/NOUN-MS
+الاخير	ال/DET+أخير/ADJ-MS
+ع	على/PREP
+الدستور	ال/DET+دستور/NOUN-MS
+مضروب	مضروب/ADJ-MS
+في	في/PREP
+عشرين	عشرين/NUM
+...	./PUNC ./PUNC ./PUNC
+هانضحك	ه/FUT-PART+نضحك/V
+ضحك	ضحك/NOUN-MS
+ياجدعان	يا/PART جدعان/NOUN-MP
+:D	:D/EMOT
+--------------------	-/PUNC
+أنا	أنا/PRON
+بفضل	ب/PROG-PART+أفضل/V
+أحكى	أحكي/V
+لواحد صاحبى	ل/PREP+واحد/NOUN-MS صاحب/NOUN-MS+ي/PRON
+عن	عن/PREP
+مشاكلى	مشاكل/NOUN-FP+ي/PRON
+بدل	بدل/NOUN-MS
+محكى	ما/PART أحكي/V
+لأهلى	ل/PREP أهل/NOUN-MS+ي/PRON
+،	،/PUNC
+أهو	أهو/ADV
+على	على/PREP
+الأقل	ال/DET+أقل/ADJ-MS
+الـ	ال/DET
+"	/PUNC"
+معلش	معلهش/ADV
+"	/PUNC"
+اللى	اللي/PRON
+بتطلع	ب/PROG-PART+تطلع/V
+منه	من/PREP+ه/PRON
+ألطف	ألطف/ADJ-MS
+من	من/PREP
+"	/PUNC"
+و احنا	و/CONJ+إحنا/PRON
+مالنا	ما/PART ل/PREP+نا/PRON
+؟	؟/PUNC
+"	/PUNC"
+اللى	اللي/PRON
+بتطلع	ب/PROG-PART+تطلع/V
+منهم	من/PREP+هم/PRON
+.	./PUNC
+--------------------	-/PUNC
+نبقى	نبقى/V
+ماشين	ماش/ADJ-MP+ين/NSUFF
+فى	في/PREP
+الشارع	ال/DET+شارع/NOUN-MS
+ونلاقى	و/CONJ+نلاقي/V
+ابن	ابن/NOUN-MS
+الحلال	ال/DET+حلال/NOUN-MS
+اللى	اللي/PRON
+سايب	سايب/ADJ-MS
+الوايرلس	ال/DET+وايرلس/NOUN-FS
+بتاعه	بتاع/NOUN-MS+ه/PRON
+من	من/PREP
+غير	غير/NOUN-MS
+باسورد	باسورد/NOUN-[S
+....	./PUNC ./PUNC ./PUNC ./PUNC
+ساعتها	ساع/NOUN-FS+ة/NSUFF+ها/PRON
+بس	بس/ADV
+بنتأكد	ب/PROG-PART+نتأكد/V
+ان	إن/PART
+الدنيا	ال/DET+دنيا/NOUN-FS
+لسه	لسة/ADV
+بخير	ب/PREP+خير/NOUN-MS
+--------------------	-/PUNC
+مفيش حد	ما/PART في/PREP+ش/NEG-PART حد/NOUN-MS
+عاجبه	عاجب/ADJ-MS+ه/PRON
+حاله	حال/NOUN-MS+ه/PRON
+حتى	حتى/PART
+لو	لو/PART
+عنده	عند/NOUN-MS+ه/PRON
+كل	كل/NOUN-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+ويبص	و/CONJ+يبص/V
+للى	ل/PREP+اللي/PRON
+فى	في/PREP
+ايد	إيد/NOUN-FS
+غيره	غير/NOUN-MS+ه/PRON
+لو	لو/PART
+كان فى حاجة اسمها	كان/V في/PREP+ه/PRON حاج/NOUN-FS+ة/NSUFF اسم/NOUN-MS+ها/PRON
+الرضا	ال/DET+رضا/NOUN-MS
+كان	كان/V
+الكل	ال/DET+كل/NOUN-MS
+عجبته	عجب/NOUN-MS+ت/PRON+ه/PRON
+حياته	حيا/NOUN-FS+ة/NSUFF+ه/PRON
+و ما	و/CONJ+ما/PART
+بصش	بص/V+ش/NEG-PART
+لغيره	ل/PREP+غير/PART+ه/PRON
+--------------------	-/PUNC
+طب	طيب/ADJ-MS
+مع	مع/PART
+احترامي	احترام/NOUN-MS+ي/PRON
+للجميع	ل/PREP+ال/DET+جميع/NOUN-MS
+انا	أنا/PRON
+شايف	شايف/ADJ-MS
+ان	إن/PART
+الشغل	ال/DET+شغل/NOUN-MS
+احسن	أحسن/ADJ-MS
+من	من/PREP
+الكلام	ال/DET+كلام/NOUN-MS
+يعني	يعني/ADV
+الساحه	ال/DET+ساح/NOUN-FS+ة/NSUFF
+قدامي	قدام/NOUN-MS+ي/PRON
+ابتدي	أبتدي/V
+اشتغل	أشتغل/V
+بدل ما	بدل/NOUN-MS ما/PART
+اقعد	أقعد/V
+انتقد	أنتقد/V
+اللي	اللي/PRON
+قدامي	قدام/NOUN-MS+ي/PRON
+و بس	و/CONJ+فقط/ADV
+--------------------	-/PUNC
+أحسن	أحسن/ADJ-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+تعيش	تعيش/V
+مع	مع/PART
+نفسك	نفس/NOUN-FS+ك/PRON
+كده	كده/ADV
+وملكش دعوة	و/CONJ+ما/PART ل/PREP+ك/PRON+ش/NEG-PART دعو/NOUN-FS+ة/NSUFF
+بحاجة	ب/PREP+حاجة/NOUN-FS+ة/NSUFF
+من اللي	من/PREP اللي/PRON
+بتحصل	ب/PROG-PART+تحصل/V
+:D	:D/EMOT
+--------------------	-/PUNC
+إدينى	إد/V+ي/PRON+ني/PRON
+سبب	سبب/NOUN-MS
+واحد	واحد/ADJ-MS
+يخليك	يخل/V+ي/PRON+ك/PRON
+تكدب	تكدب/V
+على	على/PREP
+حد	حد/NOUN-MS
+إنت	إنت/PRON
+عارف	عارف/ADJ-MS
+إنه	إن/PART+ه/PRON
+بيصدقك	ب/PROG-PART+يصدق/V+ك/PRON
+عشان	علشان/PART
+بيحبك	ب/PROG-PART+يحب/V+ك/PRON
+--------------------	-/PUNC
+مش	مش/PART
+محتاجين	محتاج/ADJ-FP+ين/NSUFF
+نحلم	نحلم/V
+كتير	كتير/ADV
+,	,/PUNC
+لان احنا	ل/PREP+أن/PART إحنا/PRON
+طول الوقت	طول/NOUN-MS ال/DET+وقت/NOUN-MS
+عايشين	عايش/ADJ-MP+ين/NSUFF
+في	في/PREP
+الخيال	ال/DET+خيال/NOUN-MS
+وأحلام	و/CONJ+أحلام/NOUN-FP
+اليقظة	ال/DET+يقظ/NOUN-FS+ة/NSUFF
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+@YoOokaa95	@YoOokaa95/MENTION
+هتفضلى	ه/FUT-PART+تفضل/V+ي/PRON
+كده	كده/ADV
+كتير	كتير/ADV
+؟!	؟/PUNC !/PUNC
+وﻻ	و/CONJ+لا/PART
+هيرجع	ه/FUT-PART+يرجع/V
+حاجه	حاج/NOUN-FS+ة/NSUFF
+وﻻ	و/CONJ+لا/PART
+هيقدم	ه/FUT-PART+يقدم/V
+حاجه	حاج/NOUN-FS+ة/NSUFF
+.	./PUNC
+اتخلصى	اتخلص/V+ي/PRON
+من	من/PREP
+السلبيات دى	ال/DET+سلبي/NOUN-FP+ات/NSUFF دي/PRON
+و استمتعى	و/CONJ+استمتع/V+ي/NSUFF
+بحياتك	ب/PREP+حيا/NOUN-FS+ة/NSUFF+ك/PRON
+:)	:)/EMOT
+و دى اقل حاجة	و/CONJ+دي/PRON أقل/ADJ-MS حاجة/NOUN-MS+ة/NSUFF
+تقدرى	تقدر/V+ي/PRON
+تقدميها	تقدم/V+ي/PRON+ها/PRON
+للى	ل/PREP+اللي/PRON
+بيحبوكى	ب/PROG-PART+يحب/V+وا/PRON+كي/PRON
+--------------------	-/PUNC
+مش هسمح	مش/PART ه/FUT-PART+أسمح/V
+للايام	ل/PREP+ال/DET+أيام/NOUN-FP
+تيجى	تيج/V+ي/PRON
+تانى	تاني/ADV
+علية	على/PREP+يا/PRON
+و دة	و/CONJ+ده/PRON
+يبقى	يبقى/V
+اخر	آخر/ADJ-MS
+يوم	يوم/NOUN-MS
+فى	في/PREP
+حياتى	حيا/NOUN-FS+ة/NSUFF+ك/PRON
+لو	لو/PART
+ارضاها	أرضى/V+ها/PRON
+لية	لي/PREP+ا/PRON
+..	./PUNC ./PUNC
+--------------------	-/PUNC
+اكذب	اكذب/V
+انت	إنت/PRON
+حر	حر/ADJ-MS
+..	./PUNC ./PUNC
+لكن	لكن/CONJ
+بلاش	بلاش/PART
+تعيش	تعيش/V
+في	في/PREP
+الدور	ال/DET+دور/NOUN-MS
+قوي	قوي/ADV
+عشان	علشان/PART
+بيبقا	ب/PROG-PART+يبقى/V
+شكلك	شكل/NOUN-MS+ك/PRON
+وحش	وحش/ADJ-MS
+.	./PUNC
+--------------------	-/PUNC
+مش طالبه	مش/PART طالب/ADJ-FS+ة/NSUFF
+تشاؤم	تشاؤم/NOUN-MS
+النهارده	النهاردة/ADV
+النهارده	النهاردة/ADV
+الخميس	ال/DET+خميس/NOUN-MS
+المجيد	ال/DET+مجيد/ADJ-MS
+يعني	يعني/V
+ويك اند	ويك/NOUN-MS إند/NOUN-MS
+يعني	يعني/V
+فوكك	فك/V+ك/PRON
+من	من/PREP
+اي	أي/PART
+حاجه	حاج/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+@salmaabody	@salmaabody/MENTION
+متنسوش	ما/PART تنس/V+وا/PRON+ش/NEG-PART
+البرسيم	ال/DET+برسيم/NOUN-MS
+الي	اللي/PRON
+كان	كان/V
+وراه	ورا/NOUN-MS+ه/PRON
+في	في/PREP
+الخلفيه	ال/DET+خلفي/NOUN-FS+ة/NSUFF
+دي	دي/PRON
+ليها	لي/PREP+ها/PRON
+معنى	معنى/NOUN-MS
+كبييييييير	كبير/ADJ-MS
+--------------------	-/PUNC
+انا	أنا/PRON
+هكتب	ه/FUT-PART+أكتب/V
+تويتة	تويت/ADJ-FM+ة/NSUFF
+أقول	أقول/V
+فيها	في/PREP+ها/PRON
+"	"/PUNC
+أنني	أن/PART+ني/PRON
+لن	لن/PART
+أترشح	أترشح/V
+للرئاسة	ل/PREP+ال/DET+رئاس/NOUN-FS+ة/NSUFF
+"	"/PUNC
+عشان	علشان/PART
+الظاهر كدة	ال/DET+ظاهر/ADJ-MS كده/ADV
+ان	إن/PART
+كل	كل/NOUN-MS
+اللي	اللي/PRON
+بيقول	ب/PROG-PART+يقول/V
+البوئين دول	ال/DET+بق/NOUN-MD+ين/NSUFF دول/PRON
+بيمسك	ب/PROG-PART+يمسك/V
+البلد	ال/DET+بلد/NOUN-FS
+في	في/PREP
+خلال	خلال/NOUN-MS
+سنة	سن/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+محلب	محلب/NOUN-MS
+:	:/EMOT
+نفق	نقف/V
+على	على/PREP
+مسافة	مساف/NOUN-FS+ة/NSUFF
+واحدة	واحد/ADJ-FS+ة/NSUFF
+من	من/PREP
+كل	كل/NOUN-MS
+مرشي	مرشح/NOUN-MP+ي/NSUFF
+الرئاسية	ال/DET+رئاس/NOUN-MP+ة/NSUFF
+..	./PUNC ./PUNC
+وابتدينا	و/CONJ+ابتدي/V+نا/PRON
+الكذب	ال/DET+كذب/NOUN-MS
+بقى	بقى/ADV
+ما هو اللي	ما/PART هو/PRON اللي/PRON
+يلاقي	يلاقي/V
+شعب	شعب/NOUN-MS
+مغفل	مغفل/ADJ-MS
+وميستغفلوش	و/CONJ+ما/PART يستغفل/V+هو/PRON+ش/NEG-PART
+يبقى	يبقى/V
+غلطان	غلطان/ADJ-MS
+--------------------	-/PUNC
+العيال	ال/DET+عيال/NOUN-MP
+اللي	اللي/PART
+شايفين	شايف/ADJ-MS+ين/PRON
+إن	إن/PART
+المشاركة	ال/DET+مشارك/NOUN-FS+ة/NSUFF
+في	في/PREP
+هاشتاج	هاشتاج/NOUN-MS
+#	#/HASH
+انتخبوا	انتخب/V+وا/PRON
+_	_/PUNC
+العرص	ال/DET+عرص/NOUN-MS
+عيب	عيب/NOUN-MS
+وحرام	و/CONJ+حرام/NOUN-MS
+..	./PUNC ./PUNC
+جاتكم	جا/V+ت/PRON+كم/PRON
+البلاوي	ال/DET+بلاوي/NOUN-FP
+..	./PUNC ./PUNC
+يعني	يعني/ADV
+هو اللي عمله	هو/PRON اللي/PRON عمل/V+ه/PRON
+العرص	ال/DET+عرص/NOUN-MS
+مش	مش/PART
+عيب	عيب/NOUN-MS
+وحرام	و/CONJ+حرام/NOUN-MS
+؟	؟/PUNC
+!	!/PUNC
+--------------------	-/PUNC
+اوعو	إوع/V+وا/PRON
+تستسلمو	تستسلم/V+وا/PRON
+لسه	لسة/ADV
+الأمل	ال/DET+أمل/NOUN-MS
+موجود	موجود/ADJ-MS
+بس	بس/PART
+انتو	إنتو/PRON
+متقفلوهاش	ما/PART تقفل/V+وا/PRON+ها/PRON+ش/NEG-PART
+وقولو	و/CONJ+قول/V+وا/PRON
+يارب	يا/PART رب/NOUN-MS
+:)	:)/EMOT
+--------------------	-/PUNC
+ما هي لو	ما/PART هي/PRON لو/PART
+كانت	كان/V+ت/PRON
+عرفت	عرف/V+ت/PRON
+انها	إن/PART+ها/PRON
+بعد	بعد/NOUN-MS
+كل	كل/NOUN-MS
+التعب	ال/DET+تعب/NOUN-MS
+و التربية	و/CONJ+ال/DET+تربي/NOUN-FS+ة/NSUFF
+ديه	دي/PRON
+هتتشتم	ه/FUT-PART+تتشتم/V
+من	من/PREP
+واحد	واحد/NOUN-MS
+صاحبك	صاحب/NOUN-MS+ك/PRON
+مكنتش	ما/PART كان/V+ت/PRON+ش/NEG-PART
+خلفتك	خلف/V+ت/PRON+ك/PRON
+من	من/PREP
+الاساس	ال/DET+أساس/NOUN-MS
+!	!/PUNC
+--------------------	-/PUNC
+انا	أنا/PRON
+الخطوبة	ال/DET+خطوب/ADJ-FS+ة/NSUFF
+في	في/PREP
+عيلتنا	عيل/NOUN-FS+ة/NSUFF+نا/PRON
+عبارة	عبار/NOUN-FS+ة/NSUFF
+عن	عن/PREP
+ان	إن/PART
+العريس	ال/DET+عريس/NOUN-MS
+بياخد	ب/PROG-PART+يأخد/V
+خطيبته	خطيب/NOUN-FS+ة/NSUFF+ه/PRON
+و اخواتها	و/CONJ+إخو/NOUN-FP+ات/NSUFF+ها/PRON
+البنات	ال/DET+بن/NOUN-FP+ات/NSUFF
+و مفيش مانع	و/CONJ+ما/PART في/PREP+ش/NEG-PART مانع/NOUN-MS
+بنت	بنت/NOUN-FS
+خالتهم	خال/NOUN-FS+ة/NSUFF+هم/PRON
+تروح	تروح/V
+معاهم	معا/PART+هم/PRON
+يغدّيهم	يغدي/V+هم/PRON
+بره	بر/NOUN-FS+ة/NSUFF
+و يرجعهم	و/CONJ+يرجع/V+هم/PRON
+البيت	ال/DET+بيت/NOUN-MS
+--------------------	-/PUNC
+@raafatelsawy	@raafatelsawy/MENTION
+و الله	و/CONJ+الله/NOUN-MS
+انا	أنا/PRON
+عارفة	عارف/ADJ-MS+ة/NSUFF
+ان	إن/PART
+في ناس	في/PREP+ه/PRON ناس/NOUN-MP
+مش	مش/PART
+راضية	راضي/ADJ-FS+ة/NSUFF
+بس	بس/PART
+في ناس تانية	في/PREP+ه/PRON ناس/NOUN-MP تاني/ADJ-FS+ة/NSUFF
+عمالة	عمالة/ADV
+تبرر	تبرر/V
+و خلاص	و/CONJ+خلاص/ADV
+و شايفة	و/CONJ+شايف/ADJ-FS+ة/NSUFF
+ان	إن/PART
+ده	ده/PRON
+احسن	أحسن/ADJ-MS
+حاجة	حاج/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+فى حاجات	في/PREP+ه/PRON حاج/NOUN-FP+ات/NSUFF
+تافهة	تافه/ADJ-FS+ة/NSUFF
+لو	لو/PART
+مكبرتش مخك	ما/PART كبر/V+ت/PRON+ش/NEG-PART مخ/NOUN-MS+ك/PRON
+فيها	في/PREP+ها/PRON
+واتعملت	و/CONJ+اتعامل/V+ت/PRON
+معاها	معا/PART+ها/PRON
+صح	صح/ADV
+هتبقى	ه/FUT-PART+تبقى/V
+مشكلة	مشكل/NOUN-FS+ة/NSUFF
+كبيرة	كبير/ADJ-FS+ة/NSUFF
+وانت	و/CONJ+أنت/PRON
+مش واخد بالك	مش/PART واخد/ADJ-MS بال/NOUN-MS+ك/PRON
+--------------------	-/PUNC
+هو يعني	هو/PRON يعني/V
+الولاد	ال/DET+أولاد/NOUN-MP
+مش	مش/PART
+بيعرفوا	ب/PROG-PART+يعرف/V+وا/PRON
+ييجو	ييج/V+وا/PRON
+هم	هم/PRON
+يسلمو	يسلم/V+وا/PRON
+؟	؟/PUNC
+ليه	ليه/PART
+لازم	لازم/ADJ-MS
+نروح	نروح/V
+احنا	إحنا/PRON
+نسلم	نسلم/V
+على	على/PREP
+سيادتهم	سياد/NOUN-FS+ة/NSUFF+هم/PRON
+؟	؟/PUNC
+--------------------	-/PUNC
+ماهو	ما/PART هو/PRON
+مش	مش/PART
+معقول	معقول/ADJ-MS
+بعد	بعد/NOUN-MS
+الدعا	ال/DET+دعا/NOUN-MS
+دا	ده/PRON
+كله	كل/NOUN-MS+ه/PRON
+والراجل	و/CONJ+ال/DET+راجل/NOUN-MS
+اللي	اللي/PRON
+بيقطع	ب/PROG-PART+يقطع/V
+الكهربا	ال/DET+كهربا/NOUN-FS
+لسه	لسة/ADV
+عايش	عايش/ADJ-MS
+!	!/PUNC
+؟	؟/PUNC
+--------------------	-/PUNC
+طلعوا	طلع/V+وا/PRON
+ورقة	ورق/NOUN-FS+ة/NSUFF
+عشان	علشان/PART
+الامتحان	ال/DET+امتحان/NOUN-MS
+-	-/PUNC
+مذكرناش	ما/PART ذاكر/V+نا/PRON+ش/NEG-PART
+-	-/PUNC
+مذكرتوش	ما/PART ذاكر/V+تو/PRON+ش/NEG-PART
+ليه	ليه/PART
+؟	؟/PUNC
+-	-/PUNC
+النور	ال/DET+نور/NOUN-MS
+كان	كان/V
+قاطع	قاطع/ADJ-MS
+اعترضي	اعترض/V+ي/PRON
+على	على/PREP
+نور	نور/NOUN-MS
+عين	عين/NOUN-FS
+السيسي	ال/DET+سيسي/NOUN-MS
+بقى	بقى/ADV
+--------------------	-/PUNC
+انا	أنا/PRON
+من	من/PREP
+النوع	ال/DET+نوع/NOUN-MS
+اللي	اللي/PRON
+لو	لو/PART
+شوفت	شف/V+ت/PRON
+حد	حد/NOUN-MS
+مضايق	متضايق/ADJ-MS
+او	أو/CONJ
+زعلان	زعلان/ADJ-MS
+معرفش	ما/PART أعرف/V+ش/NEG-PART
+اسيبه	أسيب/V+ه/PRON
+كده	كده/ADV
+لازم	لازم/ADJ-MS
+اسأله	أسأل/V+ه/PRON
+واعرف	و/CONJ+أعرف/V
+ماله	ما/PART ل/PREP+ه/PRON
+واخفف	و/CONJ+أخفف/V
+عنه	عن/PREP+ه/PRON
+!	!/PUNC
+#	#/HASH
+طبع	طبع/NOUN-MS
+--------------------	-/PUNC
+بصى	بص/V+ي/PRON
+ياستى	يا/PART ست/NOUN-FS+ي/NSUFF
+متتعبيش	ما/PART تتعب/V+ي/PRON+ش/NEG-PART
+نفسك	نفس/NOUN-FS+ك/PRON
+من	من/PREP
+كتر	كتر/NOUN-MS
+التفكير	ال/DET+تفكير/NOUN-MS
+هو	هو/PRON
+لو	لو/PART
+من	من/PREP
+نصيبك	نصيب/NOUN-MS+ك/PRON
+،	،/PUNC
+عمره ما	عمر/NOUN-MS+ه/PRON ما/PART
+هيكون	ه/FUT-PART+يكون/V
+لحد	ل/PREP+حد/NOUN-MS
+غيرك	غير/NOUN-MS+ك/PRON
+إنتى	إنتي/PRON
+--------------------	-/PUNC
+الواحد	ال/DET+واحد/NOUN-MS
+بيبقى	ب/PROG-PART+يبقى/V
+نفسه فى	نفس/NOUN-FS+ه/PRON في/PREP
+حد	حد/NOUN-MS
+يفهمه	يفهم/V+ه/PRON
+قبل ما	قبل/NOUN-MS ما/PART
+يتكلم	يتكلم/V
+يبقى	يبقى/V
+مضايق	متضايق/ADJ-MS
+يعرف	يعرف/V
+لوحده	ل/PREP+وحد/NOUN-MS+ه/PRON
+الى	اللي/PRON
+هو	هو/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+كده	كده/ADV
+زى	زي/NOUN-MS
+نفسك	نفس/NOUN-FS+ك/PRON
+--------------------	-/PUNC
+فى ناس	في/PREP+ه/PRON ناس/NOUN-MP
+كدة	كده/ADV
+لو	لو/PART
+مش	مش/PART
+عايزين	عايز/ADJ-MS+ين/NSUFF
+يتكلموا	يتكلم/V+وا/PRON
+ميتكلموش	ما/PART يتكلم/V+وا/PRON+ش/NEG-PART
+خالص	خالص/ADV
+و يريحونا	و/CONJ+يريح/V+وا/PRON+نا/PRON
+احسن ما	أحسن/ADJ-MS ما/PART
+هما	هما/PRON
+مبينين	مبين/ADJ-MP+ين/NSUFF
+ان هما	إن/PART هما/PRON
+بيتكلموا	ب/PROG-PART+يتكلم/V+وا/PRON
+بالعافية	ب/PREP+ال/DET+عافي/NOUN-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+لما	لما/PART
+تبقي	تبقى/V
+متضايق	متضايق/ADJ-MS
+عشان	علشان/PART
+حاجة	حاج/NOUN-FS+ة/NSUFF
+مش من	مش/PART من/PREP
+حقك	حق/NOUN-MS+ك/PRON
+تضايق	تتضايق/V
+عشانها	علشان/PART+ها/PRON
+…	…/PUNC
+ماتبقاش	ما/PART تبقى/V+ش/NEG-PART
+غبي	غبي/ADJ-MS
+اتخرس	اتخرس/V
+وماتبينش	و/CONJ+ما/PART تبين/V+ش/NEG-PART
+…	…/PUNC
+ابسط	أبسط/ADJ-MS
+رد	رد/NOUN-MS
+هايتقال	ه/FUT-PART+يتقال/V
+لك	ل/PREP+ك/PRON
+لو	لو/PART
+بينت	بين/V+ت/PRON
+:	:/EMOT
+وانت مالك	و/CONJ+أنت/PRON ما/PART ل/PREP+ك/PRON
+اصلا	أصلا/ADV
+!	!/PUNC
+"	"/PUNC
+انا	أنا/PRON
+حر	حر/ADJ-MS
+"	"/PUNC
+--------------------	-/PUNC
+فوقوا	فوق/V+وا/PRON
+وبلاش زفت	و/CONJ+بلاش/PART زفت/NOUN-MS
+،	،/PUNC
+كل	كل/NOUN-MS
+مرة	مر/NOUN-FS+ة/NSUFF
+نقول	نقول/V
+تويتر	تويتر/NOUN-MS
+مش	مش/PART
+للنقاش	ل/PREP+ال/DET+نقاش/NOUN-MS
+،	،/PUNC
+انت	إنت/PRON
+بتفكر	ب/PROG-PART+تفكر/V
+بمنهج	ب/PREP+منهج/NOUN-MS
+و هما	و/CONJ+هما/PRON
+بمنهج	ب/PREP+منهج/NOUN-MS
+و هي	و/CONJ+هي/PRON
+بمنهج	ب/PREP+منهج/NOUN-MS
+،	،/PUNC
+مش	مش/PART
+لازم	لازم/ADJ-MS
+واحد	واحد/NOUN-MS
+بس	بس/ADV
+اللي	اللي/PRON
+صح	صح/NOUN-MS
+،	،/PUNC
+كلكوا	كل/NOUN-MS+كم/PRON
+صح	صح/NOUN-MS
+،	،/PUNC
+يمكن	يمكن/V
+كلكوا	كل/NOUN-MS+كم/PRON
+غلط	غلط/NOUN-MS
+.	./PUNC
+--------------------	-/PUNC
+بالك انت	بال/NOUN-MS+ك/PRON إنت/PRON
+لو	لو/PART
+وصلنا	وصل/V+نا/PRON
+الهاتشتاج	ال/DET+هاشتاج/NOUN-MS
+ده	ده/PRON
+مليون	مليون/NUM
+،،	،/PUNC ،/PUNC
+هيجري	ه/FUT-PART+يجرى/V
+حاجة	حاج/NOUN-FS+ة/NSUFF
+؟	؟/PUNC
+!	!/PUNC
+،،	،/PUNC ،/PUNC
+و النبي	و/CONJ+ال/DET+نبي/NOUN-MS
+ما	ما/PART
+هيجري	ه/FUT-PART+يجرى/V
+حاجة	حاج/NOUN-FS+ة/NSUFF
+#	#/HASH
+سيناء	سيناء/NOUN-FS
+_	_/PUNC
+خارج	خارج/NOUN-MS
+_	_/PUNC
+التغطية	ال/DET+تغطي/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+وصول	وصول/NOUN-MS
+أول	أول/ADJ-MS
+مرشح	مرشح/NOUN-MS
+رئاسى	رئاسي/ADJ-MS
+لمقر	ل/PREP+مقر/NOUN-MS
+العليا	ال/DET+عليا/ADJ-MS
+..	./PUNC ./PUNC
+ويؤكد	و/CONJ+يؤكد/V
+:	:/PUNC
+برنامجى	برنامج/NOUN-MS+ي/PRON
+فى	في/PREP
+دماغى	دماغ/NOUN-FS+ي/PRON
+>	>/PUNC
+إبتدينا	ابتدي/V+نا/PRON
+الهبل	ال/DET+هبل/NOUN-MS
+والعك	و/CONJ+ال/DET+عك/NOUN-MS
+.	./PUNC
+دماغك	دماغ/NOUN-FS+ك/PRON
+مين	مين/PART
+يا	يا/PART
+عم	عم/NOUN-MS
+؟	؟/PUNC
+كبر دماغك	كبر/V دماغ/NOUN-FS+ك/PRON
+شوية طيب	شوي/NOUN-FS+ة/NSUFF طيب/ADV
+--------------------	-/PUNC
+لما	لما/PART
+كنت	كن/V+ت/PRON
+مع	مع/PART
+الثورة	ال/DET+ثور/NOUN-FS+ة/NSUFF
+كان	كان/V
+عشان	علشان/PART
+مصلحة	مصلح/NOUN-FS+ة/NSUFF
+البلد	ال/DET+بلد/NOUN-FS
+و دلوقتي	و/CONJ+دلوقتي/ADV
+انا	أنا/PRON
+ضدها	ضد/NOUN-MS+ها/PRON
+عشان	علشان/PART
+مصلحة	مصلح/NOUN-FS+ة/NSUFF
+البلد	ال/DET+بلد/NOUN-FS
+بردة	برضه/ADV
+--------------------	-/PUNC
+في ناس	في/PREP+ه/PRON ناس/NOUN-MP
+بتفهمنا	ب/PROG-PART+تفهم/V+نا/PRON
+من غير ما	ب/PREP غير/NOUN-MS ما/PART
+نتكلم	نتكلم/V
+و ناس	و/CONJ+ناس/NOUN-MP
+لو	لو/PART
+اتشقلبنا	اتشقلب/V+نا/PRON
+بردو	برضه/ADV
+مش هيفهمونا	مش/PART ه/FUT-PART+يفهم/V+وا/PRON+نا/PRON
+--------------------	-/PUNC
+النور	ال/DET+نور/NOUN-MS
+قطع	قطع/V
+النهارده	النهاردة/ADV
+اكتر	أكتر/ADJ-MS
+ما	ما/PART
+جه	جه/V
+ده	ده/PRON
+ولسا	و/CONJ+لسة/ADV
+التكيفات	ال/DET+تكييف/NOUN-FP+ات/NSUFF
+مشتغلتش	ما/PART اشتغل/V+ت/PRON+ش/NEG-PART
+وبكره	و/CONJ+بكرة/ADV
+تشوفوا	تشوف/V+وا/PRON
+مصر	مصر/NOUN-FS
+:(	:(/EMOT
+#	#/HASH
+مفيش	ما/PART في/PREP+ش/NEG-PART
+_	_/PUNC
+نور	نور/NOUN-MS
+--------------------	-/PUNC
+الحل	ال/DET+حل/NOUN-MS
+الوحيد	ال/DET+وحيد/ADJ-MS
+عشان	علشان/PART
+تعرف	تعرف/V
+اللى	اللي/PRON
+جاى	جاي/ADJ-MS
+عليك	على/PREP+ك/PRON
+من	من/PREP
+بعيد	بعيد/ADJ-MS
+ده	ده/PRON
+ولد	ولد/NOUN-MS
+ولا	و/CONJ+إلا/PART
+بنت	بنت/NOUN-FS
+!	!/PUNC
+تركز	تركز/V
+معاه	معا/PART+ه/PRON
+لو	لو/PART
+جاى	جاي/ADJ-MS
+عليك	على/PREP+ك/PRON
+يبقى	يبقى/V
+ولد	ولد/NOUN-MS
+..	./PUNC ./PUNC
+ولو	و/CONJ+لو/PART
+جايه	جاي/ADJ-FS+ة/NSUFF
+تبقى	تبقى/V
+بنت	بنت/NOUN-FS
+--------------------	-/PUNC
+رسالة	رسال/NOUN-FS+ة/NSUFF
+المكان	ال/DET+مكان/NOUN-MS
+الوحيد	ال/DET+وحيد/ADJ-MS
+اللى	اللي/PRON
+بتتعب	ب/PROG-PART+تتعب/V
+فيه	في/PREP+ه/PRON
+وأنت	و/CONJ+أنت/PRON
+مبسوط	مبسوط/ADJ-MS
+^_*	^_*/EMOT
+خليك	خل/V+ي/PRON+ك/PRON
+دايما	دايما/ADV
+صاحب	صاحب/NOUN-MS
+بسمة	بسم/NOUN-FS+ة/NSUFF
+لكل	ل/PREP+كل/NOUN-MS
+الى	اللي/PRON
+حواليك	حوالي/NOUN-MS+ك/PRON
+:)	:)/EMOT
+ساعد	ساعد/V
+غيرك	غير/NOUN-MS+ك/PRON
+واوعى	و/CONJ+إوعى/V
+فى	في/PREP
+يوم	يوم/NOUN-MS
+...	./PUNC ./PUNC ./PUNC
+http://t.co/aPCoIxREyh	http:\\t.co\aPCoIxREyh/URL
+--------------------	-/PUNC
+النور	ال/DET+نور/NOUN-MS
+بيقطع	ب/PROG-PART+يقطع/V
+مره	مر/NOUN-FS+ة/NSUFF
+الصبح	ال/DET+صبح/NOUN-MS
+و مره	و/CONJ+مر/NOUN-FS+ة/NSUFF
+بالليل	ب/PREP+ال/DET+ليل/NOUN-MS
+عشان	علشان/PART
+الي	اللي/PRON
+مكنش	ما/PART كان/V+ش/NEG-PART
+موجود	موجود/ADJ-MS
+في	في/PREP
+بيته	بيت/NOUN-MS+ه/PRON
+الصبح	ال/DET+صبح/NOUN-MS
+يحضر	يحضر/V
+الإعاده	ال/DET+إعاد/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+فى كلام	في/PREP+ه/PRON كلام/NOUN-MS
+كده	كده/ADV
+بتسمعه	ب/PROG-PART+تسمع/V+ه/PRON
+مبتعرفش	ما/PART ب/PROG-PART+تعرف/V+ش/NEG-PART
+تنساه	تنسى/V+ه/PRON
+بجد	ب/PREP+جد/NOUN-MS
+بيفضل	ب/PROG-PART+يفضل/V
+مأثر	مأثر/ADJ-MS
+عليك	على/PREP+ك/PRON
+سلبيا	سلبي/ADJ-MS+ا/NSUFF
+حتى	حتى/PART
+لو	لو/PART
+بعد	بعد/NOUN-MS
+فتره	فتر/NOUN-FS+ة/NSUFF
+طويلة	طويل/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+كلنا	كل/NOUN-MS+نا/PRON
+هنموت	ه/FUT-PART+نموت/V
+....	./PUNC ./PUNC ./PUNC ./PUNC
+بس	بس/PART
+يا	يا/PART
+بخته	حظ/NOUN-MS+ه/PRON
+اللى	اللي/PRON
+هيروح	ه/FUT-PART+يروح/V
+لربنا	ل/PREP+رب/NOUN-MS+نا/PRON
+وربنا	و/CONJ+رب/NOUN-MS+نا/PRON
+راضى	راضي/ADJ-MS
+عنه	عن/PREP+ه/PRON
+...	./PUNC ./PUNC ./PUNC
+اللهم	اللهم/NOUN-MS
+لا	لا/PART
+تأخذنا	تأخذ/V+نا/PRON
+إلا	إلا/PART
+وأنت	و/CONJ+أنت/PRON
+راضى	راضي/ADJ-MS
+عنا	عن/PREP+نا/PRON
+.	./PUNC
+--------------------	-/PUNC
+هي	هي/PRON
+لميس	لميس/NOUN-MS
+الحديدي	ال/DET+حديدي/NOUN-MS
+مش هتجيب	مش/PART ه/FUT-PART+تجيب/V
+مصر	مصر/NOUN-FS
+وهي	و/CONJ+هي/PRON
+ضلمه	ضلمة/NOUN-FS+ة/NSUFF
+وتولول	و/CONJ+تولول/V
+زي	زي/NOUN-MS
+ماكانت	ما/PART كان/V+ت/PRON
+بتعمل	ب/PROG-PART+تعمل/V
+ايام	أيام/NOUN-FP
+مرسي	مرسي/NOUN-MS
+؟!!	؟/PUNC !/PUNC !/PUNC
+--------------------	-/PUNC
+مفيش	ما/PART في/PREP+ش/NEG-PART
+اوسخ	أوسخ/ADJ-FP
+من	من/PREP
+إنك	إن/PART+ك/PRON
+تكرهه	تكره/V
+تصرف	تصرف/NOUN-MS
+معين	معين/ADJ-MS
+..	./PUNC ./PUNC
+و تبقى	و/CONJ+تبقى/V
+بتعمل	ب/PROG-PART+تعمل/V
+نفس	نفس/NOUN-MS
+التصرف	ال/DET+تصرف/NOUN-MS
+ده	ده/PRON
+مع	مع/PART
+كل	كل/NOUN-MS
+الناس	ال/DET+ناس/NOUN-MP
+و مش	و/CONJ+مش/PART
+عايز	عايز/ADJ-MS
+حد	حد/NOUN-MS
+يكرهك	يكره/V+ك/PRON
+.	./PUNC
+--------------------	-/PUNC
+وهيفضل	و/CONJ+ه/FUT-PART+يفضل/V
+الواحد	ال/DET+واحد/NOUN-MS
+ف	في/PREP
+حاله	حال/NOUN-FS+ة/NSUFF
+توهان	توهان/NOUN-MS
+..	./PUNC ./PUNC
+من	من/PREP
+كتر	كتر/NOUN-MS
+تفكير	تفكير/NOUN-MS
+هو	هو/PRON
+اصلا	أصلا/ADV
+عارف	عارف/ADJ-MS
+نهايته	نهاي/NOUN-FS+ة/NSUFF+ه/PRON
+بس	بس/PART
+عمال	عمال/ADV
+يلعب	يلعب/V
+ف	ف/PREP
+التوقيت	ال/DET+توقيت/NOUN-MS
+على الفاضى	على/PREP ال/DET+فاضي/NOUN-MS
+://	:\\/EMOT
+--------------------	-/PUNC
+@NorhanSolimanAs	@NorhanSolimanAs/MENTION
+تصوير	تصوير/NOUN-MS
+الفيلم	ال/DET+فيلم/NOUN-MS
+كان	كان/V
+متعب	متعب/ADJ-MS
+موووت	موت/ADV
+مش قادرة	مش/PART قادر/ADJ-FS+ة/NSUFF
+اوصفلكوا	أوصف/V ل/PREP+كم/PRON
+يا	يا/PART
+جماعة	جماع/NOUN-FS+ة/NSUFF
+:D	:D/EMOT
+ناس	ناس/NOUN-MP
+عايشة	عايش/ADJ-FS+ة/NSUFF
+في	في/PREP
+ماية	مية/NOUN-FS
+المخلل	ال/DET+مخلل/NOUN-MS
+بمعني	ب/PREP+معنى/NOUN-MS
+الكلمة	ال/DET+كلم/NOUN-FS+ة/NSUFF
+يعني	يعني/ADV
+:D	:D/EMOT
+--------------------	-/PUNC
+و الحاجات	و/CONJ+ال/DET+حاج/NOUN-FP+ة/NSUFF
+اللي	اللي/PRON
+خسِرتها	خسر/V+ت/PRON+ها/PRON
+للأبد	ل/PREP+ال/DET+أبد/NOUN-MS
+لمجرد	ل/PREP+مجرد/NOUN-MS
+إن	إن/PART
+فيه	في/PREP+ه/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+جوّاك	جوا/NOUN-FS+ك/PRON
+بتمنعك	ب/PROG-PART+تمنع/V+ك/PRON
+ترجع	ترجع/V
+تاخد	تأخد/V
+حاجة	حاج/NOUN-FS+ة/NSUFF
+كنت	كن/V+ت/PRON
+سيبتها	سيب/V+ت/PRON+ها/PRON
+قبل كده	قبل/NOUN-MS كده/PRON
+--------------------	-/PUNC
+عارف	عارف/ADJ-MS
+الناس الكل	ال/DET+ناس/NOUN-MP اللي/PRON كل/NOUN-MS
+ما	ما/PART
+الكلام	ال/DET+كلام/NOUN-MS
+يخلص	يخلص/V
+يفتحوا	يفتح/V+وا/PRON
+موضوع	موضوع/NOUN-MS
+تانى	تاني/ADJ-MS
+عشان	علشان/PART
+عايزين	عايز/ADJ-MP+ين/NSUFF
+يتكلموا	يتكلم/V+وا/PRON
+معاك	معا/PART+ك/PRON
+؟	؟/PUNC
+بحبهم	ب/PROG-PART+أحب/V+هم/PRON
+.	./PUNC
+--------------------	-/PUNC
+اكبر	أكبر/ADJ-MS
+ميزة	ميز/NOUN-FS+ة/NSUFF
+ف	في/PREP
+تجربة	تجرب/NOUN-FS+ة/NSUFF
+الحب	ال/DET+حب/NOUN-MS
+الفاشلة	ال/DET+فاشل/ADJ-FS+ة/NSUFF
+انها	إن/PART+ها/PRON
+بتعرفك	ب/PROG-PART+تعرف/V+ك/PRON
+اخطائك	أخطاء/NOUN-FP+ك/PRON
+عشان	علشان/PART
+متقعش	ما/PART تقع/V+ش/NEG-PART
+فيها	في/PREP+ها/PRON
+تاني	تاني/ADV
+--------------------	-/PUNC
+#	#/HASH
+هننضف	ه/FUT-PART+ننضف/V
+_	_/PUNC
+لو	لو/PART
+كل	كل/NOUN-MS
+واحد	واحد/NOUN-MS
+عمل	عمل/V
+خير	خير/NOUN-MS
+فى	في/PREP
+البلد	ال/DET+بلد/NOUN-FS
+علشان	علشان/PART
+ربنا	رب/NOUN-MS+نا/PRON
+مش	مش/PART
+علشان	علشان/PART
+حد	حد/NOUN-MS
+!	!/PUNC
+:)	:)/EMOT
+--------------------	-/PUNC
+هو	هو/PRON
+:	:/EMOT
+انا	أنا/PRON
+خايف	خايف/ADJ-MS
+عليكي	على/PREP+كي/PRON
+..	./PUNC ./PUNC
+هي	هي/PRON
+:	:/EMOT
+مش فاهمة	مش/PART فاهم/ADJ-FS+ة/NSUFF
+يعني ايه	يعني/V إيه/PART
+؟!	؟/PUNC !/PUNC
+هو	هو/PRON
+:	:/PUNC
+مش عارف	مش/PART عارف/ADJ-MS
+الصراحة	ال/DET+صراح/NOUN-FS+ة/NSUFF
+انا	أنا/PRON
+حافظها	حافظ/ADJ-MS+ها/PRON
+كدا	كده/ADV
+!	!/PUNC
+بس	بس/PART
+بيقولوا	ب/PROG-PART+يقول/V+وا/PRON
+كدا	كده/ADV
+لما	لما/PART
+بيخلعوا	ب/PROG-PART+يخلع/V+وا/PRON
+!	!/PUNC
+--------------------	-/PUNC
+مش	مش/PART
+مهم	مهم/ADJ-MS
+تعرف	تعرف/V
+كام	كم/PART
+واحد	واحد/NOUN-MS
+بيحبك	ب/PROG-PART+يحب/V+ك/PRON
+,,	,/PUNC ,/PUNC
+المهم	ال/DET+مهم/ADJ-MS
+تعرف	تعرف/V
+كام	كم/PART
+واحد	واحد/NOUN-MS
+بيكرهك	ب/PROG-PART+كره/V+ك/PRON
+عشان	علشان/PART
+تعرف	تعرف/V
+انك	إن/PART+ك/PRON
+ماشى	ماشي/ADJ-MS
+فى	في/PREP
+الطريق	ال/DET+طريق/NOUN-MS
+الصح	ال/DET+صح/ADJ-MS
+ولا لأ	و/CONJ+إلا/PART لا/PART
+.	./PUNC
+~	~/PUNC
+--------------------	-/PUNC
+@gihanwaly	@gihanwaly/MENTION
+خليهم	خل/V+ي/PRON+هم/PRON
+يشربوا	يشرب/V+وا/PRON
+شوية	شوي/NOUN-FS+ة/NSUFF
+من	من/PREP
+القرف	ال/DET+قرف/NOUN-MS
+اللى	اللي/PRON
+احنا	إحنا/PRON
+عايشين	عايش/ADJ-MP+ين/NSUFF
+فيه	في/PREP+ه/PRON
+كل	كل/NOUN-MS
+ساعة	ساع/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+جمال	جمال/NOUN-MS
+الشكل	ال/DET+شكل/NOUN-MS
+دى	دي/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+من	من/PREP
+عند	عند/NOUN-MS
+ربنا	رب/NOUN-MS+نا/PRON
+لكن	لكن/CONJ
+جمال	جمال/NOUN-MS
+الشخصية	ال/DET+شخصي/NOUN-FS+ة/NSUFF
+دى	دي/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+انت	إنت/PRON
+الى	اللي/PRON
+بتعملها	ب/PROG-PART+تعمل/V+ها/PRON
+.	./PUNC
+--------------------	-/PUNC
+فكرت	فكر/V+ت/PRON
+قبل	قبل/NOUN-MS
+كده	كده/ADV
+ليه	ليه/PART
+الدهب	ال/DET+دهب/NOUN-MS
+غالى	غالي/ADJ-MS
+؟	؟/PUNC
+عشان	علشان/PART
+موجود	موجود/ADJ-MS
+قليل	قليل/ADJ-MS
+،	،/PUNC
+كان	كان/V
+ممكن	ممكن/ADJ-MS
+الحديد	ال/DET+حديد/NOUN-MS
+يبقى	يبقى/V
+معدن	معدن/NOUN-MS
+ثمين	ثمين/ADJ-MS
+والدهب	و/CONJ+ال/DET+دهب/NOUN-MS
+يتعمل	يتعمل/V
+منه	من/PREP+ه/PRON
+مسامير	مسامير/NOUN-FP
+.	./PUNC
+الأقلية	ال/DET+أقلي/NOUN-FS+ة/NSUFF
+مش	مش/PART
+دايما	دايما/ADV
+وحشة	وحش/ADJ-FS+ة/NSUFF
+.	./PUNC
+--------------------	-/PUNC
+يا	يا/PART
+طنط	طنط/NOUN-FS
+أرجوكي	أرجو/V+كي/PRON
+كفاية	كفاي/NOUN-FS+ة/NSUFF
+.	./PUNC
+مش	مش/PART
+كل ما	كل/NOUN-MS ما/PART
+أطلع	أطلع/V
+أقعد	أقعد/V
+في	في/PREP
+المترو	ال/DET+مترو/NOUN-MS
+تيجي	تيج/V+ي/PRON
+تقفي	تقف/V+ي/PRON
+أدّامي	قدام/NOUN-MS+ي/PRON
+أنا	أنا/PRON
+بالذات	ب/PREP+ال/DET+ذات/NOUN-MS
+وتعملي	و/CONJ+تعمل/V+ي/PRON
+تعبانة	تعبان/ADJ-FS+ة/NSUFF
+!	!/PUNC
+إتعبي	اتعب/V+ي/PRON
+في	في/PREP
+عربيتكوا	عربي/NOUN-FS+ة/NSUFF+كم/PRON
+رجاءًا	رجاء/NOUN-MS
+عشان أنا	علشان/PART أنا/PRON
+كمان	كمان/ADV
+تعبان	تعبان/ADJ-MS
+--------------------	-/PUNC
+ما اللى	ما/PART اللي/PRON
+يترشح	يترشح/V
+يترشح	يترشح/V
+..	./PUNC ./PUNC
+مش	مش/PART
+فهماك	فاهم/ADJ-FS+ا/NSUFF+ك/PRON
+ياللى	يا/PART اللي/PRON
+بيتحرق	ب/PROG-PART+يتحرق/V
+دمك	دم/NOUN-MS+ك/PRON
+...	./PUNC ./PUNC ./PUNC
+إنزل	انزل/V
+انتخب	انتخب/V
+اللى	اللي/PRON
+على	على/PREP
+مزاجك	مزاج/NOUN-MS+ك/PRON
+..	./PUNC ./PUNC
+مش	مش/PART
+ديموقراطية	ديموقراطي/NOUN-FS+ة/NSUFF
+وحرية	و/CONJ+حري/NOUN-FS+ة/NSUFF
+..	./PUNC ./PUNC
+وإلا	و/CONJ+إلا/PART
+اللطم	ال/DET+لطم/NOUN-MS
+إسلوب	أسلوب/NOUN-MS
+حياة	حيا/NOUN-FS+ة/NSUFF
+--------------------	-/PUNC
+و انا	و/CONJ+أنا/PRON
+صغيرة	صغير/ADJ-FS+ة/NSUFF
+ماكنتش	ما/PART كن/V+ت/PRON+ش/NEG-PART
+بتفرج	ب/PROG-PART+أتفرج/V
+علي	على/PREP
+ميكي	ميكي/NOUN-MS
+والكلام دا	و/CONJ+ال/DET+كلام/NOUN-MS ده/PRON
+كنت	كن/V+ت/PRON
+بقرا	ب/PROG-PART+أقرأ/V
+قسم	قسم/NOUN-MS
+الحوادث	ال/DET+حوادث/NOUN-FP
+في	في/PREP
+الجرنال	ال/DET+جرنال/NOUN-MS
+و كنت	و/CONJ+كن/V+ت/PRON
+استني	أستنى/V
+جرنال	جرنال/NOUN-MS
+الحوادث	ال/DET+حوادث/NOUN-FP
+الي	اللي/PRON
+كان	كان/V
+بينزل	ب/PROG-PART+ينزل/V
+كل	كل/NOUN-MS
+يوم	يوم/NOUN-MS
+السبت	ال/DET+سبت/NOUN-MS
+واقراه	و/CONJ+أقرا/V+ه/PRON
+كله	كل/NOUN-MS+ه/PRON
+--------------------	-/PUNC
+الواحد	ال/DET+واحد/NOUN-MS
+بيغلط	ب/PROG-PART+يغلط/V
+لما	لما/PART
+بيعامل	ب/PROG-PART+يعامل/V
+شوية عيال	شوي/NOUN-FS+ة/NSUFF عيال/NOUN-MP
+بالنسبه	ب/PREP+ال/DET+نسب/NOUN-FS+ة/NSUFF
+له	ل/PREP+ه/PRON
+اطفال	أطفال/NOUN-MP
+على	على/PREP
+انهم	إن/PART+هم/PRON
+اخواته	إخو/NOUN-MP+ات/NSUFF+ه/PRON
+الصغيريين	ال/DET+صغير/ADJ-MP+ين/NSUFF
+,	,/PUNC
+ساعتها	ساع/NOUN-FS+ة/NSUFF+ها/PRON
+بيسوقو	ب/PROG-PART+يسوق/V+وا/PRON
+فيها	في/PREP+ها/PRON
+اوى	قوي/ADV
+ولازم	و/CONJ+لازم/ADJ-MS
+تديهم	تد/V+ي/PRON+هم/PRON
+على	على/PREP
+دماغهم	دماغ/NOUN-FS+هم/PRON
+--------------------	-/PUNC
+@KenzyBoosycat	@KenzyBoosycat/MENTION
+انا	أنا/PRON
+بدأت	بدأ/V+ت/PRON
+اتوغوش	أتوغوش/V
+ع	على/PREP
+فكره	فكر/NOUN-FS+ة/NSUFF
+؛)	؛/PUNC )/PUNC
+كنتي	كن/V+تي/PRON
+كويسه	كويس/ADJ-FS+ة/NSUFF
+ايه اللي	إيه/PART اللي/PRON
+حصل	حصل/V
+!!	!/PUNC !/PUNC
+اعترفي	اعترف/V+ي/PRON
+--------------------	-/PUNC
+لو	لو/PART
+كنت	كن/V+ت/PRON
+استنيت	استنى/V+ت/PRON
+وبصيت	و/CONJ+بصي/V+ت/PRON
+في	في/PREP
+عينه	عين/NOUN-FS+ه/PRON
+اخر	آخر/ADJ-MS
+مرة	مر/NOUN-FS+ة/NSUFF
+..	./PUNC ./PUNC
+جايز	جايز/ADJ-MS
+كنت	كن/V+ت/PRON
+فهمت	فهم/V+ت/PRON
+انه	إن/PART+ه/PRON
+زعلان	زعلان/ADJ-MS
+زيك	زي/NOUN-MS+ك/PRON
+بالظبط	ب/PREP+ال/DET+ظبط/NOUN-MS
+ويمكن	و/CONJ+يمكن/V
+اكتر	أكتر/ADJ-MS
+..	./PUNC ./PUNC
+جايز	جايز/ADJ-MS
+كنت	كن/V+ت/PRON
+فهمت	فهم/V+ت/PRON
+ان انتوا	إن/PART إنتو/PRON
+اللي اتنين	ال/DET+اتنين/NUM
+ضحايا	ضحايا/NOUN-MP
+القدر	ال/DET+قدر/NOUN-MS
+.	./PUNC
+--------------------	-/PUNC
+@Marmar_TT	@Marmar_TT/MENTION
+ههههههههههههههه	ههه/EMOT
+اه	نعم/PART
+بس	بس/PART
+للاسف	ل/PREP+ال/DET+أسف/NOUN-MS
+نورك	نور/NOUN-MS+ك/PRON
+فى	في/PREP
+الصيف	ال/DET+صيف/NOUN-MS
+مش هيشغل	مش/PART ه/FUT-PART+يشغل/V
+مروحه	مروح/NOUN-FS+ة/NSUFF
+ولا	و/CONJ+لا/PART
+تكيف	تكييف/NOUN-MS
+ولا	و/CONJ+لا/PART
+تلاجه	تلاج/NOUN-FS+ة/NSUFF
+...	./PUNC ./PUNC ./PUNC
+استعدى	استعد/V+ي/PRON
+لصيف	ل/PREP+صيف/NOUN-MS
+ساخن	ساخن/ADJ-MS
+--------------------	-/PUNC
+حبايبي	حبايب/NOUN-FP+ي/PRON
+اسيبكم	أسيب/V+كم/PRON
+دلوقتي	دلوقتي/ADV
+لأني	ل/PREP+أن/PART+ي/PRON
+صاحية	صاحي/ADJ-FS+ة/NSUFF
+من بدري	من/PREP بدري/ADJ-MS
+و كان	و/CONJ+كان/V
+ورايا	ورا/NOUN-MS+يا/PRON
+حاجات كتير	حاج/NOUN-FP+ات/NSUFF كتير/ADJ-MS
+نتكلم	نتكلم/V
+بكرة	بكرة/ADV
+إن	إن/PART
+شاء	شاء/V
+الله	الله/NOUN-MS
+بحبكمممم	ب/PROG-PART+أحب/V+كم/PRON
+--------------------	-/PUNC
+قبل ما	قبل/NOUN-MS ما/PART
+تفكر	تفكر/V
+ترد	ترد/V
+على	على/PREP
+حد	حد/NOUN-MS
+موجهلكش	ما/PART وجه/V ل/PREP+ك/PRON+ش/NEG-PART
+كلام	كلام/NOUN-MS
+أو	أو/CONJ
+مطلبش	ما/PART طلب/V+ش/NEG-PART
+رأيك	رأي/NOUN-MS+ك/PRON
+ألطش	الطش/V
+نفسك	نفس/NOUN-FS+ك/PRON
+قلم	قلم/NOUN-MS
+و أنزل	و/CONJ+انزل/V
+أشترك	اشترك/V
+في	في/PREP
+Gym	Gym/FOREIGN
+عشان	علشان/PART
+كده	كده/ADV
+معدل	معدل/NOUN-MS
+الفراغ	ال/DET+فراغ/NOUN-MS
+بقى	بقى/V
+خطر	خطر/NOUN-MS
+أوي	قوي/ADV
+.	./PUNC
+--------------------	-/PUNC
+و مين	و/CONJ+مين/PART
+فينا	في/PREP+نا/PRON
+مكنش	ما/PART كان/V+ش/NEG-PART
+مستني	مستني/ADJ-MS
+حد	حد/NOUN-MS
+يكلمو	يكلم/V+ه/PRON
+و هو	و/CONJ+هو/PRON
+نايم	نايم/ADJ-MS
+و كل شوية	و/CONJ+كل/NOUN-MS شوي/NOUN-FS+ة/NSUFF
+يصحي	يصحى/V
+يبص	يبص/V
+ف	في/PREP
+الموبيل	ال/DET+موبايل/NOUN-MS
+بعين	ب/PREP+عين/NOUN-FS
+واحدة	واحد/ADJ-FS+ة/NSUFF
+--------------------	-/PUNC
+وفي	و/CONJ+في/PREP
+لحظة	لحظ/NOUN-FS+ة/NSUFF
+كدة	كده/ADV
+و انت	و/CONJ+إنت/PRON
+قاعد	قاعد/ADJ-MS
+مع	مع/PART
+ناس	ناس/NOUN-MP
+بتضحك	ب/PROG-PART+تضحك/V
+تروح	تروح/V
+متنح	متنح/ADJ-MS
+هي	هي/PRON
+دي	دي/PRON
+اللحظة	ال/DET+لحظ/NOUN-FS+ة/NSUFF
+اللي	اللي/PRON
+بتكون	ب/PROG-PART+تكون/V
+افتكرت	افتكر/V+ت/PRON
+فيها	في/PREP+ها/PRON
+حاجة	حاج/NOUN-FS+ة/NSUFF
+كانت	كان/V+ت/PRON
+"	"""/PUNC
+"
+بتضحكك	ب/PROG-PART+تضحك/V+ك/PRON
+"	"/PUNC
+كدة	كده/ADV
+زمان	زمان/NOUN-MS
+وراحت	و/CONJ+راح/V+ت/PRON
+.	./PUNC
+--------------------	-/PUNC
+اللى	اللي/PRON
+بيقول	ب/PROG-PART+يقول/V
+مش هينتخب	مش/PART ه/FUT-PART+ينتخب/V
+حمدين	حمدين/NOUN-MS
+عشان	علشان/PART
+مش هينجح	مش/PART ه/FUT-PART+ينجح/V
+..	./PUNC ./PUNC
+طب	طيب/ADJ-MS
+وانت	و/CONJ+أنت/PRON
+ليه	ليه/PART
+عايش	عايش/ADJ-MS
+وانت	و/CONJ+أنت/PRON
+عارف	عارف/ADJ-MS
+انك	إن/PART+ك/PRON
+هتموت	ه/FUT-PART+تموت/V
+--------------------	-/PUNC
+مفروض	مفروض/ADJ-MS
+ماتزعلش	ما/PART تزعل/V+ش/NEG-PART
+عشان	علشان/PART
+في ناس	في/PREP+ه/PRON ناس/NOUN-MP
+حالها	حال/NOUN-MS+ها/PRON
+اوحش	أوحش/ADJ-MS
+من	من/PREP
+حالك	حال/NOUN-MS+ك/PRON
+بكتير	ب/PREP+كتير/ADJ-MS
+......	./PUNC ./PUNC ./PUNC ./PUNC ./PUNC ./PUNC
+اشطا	قشط/NOUN-FS+ة/NSUFF
+خلاص	خلاص/NOUN-MS
+ماتفرحش	ما/PART تفرح/V+ش/NEG-PART
+عشان	علشان/PART
+في ناس	في/PREP+ه/PRON ناس/NOUN-MP
+حالها	حال/NOUN-MS+ها/PRON
+احسن	أحسن/ADJ-MS
+من	من/PREP
+حالتك	حال/NOUN-FS+ة/NSUFF+ك/PRON
+بكتير	ب/PREP+كتير/ADJ-MS
+--------------------	-/PUNC
+طب	طيب/ADJ-MS
+إدونا	إد/V+وا/PRON+نا/PRON
+فرصة	فرص/NOUN-FS+ة/NSUFF
+نحط	نحط/V
+فيشة	فيش/NOUN-FS+ة/NSUFF
+الكشاف	ال/DET+كشاف/NOUN-MS
+في	في/PREP
+الكهربا	ال/DET+كهربا/NOUN-FS
+عشان	علشان/PART
+يتشحن	يتشحن/V
+!!!!!	!/PUNC !/PUNC !/PUNC !/PUNC !/PUNC
+#	#/HASH
+انا	أنا/PRON
+_	_/PUNC
+نفسي	نفس/NOUN-FS+ي/PRON
+_	_/PUNC
+أعيش	أعيش/V
+!	!/PUNC
+--------------------	-/PUNC
+لما	لما/PART
+تزعل	تزعل/V
+من	من/PREP
+حد	حد/NOUN-MS
+قوله	قول/V ل/PREP+ه/PRON
+ربنا	رب/NOUN-MS+نا/PRON
+يسامحك	يسامح/V+ك/PRON
+:)	:)/EMOT
+أولا	أولا/ADV
+اللى	اللي/PRON
+قدامك	قدام/NOUN-MS+ك/PRON
+هيحس	ه/FUT-PART+يحس/V
+بالذنب	ب/PREP+ال/DET+ذنب/NOUN-MS
+بجد	ب/PREP+جد/NOUN-MS
+من	من/PREP
+ناحيك	ناحي/NOUN-FS+ة/NSUFF+ك/PRON
+و أنك	و/CONJ+أن/PART+ك/PRON
+دعتله	دع/V+ت/PRON ل/PREP+ه/PRON
+و مدعتش	و/CONJ+ما/PART دع/V+ت/PRON+ش/NEG-PART
+عليه	على/PREP+ه/PRON
+...	./PUNC ./PUNC ./PUNC
+و ثانياً	و/CONJ+ثانيا/ADV
+هتاخد	ه/FUT-PART+تأخد/V
+فيه	في/PREP+ه/PRON
+ثواب	ثواب/NOUN-MS
+--------------------	-/PUNC
