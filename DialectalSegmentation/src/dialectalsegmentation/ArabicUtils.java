@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-package newarabicsegmenter;
+package levdialsegmenter;
 
 import java.util.ArrayList;
 import java.util.regex.Pattern;
-
 /**
  *
- * @author kareemdarwish
+ * @author disooqi
  */
 public class ArabicUtils implements java.io.Serializable {
     // ALL Arabic letters \U0621-\U063A\U0641-\U064A
@@ -378,3 +376,4 @@ public class ArabicUtils implements java.io.Serializable {
         return s;
     }
 }
+

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package newarabicsegmenter;
+package levdialsegmenter;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -18,20 +18,14 @@ import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 import java.util.TreeMap;
-import static newarabicsegmenter.ArabicUtils.prefixes;
-import static newarabicsegmenter.ArabicUtils.removeDiacritics;
-import static newarabicsegmenter.ArabicUtils.suffixes;
-import static newarabicsegmenter.ArabicUtils.tokenize;
-import static newarabicsegmenter.NewArabicSegmenter.getProperSegmentation;
-import static newarabicsegmenter.NewArabicSegmenter.openFileForReading;
-import org.mapdb.DB;
-import org.mapdb.DBMaker;
+
+import static levdialsegmenter.ArabicUtils.prefixes;
+import static levdialsegmenter.ArabicUtils.suffixes;
 
 /**
  *
- * @author kareemdarwish
+ * @author disooqi
  */
 public class NBTokenizer implements java.io.Serializable {
     private int ProperCount = 0;
@@ -79,7 +73,7 @@ public class NBTokenizer implements java.io.Serializable {
         ft = new FitTemplateClass();
         // String BinDir = "/Users/kareemdarwish/RESEARCH/ArabicProcessingTools-master/POSandNERData/";
 
-//        File file = new File(BinDir + "NTBdata.generalVariables.ser");
+        File file = new File(BinDir + "NTBdata.generalVariables.ser");
 //        if (file.exists()) {
 //            loadStoredData(BinDir);
 //        } else 
@@ -91,36 +85,63 @@ public class NBTokenizer implements java.io.Serializable {
             generalVariables.put("allWordCount", 0d);
             generalVariables.put("averageStemLength", 0d);
 
-            for (int i = 0; i < prefixes.length; i++) {
-                hPrefixes.put(prefixes[i].toString(), 1);
-            }
-	    hPrefixes.put("ع", 1);
-	    hPrefixes.put("ح", 1);
-	    hPrefixes.put("ه", 1);
-	    hPrefixes.put("م", 1);
-	    hPrefixes.put("ما", 1);
-            hPrefixes.put("ها", 1);
+//            for (int i = 0; i < prefixes.length; i++) {
+//                hPrefixes.put(prefixes[i].toString(), 1);
+//            }
+
+            hPrefixes.put("يآآ", 1);
+            hPrefixes.put("يا", 1); hPrefixes.put("شو", 1);
+	    hPrefixes.put("عن", 1);
+            hPrefixes.put("عم", 1);
+	    hPrefixes.put("مو", 1);
+	    hPrefixes.put("ال", 1);
+            hPrefixes.put("لا", 1);
+            hPrefixes.put("ما", 1);
+            hPrefixes.put("شاء", 1);
+	    hPrefixes.put("ب", 1);hPrefixes.put("ك", 1);
+            hPrefixes.put("ح", 1);
+            hPrefixes.put("ف", 1); 
+            hPrefixes.put("ل", 1);
+            hPrefixes.put("ه", 1);
+            hPrefixes.put("م", 1);
+            hPrefixes.put("ش", 1);//وان+ش+الله
+
+            hPrefixes.put("ع", 1);
+	    hPrefixes.put("و", 1);
+
+
             
-	    for (int i = 0; i < suffixes.length; i++) {
-                hSuffixes.put(suffixes[i].toString(), 1);
-            }
-            hSuffixes.put("ى", 1);
-	    hSuffixes.put("ش", 1);
-            hSuffixes.put("و", 1);
-            hSuffixes.put("ل", 1);
-	    hSuffixes.put("اه", 1);
-            hSuffixes.put("يا", 1);
-            hSuffixes.put("كي", 1);
-            hSuffixes.put("ني", 1);
-            hSuffixes.put("نى", 1);
+            
+//	    for (int i = 0; i < suffixes.length; i++) {
+//                hSuffixes.put(suffixes[i].toString(), 1);
+//            }
+            hSuffixes.put("كون", 1);
+            hSuffixes.put("وا", 1);
+            hSuffixes.put("ات", 1);
+	    hSuffixes.put("گ",1);
+            hSuffixes.put("لن", 1);//hSuffixes.put("ين", 1);
+            hSuffixes.put("ين", 1);
+            hSuffixes.put("ون", 1);
+            hSuffixes.put("هم", 1);
+            hSuffixes.put("هن", 1);
+            hSuffixes.put("نا", 1);
+            hSuffixes.put("كن", 1);hSuffixes.put("اش", 1);
             hSuffixes.put("تي", 1);
-            hSuffixes.put("ت", 1);
+            hSuffixes.put("يت", 1);
+	    hSuffixes.put("ها", 1);
+	    hSuffixes.put("ني", 1);
+            hSuffixes.put("كم", 1);//خليتوا
+            hSuffixes.put("ة", 1);
+	    hSuffixes.put("ت", 1);
+            hSuffixes.put("و", 1);
+            hSuffixes.put("ه", 1);
+            hSuffixes.put("ا", 1);
+            hSuffixes.put("ل", 1);
             hSuffixes.put("ي", 1);
-	    hSuffixes.put("اها", 1);
-	    hSuffixes.put("اهم", 1);
-            hSuffixes.put("توا", 1);//خليتوا
-            
-            
+            hSuffixes.put("ش", 1);
+            hSuffixes.put("ك", 1);
+            hSuffixes.put("ن", 1);//وحياتن
+            hSuffixes.put("ہ", 1);
             BufferedReader br = openFileForReading(BinDir + "generated-stems.morph.txt");
             String line = "";
             while ((line = br.readLine()) != null) {
@@ -144,7 +165,7 @@ public class NBTokenizer implements java.io.Serializable {
                 hmAraLexCom.put(line, 1);
             }
 
-            br = openFileForReading(BinDir + "wordcountAJ.arpa");
+            br = openFileForReading(BinDir + "lav.120k.prop");//wordcountAJ.arpa
             line = "";
             while ((line = br.readLine()) != null) {
                 String[] parts = line.split("\t");
@@ -153,20 +174,19 @@ public class NBTokenizer implements java.io.Serializable {
                 }
             }
 	    
-	    br = openFileForReading(BinDir + "DialectTweetsEG.txt.lm");
-            line = "";
-            while ((line = br.readLine()) != null) {
-                String[] parts = line.split("\t");
-                if (parts.length == 2) // && parts[0].startsWith("-") && !parts[0].contains("inf")) {
-		{
-                    wordCountDialect.put(parts[0].trim(), Double.parseDouble(parts[1])/1000000d);
-                }
-            }
+//	    br = openFileForReading(BinDir + "DialectTweetsEG.txt.lm");
+//            line = "";
+//            while ((line = br.readLine()) != null) {
+//                String[] parts = line.split("\t");
+//                if (parts.length == 2) // && parts[0].startsWith("-") && !parts[0].contains("inf")) {
+//		{
+//                    wordCountDialect.put(parts[0].trim(), Double.parseDouble(parts[1])/1000000d);
+//                }
+//            }
             populatePossibleAffixes();
             populatePossibleAffixesSegmented();
 
-            //BufferedReader brSeenInTraining = openFileForReading(BinDir + "seen-before.txt.new");
-            
+
 
             br = openFileForReading(BinDir + "buckwalterStems.txt");
             line = "";
@@ -229,192 +249,21 @@ public class NBTokenizer implements java.io.Serializable {
             // storeDataSources(BinDir);
         }
     }
-    
-//    public Map populateMap(String MapName, HashMap input, DB db)
-//    {
-//        Map map = db.hashMap(MapName);
-//        for (Object s : input.keySet())
-//            map.put(s, input.get(s));
-//        return map;
-//    }
-//    
-//    public void dumpMapFile(String BinDir, String MapName, HashMap input) throws FileNotFoundException, IOException
-//    {
-//       BufferedWriter bw = openFileForWriting(BinDir + "NTBdata." + MapName + ".txt");
-//       for (Object s : input.keySet())
-//            bw.write(s + "\t" + input.get(s) + "\n");
-//       bw.close();
-//    }
-    
-    public void serializeMap(String BinDir, String MapName, HashMap input) throws FileNotFoundException, IOException {
-        FileOutputStream fos
-                = new FileOutputStream(BinDir + "NTBdata." + MapName + ".ser");
-        ObjectOutputStream oos = new ObjectOutputStream(fos);
-        oos.writeObject(input);
-        oos.close();
-        fos.close();
-    }
-    
-    public void storeDataItemsFile(String BinDir) throws FileNotFoundException, IOException
-    {
-        serializeMap(BinDir, "hmListMorph", hmListMorph);
-        serializeMap(BinDir, "hmListGaz", hmListGaz);
-        serializeMap(BinDir, "hmAraLexCom", hmAraLexCom);
-        serializeMap(BinDir, "hmBuck", hmBuck);
-        serializeMap(BinDir, "hmLocations", hmLocations);
-        serializeMap(BinDir, "hmPeople", hmPeople);
-        serializeMap(BinDir, "hmStop", hmStop);
-        serializeMap(BinDir, "hPrefixes", hPrefixes);
-        serializeMap(BinDir, "hSuffixes", hSuffixes);
-        serializeMap(BinDir, "hmValidSuffixes", hmValidSuffixes);
-        serializeMap(BinDir, "hmValidPrefixes", hmValidPrefixes);
-        serializeMap(BinDir, "hmTemplateCount", hmTemplateCount);
-        serializeMap(BinDir, "hmValidSuffixesSegmented", hmValidSuffixesSegmented);
-        serializeMap(BinDir, "hmValidPrefixesSegmented", hmValidPrefixesSegmented);
-        serializeMap(BinDir, "wordCount", wordCount);
-        serializeMap(BinDir, "probPrefixes", probPrefixes);
-        serializeMap(BinDir, "probSuffixes", probSuffixes);
-        serializeMap(BinDir, "probCondPrefixes", probCondPrefixes);
-        serializeMap(BinDir, "probCondSuffixes", probCondSuffixes);
-        serializeMap(BinDir, "seenTemplates", seenTemplates);
-        serializeMap(BinDir, "hmPreviouslySeenTokenizations", hmPreviouslySeenTokenizations);
-        serializeMap(BinDir, "hmWordPossibleSplits", hmWordPossibleSplits);
-        serializeMap(BinDir, "probPrefixSuffix", probPrefixSuffix);
-        serializeMap(BinDir, "probSuffixPrefix", probSuffixPrefix);
-        serializeMap(BinDir, "generalVariables", generalVariables);
-    }
-    
-    public HashMap deserializeMap(String BinDir, String MapName) throws FileNotFoundException, IOException, ClassNotFoundException
-    {
-        FileInputStream fis = new FileInputStream(BinDir + "NTBdata." + MapName + ".ser");
-         ObjectInputStream ois = new ObjectInputStream(fis);
-         HashMap map = (HashMap) ois.readObject();
-         ois.close();
-         fis.close();
-         return map;
-    }
-    
-    public void loadStoredData(String BinDir) throws IOException, FileNotFoundException, ClassNotFoundException
-    {
-        hmListMorph = deserializeMap(BinDir, "hmListMorph");
-        hmListGaz = deserializeMap(BinDir, "hmListGaz");
-        hmAraLexCom = deserializeMap(BinDir, "hmAraLexCom");
-        hmBuck = deserializeMap(BinDir, "hmBuck");
-        hmLocations = deserializeMap(BinDir, "hmLocations");
-        hmPeople = deserializeMap(BinDir, "hmPeople");
-        hmStop = deserializeMap(BinDir, "hmStop");
-        hPrefixes = deserializeMap(BinDir, "hPrefixes");
-        hSuffixes = deserializeMap(BinDir, "hSuffixes");
-        hmValidSuffixes = deserializeMap(BinDir, "hmValidSuffixes");
-        hmValidPrefixes = deserializeMap(BinDir, "hmValidPrefixes");
-        hmTemplateCount = deserializeMap(BinDir, "hmTemplateCount");
-        hmValidSuffixesSegmented = deserializeMap(BinDir, "hmValidSuffixesSegmented");
-        hmValidPrefixesSegmented = deserializeMap(BinDir, "hmValidPrefixesSegmented");
-        wordCount = deserializeMap(BinDir, "wordCount");
-        probPrefixes = deserializeMap(BinDir, "probPrefixes");
-        probSuffixes = deserializeMap(BinDir, "probSuffixes");
-        probCondPrefixes = deserializeMap(BinDir, "probCondPrefixes");
-        probCondSuffixes = deserializeMap(BinDir, "probCondSuffixes");
-        seenTemplates = deserializeMap(BinDir, "seenTemplates");
-//        hmPreviouslySeenTokenizations = deserializeMap(BinDir, "hmPreviouslySeenTokenizations");
-        hmWordPossibleSplits = deserializeMap(BinDir, "hmWordPossibleSplits");
-        probPrefixSuffix = deserializeMap(BinDir, "probPrefixSuffix");
-        probSuffixPrefix = deserializeMap(BinDir, "probSuffixPrefix");
-        generalVariables = deserializeMap(BinDir, "generalVariables");
-    }
-    
-    public void storeDataSources(String BinDir)
-    {
-        /*
-            private static HashMap<String, ArrayList<String>> hmPreviouslySeenTokenizations = new HashMap<String, ArrayList<String>>();
-            private static HashMap<String, ArrayList<String>> hmWordPossibleSplits = new HashMap<String, ArrayList<String>>();
-            private static HashMap<String, Integer> hmListMorph = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hmListGaz = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hmAraLexCom = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hmBuck = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hmLocations = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hmPeople = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hmStop = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hPrefixes = new HashMap<String, Integer>();
-            private static HashMap<String, Integer> hSuffixes = new HashMap<String, Integer>();
-            private static HashMap<String, Boolean> hmValidSuffixes = new HashMap<String, Boolean>();
-            private static HashMap<String, Boolean> hmValidPrefixes = new HashMap<String, Boolean>();
-            private static HashMap<String, Double> hmTemplateCount = new HashMap<String, Double>();
-
-            private static HashMap<String, Boolean> hmValidSuffixesSegmented = new HashMap<String, Boolean>();
-            private static HashMap<String, Boolean> hmValidPrefixesSegmented = new HashMap<String, Boolean>();
-            private static HashMap<String, Double> wordCount = new HashMap<String, Double>();
-        */
-        
-//        File fileDB = new File(BinDir + "database.bin");
-//        DB db = DBMaker.fileDB(fileDB).make();
-//        Map wordCountMap = populateMap("wordCount", wordCount, db);// db.hashMap("wordCount");
-//        Map seenTemplatesMap = populateMap("seenTemplates", wordCount, db);
-//        Map probPrefixesMap = populateMap("probPrefixes", wordCount, db);
-//        Map probSuffixesMap = populateMap("probSuffixes", wordCount, db);
-//        Map probCondPrefixesMap = populateMap("probCondPrefixes", wordCount, db);
-//        Map probCondSuffixesMap = populateMap("probCondSuffixes", wordCount, db);
-//        /*
-//        for (String s : wordCount.keySet())
-//            wordCountMap.put(s, wordCount.get(s));
-//        */
-//        Map generalMap = db.hashMap("general");
-//        generalMap.put("hasTemplate", hasTemplate);
-//        generalMap.put("inMorphList", inMorphList);
-//        generalMap.put("inGazList", inGazList);
-//        generalMap.put("allWordCount", allWordCount);
-//        generalMap.put("averageStemLength", averageStemLength);
-//
-//        Map probSuffixPrefixMap = db.hashMap("probSuffixPrefix");
-//        for (String s : probSuffixPrefix.keySet())
-//        {
-//            for (String ss : probSuffixPrefix.get(s).keySet())
-//            {
-//                probSuffixPrefixMap.put(s + "\t" + ss, probSuffixPrefix.get(s).get(ss));
-//            }
-//        }
-//        
-//        Map probPrefixSuffixMap = db.hashMap("probPrefixSuffix");
-//        for (String s : probPrefixSuffix.keySet())
-//        {
-//            for (String ss : probPrefixSuffix.get(s).keySet())
-//            {
-//                probPrefixSuffixMap.put(s + "\t" + ss, probPrefixSuffix.get(s).get(ss));
-//            }
-//        }
-//        /*
-//        Map seenTemplatesMap = db.hashMap("seenTemplates");
-//        for (String s : seenTemplates.keySet())
-//            seenTemplatesMap.put(s, seenTemplates.get(s));
-//        
-//        Map probPrefixesMap = db.hashMap("probPrefixes");
-//        for (String s : probPrefixes.keySet())
-//            probPrefixesMap.put(s, probPrefixes.get(s));
-//        
-//        Map probSuffixesMap = db.hashMap("probSuffixes");
-//        for (String s : probSuffixes.keySet())
-//            probSuffixesMap.put(s, probSuffixes.get(s));
-//        
-//        Map probCondPrefixesMap = db.hashMap("probCondPrefixes");
-//        for (String s : probCondPrefixes.keySet())
-//            probCondPrefixesMap.put(s, probCondPrefixes.get(s));
-//        
-//        Map probCondSuffixesMap = db.hashMap("probCondSuffixes");
-//        for (String s : probCondSuffixes.keySet())
-//            probCondSuffixesMap.put(s, probCondSuffixes.get(s));
-//        */
-//        db.close();
-        
-    }
-    
+       
     public void train(String filename) throws FileNotFoundException, IOException
     {
-        
-        BufferedReader brSeenInTraining = openFileForReading(filename);
-//        BufferedReader brSeenInTraining = openFileForReading("/home/disooqi/Dropbox/most_cited/final_splits_all_data/egy_seg/splits_msa/data_1.train");//splits_msa
-        String line = "";
+//            BufferedReader brSeenInTraining = openFileForReading("/home/disooqi/Dropbox/most_cited/final_splits_all_data/lev_seg/splits/lev_trainfold_01_400K_LDC");//_400K_LDC
+            BufferedReader brSeenInTraining = openFileForReading(filename);
+            String line = "";
 //            while ((line = brSeenInTraining.readLine()) != null) {
 //                String[] parts = line.trim().split("[ \t]+");
+//                
+////                String[] words1 = line.trim().split("\t+");            
+////                if(words1.length != 2)
+////                    continue;
+////            
+////                String[] parts = words1[1].split(" +");
+//                
 //                for(String w : parts){
 //                //if (parts.length == 2 && Integer.parseInt(parts[0]) > 3) {
 //                    String word = ArabicUtils.buck2utf8(w).replace("+", "");
@@ -430,7 +279,6 @@ public class NBTokenizer implements java.io.Serializable {
 //                    hmPreviouslySeenTokenizations.put(word, list);
 //                }
 //            }
-        
         BufferedReader br = openFileForReading(filename);
 //        BufferedWriter bw = openFileForWriting(filename + ".singleChar");
         line = "";
@@ -442,6 +290,12 @@ public class NBTokenizer implements java.io.Serializable {
         while ((line = br.readLine()) != null)
         {
             String[] words = line.split(" +");
+//            String[] words1 = line.trim().split("\t+");            
+//            if(words1.length != 2)
+//                continue;
+//            
+//            String[] words = words1[1].split(" +");
+            
             for (String w : words)
             {
                 // if (w.length() >= 6)
@@ -622,60 +476,61 @@ public class NBTokenizer implements java.io.Serializable {
         String stem = parts[1].trim();
         
 	// assemble score
-        //01
-        //String[] magicNumbers = "1:-0.10580315 2:-0.088740461 3:0.077059299 4:0.25859663 5:0.24153362 6:0.66420275 7:0.1351631 8:-0.42308339 9:0.010853587 10:0.015022006 11:0.072503455 12:0.048041068 13:-0.22454475 14:0.00022833695 15:0.60401404 16:-0.0037927693 17:0.087168999 18:0.47016838 19:0.02443004".split(" +");
-        //02
-        //String[] magicNumbers = "1:-0.099900782 2:-0.083594039 3:0.084298708 4:0.26312584 5:0.2468202 6:0.72485822 7:0.1615831 8:-0.43259943 9:0.0011704828 10:0.039322838 11:0.077934824 12:0.059793059 13:-0.26692867 14:0.00735508 15:0.61939043 16:0.063751653 17:0.076067209 18:0.39902639 19:0.019334314".split(" +");
-        //03
-        String[] magicNumbers = "1:-0.28435925 2:-0.28457156 3:0.14189413 4:0.27611557 5:0.27632973 6:0.81240511 7:0.14667918 8:-0.57018894 9:0.023951685 10:0.02592122 11:0.14230652 12:0.041602667 13:-0.0032382524 14:0.013622358 15:0.36693767 16:-0.18616928 17:0.076464899 18:0.2726813 19:0.019954393".split(" +");
-        
-        
-        //0001
-//        magicNumbers = "1:-0.21571277 2:-0.20991312 3:0.2051423 4:0.20882967 5:0.23328149 6:0.71950352 7:0.19665609 8:-0.39861929 9:0.034229096 10:-0.028946545 11:0.038647644 12:0.030969549 13:-0.12673575 14:-0.0077096294 15:0.33157241 16:-0.066908859 17:0.11543112 18:0.31469822 19:0.04353939".split(" +");
-//        magicNumbers = "1:-0.25680128 2:-0.2697103 3:0.20105927 4:0.27493861 5:0.28784707 6:0.79656184 7:0.20193176 8:-0.40485862 9:0.032086719 10:-0.0024332972 11:0.031594753 12:0.042559367 13:-0.10464483 14:-0.010301752 15:0.3355248 16:-0.133424 17:0.20124871 18:0.29081494 19:0.037123736".split(" +");
-//        magicNumbers = "1:-0.22270747 2:-0.25209215 3:0.20572498 4:0.24204269 5:0.27142832 6:0.85008574 7:0.23175709 8:-0.34143639 9:0.026057065 10:0.0065362393 11:0.034794629 12:0.044098001 13:-0.084338166 14:-0.0083515737 15:0.3017582 16:-0.064436205 17:0.14013317 18:0.28552675 19:0.039601076".split(" +");
-//        magicNumbers = "1:-0.26748481 2:-0.28611347 3:0.22353959 4:0.25803655 5:0.27666205 6:0.74093086 7:0.21409595 8:-0.32737529 9:0.039299238 10:-0.014626612 11:0.041762002 12:0.0466072 13:-0.11297122 14:-0.0089037046 15:0.31987393 16:-0.029377533 17:0.14439294 18:0.30519551 19:0.041214898".split(" +");
-//        magicNumbers = "1:-0.22077926 2:-0.21313569 3:0.21484175 4:0.20055816 5:0.24277098 6:0.73662651 7:0.17729992 8:-0.36667648 9:0.028889708 10:-0.0081646163 11:0.039849654 12:0.03895703 13:-0.13993913 14:-0.0063961116 15:0.34160244 16:-0.077830404 17:0.14267682 18:0.30316561 19:0.039496131".split(" +");
-        
-        //0002
-//        magicNumbers = "1:-0.11153507 2:-0.11762575 3:0.1967627 4:0.22376296 5:0.22985345 6:0.72555906 7:0.19721882 8:-0.33034024 9:0.0019862717 10:-0.049236648 11:0.0067113629 12:0.066350192 13:-0.26414105 14:-0.015882028 15:0.42332354 16:-0.045852415 17:0.1105827 18:0.23304343 19:0.036284875".split(" +");
-//        magicNumbers = "1:-0.15389057 2:-0.17214002 3:0.1793918 4:0.28138295 5:0.29963672 6:0.73499054 7:0.17889675 8:-0.39018324 9:-0.01054108 10:-0.038802344 11:0.0091287838 12:0.083682165 13:-0.30531034 14:-0.0061969385 15:0.3657999 16:-0.10923091 17:0.1387471 18:0.2819517 19:0.033391073".split(" +");
-//        magicNumbers = "1:-0.13159706 2:-0.16232267 3:0.20766453 4:0.25465786 5:0.28538272 6:0.75238293 7:0.18117405 8:-0.30139872 9:-0.016000727 10:-0.033432443 11:0.013026919 12:0.094793335 13:-0.29271472 14:-0.007286164 15:0.39176503 16:-0.073861614 17:0.054952368 18:0.23981631 19:0.035436947".split(" +");
-//        magicNumbers = "1:-0.17199887 2:-0.18831649 3:0.181915 4:0.27698153 5:0.29330096 6:0.71921676 7:0.18437384 8:-0.34423769 9:0.0041416744 10:-0.037480015 11:0.016591495 12:0.082087979 13:-0.26738316 14:-0.0088789128 15:0.34906241 16:-0.070282519 17:0.092921019 18:0.24628304 19:0.043696284".split(" +");
-//        magicNumbers = "1:-0.13067925 2:-0.15915695 3:0.19139385 4:0.23053277 5:0.25900722 6:0.71257216 7:0.16574204 8:-0.29092476 9:-0.0033085749 10:-0.015633279 11:0.012214513 12:0.11343364 13:-0.29807383 14:-0.0097566852 15:0.38362926 16:0.00088238454 17:0.026235811 18:0.27471191 19:0.034878012".split(" +");
+        //1001-f01
+        String[] magicNumbers = "1:-0.18136451 2:-0.096770152 4:0.26447585 5:0.17987235 6:0.54092056 7:0.45544985 8:-0.28599074 9:0.073613904 10:0.02684343 12:-0.022378482 13:-0.31587464 14:0.023938039 15:0.55931789 16:-0.034176923 17:0.071193345 18:0.40927854".split(" +");
+//          1007
+//            magicNumbers = "1:-0.11201438 2:-0.09603402 3:0.03808846 4:0.21376054 5:0.19777887 6:0.66583705 7:0.52830875 8:-0.31710994 9:0.044607047 10:0.026114356 11:0.088204347 12:0.0070737074 13:-0.17143866 14:0.028354323 15:0.49028608 16:-0.0030623029 17:0.020530591 18:0.35793689".split(" +");
+//            magicNumbers = "1:-0.13851731 2:-0.12025294 3:0.030727055 4:0.24650533 5:0.22824511 6:0.64921129 7:0.62817979 8:-0.34399596 9:0.038798004 10:0.00057327532 11:0.11962733 12:0.031827051 13:-0.14712842 14:0.043629888 15:0.44180113 16:-0.038632512 17:0.047191467 18:0.43017295".split(" +");
+//            magicNumbers = "1:-0.11300084 2:-0.1094825 3:0.043556053 4:0.24495248 5:0.24143033 6:0.69577295 7:0.58082712 8:-0.24655148 9:0.029380994 10:0.011749763 11:0.081584439 12:0.013045982 13:-0.19905761 14:0.035862867 15:0.50155586 16:-0.038747076 17:-0.019030258 18:0.36342409".split(" +");
+//            magicNumbers = "1:-0.13189864 2:-0.12496611 3:0.049716055 4:0.22708693 5:0.22016013 6:0.64118177 7:0.63194293 8:-0.28079367 9:0.038146146 10:0.021058032 11:0.10275575 12:0.013221888 13:-0.1396105 14:0.03277206 15:0.47841868 16:0.021675743 17:0.039849207 18:0.39060026".split(" +");
+//            magicNumbers = "1:-0.140284 2:-0.12968928 3:0.039128695 4:0.24837786 5:0.23778304 6:0.63422364 7:0.55069262 8:-0.34885728 9:0.036022641 10:0.007913813 11:0.089587383 12:0.0095606577 13:-0.20209898 14:0.037107207 15:0.51260394 16:-0.029763151 17:0.046322163 18:0.30389559".split(" +");
+          //1008
+//          magicNumbers = "1:-0.12466442 2:-0.11194593 3:0.033030514 4:0.22430831 5:0.2115885 6:0.52129644 7:0.37797445 8:-0.18836193 9:0.042571377 10:0.024694247 11:0.074533127 12:0.038050991 13:-0.28532165 14:0.035189167 15:0.55532515 16:0.0050145476 17:0.011217862 18:0.31525108".split(" +");
+//          magicNumbers = "1:-0.13748971 2:-0.1173212 3:0.035091497 4:0.24097705 5:0.22081362 6:0.45756364 7:0.52455068 8:-0.25251031 9:0.03848736 10:0.014545348 11:0.089375466 12:0.05089432 13:-0.32846057 14:0.038398612 15:0.50838232 16:-0.057941683 17:0.028324066 18:0.42267945".split(" +");
+//          magicNumbers = "1:-0.10036792 2:-0.079700992 3:0.035961471 4:0.23297697 5:0.21231277 6:0.56293386 7:0.41401091 8:-0.15856783 9:0.032987826 10:0.0098666884 11:0.045242812 12:0.046858091 13:-0.2657949 14:0.04423603 15:0.50477439 16:-0.006153679 17:-0.008808678 18:0.34183514".split(" +");
+//          magicNumbers = "1:-0.12488493 2:-0.11221481 3:0.041993335 4:0.23661521 5:0.22394785 6:0.4590072 7:0.44013464 8:-0.21625555 9:0.031255659 10:0.0192865 11:0.055604916 12:0.03615284 13:-0.26783785 14:0.036713786 15:0.54751438 16:-0.016863722 17:0.036376238 18:0.33288422".split(" +");
+//          magicNumbers = "1:-0.08769691 2:-0.078284487 3:0.039924789 4:0.19731328 5:0.18789539 6:0.53005069 7:0.3994258 8:-0.30144671 9:0.029757842 10:0.016301263 11:0.079372741 12:0.064664312 13:-0.25132194 14:0.028071295 15:0.52844751 16:-0.020134123 17:0.01171884 18:0.28684607".split(" +");
 
-        //0003
-//        magicNumbers = "1:-0.19933014 2:-0.21579584 3:0.19297229 4:0.25759465 5:0.2740607 6:1.0116674 7:0.36391011 8:-0.40111339 9:0.027088914 10:0.018584613 11:0.07303486 12:0.063213401 13:-0.048406005 14:-0.0043268995 15:0.38973281 16:-0.13313314 17:0.12159327 18:-0.0052605346 19:0.034647953".split(" +");
-//        magicNumbers = "1:-0.28117937 2:-0.29516384 3:0.17991099 4:0.30887184 5:0.32285228 6:0.96266532 7:0.37305573 8:-0.42984658 9:0.041920792 10:0.033059616 11:0.094185986 12:0.070340253 13:-0.020427836 14:0.0050978083 15:0.32801148 16:-0.16753505 17:0.088383481 18:0.031503141 19:0.032591477".split(" +");
-//        magicNumbers = "1:-0.21054803 2:-0.24592133 3:0.18114747 4:0.26794171 5:0.30331224 6:1.0850476 7:0.36515158 8:-0.40946582 9:0.022882689 10:0.029433874 11:0.090723179 12:0.073316224 13:-0.023256274 14:0.0031345244 15:0.34257439 16:-0.14230955 17:0.097351737 18:0.067692585 19:0.032941289".split(" +");
-//        magicNumbers = "1:-0.27118227 2:-0.29039207 3:0.16389696 4:0.28652173 5:0.30573192 6:0.96684283 7:0.34254825 8:-0.44552842 9:0.044460643 10:0.036499228 11:0.11281139 12:0.062235981 13:-0.024039244 14:0.0019590463 15:0.34992468 16:-0.13504247 17:0.080915555 18:0.10489612 19:0.031799328".split(" +");
-//        magicNumbers = "1:-0.25791878 2:-0.28021234 3:0.18958804 4:0.29707438 5:0.31936619 6:0.94615752 7:0.31776467 8:-0.42616463 9:0.032165706 10:0.031327121 11:0.08480031 12:0.045621615 13:-0.0432599 14:0.004657276 15:0.34716049 16:-0.064533994 17:0.038707118 18:0.078888856 19:0.033369105".split(" +");
+        //1010
+//          magicNumbers = "1:-0.12219857 2:-0.10726891 3:0.027558057 4:0.21295048 5:0.19802122 6:0.70019805 7:0.57043326 8:-0.29961559 9:0.038474653 10:0.026790608 11:0.088220611 12:-0.024366358 13:-0.26178855 14:0.034639247 15:0.47691646 16:0.011559364 17:0.0034201529 18:0.3224667".split(" +");
+//          magicNumbers = "1:-0.14492702 2:-0.1095297 3:0.043282416 4:0.23453984 5:0.19914193 6:0.70648801 7:0.65548366 8:-0.35003135 9:0.04444309 10:0.01425443 11:0.086359143 12:0.019408545 13:-0.29802835 14:0.036818534 15:0.45500994 16:-0.041353308 17:-6.666837e-05 18:0.41570491".split(" +");
+//          magicNumbers = "1:-0.13475008 2:-0.11591488 3:0.036794759 4:0.22932342 5:0.21048415 6:0.73286009 7:0.63733232 8:-0.25390851 9:0.039690293 10:0.025011662 11:0.075184479 12:-0.013784353 13:-0.26781216 14:0.032011848 15:0.52290595 16:0.011150068 17:-0.005499783 18:0.40601325".split(" +");
+//          magicNumbers = "1:-0.1180022 2:-0.1069712 3:0.038421992 4:0.18961303 5:0.17858709 6:0.65884495 7:0.62923342 8:-0.30457106 9:0.047124196 10:0.029670751 11:0.10703526 12:0.0068369634 13:-0.2470295 14:0.031777132 15:0.49212742 16:-0.0090701561 17:0.031876411 18:0.37905169".split(" +");
+//          magicNumbers = "1:-0.12841913 2:-0.10419119 3:0.039714746 4:0.22256498 5:0.19833778 6:0.70369232 7:0.58759242 8:-0.36356315 9:0.041369218 10:0.024288183 11:0.093115129 12:-0.0018091738 13:-0.33208725 14:0.033870049 15:0.52021796 16:-0.01564071 17:0.02277481 18:0.38171768".split(" +");
+          
+          //1011
+//          magicNumbers = "1:-0.11016525 2:-0.091760978 3:0.027401105 4:0.20772502 5:0.18932158 6:0.55001545 7:0.40873203 8:-0.16775623 9:0.042459734 10:0.019697206 11:0.067321755 12:0.033509865 13:-0.26427722 14:0.035804488 15:0.54558134 16:-0.047271956 17:7.2417279e-05 18:0.30247974".split(" +");
+//          magicNumbers = "1:-0.14204806 2:-0.11895332 3:0.046907496 4:0.2464733 5:0.22338003 6:0.51773137 7:0.52392167 8:-0.2170839 9:0.04021287 10:0.010010667 11:0.095326237 12:0.067293093 13:-0.22701304 14:0.036975197 15:0.47910103 16:-0.060184408 17:0.038115568 18:0.37584111".split(" +");
+//          magicNumbers = "1:-0.092223376 2:-0.09565603 3:0.03827171 4:0.2081141 5:0.21154968 6:0.59294647 7:0.41171804 8:-0.13473079 9:0.027019924 10:0.017340267 11:0.062286165 12:0.04561954 13:-0.20493193 14:0.037581813 15:0.48388961 16:-0.0059642801 17:-0.016801184 18:0.31600967".split(" +");
+//          magicNumbers = "1:-0.10836497 2:-0.10123647 3:0.041575447 4:0.20169932 5:0.19456568 6:0.55710852 7:0.48036274 8:-0.20389757 9:0.039728835 10:0.020711266 11:0.095933259 12:0.05454294 13:-0.20383689 14:0.033913855 15:0.50742066 16:-0.00072981667 17:0.049230564 18:0.3610723".split(" +");
+//          magicNumbers = "1:-0.12841913 2:-0.10419119 3:0.039714746 4:0.22256498 5:0.19833778 6:0.70369232 7:0.58759242 8:-0.36356315 9:0.041369218 10:0.024288183 11:0.093115129 12:-0.0018091738 13:-0.33208725 14:0.033870049 15:0.52021796 16:-0.01564071 17:0.02277481 18:0.38171768".split(" +");
+            
+            //All LEV data for cross evaluation
+            magicNumbers = "1:-0.12566461 2:-0.11801316 3:0.0369584 4:0.21676169 5:0.20911005 6:0.6704613 7:0.61908847 8:-0.31368199 9:0.039943576 10:0.020444255 11:0.096523792 12:-0.0052463589 13:-0.32781062 14:0.035741873 15:0.49685854 16:0.015622528 17:0.040808827 18:0.38001084".split(" +");
+          
+
+
+
+
+
+        //String[] magicNumbers = "1:-0.28435925 2:-0.28457156 3:0.14189413 4:0.27611557 5:0.27632973 6:0.81240511 7:0.14667918 8:-0.57018894 9:0.023951685 10:0.02592122 11:0.14230652 12:0.041602667 13:-0.0032382524 14:0.013622358 15:0.36693767 16:-0.18616928 17:0.076464899 18:0.2726813 19:0.019954393".split(" +");
         
-        //0004
-//        magicNumbers = "1:-0.079021707 2:-0.11320221 3:0.17743167 4:0.18134558 5:0.2155284 6:0.99272168 7:0.31538957 8:-0.36277112 9:-0.0038206193 10:0.021434829 11:0.070921868 12:0.054772936 13:-0.11918109 14:0.0011954845 15:0.40003204 16:-0.15438877 17:0.051610321 18:-0.010049785 19:0.03293879".split(" +");
-//        magicNumbers = "1:-0.12198222 2:-0.15493856 3:0.17000893 4:0.22646391 5:0.25941685 6:0.98119086 7:0.32983592 8:-0.3892093 9:-0.0070017003 10:0.016147008 11:0.057419207 12:0.07253617 13:-0.10954463 14:0.005325499 15:0.33950618 16:-0.1512516 17:0.09453626 18:0.0079896189 19:0.025623357".split(" +");
-//        magicNumbers = "1:-0.10255302 2:-0.13797282 3:0.15740195 4:0.18878487 5:0.22420186 6:0.97836453 7:0.31721431 8:-0.39141414 9:0.0018481226 10:0.022480763 11:0.080763556 12:0.072480679 13:-0.083223388 14:0.0045155315 15:0.37706074 16:-0.15314259 17:0.086717591 18:0.054815859 19:0.027132358".split(" +");
-//        magicNumbers = "1:-0.090303995 2:-0.11172363 3:0.16945478 4:0.18122007 5:0.20263717 6:0.97702187 7:0.32415992 8:-0.36863047 9:0.0053536147 10:0.01146345 11:0.084960103 12:0.063711166 13:-0.098205507 14:-0.00045570161 15:0.41749483 16:-0.11321922 17:0.11614762 18:0.078584589 19:0.027699476".split(" +");
-//        magicNumbers = "1:-0.12282208 2:-0.14155269 3:0.16770905 4:0.20574537 5:0.22447914 6:0.88560849 7:0.2400009 8:-0.35444084 9:0.0042926469 10:0.016266601 11:0.063197188 12:0.056455821 13:-0.17230979 14:0.0068380367 15:0.38539854 16:-0.082654208 17:0.054936621 18:0.076459892 19:0.028055865".split(" +");
-
-          //All EGY data for cross evaluation
-        magicNumbers = "1:-0.24197564 2:-0.26524594 3:0.20340557 4:0.28133601 5:0.30460429 6:0.96617687 7:0.36424249 8:-0.43708181 9:0.031821895 10:0.030390698 11:0.080044061 12:0.062318981 13:-0.039972868 14:-0.0031073818 15:0.38475451 16:-0.10728325 17:0.14480034 18:0.054951381 19:0.02687043".split(" +");
-
         ArrayList<Double> magicNo = new ArrayList<Double>();
         for (String m : magicNumbers) {
             magicNo.add(Double.parseDouble(m.substring(m.indexOf(":") + 1)));
         }
+        int feat_count = 0;
 
         if (probPrefixes.containsKey(prefix)) {
-            score += magicNo.get(0) * Math.log(probPrefixes.get(prefix));
+            score += magicNo.get(feat_count++) * Math.log(probPrefixes.get(prefix));
         } else {
-            score += magicNo.get(0) * -10;
+            score += magicNo.get(feat_count++) * -10;
         }
 
         if (probSuffixes.containsKey(suffix)) {
-            score += magicNo.get(1) * Math.log(probSuffixes.get(suffix));
+            score += magicNo.get(feat_count++) * Math.log(probSuffixes.get(suffix));
         } else {
-            score += magicNo.get(1) * -10;
+            score += magicNo.get(feat_count++) * -10;
         }
 
         String trimmedTemp = suffix.replace("+", "").replace(";", "").replace(",", "");
@@ -693,56 +548,56 @@ public class NBTokenizer implements java.io.Serializable {
         }
 
         //if (wordCount.containsKey(stem))
-        score += magicNo.get(2) * stemWordCount;
+        score += magicNo.get(feat_count++) * stemWordCount;
                 //else
         //    score += 0.19470689 * -10;
 
         if (probPrefixSuffix.containsKey(prefix) && probPrefixSuffix.get(prefix).containsKey(suffix)) {
-            score += magicNo.get(3) * Math.log(probPrefixSuffix.get(prefix).get(suffix));
+            score += magicNo.get(feat_count++) * Math.log(probPrefixSuffix.get(prefix).get(suffix));
         } else {
-            score += magicNo.get(3) * -20;
+            score += magicNo.get(feat_count++) * -20;
         }
 
         if (probSuffixPrefix.containsKey(suffix) && probSuffixPrefix.get(suffix).containsKey(prefix)) {
-            score += magicNo.get(4) * Math.log(probSuffixPrefix.get(suffix).get(prefix));
+            score += magicNo.get(feat_count++) * Math.log(probSuffixPrefix.get(suffix).get(prefix));
         } else {
-            score += magicNo.get(4) * -20;
+            score += magicNo.get(feat_count++) * -20;
         }
 
         if (!ft.fitTemplate(stem).equals("Y")) {
-            score += magicNo.get(5) * Math.log(generalVariables.get("hasTemplate"));
+            score += magicNo.get(feat_count++) * Math.log(generalVariables.get("hasTemplate"));
             // score += magicNo.get(5) * Math.log(hasTemplate);
         } else {
-            score += magicNo.get(5) * Math.log(1 - generalVariables.get("hasTemplate"));
+            score += magicNo.get(feat_count++) * Math.log(1 - generalVariables.get("hasTemplate"));
             // score += magicNo.get(5) * Math.log(1 - hasTemplate);
         }
 
         if (hmListMorph.containsKey(stem) || (stem.endsWith("ي") && hmListMorph.containsKey(stem.substring(0, stem.length() - 1) + "ى"))) {
-            score += magicNo.get(6) * Math.log(generalVariables.get("inMorphList"));
+            score += magicNo.get(feat_count++) * Math.log(generalVariables.get("inMorphList"));
             // score += magicNo.get(6) * Math.log(inMorphList);
         } else {
-            score += magicNo.get(6) * Math.log(1 - generalVariables.get("inMorphList"));
+            score += magicNo.get(feat_count++) * Math.log(1 - generalVariables.get("inMorphList"));
             // score += magicNo.get(6) * Math.log(1 - inMorphList);
         }
 
         if (hmListGaz.containsKey(stem) || (stem.endsWith("ي") && hmListGaz.containsKey(stem.substring(0, stem.length() - 1) + "ى"))) {
-            score += magicNo.get(7) * Math.log(generalVariables.get("inGazList"));
+            score += magicNo.get(feat_count++) * Math.log(generalVariables.get("inGazList"));
             // score += magicNo.get(7) * Math.log(inGazList);
         } else {
-            score += magicNo.get(7) * Math.log(1 - generalVariables.get("inGazList"));
+            score += magicNo.get(feat_count++) * Math.log(1 - generalVariables.get("inGazList"));
             // score += magicNo.get(7) * Math.log(1 - inGazList);
         }
 
         if (probCondPrefixes.containsKey(prefix)) {
-            score += magicNo.get(8) * Math.log(probCondPrefixes.get(prefix));
+            score += magicNo.get(feat_count++) * Math.log(probCondPrefixes.get(prefix));
         } else {
-            score += magicNo.get(8) * -20;
+            score += magicNo.get(feat_count++) * -20;
         }
 
         if (probCondSuffixes.containsKey(suffix)) {
-            score += magicNo.get(9) * Math.log(probCondSuffixes.get(suffix));
+            score += magicNo.get(feat_count++) * Math.log(probCondSuffixes.get(suffix));
         } else {
-            score += magicNo.get(9) * -20;
+            score += magicNo.get(feat_count++) * -20;
         }
 
         // get probability with first suffix . for example xT + p would produce xTp 
@@ -761,19 +616,17 @@ public class NBTokenizer implements java.io.Serializable {
         } else if (stemPlusFirstSuffix.endsWith("ت") && wordCount.containsKey(stemPlusFirstSuffix.substring(0, stemPlusFirstSuffix.length() - 1) + "ة")) {
             stemWordCount = wordCount.get(stemPlusFirstSuffix.substring(0, stemPlusFirstSuffix.length() - 1) + "ة");
         }
-        score += magicNo.get(10) * stemWordCount;
+        score += magicNo.get(feat_count++) * stemWordCount;
         
         // put template feature
         String template = ft.fitTemplate(stem);
         if (hmTemplateCount.containsKey(template))
-            score += magicNo.get(11) * Math.log(hmTemplateCount.get(template));
+            score += magicNo.get(feat_count++) * Math.log(hmTemplateCount.get(template));
         else
-            score += magicNo.get(11) * -10;
+            score += magicNo.get(feat_count++) * -10;
         
         // difference from average length
-        score += magicNo.get(12) * Math.log(Math.abs(stem.length() - generalVariables.get("averageStemLength")));
-        // score += magicNo.get(12) * Math.log(Math.abs(stem.length() - averageStemLength));
-        
+        score += magicNo.get(feat_count++) * Math.log(Math.abs(stem.length() - generalVariables.get("averageStemLength")));
         
         trimmedTemp = suffix.replace("+", "").replace(";", "").replace(",", "");
         altStem = "";
@@ -790,77 +643,77 @@ public class NBTokenizer implements java.io.Serializable {
         if (hmAraLexCom.containsKey(stem))
         {
             if (wordCount.containsKey(stem))
-                score += magicNo.get(13) *  wordCount.get(stem);
+                score += magicNo.get(feat_count++) *  wordCount.get(stem);
             else
-                score += magicNo.get(13) * -10;
+                score += magicNo.get(feat_count++) * -10;
         }
         else if (stem.endsWith("ي") && hmAraLexCom.containsKey(stem.substring(0, stem.length() - 1) + "ى"))
         {
             if (wordCount.containsKey(stem.substring(0, stem.length() - 1) + "ى"))
-                score += magicNo.get(13) *  wordCount.get(stem.substring(0, stem.length() - 1) + "ى");
+                score += magicNo.get(feat_count++) *  wordCount.get(stem.substring(0, stem.length() - 1) + "ى");
             else
-                score += magicNo.get(13) * -10;
+                score += magicNo.get(feat_count++) * -10;
         }
         else if (altStem.trim().length() > 0 && hmAraLexCom.containsKey(altStem))
         {
             if (wordCount.containsKey(altStem))
-                score += magicNo.get(13) * wordCount.get(altStem);
+                score += magicNo.get(feat_count++) * wordCount.get(altStem);
             else
-                score += magicNo.get(13) * -10;
+                score += magicNo.get(feat_count++) * -10;
         }
         else
         {
-            score += magicNo.get(13) * -20;
+            score += magicNo.get(feat_count++) * -20;
         }
         
         if (hmBuck.containsKey(stem))
         {
-            score += magicNo.get(14);
+            score += magicNo.get(feat_count++);
         }
         else if (stem.endsWith("ي") && hmBuck.containsKey(stem.substring(0, stem.length() - 1) + "ى"))
         {
-            score += magicNo.get(14);
+            score += magicNo.get(feat_count++);
         }
         else
         {
-            score += -1 * magicNo.get(14);
+            score += -1 * magicNo.get(feat_count++);
         }
         
         if (hmLocations.containsKey(stem))
         {
-            score += magicNo.get(15);
+            score += magicNo.get(feat_count++);
         }
         else
         {
-            score += -1 * magicNo.get(15);
+            score += -1 * magicNo.get(feat_count++);
         }
         
         if (hmPeople.containsKey(stem))
         {
-            score += magicNo.get(16);
+            score += magicNo.get(feat_count++);
         }
         else
         {
-            score += -1 * magicNo.get(16);
+            score += -1 * magicNo.get(feat_count++);
         }
         
         if (hmStop.containsKey(stem))
         {
-            score += magicNo.get(17);
+            score += magicNo.get(feat_count++);
         }
         else if (stem.endsWith("ي") && hmStop.containsKey(stem.substring(0, stem.length() - 1) + "ى"))
         {
-            score += magicNo.get(17);
+            score += magicNo.get(feat_count++);
         }
         else
         {
-            score += -1 * magicNo.get(17);
+            score += -1 * magicNo.get(feat_count++);
         }
 	
-	if (wordCountDialect.containsKey(stem))
-	    score += magicNo.get(18) * wordCountDialect.get(stem);
-	else
-	    score += magicNo.get(18) * -20d;
+//	if (wordCountDialect.containsKey(stem))
+//	    score += magicNo.get(feat_count++) * wordCountDialect.get(stem);
+//	else
+//	    score += magicNo.get(feat_count++) * -20d;
 	
         return score;
     }
@@ -868,7 +721,7 @@ public class NBTokenizer implements java.io.Serializable {
     public ArrayList<String> segmentLine(String line) throws IOException
     {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<String> words = tokenize(removeDiacritics(line));
+        ArrayList<String> words = ArabicUtils.tokenize(ArabicUtils.removeDiacritics(line));
         for (String w : words) {
             //if (!hmSeenBefore.containsKey(w))
 	    {
@@ -961,6 +814,12 @@ public class NBTokenizer implements java.io.Serializable {
         int qid = 0;
         while ((line = br.readLine()) != null)
         {
+            
+//            String[] words1 = line.trim().split("\t+");            
+//            if(words1.length != 2)
+//                continue;            
+//	    String[] words = words1[1].split(" +");
+            
             String[] words = line.split(" +");
             for (String w : words)
             {
@@ -1009,14 +868,7 @@ public class NBTokenizer implements java.io.Serializable {
             String stem = p.split(";")[1].trim();
             String suffix = p.split(";")[2].trim();
             int agg = 0;
-//            if (hmAraLexCom.containsKey(stem))
-//                agg++;
-//            if (hmListGaz.containsKey(stem))
-//                agg++;
-//            if (!ft.fitTemplate(stem).equals("Y"))
-//                agg++;
-//            if (hmListGaz.containsKey(stem))
-//                agg++;
+
             if (wordCount.containsKey(stem) && wordCount.containsKey((prefix + stem).replace("+", "")) && wordCount.get(stem) > wordCount.get((prefix + stem).replace("+", "")) + 1)
                 agg++;
             else if (wordCount.containsKey(stem) && wordCount.containsKey((prefix + stem).replace("+", "")) && wordCount.get(stem) + 1 < wordCount.get((prefix + stem).replace("+", "")))
@@ -1045,10 +897,7 @@ public class NBTokenizer implements java.io.Serializable {
             String features = ""; 
             //if (stems.get(pp) == maxAgg)
                 features = getSVMFeatureVector(parts, stems.get(pp));
-            //else if (stems.get(pp) == minAgg)
-            //    features = getSVMFeatureVector(parts, -1);
-            //else
-            //    features = getSVMFeatureVector(parts, 0);
+
             String output = "";
             if (features.length() > 0)
             {
@@ -1104,16 +953,9 @@ public class NBTokenizer implements java.io.Serializable {
                 else if (altStem.trim().length() > 0 && wordCount.containsKey(altStem)) // && wordCount.get(altStem) > stemWordCount)
                     stemWordCount = wordCount.get(altStem);
                 
-                //if (wordCount.containsKey(stem))
+                if (wordCount.containsKey(stem))
                     score += " 3:" + String.valueOf(stemWordCount);
-                //else
-                //    score += 0.19470689 * -10;
-                
-//                if (wordCount.containsKey(stem))
-//                    score += " 3:" + String.valueOf(wordCount.get(stem));
-//                else
-//                    score += " 3:-10";
-                
+
                 if (probPrefixSuffix.containsKey(prefix) && probPrefixSuffix.get(prefix).containsKey(suffix))
                     score += " 4:" + String.valueOf(Math.log(probPrefixSuffix.get(prefix).get(suffix)));
                 else
@@ -1159,18 +1001,7 @@ public class NBTokenizer implements java.io.Serializable {
                     score += " 8:" + String.valueOf(Math.log(1 - generalVariables.get("inGazList")));
                     // score += " 8:" + String.valueOf(Math.log(1 - inGazList));
                 }
-                /*
-                if (hmListMorph.containsKey(stem) && wordCount.containsKey(stem))
-                    score += " 7:" + String.valueOf(stemWordCount);
-                else
-                    score += " 7:-10";
-                
-                if (hmListGaz.containsKey(stem) && wordCount.containsKey(stem))
-                    score += " 8:" + String.valueOf(stemWordCount);
-                else
-                    score += " 8:-10";
-                */
-                
+ 
                 if (probCondPrefixes.containsKey(prefix))
                     score += " 9:" + String.valueOf(Math.log(probCondPrefixes.get(prefix)));
                 else
@@ -1257,36 +1088,12 @@ public class NBTokenizer implements java.io.Serializable {
                 else
                     score += " 18:-1";
                 
-		if (wordCountDialect.containsKey(stem))
-                    score += " 19:" + String.valueOf(wordCountDialect.get(stem));
-                else
-                    score += " 19:-20";
+//		if (wordCountDialect.containsKey(stem))
+//                    score += " 19:" + String.valueOf(wordCountDialect.get(stem));
+//                else
+//                    score += " 19:-20";
 		
-                /*
-                if (hmPeople.containsKey(stem))
-                    score += " 17:1"; // + Math.log((double) hmLocations.get(stem));
-                else
-                    score += " 17:-1";
-                */
-                // score += " 15:" + String.valueOf(rank);
-                
-//                if (seenTemplates.containsKey((prefix + template + suffix).replace(";", "").replace("++", "+").trim()))
-//                    score += " 14:" + Math.log(seenTemplates.get((prefix + template + suffix).replace(";", "").replace("++", "+")));
-//                else
-//                    score += " 14:-20";
-//                
-//                
-//                if (hmAraLexCom.containsKey(stem))
-//                    goodies++;
-//                
-//                score += " 15:" + String.valueOf(goodies); 
-                
-//                score += " 13:" + Math.log((double)template.length());
-                
-//                if (!template.equals("Y")) // prefer segmentations generating valid templates
-//                    score += " 13:1";
-//                else
-//                    score += " 13:0";
+
             }
         return score.trim();
     }
@@ -1360,98 +1167,7 @@ public class NBTokenizer implements java.io.Serializable {
         return output;
     }
     
-//    public static ArrayList<String> findAllPossibleSplits(String input, HashMap<String, Integer> list1, HashMap<String, Integer> list2)
-//    {
-//        if (hmWordPossibleSplits.containsKey(input))
-//            return hmWordPossibleSplits.get(input);
-//
-//        ArrayList<String> possibleSplits = possibleSplits = new ArrayList<String>();
-//        
-//        if (list1.containsKey(input) || list2.containsKey(input))
-//            possibleSplits.add(input);
-//        
-//        for (int j = 1; j < input.length(); j++)
-//        {
-//            String head = input.substring(0, j);
-//            String trail = input.substring(j);
-//
-//            if (checkIfLeadingLettersCouldBePrefixes(head)) {
-//                // get prefix split
-//                String prefixSplits = getPrefixSplit(head);
-//                // check if the rest is stem + suffixes
-//                if (trail.length() >= 2) {
-//                    for (int i = 0; i <= trail.length(); i++) {
-//                        String tok = trail.substring(0, i);
-//                        String remain = trail.substring(i);
-//                        String key = "";
-//                        if (tok.length() > 0)
-//                        {
-//                            if (remain.trim().length() == 0)
-//                            {
-//                                if (tok.endsWith("ة"))
-//                                    key = prefixSplits + ";" + tok.substring(0, tok.length() - 1) + ";" + "ة";
-//                                else
-//                                    key = prefixSplits + ";" + tok + ";";
-//                            }
-//                            else
-//                                key = prefixSplits + ";" + tok + ";" + checkIfRemainingLettersCouldBeSuffixesString(remain);
-//                        }
-//                        else
-//                        {
-//                            if (remain.trim().length() == 0)
-//                                key = prefixSplits;
-//                            else
-//                                key = prefixSplits + ";;" + checkIfRemainingLettersCouldBeSuffixesString(remain);
-//                        }
-//                        if ((list1.containsKey(tok) || list2.containsKey(tok)) && 
-//                                (checkIfRemainingLettersCouldBeSuffixes(remain) || remain.trim().length() == 0) &&
-//                                !possibleSplits.contains(key)
-//                                ) {
-//                            possibleSplits.add(key);
-//                        }
-//                    }
-//                }
-//            }
-//            else if (checkIfRemainingLettersCouldBeSuffixes(trail))
-//            {
-//                // check if rest is prefixes + stem
-//                if (head.length() >= 2)
-//                {
-//                    for (int i = 0; i <= head.length(); i++)
-//                    {
-//                        if (i == 0 && (list1.containsKey(head) || list2.containsKey(head))
-//                                && !possibleSplits.contains(head + ";" + checkIfRemainingLettersCouldBeSuffixesString(trail))
-//                                )
-//                            possibleSplits.add(";" + head + ";" + checkIfRemainingLettersCouldBeSuffixesString(trail));
-//                        else
-//                        {
-//                            String prefix = head.substring(0, i);
-//                            String tok = head.substring(i);
-//                            String key = "";
-//                            if (tok.length() > 0)
-//                                key = getPrefixSplit(prefix) + ";" + tok + ";" + checkIfRemainingLettersCouldBeSuffixesString(trail);
-//                            else
-//                                key = getPrefixSplit(prefix) + ";;" + checkIfRemainingLettersCouldBeSuffixesString(trail);
-//                            if ((list1.containsKey(tok) || list2.containsKey(tok)) 
-//                                    && checkIfLeadingLettersCouldBePrefixes(prefix) 
-//                                    && !possibleSplits.contains(key))
-//                                possibleSplits.add(key);
-//                        }
-//                    }
-//                }
-//            }
-//        }
-//        hmWordPossibleSplits.put(input, possibleSplits);
-//        return possibleSplits;
-//    }
-//    
-//        private static boolean checkIfLeadingLettersCouldBePrefixes(String head)
-//    {
-//        if (head.matches("(و|ف)?(ب|ك|ل)?(ال)?") || head.equals("س") || head.equals("وس") || head.equals("فس"))
-//            return true;
-//        else
-//            return false;
-//    }
+
     
     private static String getPrefixSplit(String head)
     {
@@ -1473,31 +1189,7 @@ public class NBTokenizer implements java.io.Serializable {
         output = output.replaceFirst(",$", "");
         return output;
     }
-  /*  
-    private static boolean checkIfRemainingLettersCouldBeSuffixes(String trail)
-    {
-        if (hmValidSuffixes.containsKey(trail))
-            return true;
-        else
-            return false;
-    }
-    
-    private static String checkIfRemainingLettersCouldBeSuffixesString(String trail)
-    {
-        String output = "notFound";
-        if (!checkIfRemainingLettersCouldBeSuffixes(trail))
-            return output;
-        ArrayList<String> parts = getAllPossiblePartitionsOfString(trail);
-        for (String p : parts)
-        {
-            if (hmValidSuffixesSegmented.containsKey(p))
-                output = p;
-        }
-        return output;
-    }
-    
-  
-    */
+ 
     
     public static String getProperSegmentation(String input)
     {
@@ -1589,14 +1281,6 @@ public class NBTokenizer implements java.io.Serializable {
         hmValidPrefixes.put("س", Boolean.TRUE);
         hmValidPrefixes.put("وس", Boolean.TRUE);
         hmValidPrefixes.put("فس", Boolean.TRUE);
-        
-//            p.matches("(ات|ون|ين)?,(ه|ها|هما|هم|هن|ك|كما|كم|كن|نا|ي)?")   -- done
-//            || p.matches("[ويا],(ه|ها|هما|هم|هن|ك|كما|كم|كن|نا|ي)?")      -- done
-//            || p.matches("(ن|ت),(ه|ها|هما|هم|هن|ك|كما|كم|كن|كي|ي)")       -- done
-//            || p.matches("(نا),(ه|ها|هما|هم|هن|ك|كما|كم|كن|كي|ي)")        -- done
-//            || p.matches("(ون|ين|ات|ان|ا|ي|و|ت|ة|ن|وا)")               -- done
-//            || p.matches("(ه|ها|هما|هم|هن|ك|كما|كم|كن|نا|ي)")             -- done
-//            || p.matches("(ون|ين|ي|و|ا),(نا|ن),(ه|ها|هما|هم|هن|ك|كما|كم|كن)")
         
         String[] SetA1 = {"", "ات", "ون", "ين", "ان"};
         String[] SetA2 = {"", "ه", "ها", "هما", "هم", "هن", "ك", "كما", "كم", "كن", "نا", "ي"};
