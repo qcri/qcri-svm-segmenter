@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package levdialsegmenter;
+package jointdialsegmenter;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -22,33 +22,38 @@ import java.util.TreeMap;
  *
  * @author disooqi
  */
-public class LevSegmenter {
+public class JointSegmenter {
     private static HashMap<String, String> hmFunctionWords = new HashMap<String, String>();
+    static int  fold = 5;
+    static String dialect = "magh";
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException, FileNotFoundException, ClassNotFoundException, InterruptedException {
         String mode = "test";
+        
         // TODO code application logic here
         String inputDir = "/home/disooqi/Dropbox/most_cited/POSandNERDataArz__/";
         double acc = 0.0;
         
-        NBTokenizer nbt = new NBTokenizer(inputDir);
-//        nbt.train("/home/disooqi/Dropbox/most_cited/final_splits_all_data/lev_seg/splits/lev_trainfold_01");
-//        nbt.train("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/lev.trg");
-        nbt.train("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/lev_400K_LDC");
+        NBTokenizer nbt = new NBTokenizer(inputDir, dialect, 77);
+        nbt.train("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/joint.trian."+fold+".400K_LDC");
         if("test".equals(mode)){
             loadFunctionWords(inputDir);
 //            scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/egy_seg/splits/data_1.test.trg", nbt);
 //            scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/gulf_seg/splits/glf_testfold_01.trg", nbt);
 //            scoreTestFile("/home/disooqi/Dropbox/most_cited/new_data/magh_seg/data_1.test.svm", nbt);
-//              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/egy.trg", nbt);
-//              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/glf.trg", nbt);
-              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/magh.trg", nbt);
-//            acc += scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/lev_testfold_01.trg", nbt);
-//            acc += scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/selectedAs_4001_5_lev", nbt);
+
+
+//              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/data_"+fold+".test.trg", nbt);
+//              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/lev_testfold_0"+fold+".trg", nbt);
+//              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/glf_testfold_0"+fold+".trg", nbt);
+              scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/magh_"+fold+".test.trg", nbt);
+              
+              
+//            acc += scoreTestFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/lev_seg/splits/lev_testfold_01.trg", nbt);
         }else{ //train
-            nbt.writeOutSVMRankFeatureFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/lev.trg", "/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/lev.svm");
+            nbt.writeOutSVMRankFeatureFile("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/joint.trian.5", "/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/joint.trian.5.svm");
         }
         
 //        System.out.println("The average acc of 5 folds is "+ acc/5);
@@ -62,7 +67,7 @@ public class LevSegmenter {
 	double correct = 0;
 	double total = 0;
         //Farasa segmenter = new Farasa();
-        BufferedWriter bf =  openFileForWriting("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/xxx");
+        BufferedWriter bf =  openFileForWriting("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/joint.0"+fold+"."+dialect+".none.res");
         boolean base_line_mode = false;
 
 	while ((line = br.readLine()) != null)
@@ -82,12 +87,12 @@ public class LevSegmenter {
             
 	    for (String w : words)
 	    {
-                if (w.startsWith("@") || w.startsWith("http") || w.contains("/") || w.startsWith("#") || w.startsWith("EOTWEET")){
+                if (w.startsWith("@") || w.startsWith("http") || w.contains("/") || w.startsWith("#") || w.startsWith("EOTWEET")|| w.startsWith("EOS")){
                     bf.write(w);
                     bf.write('\n');
                 }
                 
-		if (!w.startsWith("@") && !w.startsWith("http") && !w.contains("/") && !w.startsWith("#") && !w.startsWith("EOTWEET")) //&& !w.contains("Q")&& !w.contains("c") && !w.contains("O")&& !w.contains("C")&& !w.contains("V")
+		if (!w.startsWith("@") && !w.startsWith("http") && !w.contains("/") && !w.startsWith("#") && !w.startsWith("EOTWEET")&& !w.startsWith("EOS")) //&& !w.contains("Q")&& !w.contains("c") && !w.contains("O")&& !w.contains("C")&& !w.contains("V")
 		{
 		    String s = w.replace("+", "");
                     
@@ -178,7 +183,7 @@ public class LevSegmenter {
             BinDir += "/";
         }
         // load previously seen tokenizations
-        BufferedReader brFunctionWords = openFileForReading(BinDir + "levFuncWords");
+        BufferedReader brFunctionWords = openFileForReading(BinDir + "jointFuncWords");
         String line = "";
         while ((line = brFunctionWords.readLine()) != null)
         {
