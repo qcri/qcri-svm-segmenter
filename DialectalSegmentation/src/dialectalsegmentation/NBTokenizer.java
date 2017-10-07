@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jointdialsegmenter;
+package glfdialsegmenter;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -20,8 +20,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.TreeMap;
 
-import static jointdialsegmenter.ArabicUtils.prefixes;
-import static jointdialsegmenter.ArabicUtils.suffixes;
+import static glfdialsegmenter.ArabicUtils.prefixes;
+import static glfdialsegmenter.ArabicUtils.suffixes;
 
 /**
  *
@@ -64,16 +64,12 @@ public class NBTokenizer implements java.io.Serializable {
     private static HashMap<String, Double> generalVariables = new HashMap<String, Double>();
 
     private static FitTemplateClass ft = null;
-    private static String dialect = "None";
-    private static int foldId = 0;
 
     /**
      *
      * @param BinDir
      */
-    public NBTokenizer(String BinDir, String dial, int fold) throws FileNotFoundException, IOException, ClassNotFoundException {
-        dialect = dial;
-        foldId = fold;
+    public NBTokenizer(String BinDir) throws FileNotFoundException, IOException, ClassNotFoundException {
         ft = new FitTemplateClass();
         // String BinDir = "/Users/kareemdarwish/RESEARCH/ArabicProcessingTools-master/POSandNERData/";
 
@@ -93,47 +89,16 @@ public class NBTokenizer implements java.io.Serializable {
 //                hPrefixes.put(prefixes[i].toString(), 1);
 //            }
 
-if(dialect == "egy"){
-            for (int i = 0; i < prefixes.length; i++) {
-                hPrefixes.put(prefixes[i].toString(), 1);
-            }
-	    hPrefixes.put("ع", 1);
-	    hPrefixes.put("ح", 1);
-	    hPrefixes.put("ه", 1);
-	    hPrefixes.put("م", 1);
-	    hPrefixes.put("ما", 1);
-            hPrefixes.put("ها", 1);
-            
-	    for (int i = 0; i < suffixes.length; i++) {
-                hSuffixes.put(suffixes[i].toString(), 1);
-            }
-            hSuffixes.put("ى", 1);
-	    hSuffixes.put("ش", 1);
-            hSuffixes.put("و", 1);
-            hSuffixes.put("ل", 1);
-	    hSuffixes.put("اه", 1);
-            hSuffixes.put("يا", 1);
-            hSuffixes.put("كي", 1);
-            hSuffixes.put("ني", 1);
-            hSuffixes.put("نى", 1);
-            hSuffixes.put("تي", 1);
-            hSuffixes.put("ت", 1);
-            hSuffixes.put("ي", 1);
-	    hSuffixes.put("اها", 1);
-	    hSuffixes.put("اهم", 1);
-            hSuffixes.put("توا", 1);//خليتوا
-            
-        }else if(dialect == "lev"){
-            hPrefixes.put("يآآ", 1);
+//            hPrefixes.put("يآآ", 1);
             hPrefixes.put("يا", 1); 
-            hPrefixes.put("شو", 1);
-	    hPrefixes.put("عن", 1);
-            hPrefixes.put("عم", 1);
+//            hPrefixes.put("شو", 1);
+//	    hPrefixes.put("عن", 1);
+//            hPrefixes.put("عم", 1);
 	    hPrefixes.put("مو", 1);
-	    hPrefixes.put("ال", 1);
+	    hPrefixes.put("ال", 1);hPrefixes.put("إل", 1);
             hPrefixes.put("لا", 1);
             hPrefixes.put("ما", 1);
-            hPrefixes.put("شاء", 1);
+//            hPrefixes.put("شاء", 1);
 	    hPrefixes.put("ب", 1);
             hPrefixes.put("ك", 1);
             hPrefixes.put("ح", 1);
@@ -142,64 +107,30 @@ if(dialect == "egy"){
             hPrefixes.put("ه", 1);
             hPrefixes.put("م", 1);
             hPrefixes.put("ش", 1);//وان+ش+الله
+//
             hPrefixes.put("ع", 1);
 	    hPrefixes.put("و", 1);
 
-            hSuffixes.put("كون", 1);
-            hSuffixes.put("وا", 1);
-            hSuffixes.put("ات", 1);
-	    hSuffixes.put("گ",1);
-            hSuffixes.put("لن", 1);//hSuffixes.put("ين", 1);
-            hSuffixes.put("ين", 1);
-            hSuffixes.put("ون", 1);
-            hSuffixes.put("هم", 1);
-            hSuffixes.put("هن", 1);
-            hSuffixes.put("نا", 1);
-            hSuffixes.put("كن", 1);
-            hSuffixes.put("اش", 1);
-            hSuffixes.put("تي", 1);
-            hSuffixes.put("يت", 1);
-	    hSuffixes.put("ها", 1);
-	    hSuffixes.put("ني", 1);
-            hSuffixes.put("كم", 1);//خليتوا
-            hSuffixes.put("ة", 1);
-	    hSuffixes.put("ت", 1);
-            hSuffixes.put("و", 1);
-            hSuffixes.put("ه", 1);
-            hSuffixes.put("ا", 1);
-            hSuffixes.put("ل", 1);
-            hSuffixes.put("ي", 1);
-            hSuffixes.put("ش", 1);
-            hSuffixes.put("ك", 1);
-            hSuffixes.put("ن", 1);//وحياتن
-            hSuffixes.put("ہ", 1);
-        }else if(dialect == "glf"){
-            hPrefixes.put("يا", 1); 
-	    hPrefixes.put("مو", 1);
-	    hPrefixes.put("ال", 1);
-            hPrefixes.put("إل", 1);
-            hPrefixes.put("لا", 1);
-            hPrefixes.put("ما", 1);
-	    hPrefixes.put("ب", 1);
-            hPrefixes.put("ك", 1);
-            hPrefixes.put("ح", 1);
-            hPrefixes.put("ف", 1); 
-            hPrefixes.put("ل", 1);
-            hPrefixes.put("ه", 1);
-            hPrefixes.put("م", 1);
-            hPrefixes.put("ش", 1);//وان+ش+الله
-            hPrefixes.put("ع", 1);
-	    hPrefixes.put("و", 1);
+
             
+            
+//	    for (int i = 0; i < suffixes.length; i++) {
+//                hSuffixes.put(suffixes[i].toString(), 1);
+//            }
+//            hSuffixes.put("كون", 1);
             hSuffixes.put("وا", 1);
             hSuffixes.put("ات", 1);
 	    hSuffixes.put("گ",1);
             hSuffixes.put("ک",1);
+//            hSuffixes.put("لن", 1);//hSuffixes.put("ين", 1);
             hSuffixes.put("ين", 1);
             hSuffixes.put("ون", 1);
             hSuffixes.put("هم", 1);
+//            hSuffixes.put("هن", 1);
             hSuffixes.put("نا", 1);
+//            hSuffixes.put("كن", 1);
             hSuffixes.put("هن", 1);
+//            hSuffixes.put("تي", 1);
             hSuffixes.put("يت", 1);
 	    hSuffixes.put("ها", 1);
 	    hSuffixes.put("ني", 1);
@@ -211,195 +142,12 @@ if(dialect == "egy"){
             hSuffixes.put("ه", 1);
             hSuffixes.put("ا", 1);
             hSuffixes.put("ل", 1);
-            hSuffixes.put("ي", 1);
-            hSuffixes.put("ج", 1);
-            hSuffixes.put("ك", 1);
-            hSuffixes.put("هہ", 1);
+            hSuffixes.put("ي", 1);hSuffixes.put("ج", 1);
+//            hSuffixes.put("ش", 1);
+            hSuffixes.put("ك", 1);hSuffixes.put("هہ", 1);
             hSuffixes.put("ن", 1);//وحياتن
             hSuffixes.put("ہ", 1);
             hSuffixes.put("ھ",1);
-        }else if(dialect == "magh"){
-            hPrefixes.put("ال", 1);
-            hPrefixes.put("لا", 1);
-            hPrefixes.put("يا", 1);
-            hPrefixes.put("ما", 1);
-            hPrefixes.put("كا", 1);
-            hPrefixes.put("تا", 1);
-	    hPrefixes.put("ب", 1);
-            hPrefixes.put("ك", 1);
-            hPrefixes.put("أ", 1);
-            hPrefixes.put("ف", 1); 
-            hPrefixes.put("ل", 1);
-            hPrefixes.put("ت", 1);
-            hPrefixes.put("ه", 1);
-            hPrefixes.put("م", 1);
-            hPrefixes.put("ش", 1);//وان+ش+الله
-            hPrefixes.put("ح", 1); 
-            hPrefixes.put("ع", 1);
-	    hPrefixes.put("و", 1); 
-
-            hSuffixes.put("وا", 1);
-            hSuffixes.put("ات", 1);
-	    hSuffixes.put("اش",1);
-            hSuffixes.put("ين", 1);
-            hSuffixes.put("ون", 1);
-            hSuffixes.put("هم", 1);
-            hSuffixes.put("نا", 1);
-	    hSuffixes.put("ها", 1);
-            hSuffixes.put("يا", 1);
-	    hSuffixes.put("ني", 1);
-            hSuffixes.put("كم", 1);//خليتوا
-            hSuffixes.put("ة", 1);
-	    hSuffixes.put("ت", 1);
-            hSuffixes.put("و", 1);
-            hSuffixes.put("ه", 1);
-            hSuffixes.put("ا", 1);
-            hSuffixes.put("ل", 1);
-            hSuffixes.put("ي", 1);
-            hSuffixes.put("ش", 1);
-            hSuffixes.put("ك", 1);
-        }
-
-//            hPrefixes.put("يآآ", 1);
-//            hPrefixes.put("يا", 1); 
-//            hPrefixes.put("شو", 1);
-//	    hPrefixes.put("عن", 1);
-//            hPrefixes.put("عم", 1);
-//	    hPrefixes.put("مو", 1);
-//	    hPrefixes.put("ال", 1);
-//            hPrefixes.put("لا", 1);
-//            hPrefixes.put("ما", 1);
-//            hPrefixes.put("شاء", 1);
-//	    hPrefixes.put("ب", 1);
-//            hPrefixes.put("ك", 1);
-//            hPrefixes.put("ح", 1);
-//            hPrefixes.put("ف", 1); 
-//            hPrefixes.put("ل", 1);
-//            hPrefixes.put("ه", 1);
-//            hPrefixes.put("م", 1);
-//            hPrefixes.put("ش", 1);//وان+ش+الله
-//
-//            hPrefixes.put("ع", 1);
-//	    hPrefixes.put("و", 1);
-////
-////                hPrefixes.put("أ", 1);
-////                hPrefixes.put("ا", 1);
-////                hPrefixes.put("ال", 1);
-////                hPrefixes.put("ان", 1);
-////                hPrefixes.put("ب", 1);
-////                hPrefixes.put("ت", 1);
-////                hPrefixes.put("تا", 1);
-////                hPrefixes.put("ح", 1);
-////                hPrefixes.put("ش", 1);
-////                hPrefixes.put("ع", 1);
-////                hPrefixes.put("غ", 1);
-////                hPrefixes.put("غا", 1);
-////                hPrefixes.put("ف", 1);
-////                hPrefixes.put("ك", 1);
-////                hPrefixes.put("كا", 1);
-////                hPrefixes.put("ل", 1);
-////                hPrefixes.put("لا", 1);
-////                hPrefixes.put("لو", 1);
-////                hPrefixes.put("لي", 1);
-////                hPrefixes.put("م", 1);
-////                hPrefixes.put("ما", 1);
-////                hPrefixes.put("ه", 1);
-////                hPrefixes.put("ها", 1);
-////                hPrefixes.put("و", 1);
-////                hPrefixes.put("ي", 1);
-////                hPrefixes.put("يا", 1);
-////                hPrefixes.put("شو", 1);
-////                hPrefixes.put("مو", 1);
-////                hPrefixes.put("عم", 1);
-////                hPrefixes.put("ام", 1);
-////                hPrefixes.put("مآ", 1);
-////                hPrefixes.put("اش", 1);
-//
-//
-//            
-//            
-////	    for (int i = 0; i < suffixes.length; i++) {
-////                hSuffixes.put(suffixes[i].toString(), 1);
-////            }
-//            hSuffixes.put("كون", 1);
-//            hSuffixes.put("وا", 1);
-//            hSuffixes.put("ات", 1);
-//	    hSuffixes.put("گ",1);
-//            hSuffixes.put("لن", 1);//hSuffixes.put("ين", 1);
-//            hSuffixes.put("ين", 1);
-//            hSuffixes.put("ون", 1);
-//            hSuffixes.put("هم", 1);
-//            hSuffixes.put("هن", 1);
-//            hSuffixes.put("نا", 1);
-//            hSuffixes.put("كن", 1);hSuffixes.put("اش", 1);
-//            hSuffixes.put("تي", 1);
-//            hSuffixes.put("يت", 1);
-//	    hSuffixes.put("ها", 1);
-//	    hSuffixes.put("ني", 1);
-//            hSuffixes.put("كم", 1);//خليتوا
-//            hSuffixes.put("ة", 1);
-//	    hSuffixes.put("ت", 1);
-//            hSuffixes.put("و", 1);
-//            hSuffixes.put("ه", 1);
-//            hSuffixes.put("ا", 1);
-//            hSuffixes.put("ل", 1);
-//            hSuffixes.put("ي", 1);
-//            hSuffixes.put("ش", 1);
-//            hSuffixes.put("ك", 1);
-//            hSuffixes.put("ن", 1);//وحياتن
-//            hSuffixes.put("ہ", 1);
-////                    hSuffixes.put("ة", 1);
-////                    hSuffixes.put("و", 1);
-////                    hSuffixes.put("ي", 1);
-////                    hSuffixes.put("ه", 1);
-////                    hSuffixes.put("ش", 1);
-////                    hSuffixes.put("ك", 1);
-////                    hSuffixes.put("ات", 1);
-////                    hSuffixes.put("ت", 1);
-////                    hSuffixes.put("ها", 1);
-////                    hSuffixes.put("ا", 1);
-////                    hSuffixes.put("ون", 1);
-////                    hSuffixes.put("كم", 1);
-////                    hSuffixes.put("هم", 1);
-////                    hSuffixes.put("نا", 1);
-////                    hSuffixes.put("ين", 1);
-////                    hSuffixes.put("ني", 1);
-////                    hSuffixes.put("وا", 1);
-////                    hSuffixes.put("تي", 1);
-////                    hSuffixes.put("هن", 1);
-////                    hSuffixes.put("ى", 1);
-////                    hSuffixes.put("يا", 1);
-////                    hSuffixes.put("كي", 1);
-////                    hSuffixes.put("كوم", 1);
-////                    hSuffixes.put("ن", 1);
-////                    hSuffixes.put("هات", 1);
-////                    hSuffixes.put("ہ", 1);
-////                    hSuffixes.put("كوا", 1);
-////                    hSuffixes.put("يش", 1);
-////                    hSuffixes.put("ج", 1);
-////                    hSuffixes.put("يين", 1);
-////                    hSuffixes.put("وش", 1);
-////                    hSuffixes.put("ية", 1);
-////                    hSuffixes.put("تنا", 1);
-////                    hSuffixes.put("وو", 1);
-////                    hSuffixes.put("نى", 1);
-////                    hSuffixes.put("تو", 1);
-////                    hSuffixes.put("كن", 1);
-////                    hSuffixes.put("ھ", 1);
-////                    hSuffixes.put("يك", 1);
-////                    hSuffixes.put("كك", 1);
-////                    hSuffixes.put("اي", 1);
-////                    hSuffixes.put("آ", 1);
-////                    hSuffixes.put("او", 1);
-////                    hSuffixes.put("لو", 1);
-////                    hSuffixes.put("م", 1);
-////                    hSuffixes.put("ان", 1);
-////                    hSuffixes.put("اش", 1);
-////                    hSuffixes.put("اه", 1);
-////                    hSuffixes.put("وه", 1);
-            
-//            
-            
             BufferedReader br = openFileForReading(BinDir + "generated-stems.morph.txt");
             String line = "";
             while ((line = br.readLine()) != null) {
@@ -423,7 +171,7 @@ if(dialect == "egy"){
                 hmAraLexCom.put(line, 1);
             }
 
-            br = openFileForReading(BinDir + "lav.120k.prop");//wordcountAJ.arpa
+            br = openFileForReading(BinDir + "glf.120k.prop");//wordcountAJ.arpa
             line = "";
             while ((line = br.readLine()) != null) {
                 String[] parts = line.split("\t");
@@ -510,33 +258,34 @@ if(dialect == "egy"){
        
     public void train(String filename) throws FileNotFoundException, IOException
     {
-//            BufferedReader brSeenInTraining = openFileForReading("/home/disooqi/Dropbox/most_cited/final_splits_all_data/joint/joint/joint.trian.5.400K_LDC");//_400K_LDC
             BufferedReader brSeenInTraining = openFileForReading(filename);
+//            BufferedReader brSeenInTraining = openFileForReading("/home/disooqi/Dropbox/most_cited/final_splits_all_data/gulf_seg/splits/glf_trainfold_04_400K_LDC");//_400K_LDC
             String line = "";
-            while ((line = brSeenInTraining.readLine()) != null) {
-                String[] parts = line.trim().split("[ \t]+");
-                
-//                String[] words1 = line.trim().split("\t+");            
-//                if(words1.length != 2)
-//                    continue;
-//            
-//                String[] parts = words1[1].split(" +");
-                
-                for(String w : parts){
-                //if (parts.length == 2 && Integer.parseInt(parts[0]) > 3) {
-                    String word = ArabicUtils.buck2utf8(w).replace("+", "");
-                    String segmented = ArabicUtils.buck2utf8(w);
-                    segmented = getProperSegmentation(segmented);
-                    if (!hmPreviouslySeenTokenizations.containsKey(word)) {
-                        hmPreviouslySeenTokenizations.put(word, new ArrayList<String>());
-                    }
-                    ArrayList<String> list = hmPreviouslySeenTokenizations.get(word);
-                    if (!list.contains(segmented)) {
-                        list.add(segmented);
-                    }
-                    hmPreviouslySeenTokenizations.put(word, list);
-                }
-            }
+//            while ((line = brSeenInTraining.readLine()) != null) {
+//                String[] parts = line.trim().split("[ \t]+");
+//                
+////                String[] words1 = line.trim().split("\t+");            
+////                if(words1.length != 2)
+////                    continue;
+////            
+////                String[] parts = words1[1].split(" +");
+//                
+//                for(String w : parts){
+//                //if (parts.length == 2 && Integer.parseInt(parts[0]) > 3) {
+//                    String word = ArabicUtils.buck2utf8(w).replace("+", "");
+//                    String segmented = ArabicUtils.buck2utf8(w);
+//                    segmented = getProperSegmentation(segmented);
+//                    if (!hmPreviouslySeenTokenizations.containsKey(word)) {
+//                        hmPreviouslySeenTokenizations.put(word, new ArrayList<String>());
+//                    }
+//                    ArrayList<String> list = hmPreviouslySeenTokenizations.get(word);
+//                    if (!list.contains(segmented)) {
+//                        list.add(segmented);
+//                    }
+//                    hmPreviouslySeenTokenizations.put(word, list);
+//                }
+//            }
+            
         BufferedReader br = openFileForReading(filename);
 //        BufferedWriter bw = openFileForWriting(filename + ".singleChar");
         line = "";
@@ -732,20 +481,44 @@ if(dialect == "egy"){
         String prefix = parts[0].trim();
         String suffix = parts[2].trim();
         String stem = parts[1].trim();
+        
+	// assemble score
+        //2001-f01
+        String[] magicNumbers = "1:0.0046081888 2:-0.022178449 3:0.10974821 4:0.14698231 5:0.17376754 6:0.66816616 7:0.29723677 8:-0.30929303 9:0.0040170476 10:0.019809607 11:0.027008861 12:0.069551371 13:-0.3099958 14:0.020147102 15:0.45347312 16:0.15505797 17:-0.11853379 18:0.36449823".split(" +");
+        
+        //2002
+//        magicNumbers = "1:-0.012893806 2:-0.033546515 3:0.091895178 4:0.15087682 5:0.17153092 6:0.68715197 7:0.25147387 8:-0.29888821 9:0.0024621373 10:0.024257403 11:0.018118072 12:0.053256083 13:-0.29041752 14:0.019669788 15:0.44701141 16:0.13977315 17:-0.18758643 18:0.27901715".split(" +");
+//        magicNumbers = "1:-0.026634296 2:-0.048664946 3:0.090941459 4:0.16791134 5:0.18994021 6:0.70207918 7:0.31336561 8:-0.35183075 9:0.0037118699 10:0.032257099 11:0.021957742 12:0.095145799 13:-0.28983423 14:0.020627229 15:0.4347662 16:0.17907238 17:-0.18720689 18:0.32363775".split(" +");
+//        magicNumbers = "1:-0.029522171 2:-0.043416161 3:0.11416717 4:0.17054382 5:0.1844383 6:0.7276336 7:0.29357517 8:-0.3164365 9:0.003196412 10:0.032164942 11:0.0043421942 12:0.080066577 13:-0.36859539 14:0.021715889 15:0.41950038 16:0.1164486 17:-0.10502548 18:0.35751888".split(" +");
+//        magicNumbers = "1:0.023830229 2:-0.0057693236 3:0.082844697 4:0.13301592 5:0.15868258 6:0.65084654 7:0.28968129 8:-0.33781469 9:-0.0047805314 10:0.026720025 11:0.017996827 12:0.070523664 13:-0.34942853 14:0.030191051 15:0.46022105 16:0.13273148 17:-0.19281071 18:0.34774542".split(" +");
+//        magicNumbers = "1:0.0046081888 2:-0.022178449 3:0.10974821 4:0.14698231 5:0.17376754 6:0.66816616 7:0.29723677 8:-0.30929303 9:0.0040170476 10:0.019809607 11:0.027008861 12:0.069551371 13:-0.3099958 14:0.020147102 15:0.45347312 16:0.15505797 17:-0.11853379 18:0.36449823".split(" +");
+        
+        //2003
+//        magicNumbers = "1:-0.12802993 2:-0.13624552 3:0.11348928 4:0.24760766 5:0.25582317 6:0.64689684 7:0.29780096 8:-0.32815409 9:0.016822422 10:0.045326296 11:0.026019301 12:-0.023204658 13:-0.24041058 14:0.019674785 15:0.44851869 16:0.064814746 17:-0.10877548 18:0.33329305".split(" +");
+//        magicNumbers = "1:-0.1007866 2:-0.10529126 3:0.1035777 4:0.23249774 5:0.2369999 6:0.63182831 7:0.29890814 8:-0.33228207 9:0.020580955 10:0.036239192 11:0.03202543 12:-0.024485752 13:-0.28284964 14:0.024154866 15:0.41468313 16:0.054880142 17:-0.10223033 18:0.3946214".split(" +");
+//        magicNumbers = "1:-0.15422483 2:-0.15902606 3:0.12258729 4:0.28826129 5:0.29306015 6:0.65120542 7:0.32412589 8:-0.33601481 9:0.011047504 10:0.035731822 11:0.023454605 12:-0.011996473 13:-0.26493299 14:0.026250497 15:0.42003208 16:0.042661432 17:-0.071004935 18:0.4125528".split(" +");
+//        magicNumbers = "1:-0.08940123 2:-0.080408655 3:0.086877026 4:0.2261374 5:0.21714807 6:0.55783206 7:0.3367584 8:-0.35628128 9:0.0087018581 10:0.030081479 11:0.033013545 12:-0.049733624 13:-0.30358487 14:0.026253019 15:0.47205058 16:0.091456451 17:-0.1536016 18:0.42086148".split(" +");
+//        magicNumbers = "1:-0.13620371 2:-0.12951893 3:0.1140504 4:0.27371281 5:0.26702997 6:0.67845708 7:0.34672716 8:-0.32650709 9:0.019975003 10:0.017574918 11:0.026200967 12:-0.0095916763 13:-0.15472785 14:0.015688268 15:0.46940961 16:0.09473145 17:-0.054092981 18:0.42872658".split(" +");
+        
+        //2004
+//        magicNumbers = "1:-0.15747808 2:-0.15573741 3:0.10915983 4:0.26393312 5:0.26218998 6:0.78493053 7:0.47797009 8:-0.34060854 9:0.02619647 10:0.04618521 11:0.028690295 12:-0.043990046 13:-0.29898298 14:0.022417272 15:0.44922349 16:0.063951485 17:-0.14196652 18:0.38350222".split(" +");
+//        magicNumbers = "1:-0.10662483 2:-0.11481024 3:0.098896153 4:0.24133694 5:0.24952286 6:0.75860137 7:0.49249592 8:-0.34118533 9:0.017425437 10:0.029674102 11:0.026031896 12:-0.052670963 13:-0.34426233 14:0.023524757 15:0.43661493 16:0.10873394 17:-0.12935701 18:0.4205564".split(" +");
+//        magicNumbers = "1:-0.16179176 2:-0.14928688 3:0.11892704 4:0.292539 5:0.2800335 6:0.74339998 7:0.46528006 8:-0.32581148 9:0.021976303 10:0.023616208 11:0.0046536466 12:-0.0562355 13:-0.33134827 14:0.033242505 15:0.40245777 16:0.054402966 17:-0.079010762 18:0.39066038".split(" +");
+//        magicNumbers = "1:-0.1110996 2:-0.11177964 3:0.090760499 4:0.23377101 5:0.23445061 6:0.65229505 7:0.50861877 8:-0.37466794 9:0.022263654 10:0.039723072 11:0.034051679 12:-0.048555553 13:-0.35263392 14:0.029198609 15:0.45670891 16:0.074188694 17:-0.17418815 18:0.3774263".split(" +");
+//        magicNumbers = "1:-0.13693106 2:-0.13919689 3:0.11077158 4:0.26477286 5:0.26704076 6:0.87393451 7:0.51888472 8:-0.28389084 9:0.021552747 10:0.024543276 11:0.027376179 12:-0.037437059 13:-0.22177871 14:0.020078734 15:0.4780677 16:0.10753486 17:-0.075104922 18:0.4064934".split(" +");
+        
+        //2005
+//        magicNumbers = "1:-0.040180519 2:-0.050018739 3:0.084140122 4:0.17526098 5:0.18509944 6:0.80145639 7:0.36168724 8:-0.33502358 9:0.0092531936 10:0.021989523 11:0.029751277 12:0.048186388 13:-0.29326123 14:0.029559828 15:0.40217355 16:0.15767479 17:-0.17976137 18:0.1957158".split(" +");
+//        magicNumbers = "1:-0.031853333 2:-0.045578364 3:0.095146023 4:0.17697643 5:0.19070406 6:0.77930999 7:0.39052209 8:-0.33519089 9:0.0063335793 10:0.021700855 11:-1.786272e-06 12:0.064181827 13:-0.29379651 14:0.020965563 15:0.42835557 16:0.14720657 17:-0.17901799 18:0.28182417".split(" +");
+//        magicNumbers = "1:-0.046174861 2:-0.058534749 3:0.1000651 4:0.18455473 5:0.19691615 6:0.84282309 7:0.35894233 8:-0.311602 9:0.0064907931 10:0.024417685 11:0.0077236509 12:0.075977623 13:-0.32142195 14:0.029164474 15:0.41064459 16:0.073992565 17:-0.14003246 18:0.28539991".split(" +");
+//        magicNumbers = "1:-0.012622747 2:-0.025880713 3:0.072122552 4:0.16470422 5:0.17796415 6:0.74825901 7:0.37835079 8:-0.35905147 9:0.0034206496 10:0.01388717 11:0.0261818 12:0.06454429 13:-0.29653409 14:0.026440151 15:0.43737236 16:0.12446817 17:-0.2054105 18:0.27661979".split(" +");
+//        magicNumbers = "1:-0.018117031 2:-0.01713454 3:0.099820733 4:0.13667698 5:0.16837674 6:0.80075055 7:0.34683201 8:-0.30946943 9:0.0084400754 10:0.01876547 11:0.030666394 12:0.06268061 13:-0.27198952 14:0.020889798 15:0.4453454 16:0.1184203 17:-0.094078764 18:0.3237499".split(" +");
 
-        String[] magicNumbers = "".split(" +");
-        // OLD AFFIXES
-        magicNumbers = "1:-0.13993759 2:-0.15551305 3:0.016871307 4:0.27713552 5:0.29271352 6:0.72550726 7:0.57233739 8:-0.44624054 9:0.015576469 10:0.047894839 11:0.10107417 12:-0.010496355 13:-0.220439 14:0.028352588 15:0.39074963 16:0.028872643 17:-0.034349553 18:0.27244216".split(" +");
-        magicNumbers = "1:-0.1437429 2:-0.14587499 3:0.009059391 4:0.28035128 5:0.28248245 6:0.67095339 7:0.57969368 8:-0.45099932 9:0.023242829 10:0.045848854 11:0.10726767 12:-0.0076125083 13:-0.26756725 14:0.028012326 15:0.42734501 16:0.052140888 17:-0.027449552 18:0.35501599".split(" +");
-        magicNumbers = "1:-0.13872874 2:-0.156009 3:0.00972741 4:0.27190265 5:0.28918251 6:0.77266508 7:0.55129588 8:-0.43160897 9:0.015660772 10:0.048929986 11:0.11510156 12:0.00076817657 13:-0.22142744 14:0.028178005 15:0.41690528 16:0.061022416 17:-0.0079389904 18:0.31148425".split(" +");
-        magicNumbers = "1:-0.14311616 2:-0.14180851 3:0.019013764 4:0.26508892 5:0.2637786 6:0.71531349 7:0.54154384 8:-0.42738515 9:0.023315709 10:0.043116774 11:0.097248919 12:-0.0062394082 13:-0.22795568 14:0.024601221 15:0.42470586 16:0.055280965 17:-0.0048320103 18:0.32335711".split(" +");
-        magicNumbers = "1:-0.15398742 2:-0.15953337 3:0.0067969058 4:0.27761135 5:0.28315729 6:0.72491896 7:0.55344361 8:-0.46385553 9:0.027008567 10:0.04043375 11:0.11108473 12:-0.013414528 13:-0.21488859 14:0.026134165 15:0.41833535 16:0.051625419 17:0.0015610278 18:0.34552893".split(" +");
-
-//          magicNumbers = "1:-0.15776402 2:-0.17259696 3:0.016584165 4:0.27663621 5:0.29146644 6:0.86059856 7:0.52246511 8:-0.69383603 9:0.046829008 10:0.049839422 11:0.1094351 12:-0.0055135894 13:-0.1341785 14:0.025724966 15:0.3322162 16:0.058035895 17:-0.042743068 18:0.24968114".split(" +");
-//          magicNumbers = "1:-0.16857447 2:-0.18586496 3:0.010852139 4:0.29406831 5:0.31136018 6:0.83903432 7:0.5711813 8:-0.6776154 9:0.044625711 10:0.052013624 11:0.1087735 12:-0.01285803 13:-0.1601363 14:0.0196927 15:0.35984066 16:0.053455725 17:-0.041518539 18:0.29257083".split(" +");
-//          magicNumbers = "1:-0.19355072 2:-0.19575582 3:0.0035985725 4:0.30087075 5:0.30307707 6:0.92068785 7:0.5168584 8:-0.6908685 9:0.052750155 10:0.051686369 11:0.1107377 12:0.0039237733 13:-0.099511325 14:0.026797337 15:0.34310049 16:0.05130716 17:-0.03658665 18:0.29665565".split(" +");
-//          magicNumbers = "1:-0.20369643 2:-0.21253191 3:0.02135575 4:0.30473995 5:0.31357601 6:0.77745038 7:0.54087639 8:-0.65111947 9:0.055106837 10:0.052836269 11:0.093254991 12:-0.01140264 13:-0.093823522 14:0.019123781 15:0.39480996 16:0.084141269 17:-0.003593958 18:0.29830605".split(" +");
-//          magicNumbers = "1:-0.13770179 2:-0.15532771 3:0.015420194 4:0.26960981 5:0.28723794 6:0.91180861 7:0.5558874 8:-0.68309611 9:0.044741634 10:0.045165185 11:0.10539415 12:-0.00071077276 13:-0.10350377 14:0.017877294 15:0.41053876 16:0.07590387 17:-0.02430323 18:0.32511786".split(" +");
+        //String[] magicNumbers = "1:-0.28435925 2:-0.28457156 3:0.14189413 4:0.27611557 5:0.27632973 6:0.81240511 7:0.14667918 8:-0.57018894 9:0.023951685 10:0.02592122 11:0.14230652 12:0.041602667 13:-0.0032382524 14:0.013622358 15:0.36693767 16:-0.18616928 17:0.076464899 18:0.2726813 19:0.019954393".split(" +");
+        
+        ////All GLF data for cross evaluation
+        magicNumbers = "1:-0.12368198 2:-0.11587373 3:0.10683684 4:0.23118404 5:0.22337817 6:0.73997259 7:0.48195541 8:-0.34468818 9:0.027786193 10:0.035179887 11:0.02675413 12:-0.053187717 13:-0.29989362 14:0.023022013 15:0.43940744 16:0.063147195 17:-0.12782481 18:0.36685237".split(" +");
+//        
         
         ArrayList<Double> magicNo = new ArrayList<Double>();
         for (String m : magicNumbers) {
@@ -1425,16 +1198,16 @@ if(dialect == "egy"){
     
     public static String getProperSegmentation(String input)
     {
-        if (hPrefixes.isEmpty()) {
-            for (int i = 0; i < prefixes.length; i++) {
-                hPrefixes.put(prefixes[i].toString(), 1);
-            }
-        }
-        if (hSuffixes.isEmpty()) {
-            for (int i = 0; i < suffixes.length; i++) {
-                hSuffixes.put(suffixes[i].toString(), 1);
-            }
-        }
+//        if (hPrefixes.isEmpty()) {
+//            for (int i = 0; i < prefixes.length; i++) {
+//                hPrefixes.put(prefixes[i].toString(), 1);
+//            }
+//        }
+//        if (hSuffixes.isEmpty()) {
+//            for (int i = 0; i < suffixes.length; i++) {
+//                hSuffixes.put(suffixes[i].toString(), 1);
+//            }
+//        }
         String output = "";
         String[] word = input.split("\\+");
         String currentPrefix = "";

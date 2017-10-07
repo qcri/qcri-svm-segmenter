@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jointdialsegmenter;
+package glfdialsegmenter;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import static jointdialsegmenter.ArabicUtils.buck2morph;
-import static jointdialsegmenter.ArabicUtils.utf82buck;
+import static glfdialsegmenter.ArabicUtils.buck2morph;
+import static glfdialsegmenter.ArabicUtils.utf82buck;
 
 
 /**
